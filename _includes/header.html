@@ -21,7 +21,7 @@
 
 
       <li class="item login">
-          <a href="/login">Log in</a>
+          <a href="/login?continue={{page.url | prepend: site.baseurl | prepend: site.url}}">Log in</a>
       </li>
       <li class="item start-free">
         <a href="/signup" class="start-free-btn b green" >GET STARTED - It's FREE!</a>

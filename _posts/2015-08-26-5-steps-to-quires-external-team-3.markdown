@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "5 Steps to Quire's External Team"
+title:  "5 Steps to Quire's External Team 3"
 date:   2015-08-26 11:58:07
 categories: "task-manager1"
 
 index-intro: "You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<br/><br/> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated."
 category-intro: "Let's face it, we all need a little help now and then, event if it is from someone we hardly know. In reality, there is not just you and me. There is also them..."
 
-image: "blog_index_msm1.png"
+image: "demo_4.png"
 tags: test hello1
 author: "Crystall Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Community Manager at Quire. Marketing specialist, food lover, and aniholic."
 authorLink: "https://quire.io/u/crystal"
 
-relatedPosts: ["5 Steps to Quire's External Team", "5 Steps to Quire's External Team"]
+relatedPosts: ["5 Steps to Quire's External Team", "5 Steps to Quire's External Team 1"]
 ---
 
-![My helpful screenshot]({{ site.baseurl }}/images/blog_index_msm1.png)
+![My helpful screenshot]({{ site.baseurl }}/images/demo_5.png)
 
 Sed tortor urna, tempor eu velit at, feugiat odio. Quisque non metus ultricies quam blandit rutrum at non purus. Nullam a malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -26,7 +26,7 @@ Etiam vel tellus diam. [Hyperlink style](http://tw.yahoo.com/) lectus purus, bol
 ## Header 2 style
 Aliquam ac tellus a nisi luctus scelerisque. Class aptent taciti sociosqu ad.
 
-![My helpful screenshot]({{ site.baseurl }}/images/blog_index_msm1.png)
+![My helpful screenshot]({{ site.baseurl }}/images/demo_7.png)
 
 #### Note/header 4: Donec pretium porttitor auctor. Ut non tempus dui. Aenean nec eros est. Aenean hendrerit molestie sem, id laoreet eros cursus non.
 

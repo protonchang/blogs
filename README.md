@@ -1,2 +1,0 @@
-# blogs
-Quire Blogs
