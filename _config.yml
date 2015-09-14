@@ -1,0 +1,42 @@
+# Site settings
+name: Your awesome name
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+# url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://3a7e59a6.ngrok.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+permalink: '/p/:title.html'
+paginate: 3
+paginate_path: "/pages/page:num/"
+
+# Build settings
+# markdown: kramdown
+markdown: redcarpet
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+
+gems: [jekyll/tagging]
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+
+category_archive: {
+	path: category
+}
+
+twitter_account: 'quire_io'
+
+
+# for social meta tag
+# timezone:       Asia/Taiwan # eg. Asia/Kathmandu
+locale:         en_us
+# icon:           your site icon path # /assets/img/icon.png [best 300px X 300px]
