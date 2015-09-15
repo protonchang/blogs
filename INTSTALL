@@ -1,5 +1,0 @@
-# to use gemfile bundler
-gem install bundler
-
-# jekyll-tagging
-gem install jekyll-tagging
