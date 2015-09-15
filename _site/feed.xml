@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://d8f90b94.ngrok.io/blog/</link>
-    <atom:link href="http://d8f90b94.ngrok.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 12:34:14 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 12:34:14 +0800</lastBuildDate>
+    <link>http://quire.io//blog/</link>
+    <atom:link href="http://quire.io//blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Sep 2015 14:05:46 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 14:05:46 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -61,8 +61,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
-        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-3.html</link>
-        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-3.html</guid>
+        <link>http://quire.io//blog/p/5-steps-to-quires-external-team-3.html</link>
+        <guid isPermaLink="true">http://quire.io//blog/p/5-steps-to-quires-external-team-3.html</guid>
         
         <category>test</category>
         
@@ -124,8 +124,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
-        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-2.html</link>
-        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-2.html</guid>
+        <link>http://quire.io//blog/p/5-steps-to-quires-external-team-2.html</link>
+        <guid isPermaLink="true">http://quire.io//blog/p/5-steps-to-quires-external-team-2.html</guid>
         
         <category>test</category>
         
@@ -187,8 +187,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
-        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-1.html</link>
-        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-1.html</guid>
+        <link>http://quire.io//blog/p/5-steps-to-quires-external-team-1.html</link>
+        <guid isPermaLink="true">http://quire.io//blog/p/5-steps-to-quires-external-team-1.html</guid>
         
         <category>test</category>
         
@@ -250,8 +250,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
-        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team.html</link>
-        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team.html</guid>
+        <link>http://quire.io//blog/p/5-steps-to-quires-external-team.html</link>
+        <guid isPermaLink="true">http://quire.io//blog/p/5-steps-to-quires-external-team.html</guid>
         
         <category>test</category>
         
