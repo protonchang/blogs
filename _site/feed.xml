@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://d8f90b94.ngrok.io/blog/</link>
+    <atom:link href="http://d8f90b94.ngrok.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Sep 2015 12:34:14 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 12:34:14 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>5 Steps to Quire&#39;s External Team 3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/images/demo_5.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sed tortor urna, tempor eu velit at, feugiat odio. Quisque non metus ultricies quam blandit rutrum at non purus. Nullam a malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Etiam vel tellus diam. &lt;a href=&quot;http://tw.yahoo.com/&quot;&gt;Hyperlink style&lt;/a&gt; lectus purus, bold, italic, bold&amp;amp;italic imperdiet tortor. Suspendisse potenti. Vivamus mollis faucibus laoreet. &lt;/p&gt;
+
+&lt;h2 id=&quot;header-2-style&quot;&gt;Header 2 style&lt;/h2&gt;
+
+&lt;p&gt;Aliquam ac tellus a nisi luctus scelerisque. Class aptent taciti sociosqu ad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/demo_7.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;note/header-4:-donec-pretium-porttitor-auctor.-ut-non-tempus-dui.-aenean-nec-eros-est.-aenean-hendrerit-molestie-sem,-id-laoreet-eros-cursus-non.&quot;&gt;Note/header 4: Donec pretium porttitor auctor. Ut non tempus dui. Aenean nec eros est. Aenean hendrerit molestie sem, id laoreet eros cursus non.&lt;/h4&gt;
+
+&lt;h3 id=&quot;header-3---ordered-list-style&quot;&gt;Header 3 - Ordered list style&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;un-ordered-list-style&quot;&gt;Un-ordered list style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Big Quoting Style. Etiam malesuada augue in nibh efficitur, nec placerat risus commodo.”
+&lt;a class=&quot;fa fa-twitter&quot; href=&quot;http://tw.yahoo.com&quot; target=&quot;\_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Hi, #{name}&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
+        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-3.html</link>
+        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-3.html</guid>
+        
+        <category>test</category>
+        
+        <category>hello1</category>
+        
+        
+        <category>task-manager1</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Steps to Quire&#39;s External Team 2</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/images/demo_5.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sed tortor urna, tempor eu velit at, feugiat odio. Quisque non metus ultricies quam blandit rutrum at non purus. Nullam a malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Etiam vel tellus diam. &lt;a href=&quot;http://tw.yahoo.com/&quot;&gt;Hyperlink style&lt;/a&gt; lectus purus, bold, italic, bold&amp;amp;italic imperdiet tortor. Suspendisse potenti. Vivamus mollis faucibus laoreet. &lt;/p&gt;
+
+&lt;h2 id=&quot;header-2-style&quot;&gt;Header 2 style&lt;/h2&gt;
+
+&lt;p&gt;Aliquam ac tellus a nisi luctus scelerisque. Class aptent taciti sociosqu ad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/demo_7.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;note/header-4:-donec-pretium-porttitor-auctor.-ut-non-tempus-dui.-aenean-nec-eros-est.-aenean-hendrerit-molestie-sem,-id-laoreet-eros-cursus-non.&quot;&gt;Note/header 4: Donec pretium porttitor auctor. Ut non tempus dui. Aenean nec eros est. Aenean hendrerit molestie sem, id laoreet eros cursus non.&lt;/h4&gt;
+
+&lt;h3 id=&quot;header-3---ordered-list-style&quot;&gt;Header 3 - Ordered list style&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;un-ordered-list-style&quot;&gt;Un-ordered list style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Big Quoting Style. Etiam malesuada augue in nibh efficitur, nec placerat risus commodo.”
+&lt;a class=&quot;fa fa-twitter&quot; href=&quot;http://tw.yahoo.com&quot; target=&quot;\_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Hi, #{name}&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
+        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-2.html</link>
+        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-2.html</guid>
+        
+        <category>test</category>
+        
+        <category>hello1</category>
+        
+        
+        <category>task-manager1</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Steps to Quire&#39;s External Team 1</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/images/demo_5.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sed tortor urna, tempor eu velit at, feugiat odio. Quisque non metus ultricies quam blandit rutrum at non purus. Nullam a malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Etiam vel tellus diam. &lt;a href=&quot;http://tw.yahoo.com/&quot;&gt;Hyperlink style&lt;/a&gt; lectus purus, bold, italic, bold&amp;amp;italic imperdiet tortor. Suspendisse potenti. Vivamus mollis faucibus laoreet. &lt;/p&gt;
+
+&lt;h2 id=&quot;header-2-style&quot;&gt;Header 2 style&lt;/h2&gt;
+
+&lt;p&gt;Aliquam ac tellus a nisi luctus scelerisque. Class aptent taciti sociosqu ad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/demo_7.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;note/header-4:-donec-pretium-porttitor-auctor.-ut-non-tempus-dui.-aenean-nec-eros-est.-aenean-hendrerit-molestie-sem,-id-laoreet-eros-cursus-non.&quot;&gt;Note/header 4: Donec pretium porttitor auctor. Ut non tempus dui. Aenean nec eros est. Aenean hendrerit molestie sem, id laoreet eros cursus non.&lt;/h4&gt;
+
+&lt;h3 id=&quot;header-3---ordered-list-style&quot;&gt;Header 3 - Ordered list style&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;un-ordered-list-style&quot;&gt;Un-ordered list style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Big Quoting Style. Etiam malesuada augue in nibh efficitur, nec placerat risus commodo.”
+&lt;a class=&quot;fa fa-twitter&quot; href=&quot;http://tw.yahoo.com&quot; target=&quot;\_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Hi, #{name}&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
+        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-1.html</link>
+        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team-1.html</guid>
+        
+        <category>test</category>
+        
+        <category>hello1</category>
+        
+        
+        <category>task-manager1</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Steps to Quire&#39;s External Team</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/images/demo_5.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sed tortor urna, tempor eu velit at, feugiat odio. Quisque non metus ultricies quam blandit rutrum at non purus. Nullam a malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Etiam vel tellus diam. &lt;a href=&quot;http://tw.yahoo.com/&quot;&gt;Hyperlink style&lt;/a&gt; lectus purus, bold, italic, bold&amp;amp;italic imperdiet tortor. Suspendisse potenti. Vivamus mollis faucibus laoreet. &lt;/p&gt;
+
+&lt;h2 id=&quot;header-2-style&quot;&gt;Header 2 style&lt;/h2&gt;
+
+&lt;p&gt;Aliquam ac tellus a nisi luctus scelerisque. Class aptent taciti sociosqu ad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/demo_7.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;note/header-4:-donec-pretium-porttitor-auctor.-ut-non-tempus-dui.-aenean-nec-eros-est.-aenean-hendrerit-molestie-sem,-id-laoreet-eros-cursus-non.&quot;&gt;Note/header 4: Donec pretium porttitor auctor. Ut non tempus dui. Aenean nec eros est. Aenean hendrerit molestie sem, id laoreet eros cursus non.&lt;/h4&gt;
+
+&lt;h3 id=&quot;header-3---ordered-list-style&quot;&gt;Header 3 - Ordered list style&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;un-ordered-list-style&quot;&gt;Un-ordered list style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Donec tincidunt mauris&lt;/li&gt;
+&lt;li&gt;Sed congue lorem&lt;/li&gt;
+&lt;li&gt;Nullam posuere nunc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Big Quoting Style. Etiam malesuada augue in nibh efficitur, nec placerat risus commodo.”
+&lt;a class=&quot;fa fa-twitter&quot; href=&quot;http://tw.yahoo.com&quot; target=&quot;\_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Body content: Cras consequat mollis pretium. Phasellus tempus tellus diam, vel tincidunt nunc fringilla et. Nulla turpis urna, laoreet nec lacus ultrices, lacinia varius nunc. Nunc ullamcorper pretium faucibus.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Hi, #{name}&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 19:58:07 +0800</pubDate>
+        <link>http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team.html</link>
+        <guid isPermaLink="true">http://d8f90b94.ngrok.io/blog/p/5-steps-to-quires-external-team.html</guid>
+        
+        <category>test</category>
+        
+        <category>hello1</category>
+        
+        
+        <category>task-manager1</category>
+        
+      </item>
+    
+  </channel>
+</rss>
