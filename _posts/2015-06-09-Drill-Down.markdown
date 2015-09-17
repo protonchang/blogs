@@ -5,7 +5,7 @@ date:   2015-06-09 11:58:07
 categories: "features"
 
 index-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen. This is when the “drill down” feature comes in handy."
-category-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen..."
+category-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and..."
 
 image: "2015-06-09-Drill-Down/0.jpg"
 tags: taskmanagement workstyle productivity

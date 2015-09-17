@@ -5,7 +5,7 @@ date:   2015-06-03 11:58:07
 categories: "features"
 
 index-intro: "You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly."
-category-intro: "You may have heard of Markdown. If you have, it is a good thing..."
+category-intro: "You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly..."
 
 image: "2015-06-03-Markdown/0.jpg"
 tags: taskmanagement workstyle productivity

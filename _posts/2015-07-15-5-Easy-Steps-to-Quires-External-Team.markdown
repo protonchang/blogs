@@ -74,7 +74,7 @@ After you clicked on Create, you will return to your project.
 {% endmarkdown %}
 </div>
 
-### Note: When you assign a task to an external team, the assignee will always be the team even when it has only one external member.
+#### Note: When you assign a task to an external team, the assignee will always be the team even when it has only one external member.
 
 Now, you are just one step away!
 

@@ -5,7 +5,7 @@ date:   2015-08-27 11:58:07
 categories: "features"
 
 index-intro: "We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team, you can choose different roles for your members. The four roles are Admin, Normal, Limited, and Guest, each with their own level of permissions."
-category-intro: "We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team, you can choose different roles for your members..."
+category-intro: "We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team..."
 
 image: "2015-08-27-Roles-and-Permissions/0.png"
 tags: taskmanagement membership collaboration

@@ -4,8 +4,8 @@ title:  "Template for Your Projects and Tasks"
 date:   2015-06-16 11:58:07
 categories: "features"
 
-index-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen."
-category-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen..."
+index-intro: "It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On Quire, we let you do the same with projects and tasks."
+category-intro: "It is common for people to create a template of an email message they will often use, so they will not need to write up everything again..."
 
 image: "2015-06-16-Template/0.jpg"
 tags: taskmanagement workstyle productivity
@@ -22,11 +22,11 @@ imgDir: "2015-06-16-Template"
 
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.jpg)
 
-It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On Quire, we let you do the same with projects and tasks.
+It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On [Quire](https://quire.io/), we let you do the same with projects and tasks.
 
 ## Here is how you will do it:
 
-**To duplicate a project**
+### **To duplicate a project**
 
 Click on the project title or a task.
 
@@ -80,7 +80,7 @@ And this is what your new project looks like:
 
 ---
 
-**To duplicate a task**
+### **To duplicate a task**
 
 Select a task.
 

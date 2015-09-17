@@ -5,7 +5,7 @@ date:   2015-03-19 11:58:07
 categories: "features"
 
 index-intro: "Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month, statistics that needs to be updated every second day, or a meeting one must attend fortnightly."
-category-intro: "Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern..."
+category-intro: "Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month..."
 
 image: "2015-03-19-Recurring-Tasks/0.jpg"
 tags: taskmanagement workstyle features

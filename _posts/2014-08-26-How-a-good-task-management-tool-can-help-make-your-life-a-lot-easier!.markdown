@@ -5,7 +5,7 @@ date:    2014-08-26 11:58:07
 categories: "lifestyle"
 
 index-intro: "In a modern world like this, with the launch of the internet and what comes with it the abundant flow of information makes today’s business world more dynamic than ever. If you are still using sheets of paper or static documents to manage your tasks, you’re out. It’s about time you find yourself and your team a task management tool that would help you increase your team’s productivity, efficiency and performance."
-category-intro: "In a modern world like this, with the launch of the internet and what comes with it the abundant flow of information makes today’s business world more dynamic than ever..."
+category-intro: "In a modern world like this, with the launch of the internet and what comes with it the abundant flow of information..."
 
 image: "2014-08-26-Good-Task-Management-Tool/0.jpg"
 tags: taskmanagement productivity

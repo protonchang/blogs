@@ -6,8 +6,8 @@
 </description>
     <link>http://quire.io/blog/</link>
     <atom:link href="http://quire.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Sep 2015 11:45:03 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2015 11:45:03 +0800</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2015 14:05:41 +0800</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2015 14:05:41 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -218,7 +218,7 @@
 
 &lt;p&gt;One way to do this and not be distracted by the remaining tasks is via the “&lt;strong&gt;filter&lt;/strong&gt;” function. Simply decide how you would like to see your tasks, and follow the steps.&lt;/p&gt;
 
-&lt;h2 id=&quot;first-click-on-the-filter-icon…&quot;&gt;&lt;strong&gt;First, click on the filter icon…&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;first-click-on-the-filter-icon…&quot;&gt;First, click on the filter icon…&lt;/h2&gt;
 
 &lt;p&gt;By clicking on the filter icon below the project’s name, you will see a menu bar.&lt;/p&gt;
 
@@ -254,7 +254,7 @@
 
 &lt;/div&gt;
 
-&lt;h3 id=&quot;note-you-can-hide-the-menu-bar-by-toggling-the-filter-icon-the-green-dot-indicates-you-are-in-a-filtered-mode&quot;&gt;Note: You can hide the menu bar by toggling the filter icon. The green dot indicates you are in a filtered mode.&lt;/h3&gt;
+&lt;h4 id=&quot;note-you-can-hide-the-menu-bar-by-toggling-the-filter-icon-the-green-dot-indicates-you-are-in-a-filtered-mode&quot;&gt;Note: You can hide the menu bar by toggling the filter icon. The green dot indicates you are in a filtered mode.&lt;/h4&gt;
 
 &lt;div style=&quot;width: 448px; height: 39px; margin: 0 auto;&quot;&gt;
 
@@ -266,9 +266,9 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;when-you-group-by…&quot;&gt;&lt;strong&gt;When you group by…&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;when-you-group-by…&quot;&gt;When you group by…&lt;/h2&gt;
 
-&lt;h2 id=&quot;date&quot;&gt;Date&lt;/h2&gt;
+&lt;h3 id=&quot;date&quot;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;To see all your tasks ordered by due dates, choose group by “Date.”&lt;/p&gt;
 
@@ -286,11 +286,11 @@
 
 &lt;/div&gt;
 
-&lt;h3 id=&quot;note-we-group-tasks-into-4-categories-overdue-today-due-in-5-days-and-later&quot;&gt;Note: We group tasks into 4 categories: Overdue, Today, Due in 5 days and Later.&lt;/h3&gt;
+&lt;h4 id=&quot;note-we-group-tasks-into-4-categories-overdue-today-due-in-5-days-and-later&quot;&gt;Note: We group tasks into 4 categories: Overdue, Today, Due in 5 days and Later.&lt;/h4&gt;
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;assignee&quot;&gt;Assignee&lt;/h2&gt;
+&lt;h3 id=&quot;assignee&quot;&gt;&lt;strong&gt;Assignee&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;To see what tasks each assignee is or was responsible for, choose “Assignee” instead. This is what you will see:&lt;/p&gt;
 
@@ -300,7 +300,7 @@
 
 &lt;/div&gt;
 
-&lt;h3 id=&quot;note-you-can-click-on-“clear”-in-the-menu-bar-whenever-you-want-to-return-to-the-default-status-which-is-“active-tasks”-without-any-filtering&quot;&gt;Note: You can click on “Clear” in the menu bar whenever you want to return to the default status, which is “Active Tasks” without any filtering.&lt;/h3&gt;
+&lt;h4 id=&quot;note-you-can-click-on-“clear”-in-the-menu-bar-whenever-you-want-to-return-to-the-default-status-which-is-“active-tasks”-without-any-filtering&quot;&gt;Note: You can click on “Clear” in the menu bar whenever you want to return to the default status, which is “Active Tasks” without any filtering.&lt;/h4&gt;
 
 &lt;div style=&quot;width: 513px; height: 40px; margin: 0 auto;&quot;&gt;
 
@@ -310,9 +310,9 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;next-when-you-filter-by…&quot;&gt;&lt;strong&gt;Next, when you filter by…&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;next-when-you-filter-by…&quot;&gt;Next, when you filter by…&lt;/h2&gt;
 
-&lt;h2 id=&quot;tag&quot;&gt;Tag&lt;/h2&gt;
+&lt;h3 id=&quot;tag&quot;&gt;&lt;strong&gt;Tag&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;If you filter by, for example, Appetizer, from “Tags” like this:&lt;/p&gt;
 
@@ -332,7 +332,7 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;assigned-to&quot;&gt;Assigned to&lt;/h2&gt;
+&lt;h3 id=&quot;assigned-to&quot;&gt;&lt;strong&gt;Assigned to&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;If you choose, for example, Crystal, from “Assigned to” like this:&lt;/p&gt;
 
@@ -368,7 +368,7 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;assigned-by&quot;&gt;Assigned by&lt;/h2&gt;
+&lt;h3 id=&quot;assigned-by&quot;&gt;&lt;strong&gt;Assigned by&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;If you choose, for example, Crystal, from “Assigned by” like this:&lt;/p&gt;
 
@@ -388,7 +388,7 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;created-by&quot;&gt;Created by&lt;/h2&gt;
+&lt;h3 id=&quot;created-by&quot;&gt;&lt;strong&gt;Created by&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;If you choose, for example, Crystal, again, from “Created by.”&lt;/p&gt;
 
@@ -408,7 +408,7 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&quot;followed-by-me&quot;&gt;Followed by me&lt;/h2&gt;
+&lt;h3 id=&quot;followed-by-me&quot;&gt;&lt;strong&gt;Followed by me&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;If you want to see the tasks you are following, choose “Followed by me.”&lt;/p&gt;
 
@@ -426,7 +426,7 @@
 
 &lt;/div&gt;
 
-&lt;h3 id=&quot;note-you-will-automatically-follow-tasks-created-by-you&quot;&gt;Note: You will automatically follow tasks created by you.&lt;/h3&gt;
+&lt;h4 id=&quot;note-you-will-automatically-follow-tasks-created-by-you&quot;&gt;Note: You will automatically follow tasks created by you.&lt;/h4&gt;
 
 &lt;hr&gt;
 
@@ -505,7 +505,7 @@
 
 &lt;/div&gt;
 
-&lt;h3 id=&quot;note-when-you-assign-a-task-to-an-external-team-the-assignee-will-always-be-the-team-even-when-it-has-only-one-external-member&quot;&gt;Note: When you assign a task to an external team, the assignee will always be the team even when it has only one external member.&lt;/h3&gt;
+&lt;h4 id=&quot;note-when-you-assign-a-task-to-an-external-team-the-assignee-will-always-be-the-team-even-when-it-has-only-one-external-member&quot;&gt;Note: When you assign a task to an external team, the assignee will always be the team even when it has only one external member.&lt;/h4&gt;
 
 &lt;p&gt;Now, you are just one step away!&lt;/p&gt;
 
@@ -629,7 +629,7 @@
 
 &lt;p&gt;But not to worry, &lt;a href=&quot;https://quire.io/&quot;&gt;Quire&lt;/a&gt; has got it covered. With the integration with GitHub, it is easier to stay on top of your team members’ code changes and to refer and trace back between tasks and codes.&lt;/p&gt;
 
-&lt;h1 id=&quot;how-do-i-integrate-with-github&quot;&gt;How do I integrate with GitHub?&lt;/h1&gt;
+&lt;h2 id=&quot;how-do-i-integrate-with-github&quot;&gt;&lt;strong&gt;How do I integrate with GitHub?&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;1. Go to Project options (that looks like a wheel) in the main panel&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -673,9 +673,9 @@
 
 &lt;p&gt;Once you are back to your project, the integration is done!&lt;/p&gt;
 
-&lt;h1 id=&quot;what-can-i-do-with-github-integration&quot;&gt;What can I do with GitHub integration?&lt;/h1&gt;
+&lt;h2 id=&quot;what-can-i-do-with-github-integration&quot;&gt;&lt;strong&gt;What can I do with GitHub integration?&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&quot;you-can-reference-and-complete-a-task-or-more-via-commit-message&quot;&gt;You can reference and complete a task or more via commit message.&lt;/h2&gt;
+&lt;h3 id=&quot;you-can-reference-and-complete-a-task-or-more-via-commit-message&quot;&gt;You can reference and complete a task or more via commit message.&lt;/h3&gt;
 
 &lt;p&gt;To reference a task:&lt;/p&gt;
 
@@ -837,11 +837,11 @@ Resolve/Resolves/Resolved
         <title>Template for Your Projects and Tasks</title>
         <description>&lt;p&gt;&lt;img src=&quot;/blog/images/2015-06-16-Template/0.jpg&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On Quire, we let you do the same with projects and tasks.&lt;/p&gt;
+&lt;p&gt;It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On &lt;a href=&quot;https://quire.io/&quot;&gt;Quire&lt;/a&gt;, we let you do the same with projects and tasks.&lt;/p&gt;
 
 &lt;h2 id=&quot;here-is-how-you-will-do-it&quot;&gt;Here is how you will do it:&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;To duplicate a project&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;to-duplicate-a-project&quot;&gt;&lt;strong&gt;To duplicate a project&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Click on the project title or a task.&lt;/p&gt;
 
@@ -895,7 +895,7 @@ Resolve/Resolves/Resolved
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;strong&gt;To duplicate a task&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;to-duplicate-a-task&quot;&gt;&lt;strong&gt;To duplicate a task&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Select a task.&lt;/p&gt;
 
@@ -974,7 +974,7 @@ Resolve/Resolves/Resolved
 
 &lt;p&gt;Some of you may not know Fluid. It is a simple tool that can make a website or a web application like Gmail, Facebook, and of course Quire, into a desktop application on your Mac. This way, it will save you the trouble of running each of these web apps in a separate tab in your browser.&lt;/p&gt;
 
-&lt;h2 id=&quot;here-is-how-you-will-do-it&quot;&gt;Here is how you will do it:&lt;/h2&gt;
+&lt;h3 id=&quot;here-is-how-you-will-do-it&quot;&gt;Here is how you will do it:&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;First, go to the website and click on Free Download.&lt;/em&gt;&lt;/p&gt;
 

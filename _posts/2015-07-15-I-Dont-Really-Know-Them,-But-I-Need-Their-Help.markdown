@@ -5,7 +5,7 @@ date:   2015-07-15 11:58:07
 categories: "productivity"
 
 index-intro: "Let’s face it, we all need a little help now and then, even if it is from someone we hardly know. In reality, there is not just you and me. There is also them. Yes, we can survive on our own, but there will definitely be times when we need other people’s help, especially with something we cannot handle, whether it is at work or at home."
-category-intro: "Let’s face it, we all need a little help now and then, even if it is from someone we hardly know..."
+category-intro: "Let’s face it, we all need a little help now and then, even if it is from someone we hardly know. In reality, there is not just you and me..."
 
 image: "2015-07-15-External-Team-Overview/0.png"
 tags: taskmanagement workstyle outsource

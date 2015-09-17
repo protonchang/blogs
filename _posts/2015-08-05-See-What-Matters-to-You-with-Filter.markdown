@@ -26,7 +26,7 @@ Sometimes, when you are working on a project, you only want to focus on tasks th
 
 One way to do this and not be distracted by the remaining tasks is via the “**filter**” function. Simply decide how you would like to see your tasks, and follow the steps.
 
-## **First, click on the filter icon…**
+## First, click on the filter icon…
 
 By clicking on the filter icon below the project’s name, you will see a menu bar.
 
@@ -62,7 +62,7 @@ Or if you want to see all of your tasks, both active and completed, choose “Al
 {% endmarkdown %}
 </div>
 
-### Note: You can hide the menu bar by toggling the filter icon. The green dot indicates you are in a filtered mode.
+#### Note: You can hide the menu bar by toggling the filter icon. The green dot indicates you are in a filtered mode.
 
 <div style="width: 448px; height: 39px; margin: 0 auto;">
 {% markdown %}
@@ -74,9 +74,9 @@ Now, let us group and filter the tasks further.
 
 ---
 
-## **When you group by…**
+## When you group by…
 
-## Date
+### **Date**
 
 To see all your tasks ordered by due dates, choose group by “Date.”
 
@@ -94,11 +94,11 @@ This is what you will see:
 {% endmarkdown %}
 </div>
 
-### Note: We group tasks into 4 categories: Overdue, Today, Due in 5 days and Later.
+#### Note: We group tasks into 4 categories: Overdue, Today, Due in 5 days and Later.
 
 ---
 
-## Assignee
+### **Assignee**
 
 To see what tasks each assignee is or was responsible for, choose “Assignee” instead. This is what you will see:
 
@@ -108,7 +108,7 @@ To see what tasks each assignee is or was responsible for, choose “Assignee”
 {% endmarkdown %}
 </div>
 
-### Note: You can click on “Clear” in the menu bar whenever you want to return to the default status, which is “Active Tasks” without any filtering.
+#### Note: You can click on “Clear” in the menu bar whenever you want to return to the default status, which is “Active Tasks” without any filtering.
 
 <div style="width: 513px; height: 40px; margin: 0 auto;">
 {% markdown %}
@@ -118,9 +118,9 @@ To see what tasks each assignee is or was responsible for, choose “Assignee”
 
 ---
 
-## **Next, when you filter by…**
+## Next, when you filter by…
 
-## Tag
+### **Tag**
 
 If you filter by, for example, Appetizer, from “Tags” like this:
 
@@ -140,7 +140,7 @@ You will see all the tasks that are labeled with Appetizer under whoever is resp
 
 ---
 
-## Assigned to
+### **Assigned to**
 
 If you choose, for example, Crystal, from “Assigned to” like this:
 
@@ -176,7 +176,7 @@ The task will be assigned to Crystal directly.
 
 ---
 
-## Assigned by
+### **Assigned by**
 
 If you choose, for example, Crystal, from “Assigned by” like this:
 
@@ -196,7 +196,7 @@ You will see all the tasks assigned by Crystal under whoever is responsible.
 
 ---
 
-## Created by
+### **Created by**
 
 If you choose, for example, Crystal, again, from “Created by.”
 
@@ -216,7 +216,7 @@ You will see all the tasks that have been created by Crystal under whoever is re
 
 ---
 
-## Followed by me
+### **Followed by me**
 
 If you want to see the tasks you are following, choose “Followed by me.”
 
@@ -234,7 +234,7 @@ You will see all the tasks you are following under whoever is responsible.
 {% endmarkdown %}
 </div>
 
-### Note: You will automatically follow tasks created by you.
+#### Note: You will automatically follow tasks created by you.
 
 ---
 

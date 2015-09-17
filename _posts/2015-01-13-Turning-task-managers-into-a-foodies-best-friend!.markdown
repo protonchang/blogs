@@ -5,7 +5,7 @@ date:   2015-01-13 11:58:07
 categories: "lifestyle"
 
 index-intro: "When most people come across a “task management tool” or “task manager”, they instantly build up this vivid framework - task managers are strictly for work only, and they don’t think much else of it. Admittedly, I was also one of those people until 2 weeks ago..."
-category-intro: "When most people come across a “task management tool” or “task manager”, they instantly build up this vivid framework - task managers are strictly for work only, and they don’t think much else of it..."
+category-intro: "When most people come across a “task management tool” or “task manager”, they instantly build up this vivid framework..."
 
 image: "2015-01-13-Restaurants/0.jpg"
 tags: taskmanagement lifestyle tips
