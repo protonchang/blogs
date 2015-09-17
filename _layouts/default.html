@@ -83,7 +83,7 @@
         </div>
         <div id="side-menu-toggle"></div>
         <div id="side-menu">
-          <a class="{% if page.category == null and page.categories == null %}active{% endif %}" href="{{ site.baseurl }}">ALL</a>
+          <a class="{% if page.category == null and page.categories == null %}active{% endif %}" href="{{ site.baseurl | append: '/'}}">ALL</a>
           {% for c in site.categories %}
             {% assign cName = c | first | downcase %} 
             {% assign c1 = page.category | downcase %} {%comment%} for category page {%endcomment%}

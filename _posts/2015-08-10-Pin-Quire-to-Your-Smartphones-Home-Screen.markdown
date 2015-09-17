@@ -4,7 +4,7 @@ title:  "Pin Quire to Your Smartphone’s Home Screen"
 date:   2015-08-10 11:58:07
 categories: "tips"
 
-index-intro: "A native mobile app is what many users have been asking us about and something we are busy working on. [Quire](https://quire.io/) may only be desktop based, but it works great on smartphone or tablet’s browser as well. Here is a way to quickly access Quire whenever and wherever you want: add it to your iOS and Android devices’ home screen. In this blog post, we did it on an iPhone 6 and a LG smartphone, and it was incredibly easy!"
+index-intro: "A native mobile app is what many users have been asking us about and something we are busy working on. Quire may only be desktop based, but it works great on smartphone or tablet’s browser as well. Here is a way to quickly access Quire whenever and wherever you want: add it to your iOS and Android devices’ home screen."
 category-intro: "A native mobile app is what many users have been asking us about and something we are busy working on..."
 
 image: "2015-08-10-Pin-Smartphone-Home-Screen/0.jpg"

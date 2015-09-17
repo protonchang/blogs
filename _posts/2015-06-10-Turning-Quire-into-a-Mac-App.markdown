@@ -4,8 +4,8 @@ title:  "Turning Quire into a Mac App"
 date:   2015-06-10 11:58:07
 categories: "tips"
 
-index-intro: "Sometimes, users would like to focus on only one task and its subtasks on [Quire](https://quire.io/), especially when they have a long task list and want to hide all the other tasks from the screen. This is when the “drill down” feature comes in handy."
-category-intro: "Sometimes, users would like to focus on only one task and its subtasks on [Quire](https://quire.io/), especially when they have a long task list and want to hide all the other tasks from the screen..."
+index-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen. This is when the “drill down” feature comes in handy."
+category-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen..."
 
 image: "2015-06-10-Mac-App/0.png"
 tags: workstyle tips mac

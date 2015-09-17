@@ -4,7 +4,7 @@ title:  "5 Easy Steps to Quire’s External Team"
 date:   2015-07-15 11:58:09
 categories: "features"
 
-index-intro: "Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project: You can now easily (and safely) outsource the task with [Quire](https://quire.io/)’s new feature “**external team**.”"
+index-intro: "Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project: You can now easily (and safely) outsource the task with Quire’s new feature “external team.”"
 category-intro: "Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project..."
 
 image: "2015-07-15-External-Team-Guide/0.jpg"
