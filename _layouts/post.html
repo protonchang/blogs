@@ -35,7 +35,7 @@ layout: default
         {% for r in page.relatedPosts %}
           {% for p in site.posts %}
             {% if r == p.title %}
-              <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}">
+              <a href="{{ p.url | prepend: site.baseurl}}">
                 <div class="img" style="background-image: url('{{ p.image | prepend: "/images/" | prepend: site.baseurl }}')"></div>
                 <h5>
                   POSTED BY {{ p.author }} · {{ p.date | date: "%b %-d, %Y" }}
