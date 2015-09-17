@@ -26,7 +26,7 @@ A native mobile app is what many users have been asking us about and something w
 
 Here is a way to quickly access Quire whenever and wherever you want: add it to your iOS and Android devices’ home screen. In this blog post, we did it on an iPhone 6 and a LG smartphone, and it was incredibly easy!
 
-## **iPhone**
+## iPhone
 
 1. Launch the Safari browser and navigate to Quire website.
 
@@ -70,7 +70,7 @@ Quire icon will appear on your home screen like this:
 
 ---
 
-## **Android**
+## Android
 
 1. Launch the Chrome browser and navigate to Quire website.
 

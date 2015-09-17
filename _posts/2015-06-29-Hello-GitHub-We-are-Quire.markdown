@@ -26,7 +26,7 @@ For some of you, it is difficult enough to keep everyone up to date with the tas
 
 But not to worry, [Quire](https://quire.io/) has got it covered. With the integration with GitHub, it is easier to stay on top of your team members’ code changes and to refer and trace back between tasks and codes.
 
-## **How do I integrate with GitHub?**
+## How do I integrate with GitHub?
 
 ***1. Go to Project options (that looks like a wheel) in the main panel***
 
@@ -70,7 +70,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 Once you are back to your project, the integration is done!
 
-## **What can I do with GitHub integration?**
+## What can I do with GitHub integration?
 
 ### You can reference and complete a task or more via commit message.
 

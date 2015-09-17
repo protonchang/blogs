@@ -43,7 +43,7 @@ Want to add emphasis? You can either use `*` (*wow!*) for italic, or two asteris
 
 To create a list, add an asterisk and a space before your items. It is just like what you would do if you were using Word or Page, but easier and quicker.
 
-## **Wait, there’s more!**
+### **Wait, there’s more!**
 
 Sometimes, words just are not enough. Thankfully, you can use emoji icons in the description and comment of a task. If you type a colon, a list of emoji will automatically show up:
 
@@ -71,9 +71,9 @@ Now that you have seen what our Markdown can do, see the cheat sheet below and g
 
 ---
 
-# <div style="text-align:center;">**Markdown Cheat Sheet**<div>
+## <div style="text-align:center;">**Markdown Cheat Sheet**<div>
 
-## **HEADERS**
+### **HEADERS**
 
 Quire’s Markdown supports two styles of headers, Setext and Atx.
 
@@ -97,7 +97,7 @@ Atx-style headers use 1–6 number signs at the start of the line, followed by 1
 ###### H6
 ```
 
-## **LINE BREAKS**
+### **LINE BREAKS**
 
 To generate a new line, you press SHIFT+Enter.
 
@@ -112,7 +112,7 @@ You can produce a horizontal rule by typing 3 or more hyphens, asterisks or unde
  — — — — — — — — 
  ```
 
-## **EMPHASIS**
+### **EMPHASIS**
 
  You use asterisks to indicate emphasis.
 
@@ -128,7 +128,7 @@ For bold, you use 2 asterisks. For example:
 This is **very important**.
 ```
 
-## **STRIKETHROUGHS**
+### **STRIKETHROUGHS**
 
 You can use two tildes at the start and the end of the text:
 
@@ -136,7 +136,7 @@ You can use two tildes at the start and the end of the text:
 ~~Delete text.~~
 ```
 
-## **LISTS**
+### **LISTS**
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
@@ -181,7 +181,7 @@ Each item may consist of multiple paragraphs. To add a paragraph in a list item,
 3. step3
 ```
 
-## **LINKS**
+### **LINKS**
 
 You use square brackets to delimit the text and round brackets for the link. For example,
 
@@ -214,7 +214,7 @@ The third is an automated Link. You can simply write down a link, Markdown will 
 Google: http://google.com/
 ```
 
-## **IMAGES**
+### **IMAGES**
 
 Markdown supports two styles of images: inline and reference.
 
@@ -236,7 +236,7 @@ Reference image syntax looks like this:
 
 In this style of writing, “id” is the name of a defined image reference, which is defined in the same way as link references.
 
-## **BLOCKQUOTES**
+### **BLOCKQUOTES**
 
 Blockquotes are indicated using “>” angle brackets.
 
@@ -252,7 +252,7 @@ Also, blockquotes can rest in blockquotes by adding levels of angle brackets:
 > I’m back at the first level.
 ```
 
-## **CODE**
+### **CODE**
 
 To indicate a span of code, wrap it with “`” backtick quotes. For example,
 
@@ -266,7 +266,7 @@ To include backtick characters in a code, you use multiple backtick quotes and s
 Use two asterisks `` `**` `` for bold.
 ```
 
-## **CODE BLOCK**
+### **CODE BLOCK**
 
 You can generate a code block by indenting 4 spaces or 1 tab:
 
@@ -286,7 +286,7 @@ Or type 3 backticks in the beginning and the end of the text like this:
 
 Remember to break the line before and after the backticks.
 
-## **SYNTAX HIGHLIGHTING**
+### **SYNTAX HIGHLIGHTING**
 
 We take code block one step further by adding Syntax Highlighting.
 
@@ -312,7 +312,7 @@ Or if you choose Javascript as your content language:
 
 You will see that it displays text in different colors according to the content language you chose, making it easier for programmers and developers to read.
 
-## **YOUTUBE VIDEOS**
+### **YOUTUBE VIDEOS**
 
 Youtube videos can be added if you add an image with a link to the video:
 
