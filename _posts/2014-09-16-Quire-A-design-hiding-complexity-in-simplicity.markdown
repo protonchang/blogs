@@ -11,7 +11,7 @@ image: "2014-09-16-Complexity-in-Simplicity/0.jpg"
 tags: taskmanagement workstyle productivity
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
-authorDesc: "Quire — A design hiding complexity in simplicity"
+authorDesc: "Marketing specialist, gourmet lover and, fashionholic."
 authorLink: "https://medium.com/@itsnancy"
 
 relatedPosts: ["Why We Abandoned the To-Do List", "WOW moments of Quire!"]

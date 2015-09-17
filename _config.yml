@@ -1,14 +1,11 @@
 # Site settings
-name: Your awesome name
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+name: "Quire & You"
+title: "Quire & You"
+email: feedback@quire.io
+description: "A collaborative task management tool for breaking down goals in hierarchical lists."
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 # url: "http://localhost:4000" # the base hostname & protocol for your site
-url: "http://quire.io" # the base hostname & protocol for your site
+url: "https://quire.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -28,3 +25,4 @@ category_archive: {
 
 twitter_account: 'quire_io'
 locale:         en_us
+icon: "/s/img/favicon.ico"
