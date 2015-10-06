@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Recurring Tasks", "Drill Down"]
 
-imgDir: "2015-10-02-Quire-101"
+imgDir: "2015-10-05-Quire-101"
 ---
 
 
