@@ -30,9 +30,9 @@ A task is the basic unit of action in Quire.
 
 ### Create a Task
 
-Click on <img style="width: 16px; height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-task.png" /> to create a task.
+Click on <img style="width: 16px; max-height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-task.png" /> to create a task.
 
-<div style="width: 760px; height: 146px; margin: 0 auto;">
+<div style="max-width: 760px; max-height: 146px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -40,9 +40,9 @@ Click on <img style="width: 16px; height: 16px; display: inline;" src="{{ site.b
 
 ### Create a Subtask
 
-Click on <img style="width: 20px; height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-subtask.png" /> to create a subtask.
+Click on <img style="width: 20px; max-height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-subtask.png" /> to create a subtask.
 
-<div style="width: 760px; height: 151px; margin: 0 auto;">
+<div style="max-width: 760px; max-height: 151px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -52,7 +52,7 @@ Click on <img style="width: 20px; height: 16px; display: inline;" src="{{ site.b
 
 For each task, you can add a due date, assignee, tags, and so on. You can also drag and drop any task or subtask whenever its priority or relationship changes.
 
-<div style="width: 759px; height: 461px; margin: 0 auto;">
+<div style="max-width: 759px; max-height: 461px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -60,7 +60,7 @@ For each task, you can add a due date, assignee, tags, and so on. You can also d
 
 When you click on a task, you will see its detail on the right. This is where you can do more, such as adding descriptions and comments and attaching files, to the task.
 
-<div style="width: 522px; height: 505px; margin: 0 auto;">
+<div style="max-width: 522px; max-height: 505px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -70,7 +70,7 @@ There are easier ways for you to navigate and manage your tasks: keyboard shortc
 
 Click on Keyboard Shortcuts under the Help icon in the upper-right of your screen, or simply press F1.
 
-<div style="width: 268px; height: 185px; margin: 0 auto;">
+<div style="max-width: 268px; max-height: 185px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -80,9 +80,9 @@ Click on Keyboard Shortcuts under the Help icon in the upper-right of your scree
 
 A project is a hierarchical list of tasks.
 
-You can switch from one project to another in the sidebar, after you click on <img style="width: 16px; height: 14px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/hamburger.png" /> on the upper-left of your screen.
+You can switch from one project to another in the sidebar, after you click on <img style="width: 16px; max-height: 14px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/hamburger.png" /> on the upper-left of your screen.
 
-<div style="width: 288px; height: 267px; margin: 0 auto;">
+<div style="max-width: 288px; max-height: 267px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -90,7 +90,7 @@ You can switch from one project to another in the sidebar, after you click on <i
 
 In the sidebar, you will not only see all of your projects in the tab Projects, but also all of your tasks, tasks that have been assigned to you, in the tab My Tasks.
 
-<div style="width: 288px; height: 346px; margin: 0 auto;">
+<div style="max-width: 288px; max-height: 346px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -98,7 +98,7 @@ In the sidebar, you will not only see all of your projects in the tab Projects, 
 
 #### Tip: You can choose to always show the sidebar by hovering over My Tasks and clicking on the Pin button.
 
-<div style="width: 339px; height: 118px; margin: 0 auto;">
+<div style="max-width: 339px; max-height: 118px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -108,7 +108,7 @@ In the sidebar, you will not only see all of your projects in the tab Projects, 
 
 To create a project, click on “+ Add Project” in the tab Projects in the sidebar.
 
-<div style="width: 255px; height: 166px; margin: 0 auto;">
+<div style="max-width: 255px; max-height: 166px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}

@@ -30,7 +30,7 @@ Simply follow 4 steps and you’ll have your tasks synced with your Google Calen
 
 *Click on the Options icon that looks like a wheel.*
 
-<div style="width: 700px; height: 441px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 441px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ Simply follow 4 steps and you’ll have your tasks synced with your Google Calen
 
 *Choose Sync to calendar.*
 
-<div style="width: 700px; height: 440px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 440px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -46,7 +46,7 @@ Simply follow 4 steps and you’ll have your tasks synced with your Google Calen
 
 *Follow the 4 steps. You can uncheck the box to see all tasks.*
 
-<div style="width: 700px; height: 444px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 444px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -56,7 +56,7 @@ Simply follow 4 steps and you’ll have your tasks synced with your Google Calen
 
 *Syncs automatically in a day if not right away:*
 
-<div style="width: 545px; height: 424px; margin: 0 auto;">
+<div style="max-width: 545px; max-height: 424px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}

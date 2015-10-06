@@ -30,7 +30,7 @@ It is common for people to create a template of an email message they will often
 
 Click on the project title or a task.
 
-<div style="width: 600px; height: 490px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 490px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ Click on the project title or a task.
 
 Click on the “Options” icon that looks like a wheel in the main panel (on the screen’s central or main side).
 
-<div style="width: 600px; height: 489px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 489px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -46,7 +46,7 @@ Click on the “Options” icon that looks like a wheel in the main panel (on th
 
 Select “Duplicate project”.
 
-<div style="width: 600px; height: 475px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 475px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -54,7 +54,7 @@ Select “Duplicate project”.
 
 Choose a name for this project and an organization it belongs to. You can also choose if you want to share it with the same people from the organization.
 
-<div style="width: 600px; height: 475px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 475px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -64,7 +64,7 @@ As you will see below, everything, including the descriptions, assignees, tags, 
 
 This is what your template project looks like:
 
-<div style="width: 600px; height: 296px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 296px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -72,7 +72,7 @@ This is what your template project looks like:
 
 And this is what your new project looks like:
 
-<div style="width: 600px; height: 296px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 296px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -84,7 +84,7 @@ And this is what your new project looks like:
 
 Select a task.
 
-<div style="width: 600px; height: 496px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 496px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -92,7 +92,7 @@ Select a task.
 
 Click on the “Options” icon that looks like 3 vertical dots in the detail panel (on the screen’s right side).
 
-<div style="width: 570px; height: 486px; margin: 0 auto;">
+<div style="max-width: 570px; max-height: 486px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -100,7 +100,7 @@ Click on the “Options” icon that looks like 3 vertical dots in the detail pa
 
 Select “Duplicate this task”.
 
-<div style="width: 560px; height: 486px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 486px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}
@@ -108,7 +108,7 @@ Select “Duplicate this task”.
 
 Choose a name for the copy of the task.
 
-<div style="width: 547px; height: 391px; margin: 0 auto;">
+<div style="max-width: 547px; max-height: 391px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
 {% endmarkdown %}
@@ -118,7 +118,7 @@ As you will see below, everything, including the descriptions, assignees, tags, 
 
 This is what your template task looks like:
 
-<div style="width: 700px; height: 361px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 361px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
 {% endmarkdown %}
@@ -126,7 +126,7 @@ This is what your template task looks like:
 
 And this is what your new task looks like:
 
-<div style="width: 700px; height: 429px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 429px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/12.png)
 {% endmarkdown %}

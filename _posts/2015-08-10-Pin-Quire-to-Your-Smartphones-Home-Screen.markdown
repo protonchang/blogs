@@ -30,7 +30,7 @@ Here is a way to quickly access Quire whenever and wherever you want: add it to 
 
 1. Launch the Safari browser and navigate to Quire website.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ Here is a way to quickly access Quire whenever and wherever you want: add it to 
 
 2. Tap the Share button (the rectangle with an arrow pointing upward) in the browser’s menu bar.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -46,7 +46,7 @@ Here is a way to quickly access Quire whenever and wherever you want: add it to 
 
 3. Tap the “Add to Home Screen” icon at the bottom of the screen.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -54,7 +54,7 @@ Here is a way to quickly access Quire whenever and wherever you want: add it to 
 
 4. Tap “Add” on the upper-right of the screen.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -62,7 +62,7 @@ Here is a way to quickly access Quire whenever and wherever you want: add it to 
 
 Quire icon will appear on your home screen like this:
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -74,7 +74,7 @@ Quire icon will appear on your home screen like this:
 
 1. Launch the Chrome browser and navigate to Quire website.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -82,7 +82,7 @@ Quire icon will appear on your home screen like this:
 
 2. Tap the menu icon (that looks like 3 vertical dots) on the upper-right of the screen.the screen.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -90,7 +90,7 @@ Quire icon will appear on your home screen like this:
 
 3. Tap “Add to Home screen.”
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -98,7 +98,7 @@ Quire icon will appear on your home screen like this:
 
 4. Tap “Add” in the dialogue.
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}
@@ -106,7 +106,7 @@ Quire icon will appear on your home screen like this:
 
 Quire icon will appear on your home screen like this:
 
-<div style="width: 338px; height: 600px; margin: 0 auto;">
+<div style="max-width: 338px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
 {% endmarkdown %}

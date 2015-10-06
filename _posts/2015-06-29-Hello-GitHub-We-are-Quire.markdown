@@ -30,7 +30,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ***1. Go to Project options (that looks like a wheel) in the main panel***
 
-<div style="width: 165px; height: 103px; margin: 0 auto;">
+<div style="max-width: 165px; max-height: 103px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ***2. Click on “Integrate Github”***
 
-<div style="width: 169px; height: 325px; margin: 0 auto;">
+<div style="max-width: 169px; max-height: 325px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -46,7 +46,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ***3. Click on “Get Authentication”***
 
-<div style="width: 484px; height: 294px; margin: 0 auto;">
+<div style="max-width: 484px; max-height: 294px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -54,7 +54,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ***4. Select one or more repositories you want to connect to and click on Save***
 
-<div style="width: 678px; height: 380px; margin: 0 auto;">
+<div style="max-width: 678px; max-height: 380px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -62,7 +62,7 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ***5. You can simply click on “Continue to my project.”***
 
-<div style="width: 680px; height: 339px; margin: 0 auto;">
+<div style="max-width: 680px; max-height: 339px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -78,7 +78,7 @@ To reference a task:
 
 First, choose a task.
 
-<div style="width: 700px; height: 203px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 203px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -86,7 +86,7 @@ First, choose a task.
 
 Find the ID for this task in the url bar.
 
-<div style="width: 625px; height: 101px; margin: 0 auto;">
+<div style="max-width: 625px; max-height: 101px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -102,7 +102,7 @@ Write #6BOd.
 
 When you make a reference, we will add a comment to the task like this:
 
-<div style="width: 536px; height: 88px; margin: 0 auto;">
+<div style="max-width: 536px; max-height: 88px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -110,7 +110,7 @@ When you make a reference, we will add a comment to the task like this:
 
 Note that whenever we add a comment to Quire, we will also add one to GitHub:
 
-<div style="width: 700px; height: 127px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 127px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}
@@ -128,7 +128,7 @@ Edit #6BOd added more description.
 
 Then, it will appear like this in the task’s comment:
 
-<div style="width: 538px; height: 78px; margin: 0 auto;">
+<div style="max-width: 538px; max-height: 78px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
 {% endmarkdown %}
@@ -146,7 +146,7 @@ Edit #6BOd, #7BOd and #8BOd paraphrased a few sentences.
 
 It will look like this in all three tasks:
 
-<div style="width: 542px; height: 100px; margin: 0 auto;">
+<div style="max-width: 542px; max-height: 100px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
 {% endmarkdown %}
@@ -156,7 +156,7 @@ To complete a task:
 
 Again, first select a task.
 
-<div style="width: 700px; height: 203px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 203px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/12.png)
 {% endmarkdown %}
@@ -164,7 +164,7 @@ Again, first select a task.
 
 Find the task ID in the url bar.
 
-<div style="width: 626px; height: 117px; margin: 0 auto;">
+<div style="max-width: 626px; max-height: 117px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/13.png)
 {% endmarkdown %}
@@ -189,7 +189,7 @@ Resolve/Resolves/Resolved
 
 When you complete a task, we will add a comment to the task like this:
 
-<div style="width: 541px; height: 91px; margin: 0 auto;">
+<div style="max-width: 541px; max-height: 91px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/14.png)
 {% endmarkdown %}
@@ -197,7 +197,7 @@ When you complete a task, we will add a comment to the task like this:
 
 And we will mark the task as complete:
 
-<div style="width: 700px; height: 183px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 183px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/15.png)
 {% endmarkdown %}
@@ -215,7 +215,7 @@ Close #7BOd and #8BOd articles finalized.
 
 When you complete these two tasks, we will add the same comment to both tasks:
 
-<div style="width: 538px; height: 82px; margin: 0 auto;">
+<div style="max-width: 538px; max-height: 82px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/16.png)
 {% endmarkdown %}
@@ -223,7 +223,7 @@ When you complete these two tasks, we will add the same comment to both tasks:
 
 And we will mark both tasks as complete:
 
-<div style="width: 700px; height: 216px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 216px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/17.png)
 {% endmarkdown %}

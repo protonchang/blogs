@@ -38,7 +38,7 @@ For more details, the tables below summarize what each of the four roles can do 
 
 ### What you can do in a project if you are…
 
-<div style="width: 877px; height: 600px; margin: 0 auto;">
+<div style="max-width: 877px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -50,7 +50,7 @@ For more details, the tables below summarize what each of the four roles can do 
 
 ### What you can do with an organization if you are…
 
-<div style="width: 877px; height: 231px; margin: 0 auto;">
+<div style="max-width: 877px; max-height: 231px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -64,7 +64,7 @@ For more details, the tables below summarize what each of the four roles can do 
 
 ### What you can do in an external team if you are…
 
-<div style="width: 877px; height: 508px; margin: 0 auto;">
+<div style="max-width: 877px; max-height: 508px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}

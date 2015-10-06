@@ -37,7 +37,7 @@ Needless to say, team work is very important. It is the key to successful projec
 
 In Quire, comments of your team members, file attachments, any changes made to tasks are notified in real time working pretty similarly to Facebook notifications. Like you don’t want to miss a comment from your friend, you also don’t want to miss an important piece of information from your project members. You can also see who’s currently online working on the same project as you so you can cue them for immediate response.
 
-<div style="width: 700px; height: 408px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 408px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.jpg)
 {% endmarkdown %}
@@ -45,7 +45,7 @@ In Quire, comments of your team members, file attachments, any changes made to t
 
 Visual hierarchy of tasks. This is something more rare and less found in the market which is rather surprising considering its importance. As the actual executor of the tasks, we don’t just want a list of to-dos, it is important that we can visually see the relationship and hierarchy between tasks. Quire has made this possible by introducing the tree structure — the fundamental pattern we see everywhere in nature. Like how an idea spawns more ideas, a task may lead to several sub-tasks, Quire replicates how the human minds work into the app’s workflow. Your team can easily work your way through completing a big task by dividing it into sub-tasks and assigning them to different people.
 
-<div style="width: 700px; height: 572px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 572px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.jpg)
 {% endmarkdown %}
@@ -55,7 +55,7 @@ Simplicity in the UI (user interface). This is just about as important as water 
 
 Quire has a succinct and elegant UI providing you great user experience. You can easily find where to edit your profile, filter your tasks, who’s assigned to what, whether or not there is an urgent task to do, comments of your colleagues, files attached etc. all in a spacious design. You won’t have to make vigorous eye movements to find a particular task. Like Leonardo da Vinci said “simplicity is the ultimate sophistication”.
 
-<div style="width: 700px; height: 448px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 448px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}

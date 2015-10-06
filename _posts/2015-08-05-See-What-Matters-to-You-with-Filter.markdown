@@ -30,7 +30,7 @@ One way to do this and not be distracted by the remaining tasks is via the “**
 
 By clicking on the filter icon below the project’s name, you will see a menu bar.
 
-<div style="width: 700px; height: 83px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 83px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -40,7 +40,7 @@ There, you can choose what kinds of tasks you would like to see, group and filte
 
 Right now, you are only seeing your Active Tasks, tasks that have not yet been completed.
 
-<div style="width: 700px; height: 304px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 304px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -48,7 +48,7 @@ Right now, you are only seeing your Active Tasks, tasks that have not yet been c
 
 If you want to see tasks that you have completed, click on “Active Tasks” and choose “Completed Tasks.”
 
-<div style="width: 700px; height: 305px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 305px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -56,7 +56,7 @@ If you want to see tasks that you have completed, click on “Active Tasks” an
 
 Or if you want to see all of your tasks, both active and completed, choose “All Tasks” instead.
 
-<div style="width: 700px; height: 605px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 605px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -64,7 +64,7 @@ Or if you want to see all of your tasks, both active and completed, choose “Al
 
 #### Note: You can hide the menu bar by toggling the filter icon. The green dot indicates you are in a filtered mode.
 
-<div style="width: 448px; height: 39px; margin: 0 auto;">
+<div style="max-width: 448px; max-height: 39px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -80,7 +80,7 @@ Now, let us group and filter the tasks further.
 
 To see all your tasks ordered by due dates, choose group by “Date.”
 
-<div style="width: 700px; height: 160px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 160px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -88,7 +88,7 @@ To see all your tasks ordered by due dates, choose group by “Date.”
 
 This is what you will see:
 
-<div style="width: 700px; height: 283px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 283px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -102,7 +102,7 @@ This is what you will see:
 
 To see what tasks each assignee is or was responsible for, choose “Assignee” instead. This is what you will see:
 
-<div style="width: 700px; height: 350px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 350px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -110,7 +110,7 @@ To see what tasks each assignee is or was responsible for, choose “Assignee”
 
 #### Note: You can click on “Clear” in the menu bar whenever you want to return to the default status, which is “Active Tasks” without any filtering.
 
-<div style="width: 513px; height: 40px; margin: 0 auto;">
+<div style="max-width: 513px; max-height: 40px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}
@@ -124,7 +124,7 @@ To see what tasks each assignee is or was responsible for, choose “Assignee”
 
 If you filter by, for example, Appetizer, from “Tags” like this:
 
-<div style="width: 700px; height: 262px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 262px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
 {% endmarkdown %}
@@ -132,7 +132,7 @@ If you filter by, for example, Appetizer, from “Tags” like this:
 
 You will see all the tasks that are labeled with Appetizer under whoever is responsible.
 
-<div style="width: 700px; height: 212px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 212px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
 {% endmarkdown %}
@@ -144,7 +144,7 @@ You will see all the tasks that are labeled with Appetizer under whoever is resp
 
 If you choose, for example, Crystal, from “Assigned to” like this:
 
-<div style="width: 700px; height: 209px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 209px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/12.png)
 {% endmarkdown %}
@@ -152,7 +152,7 @@ If you choose, for example, Crystal, from “Assigned to” like this:
 
 You will see all the tasks that have been assigned to Crystal under Crystal.
 
-<div style="width: 700px; height: 198px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 198px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/13.png)
 {% endmarkdown %}
@@ -160,7 +160,7 @@ You will see all the tasks that have been assigned to Crystal under Crystal.
 
 Here, you can click on “+” to create a task:
 
-<div style="width: 700px; height: 198px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 198px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/14.png)
 {% endmarkdown %}
@@ -168,7 +168,7 @@ Here, you can click on “+” to create a task:
 
 The task will be assigned to Crystal directly.
 
-<div style="width: 700px; height: 225px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 225px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/15.png)
 {% endmarkdown %}
@@ -180,7 +180,7 @@ The task will be assigned to Crystal directly.
 
 If you choose, for example, Crystal, from “Assigned by” like this:
 
-<div style="width: 700px; height: 225px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 225px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/16.png)
 {% endmarkdown %}
@@ -188,7 +188,7 @@ If you choose, for example, Crystal, from “Assigned by” like this:
 
 You will see all the tasks assigned by Crystal under whoever is responsible.
 
-<div style="width: 700px; height: 287px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 287px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/17.png)
 {% endmarkdown %}
@@ -200,7 +200,7 @@ You will see all the tasks assigned by Crystal under whoever is responsible.
 
 If you choose, for example, Crystal, again, from “Created by.”
 
-<div style="width: 700px; height: 233px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 233px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/18.png)
 {% endmarkdown %}
@@ -208,7 +208,7 @@ If you choose, for example, Crystal, again, from “Created by.”
 
 You will see all the tasks that have been created by Crystal under whoever is responsible.
 
-<div style="width: 700px; height: 351px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 351px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/19.png)
 {% endmarkdown %}
@@ -220,7 +220,7 @@ You will see all the tasks that have been created by Crystal under whoever is re
 
 If you want to see the tasks you are following, choose “Followed by me.”
 
-<div style="width: 700px; height: 223px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 223px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/20.png)
 {% endmarkdown %}
@@ -228,7 +228,7 @@ If you want to see the tasks you are following, choose “Followed by me.”
 
 You will see all the tasks you are following under whoever is responsible.
 
-<div style="width: 700px; height: 376px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 376px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/21.png)
 {% endmarkdown %}

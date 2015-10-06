@@ -33,7 +33,7 @@ Follow these 3 steps to see a few examples:
 
 Voila! A pop-up of our markdown list:
 
-<div style="width: 593px; height: 405px; margin: 0 auto;">
+<div style="max-width: 593px; max-height: 405px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -47,7 +47,7 @@ To create a list, add an asterisk and a space before your items. It is just like
 
 Sometimes, words just are not enough. Thankfully, you can use emoji icons in the description and comment of a task. If you type a colon, a list of emoji will automatically show up:
 
-<div style="width: 516px; height: 345px; margin: 0 auto;">
+<div style="max-width: 516px; max-height: 345px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -59,7 +59,7 @@ Next is something you will definitely find useful.
 
 When you want to refer someone to a particular task, just enter @username and then #taskname. All the tasks containing the letters you have typed will show up. Simply find the right one.
 
-<div style="width: 526px; height: 306px; margin: 0 auto;">
+<div style="max-width: 526px; max-height: 306px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}

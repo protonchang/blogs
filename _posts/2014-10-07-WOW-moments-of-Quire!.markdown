@@ -52,7 +52,7 @@ Let’s take a tour at some of the amazing wow! moments you may find in Quire.
 
 ## Keyboard Shortcuts!
 
-<div style="width: 560px; height: 346px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 346px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -64,7 +64,7 @@ For me personally, I love “ENTER, F2", “CTRL+ ENTER”, “CTRL + ←” and
 
 Like many social media platforms, Quire also supports the auto-complete function in order to create a more lively interaction and user experience. You know that @name function where you can mention someone on Facebook and Twitter? And the beauty of it is that it gives you a list of names available according to the letter you have typed! At the time I thought, wow! how convenient ?! We leverage this in Quire too! It comes in very practical when you want someone’s attention on a particular task. It could be a task you’re committed to but wish to consult the person for some suggestions — simply ***@name that person in a description or comment, he or she will be notified immediately.***
 
-<div style="width: 565px; height: 503px; margin: 0 auto;">
+<div style="max-width: 565px; max-height: 503px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.jpg)
 {% endmarkdown %}
@@ -72,7 +72,7 @@ Like many social media platforms, Quire also supports the auto-complete function
 
 So, now you say what about when you want to mention a particular task to someone? No problem! Simply #taskname, all the tasks containing the letter you have typed will show up, your job is to simply find the right one. ***No more copying URL of one task to post into the comment or description of another task.***
 
-<div style="width: 560px; height: 346px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 346px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.jpg)
 {% endmarkdown %}
@@ -80,7 +80,7 @@ So, now you say what about when you want to mention a particular task to someone
 
 To make work less stressful and team work more enjoyable, **emoticons are available in Quire!** If you type ":", a list of emoticons we now support will pop up, find the most suitable one and press down that ENTER button of yours to add a little bit more fun at work!
 
-<div style="width: 560px; height: 496px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 496px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.jpg)
 {% endmarkdown %}
@@ -92,7 +92,7 @@ As much as we like our keyboards, mouse is also something that can’t be ignore
 
 ***(1) drop task B on top of task A to become the child (sub-task) of task A***
 
-<div style="width: 700px; height: 172px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 172px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -100,7 +100,7 @@ As much as we like our keyboards, mouse is also something that can’t be ignore
 
 Note: this concept is derived from Windows’ desktop behaviour, like how you can drop a folder on top of another to make it a sub-folder inside the folder you have dropped on top of.
 
-<div style="width: 386px; height: 222px; margin: 0 auto;">
+<div style="max-width: 386px; max-height: 222px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.jpg)
 {% endmarkdown %}
@@ -108,7 +108,7 @@ Note: this concept is derived from Windows’ desktop behaviour, like how you ca
 
 ***(2) drag forward or backward horizontally to change its relationship with another task***
 
-<div style="width: 700px; height: 331px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 331px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -118,7 +118,7 @@ Note: this concept is derived from Windows’ desktop behaviour, like how you ca
 
 For example, if we drag task C on top of task B, the relationship of task C & D remains.
 
-<div style="width: 700px; height: 326px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 326px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}

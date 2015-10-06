@@ -30,7 +30,7 @@ and
 you’ll have access to a *Product Backlog*
 that, by convention, looks something like the list below:
 
-<div style="width: 700px; height: 379px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 379px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -42,7 +42,7 @@ Each of these *user stories* is self sufficient in portraying a requirement; how
 
 > **We first put down the core values that drive the development of our product:**
 
-<div style="width: 700px; height: 219px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 219px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -52,7 +52,7 @@ Although these “epics” are too large to be estimated with any reliable accur
 
 > **We then expand on each epic, specifying more stories, or even more epics, that would build on top of these foundations toward our product:**
 
-<div style="width: 700px; height: 792px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 792px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -69,7 +69,7 @@ The convention dictates that we put the Product Backlog Item with highest priori
 
 We can define priority level tags such as PL1, PL2, and so on; upon the Product Owner gets all the necessary information to prioritize the tasks, he or she can assign these tags to tasks that are in considerations for the upcoming *Sprints*:
 
-<div style="width: 700px; height: 618px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 618px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -79,13 +79,13 @@ We can define priority level tags such as PL1, PL2, and so on; upon the Product 
 
 During the *Spring Planning Meeting*, when it comes to picking the items to commit to the next Sprint, team can then use [Quire](https://quire.io/)’s filter function to display only the items that are of immediate concern:
 
-<div style="width: 700px; height: 112px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 112px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
 </div>
 
-<div style="width: 700px; height: 195px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 195px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}

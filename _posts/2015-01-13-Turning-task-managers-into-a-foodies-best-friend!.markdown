@@ -42,7 +42,7 @@ These two reasons I can still deal with, but the next two are critical reasons w
 
 3. Categorization is not really possible. When the list got too long, I wanted to categorize them according to the types of cuisines but there’s no “layer” or “level” concept in Notes which makes it difficult to distinguish. The workaround was to add # in front of each categorization to identify it as a header but the result is not clean nor ideal (see below).
 
-<div style="width: 400px; height: 600px; margin: 0 auto;">
+<div style="max-width: 400px; max-height: 600px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.jpg)
 {% endmarkdown %}
@@ -67,7 +67,7 @@ Take a sneak peak:
 
 > ***A nice & clean list, information can be viewed at one glance***
 
-<div style="width: 700px; height: 460px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 460px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.jpg)
 {% endmarkdown %}
@@ -75,7 +75,7 @@ Take a sneak peak:
 
 As you can see from the above, I ***put cities at a project level*** so I have many different projects on the side bar featuring cities around the world (illustrated below).
 
-<div style="width: 275px; height: 352px; margin: 0 auto;">
+<div style="max-width: 275px; max-height: 352px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -83,7 +83,7 @@ As you can see from the above, I ***put cities at a project level*** so I have m
 
 Then, taking advantage of Quire’s tree structured task list I make each ‘task’ a type of cuisine (Modern, French, Italian, Japanese, Asian, Desserts etc.) and list down sub-tasks under each task as the corresponding restaurants under that particular category. You can also collapse or extend them at will.
 
-<div style="width: 700px; height: 460px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 460px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.jpg)
 {% endmarkdown %}
@@ -97,7 +97,7 @@ Now, what with ‘filtering by location?” Some of you may have already guessed
 
 Take an example, I wanted to eat around Upper East Side — I go to the filter bar at the top -> filtered by -> tags -> Upper East Side and boom! I’ll have every restaurant located in the Upper East Side at my command in less than a second! A simpler way is you just click on the tag itself and you will achieve the same result.
 
-<div style="width: 700px; height: 220px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 220px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -107,7 +107,7 @@ Take an example, I wanted to eat around Upper East Side — I go to the filt
 
 Previously, I had a hard time keeping my list clean also because I wanted to include reference URLs, addresses, phone numbers etc. Now with Quire, I simply put them in the detail panel (illustrated below) on the right of each ‘task’ to keep the list simple and clean!
 
-<div style="width: 537px; height: 251px; margin: 0 auto;">
+<div style="max-width: 537px; max-height: 251px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}

@@ -28,7 +28,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 ***1. Click on the Assignee icon.***
 
-<div style="width: 417px; height: 163px; margin: 0 auto;">
+<div style="max-width: 417px; max-height: 163px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -36,7 +36,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 ***2. Turn on the switch button besides “Assign an external team”.***
 
-<div style="width: 418px; height: 198px; margin: 0 auto;">
+<div style="max-width: 418px; max-height: 198px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -44,7 +44,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 ***3. Click on “+ Add new team”.***
 
-<div style="width: 427px; height: 124px; margin: 0 auto;">
+<div style="max-width: 427px; max-height: 124px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -52,7 +52,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 ***4. Enter a name for the external team.***
 
-<div style="width: 478px; height: 286px; margin: 0 auto;">
+<div style="max-width: 478px; max-height: 286px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -60,7 +60,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 ***5. Add external member(s) by typing their emails and pressing Enter or clicking on +, then click on Create.***
 
-<div style="width: 482px; height: 337px; margin: 0 auto;">
+<div style="max-width: 482px; max-height: 337px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -68,7 +68,7 @@ Before we move on, you can take a look at the overview to get an idea of what it
 
 After you clicked on Create, you will return to your project.
 
-<div style="width: 700px; height: 420px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 420px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -84,7 +84,7 @@ Once they have done so, you would have successfully assigned the task to them, a
 
 When you work on your project, you will see the whole picture.
 
-<div style="width: 700px; height: 259px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 259px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -92,7 +92,7 @@ When you work on your project, you will see the whole picture.
 
 And if you group by assignee, you will see the outsourced task under the external team’s name.
 
-<div style="width: 700px; height: 176px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 176px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
@@ -100,7 +100,7 @@ And if you group by assignee, you will see the outsourced task under the externa
 
 When your external team work on the same project, they will see only the assigned task. So, you do not need to worry about them seeing your other tasks.
 
-<div style="width: 700px; height: 182px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 182px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
 {% endmarkdown %}
@@ -108,7 +108,7 @@ When your external team work on the same project, they will see only the assigne
 
 That said, external members can still create subtasks under the assigned task and manage them.
 
-<div style="width: 700px; height: 227px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 227px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
 {% endmarkdown %}
@@ -116,7 +116,7 @@ That said, external members can still create subtasks under the assigned task an
 
 And so can you.
 
-<div style="width: 700px; height: 224px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 224px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
 {% endmarkdown %}

@@ -28,7 +28,7 @@ Some of you may not know Fluid. It is a simple tool that can make a website or a
 
 *First, go to the website and click on Free Download.*
 
-<div style="width: 600px; height: 621px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 621px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ Some of you may not know Fluid. It is a simple tool that can make a website or a
 
 *Once it is downloaded to your computer, click on the Download folder to open the Fluid app.*
 
-<div style="width: 600px; height: 454px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -48,7 +48,7 @@ Some of you may not know Fluid. It is a simple tool that can make a website or a
 
 *Follow the instructions to create a Fluid app.*
 
-<div style="width: 557px; height: 322px; margin: 0 auto;">
+<div style="max-width: 557px; max-height: 322px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -58,7 +58,7 @@ Some of you may not know Fluid. It is a simple tool that can make a website or a
 
 *Then you’ll see the app you have just created appear on the Dock!*
 
-<div style="width: 600px; height: 441px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 441px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}

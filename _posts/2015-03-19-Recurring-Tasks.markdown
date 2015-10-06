@@ -30,7 +30,7 @@ Setting a recurring task is easy. Simply go to the task’s due date -> repeat t
 
 **By weekly:**
 
-<div style="width: 700px; height: 396px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 396px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -38,7 +38,7 @@ Setting a recurring task is easy. Simply go to the task’s due date -> repeat t
 
 **monthly:**
 
-<div style="width: 700px; height: 274px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 274px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -46,7 +46,7 @@ Setting a recurring task is easy. Simply go to the task’s due date -> repeat t
 
 **or, yearly:**
 
-<div style="width: 700px; height: 391px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 391px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}

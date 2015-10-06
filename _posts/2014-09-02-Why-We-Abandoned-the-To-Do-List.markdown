@@ -54,7 +54,7 @@ Given these limitations, the prevalent solution is to divide the primordial to-d
 
 A more flexible system may allow a sub-task to bear sub-tasks of its own which effectively is attaching another list to itself indefinitely. This scheme produces a hierarchical structure as depicted below:
 
-<div style="width: 322px; height: 294px; margin: 0 auto;">
+<div style="max-width: 322px; max-height: 294px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -70,7 +70,7 @@ Even though the most flexible task management tools would allow a structure of a
 
 But without showing all tasks along the hierarchy, we easily would lose the context that’s required to monitor a task. Take the following task structure for example:
 
-<div style="width: 700px; height: 370px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 370px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -78,7 +78,7 @@ But without showing all tasks along the hierarchy, we easily would lose the cont
 
 “Get Report B2–1" under “Complete A” requires that “Do Report B2–1" under “Complete B” is done. But due to the constraints in showing nested lists, a compromised view would show:
 
-<div style="width: 700px; height: 286px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 286px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -86,7 +86,7 @@ But without showing all tasks along the hierarchy, we easily would lose the cont
 
 or
 
-<div style="width: 700px; height: 292px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 292px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -100,7 +100,7 @@ In either case, we’d completely miss the dependency that “Review A3" has on 
 
 ### Our solution is to preserve tasks’ natural hierarchy in a tree structure
 
-<div style="width: 600px; height: 317px; margin: 0 auto;">
+<div style="max-width: 600px; max-height: 317px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -112,7 +112,7 @@ Instead, we recognized that this hierarchy would be better represented with a tr
 
 Under this structure, tasks and their dependencies are clearly presented in the task management system.
 
-<div style="width: 700px; height: 536px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 536px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -122,7 +122,7 @@ A task may start out as a rough goal without a plan or the background knowledge 
 
 As we plan and organize our tasks as they progress, tasks represented as tree nodes can be easily re-arranged in accordance with their dependencies by drag-n-drop as depicted below:
 
-<div style="width: 700px; height: 540px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 540px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}

@@ -46,7 +46,7 @@ If you are one of those people, like me, who have tried numerous task managers /
 
 > **After numerous discussions and mix match, we decided to go for a clearly structured layout with 3 distinct levels;**
 
-<div style="width: 700px; height: 352px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 352px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -62,7 +62,7 @@ If you are one of those people, like me, who have tried numerous task managers /
 
 The purpose of the side bar sort of acts like a menu. Unlike a menu of a restaurant which I’m sure you would be willing to take the time to flip back and forth, it is highly unlikely you’d want to do the same to start a day of work like this every morning. To avoid this kind of hassle, we decided to show all the organization and projects you belong to at one glance instead of having to for example drop down a organization before you could see what projects are in it. Having said this, we also wanted it to keep it as simple but as the same time as informative as possible. Therefore we made the appearance of organization and projects different by giving them a different font style. For additional information we display the number of tasks next to the related project.
 
-<div style="width: 700px; height: 413px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 413px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -78,7 +78,7 @@ We also wanted you to be able to manage organizations and projects from here; ju
 
 If you were a heavy user of powerpoint in high school like me, you gotta love how each slide has a title, some bullet points and sub-bullet points in each bullet point — everything is so crystal clear, like Aladdin and Jasmine on the magic carpet. Well, this is what is commonly known as the “tree structure” or a “hierarchical list” which is conceptualized and used in Quire, showing all your tasks in a hierarchical order.
 
-<div style="width: 700px; height: 447px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 447px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -88,7 +88,7 @@ If you were a heavy user of powerpoint in high school like me, you gotta love ho
 
 For expert users we also provide **keyboard shortcuts** for most task operations;
 
-<div style="width: 620px; height: 244px; margin: 0 auto;">
+<div style="max-width: 620px; max-height: 244px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -98,7 +98,7 @@ We wanted users to be able to add basic task attributes like assignee and due da
 
 Another feature we are trying to hide from beginners is the filter bar. Usability tests showed that beginners don’t need to group or filter tasks based on specific conditions, therefore it would only cause confusion to have the filter options present at all times. Another way to hide complexity is our unique tree structure. For a simple to-do list, you just list your tasks one after another — simple enough. On the other hand, if you needed to set up a complex project with top-level and sub-level tasks, you can also do that, but easily hide the complexity of it by **collapsing the tree nodes** giving you a nice and clean view at first glance.
 
-<div style="width: 700px; height: 383px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 383px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -112,7 +112,7 @@ Another feature we are trying to hide from beginners is the filter bar. Usabilit
 
 Obviously, not every project or task is so simple and straight forward. Sometimes, you need to add some details, references, or discuss a particular task with your colleagues — these are shown in the detail panel. During our design process we were trying hard to keep this as simple as possible. In the end, we achieved simplicity by the extensive use of progressive disclosure: Want to see more than the first two lines of a description? Expand it. Want to see all activities related to your task? Expand it. Want to write a comment? Click the input field and it automatically expands and gives you more options for your comment.
 
-<div style="width: 700px; height: 356px; margin: 0 auto;">
+<div style="max-width: 700px; max-height: 356px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
