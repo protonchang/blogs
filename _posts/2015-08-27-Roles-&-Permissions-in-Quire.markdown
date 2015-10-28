@@ -11,7 +11,7 @@ image: "2015-08-27-Roles-and-Permissions/0.png"
 tags: taskmanagement membership collaboration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: [""]

@@ -11,7 +11,7 @@ image: "2015-05-26-Lazy/0.jpg"
 tags: workstyle lifestyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Why We Abandoned the To-Do List", "Quire — A design hiding complexity in simplicity"]

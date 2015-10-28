@@ -11,7 +11,7 @@ image: "2015-10-05-Quire-101/0.png"
 tags: taskmanagement basics productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Recurring Tasks", "Drill Down"]

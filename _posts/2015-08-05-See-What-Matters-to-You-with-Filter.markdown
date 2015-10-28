@@ -11,7 +11,7 @@ image: "2015-08-05-Filter/0.jpg"
 tags: taskmanagement workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Drill Down", "Template for Your Projects and Tasks"]

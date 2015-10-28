@@ -11,7 +11,7 @@ image: "2015-06-29-Github-Integration/0.png"
 tags: taskmanagement productivity integration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Sync your Tasks with Google Calendar", "Recurring Tasks"]

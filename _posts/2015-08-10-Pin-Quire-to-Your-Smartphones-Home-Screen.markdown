@@ -11,7 +11,7 @@ image: "2015-08-10-Pin-Smartphone-Home-Screen/0.jpg"
 tags: tips ios android
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Turning Quire into a Mac App", "WOW moments of Quire!"]

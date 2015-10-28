@@ -11,7 +11,7 @@ image: "2015-06-09-Drill-Down/0.jpg"
 tags: taskmanagement workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["WOW moments of Quire!", "See What Matters to You with Filter"]

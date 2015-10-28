@@ -11,7 +11,7 @@ image: "2015-06-10-Mac-App/0.png"
 tags: workstyle tips mac
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Pin Quire to Your Smartphone’s Home Screen", "WOW moments of Quire!"]

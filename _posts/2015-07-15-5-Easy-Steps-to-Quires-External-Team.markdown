@@ -11,7 +11,7 @@ image: "2015-07-15-External-Team-Guide/0.jpg"
 tags: taskmanagement workstyle outsource
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
-authorDesc: "Marketing specialist, food lover, and aniholic."
+authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["I Don’t Really Know Them, But I Need Their Help", "Roles & Permissions in Quire"]
