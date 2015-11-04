@@ -8,7 +8,7 @@ index-intro: "You are the most productive person you know. Your phone is filled 
 category-intro: "You are the most productive person you know. Your phone is filled with to-do lists and productivity apps. You’re busy all the time..."
 
 image: "2015-11-04-Why-Focusing-On-Productivity-Makes-You-Less-Productive/0.jpg"
-tags: value basics lifestyle
+tags: productivity lifestyle workstyle
 author: "Julie R. Neidlinger"
 authorImg: "/images/author/julie.jpg"
 authorDesc: "Artist, writer, and pilot."
