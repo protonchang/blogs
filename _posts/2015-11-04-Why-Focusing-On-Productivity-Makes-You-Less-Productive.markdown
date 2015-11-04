@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Focusing On Productivity Makes You Less Productive"
 date:   2015-11-04 11:58:07
-categories: "lifestyle"
+categories: "workstyle"
 
 index-intro: "You are the most productive person you know. Your phone is filled with to-do lists and productivity apps. You’re busy all the time. Your appointment calendar barely has an empty spot. If there ever was a picture of someone who is getting things done, it’s you. You’re the poster child for productivity."
 category-intro: "You are the most productive person you know. Your phone is filled with to-do lists and productivity apps. You’re busy all the time..."
