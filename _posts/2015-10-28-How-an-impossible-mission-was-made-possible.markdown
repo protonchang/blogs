@@ -9,10 +9,10 @@ category-intro: "I remember in the movie The Imitation Game, after Joan Clarke s
 
 image: "2015-10-28-How-an-impossible-mission-was-made-possible/0.jpg"
 tags: value basics lifestyle
-author: "Crystal Chen"
-authorImg: "/images/author/crystal.png"
-authorDesc: "Content writer, food lover, and aniholic."
-authorLink: "https://medium.com/@crystalshchen"
+author: "Sueng Chen"
+authorImg: "/images/author/sueng.jpg"
+authorDesc: "Writer, food lover, and aniholic."
+authorLink: "https://medium.com/@sueng"
 
 relatedPosts: ["Turning task managers into a foodie’s best friend!", "How a good task management tool can help make your life a lot easier!"]
 
