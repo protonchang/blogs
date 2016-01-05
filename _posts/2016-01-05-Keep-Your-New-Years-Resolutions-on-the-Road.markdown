@@ -31,12 +31,11 @@ How many times have you had ideas, but never had the chance to carry them out in
 
 What you need is a plan. A plan can be an outline where you’ve taken down ideas, divided them into smaller items and organized them in the order you want.
 
-<div style="max-width: 500px; max-height: 375px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 458px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
-<br>
 
 ## Next, organize the plan.
 
@@ -44,12 +43,11 @@ You now have a plan, which is great. But you may have trouble sticking to it.
 
 The solution is a plan with details like due dates, priorities, tags and assignees, so you’ll know what should be done, when should they be done and who should do them.
 
-<div style="max-width: 500px; max-height: 375px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 458px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
-<br>
 
 ## Then, execute the plan.
 
@@ -59,7 +57,7 @@ By selecting your own filter options, you can focus on just a few tasks that nee
 
 And, more importantly, DO them like [Shia LaBeuof urges you to do](https://www.youtube.com/watch?v=ZXsQAXx_ao0)!
 
-<div style="max-width: 500px; max-height: 375px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 458px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
