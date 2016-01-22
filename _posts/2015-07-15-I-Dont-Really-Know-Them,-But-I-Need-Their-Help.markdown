@@ -48,7 +48,7 @@ You give them enough freedom to manage the assigned task, and, at the same time,
 
 Overall, “external team” is a one-of-a-kind feature for those of you who want to stay worry-free and in control when getting outside help to help you finish a project.
 
-For more details, you can check out [Quire](https://quire.io/)’s [blog article]() here.
+For more details, you can check out [Quire](https://quire.io/)’s [guide](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html) on external team.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
