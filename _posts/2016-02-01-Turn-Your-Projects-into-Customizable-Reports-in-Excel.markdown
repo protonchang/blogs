@@ -8,7 +8,7 @@ index-intro: "They say old habits die hard. So we get that some of you, or your 
 category-intro: "They say old habits die hard. So we get that some of you, or your managers, are used to the flexibility of customizing your own reports..."
 
 image: "2016-02-01-Turn-Your-Projects-into-Customizable-Reports-in-Excel/0.png"
-tags: tips plan to-dos
+tags: export csv excel
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
