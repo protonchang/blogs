@@ -53,7 +53,7 @@ Once you’ve done so, you can see a visual overview of your report, and choose 
 {% endmarkdown %}
 </div>
 
-You can also group the items and sub-items, expand or collapse them, similar to how you’d have done with the tasks and subtasks in your Quire project.
+You can also group (sort) the items and sub-items, expand or collapse them, similar to how you’d have done with the tasks and subtasks in your Quire project.
 
 <div style="max-width: 550px; max-height: 458px; margin: 0 auto;">
 {% markdown %}

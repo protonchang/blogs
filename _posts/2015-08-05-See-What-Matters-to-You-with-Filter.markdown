@@ -36,7 +36,7 @@ By clicking on the filter icon below the project’s name, you will see a menu b
 {% endmarkdown %}
 </div>
 
-There, you can choose what kinds of tasks you would like to see, group and filter them further.
+There, you can choose what kinds of tasks you would like to see, sort (aka group) and filter them further.
 
 Right now, you are only seeing your Active Tasks, tasks that have not yet been completed.
 
@@ -70,15 +70,15 @@ Or if you want to see all of your tasks, both active and completed, choose “Al
 {% endmarkdown %}
 </div>
 
-Now, let us group and filter the tasks further.
+Now, let us sort and filter the tasks further.
 
 ---
 
-## When you group by…
+## When you sort by…
 
 ### **Date**
 
-To see all your tasks ordered by due dates, choose group by “Date.”
+To see all your tasks ordered by due dates, choose sort by “Date.”
 
 <div style="max-width: 700px; max-height: 160px; margin: 0 auto;">
 {% markdown %}

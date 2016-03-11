@@ -90,7 +90,7 @@ When you work on your project, you will see the whole picture.
 {% endmarkdown %}
 </div>
 
-And if you group by assignee, you will see the outsourced task under the external team’s name.
+And if you sort (group) by assignee, you will see the outsourced task under the external team’s name.
 
 <div style="max-width: 700px; max-height: 176px; margin: 0 auto;">
 {% markdown %}

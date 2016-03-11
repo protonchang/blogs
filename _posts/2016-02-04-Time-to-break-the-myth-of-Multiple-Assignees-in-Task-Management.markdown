@@ -51,7 +51,7 @@ So, imagine going to the trouble of breaking it down when it’s perfectly alrig
 
 If you could assign this task to both designers, they’d be able to work it out among themselves to complete it. This is what teamwork is about.
 
-<div style="max-width: 325px; max-height: 306px; margin: 0 auto;">
+<div style="max-width: 257px; max-height: 290px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
