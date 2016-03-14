@@ -28,7 +28,7 @@ But wait! Pause. Rewind. Before this ever happened, there was the ever-so-compli
 
 From the tiniest things like what sort of forks and knifes should be plated to the bigger questions like inviting friends and family from 4 foreign countries and keeping the party flow from start to end, the couple needed to think, brainstorm, plan, and carry everything out on top of the hideous amount of work they’re already doing.
 
-To bring about such a wonderful feast, the now happily-married couple had a little help from Quire’s ***batch feature***. It includes dragging and dropping a single or multiple task(s) to change their order, to move to another project, and to reassign their assignee or [multiple assignees](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html), priority and due date in grouped-by mode.
+To bring about such a wonderful feast, the now happily-married couple had a little help from Quire’s ***batch feature***. It includes dragging and dropping a single or multiple task(s) to change their order, to move to another project, and to reassign their assignee or [multiple assignees](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html), priority and due date in filter view.
 
 The app helped them to:
 
