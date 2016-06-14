@@ -4,8 +4,8 @@ title:  "Snap your ideas! Introducing Quire for iOS"
 date:   2016-06-14 11:58:07
 categories: "features"
 
-index-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you [Quire app on iOS](link) - the first-ever task manager that..."
-category-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them..."
+index-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that..."
+category-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching..."
 
 image: "2016-06-14-Snap-your-ideas-Introducing-Quire-for-iOS/0.png"
 tags: mobile app ios
@@ -26,7 +26,7 @@ Honestly. How many times have you ditched your ideas?
 
 Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few?
 
-We’re proud to present to you [Quire app on iOS](link) - the first-ever task manager that snaps your ideas as words or photos in seconds, and sails them smoothly with your team!
+We’re proud to present to you [Quire app on iOS](https://itunes.apple.com/app/id1095193897) - the first-ever task manager that snaps your ideas as words or photos in seconds, and sails them smoothly with your team!
 
 <div style="max-width: 450; max-height: 288; margin: 0 auto;">
 {% markdown %}
@@ -53,7 +53,7 @@ Keep everyone engaged in real-time collaboration. Quire lets you work seamlessly
 
 That’s it in a nutshell.
 
-We want to thank you for your continued support that has motivated us to make Quire for iOS part of the Quire family. To download it, [visit the App Store](link). You never know when an idea might pop in your head!
+We want to thank you for your continued support that has motivated us to make Quire for iOS part of the Quire family. To download it, [visit the App Store](https://itunes.apple.com/app/id1095193897). You never know when an idea might pop in your head!
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
