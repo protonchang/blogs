@@ -4,8 +4,8 @@ title:  "Snap your ideas! Introducing Quire for iOS"
 date:   2016-06-14 11:58:07
 categories: "features"
 
-index-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that..."
-category-intro: "“Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching..."
+index-intro: "Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that..."
+category-intro: "Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching..."
 
 image: "2016-06-14-Snap-your-ideas-Introducing-Quire-for-iOS/0.png"
 tags: mobile app ios

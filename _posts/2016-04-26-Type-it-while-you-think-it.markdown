@@ -4,8 +4,8 @@ title:  "Type it while you think it, with @, #, <> and more."
 date:   2016-04-26 11:58:07
 categories: "features"
 
-index-intro: "“Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task."
-category-intro: "“Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone..."
+index-intro: "Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task."
+category-intro: "Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone..."
 
 image: "2016-04-26-Type-it-while-you-think-it/0.png"
 tags: shortcuts productivity workstyle
