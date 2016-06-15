@@ -26,7 +26,14 @@ Honestly. How many times have you ditched your ideas?
 
 Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few?
 
-We’re proud to present to you [Quire app on iOS](https://itunes.apple.com/app/id1095193897) - the first-ever task manager that snaps your ideas as words or photos in seconds, and sails them smoothly with your team!
+We’re proud to present to you [Quire app on iOS](https://itunes.apple.com/app/id1095193897)!
+
+<p style="margin-top: 35px; margin-bottom: 45px;">
+<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" style="display:block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;max-width: 450; max-height: 288; margin: 0 auto;"></a>
+</p>
+
+It's the first-ever task manager that snaps your ideas as words or photos in seconds, and sails them smoothly with your team!
+
 
 <div style="max-width: 450; max-height: 288; margin: 0 auto;">
 {% markdown %}
@@ -35,9 +42,6 @@ We’re proud to present to you [Quire app on iOS](https://itunes.apple.com/app/
 </div>
 
 It’s amazing to have a big goal or dream. However, they can be challenging to accomplish in a dynamic world. Whatever you need to realize it, Quire is there to help!
-<p style="margin-top: 45px; margin-bottom: 70px;">
-<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" style="display:block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;max-width: 450; max-height: 288; margin: 0 auto;"></a>
-</p>
 
 ## Tackle Big Goal with Small Steps
 Break it down into as small a step as you need. That’s how our minds naturally work. No matter how challenging your goal is, Quire lets you map out your thoughts.
