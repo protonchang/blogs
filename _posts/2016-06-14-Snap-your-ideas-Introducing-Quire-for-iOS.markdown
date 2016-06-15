@@ -26,10 +26,10 @@ Honestly. How many times have you ditched your ideas?
 
 Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few?
 
-We’re proud to present to you [Quire app on iOS](https://itunes.apple.com/app/id1095193897)!
+<p>We’re proud to present to you <a href="https://itunes.apple.com/app/id1095193897" onclick="gae('new','get','iphone')">Quire app on iOS</a>!</p>
 
 <p style="margin-top: 35px; margin-bottom: 45px;">
-<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" style="display:block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;max-width: 450; max-height: 288; margin: 0 auto;"></a>
+<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" style="display:block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;max-width: 450; max-height: 288; margin: 0 auto;" onclick="gae('new','get','iphone')"></a>
 </p>
 
 It's the first-ever task manager that snaps your ideas as words or photos in seconds, and sails them smoothly with your team!
@@ -60,7 +60,7 @@ Keep everyone engaged in real-time collaboration. Quire lets you work seamlessly
 
 That’s it in a nutshell.
 
-We want to thank you for your continued support that has motivated us to make Quire for iOS part of the Quire family. To download it, [visit the App Store](https://itunes.apple.com/app/id1095193897). You never know when an idea might pop in your head!
+<p>We want to thank you for your continued support that has motivated us to make Quire for iOS part of the Quire family. To download it, <a href="https://itunes.apple.com/app/id1095193897" onclick="gae('new','get','iphone')">visit the App Store</a>. You never know when an idea might pop in your head!</p>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
