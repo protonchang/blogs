@@ -24,7 +24,7 @@ imgDir: "2016-04-26-Type-it-while-you-think-it"
 
 Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task.
 
-So what are they? They’re *smart* keyboard shortcuts. They can help you add assignees, tags and due dates quickly, and more naturally in a single line.
+So what are they? They’re *smart* keyboard shortcuts. They can help you add assignees, tags, start and due dates quickly, and more naturally in a single line.
 
 ## When you add a new task...
 
@@ -38,7 +38,7 @@ Simply add a task, and type “Write the article **@David #Design <5/2>**” and
 {% endmarkdown %}
 </div>
 
-Your task would, of course, be automatically assigned to David, and a due date of May 2nd and the tag Design.
+Your task would, of course, be automatically assigned to David, and have a due date of May 2nd and the tag Design.
 
 <div style="max-width: 450; max-height: 68; margin: 0 auto;">
 {% markdown %}
@@ -46,7 +46,9 @@ Your task would, of course, be automatically assigned to David, and a due date o
 {% endmarkdown %}
 </div>
 
-Obviously, when you type @, # or <>, you can use the Up or Down arrow key to select the assignee, tag or due date you want.
+If you want to set a start date as well, simply type "Write the article @David #Design <**4/30;**5/2>" and press Enter.
+
+Obviously, when you type @, # or <> (with or without ;), you can use the Up or Down arrow key to select the assignee, tag or start/due date you want.
 
 #### Note: You can see all the input date formats allowed [here](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_due_date).
 
