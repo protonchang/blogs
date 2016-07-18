@@ -28,7 +28,7 @@ Sometimes, users would like to focus on only one task and its subtasks on [Quire
 
 1. Choose a task in your project
 
-<div style="max-width: 700px; max-height: 497px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 126px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -36,7 +36,7 @@ Sometimes, users would like to focus on only one task and its subtasks on [Quire
 
 2. Click on the “drill down” icon that looks like a magnifying glass in the detail panel (on the screen’s right side)
 
-<div style="max-width: 557px; max-height: 358px; margin: 0 auto;">
+<div style="max-width: 191px; max-height: 216px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -44,7 +44,7 @@ Sometimes, users would like to focus on only one task and its subtasks on [Quire
 
 3. Then, you will only see the task and its subtasks
 
-<div style="max-width: 700px; max-height: 339px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 170px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -58,7 +58,7 @@ If you want to see the task’s parent task and its children tasks, click on it 
 
 Note here that the breadcrumbs that appear horizontally across the top menu bar provide a trail for you to follow back to the starting point, your root task.
 
-<div style="max-width: 700px; max-height: 339px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 170px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -66,7 +66,7 @@ Note here that the breadcrumbs that appear horizontally across the top menu bar 
 
 This is what you will see.
 
-<div style="max-width: 700px; max-height: 324px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 171px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -76,7 +76,7 @@ To work the other way around, meaning to see the task’s subtask and its childr
 
 Last but not least, if you want to undo it, simply click on the “drill down” icon again.
 
-<div style="max-width: 559px; max-height: 362px; margin: 0 auto;">
+<div style="max-width: 193px; max-height: 212px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
@@ -84,7 +84,7 @@ Last but not least, if you want to undo it, simply click on the “drill down”
 
 Or you can click on the “drill down” icon in the top menu bar of the main panel.
 
-<div style="max-width: 700px; max-height: 301px; margin: 0 auto;">
+<div style="max-width: 210px; max-height: 80px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -92,17 +92,17 @@ Or you can click on the “drill down” icon in the top menu bar of the main pa
 
 Then, you will see a complete list of your tasks and subtasks again.
 
-<div style="max-width: 700px; max-height: 535px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 153px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
 </div>
 
-You may also want to know the shortcut for the “drill down” feature: **Ctrl+D**. To undo, simply press the same keys again.
+You may also want to know the shortcut for "drill down”: **Ctrl+D**. To undo, simply press the same keys again or **ESC**.
 
 As you can see, “drill down” is very useful for users who want to focus on a single task without being distracted by the others.
 
-## <div style="text-align:center;">See you in our next report!<div>
+## <div style="text-align:center;">See you in our next post!<div>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

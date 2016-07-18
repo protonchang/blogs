@@ -28,29 +28,31 @@ So what are they? They’re *smart* keyboard shortcuts. They can help you add **
 
 ## When you add a new task...
 
-You may want to get David to write an article that’s related to design by May 2nd.
+You may want to get David to write an article that’s urgent and is related to design by May 2nd.
 
-Simply add a task, and type “Write the article **@David #Design <5/2>**” and press Enter.
+Simply add a task, and type “Write the article **@David !1 #Design <5/2>” and press Enter.
 
-<div style="max-width: 450; max-height: 110; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 139px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
-Your task would, of course, be automatically assigned to David, and have a due date of May 2nd and the tag Design.
+Your task would, of course, be automatically assigned to David, have a priority of Urgent, a due date of May 2nd and the tag Design.
 
-<div style="max-width: 450; max-height: 68; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 96px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
 
-If you want to set a start date as well, simply type "Write the article @David #Design <**4/30;**5/2>" and press Enter.
+If you want to set a start date as well, simply type "Write the article @David #Design <**7/20**; **8/2**>" and press Enter.
 
 Obviously, when you type @, # or <> (with or without ;), you can use the Up or Down arrow key to select the assignee, tag or start/due date you want.
 
-#### Note: You can see all the input date formats allowed [here](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_due_date).
+You can see all the input date formats allowed [here](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_due_date).
+
+#### Note: Priority from high to low is !1, !2, !3 and !4.
 
 ## When you edit a task…
 
@@ -58,17 +60,29 @@ You may want to add or change the assignee, tag and due date of an existing task
 
 It’s like what you’d do when you’re adding a new task. For example, you can type “Write the article **@Kevin @Megan <+7d>**” and press Enter.
 
-<div style="max-width: 450; max-height: 106; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 148px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
 </div>
 
-What happens is that this task would be assigned to both Kevin and Megan instead, and has a new due date of May 9th.
+What happens is that this task would be assigned to both Kevin and Megan instead, and has a new due date of August 5th.
 
-<div style="max-width: 450; max-height: 71; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 100px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
+{% endmarkdown %}
+</div>
+
+## When you search for tasks...
+
+You can type **keywords**, **assignees** (with **@**), **tags** (with **#**) and **priority** (with **!**) to search a specific task or more.
+
+You can also hover a task in the search results to highlight it in the tree list.
+
+<div style="max-width: 550px; max-height: 234px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
 </div>
 
