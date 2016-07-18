@@ -24,7 +24,7 @@ imgDir: "2016-04-26-Type-it-while-you-think-it"
 
 Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task.
 
-So what are they? They’re *smart* keyboard shortcuts. They can help you add assignees, tags, start and due dates quickly, and more naturally in a single line.
+So what are they? They’re *smart* keyboard shortcuts. They can help you add **[assignees](https://quire.io/w/Getting_Started_with_Quire/87/Auto-add_an_assignee)** (with **@**), **[tags](https://quire.io/w/Getting_Started_with_Quire/86/Auto-add_a_tag)** (with **#**), **[start and due dates](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_start_and...)** (with **<>**) and **[priority]()** (with **!**) quickly, and more naturally in a single line.
 
 ## When you add a new task...
 
