@@ -38,7 +38,7 @@ First, you press Ctrl + C (Cmd + C for Mac) or right click to copy the content.
 
 <div style="max-width: 500px; max-height: 236px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.PNG)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
@@ -100,7 +100,7 @@ First, you copy the header and content in an Excel, Google Sheets or other sprea
 
 <div style="max-width: 500px; max-height: 197px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.PNG)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
 </div>
 
@@ -124,7 +124,7 @@ For the column **Parent** to be recognized, you need to have another column call
 
 <div style="max-width: 500px; max-height: 49px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.PNG)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
 </div>
 
