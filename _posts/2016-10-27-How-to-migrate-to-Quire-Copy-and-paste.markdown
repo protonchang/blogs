@@ -36,7 +36,7 @@ First, you press Ctrl + C or right click to copy the content in an Excel, Google
 
 <div style="max-width: 500px; max-height: 197px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.PNG)
 {% endmarkdown %}
 </div>
 
@@ -84,7 +84,7 @@ Similarly, you first copy the content.
 
 <div style="max-width: 500px; max-height: 236px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.PNG)
 {% endmarkdown %}
 </div>
 
