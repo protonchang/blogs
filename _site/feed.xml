@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to migrate to Quire? Copy and paste.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Many of you have asked about a way to import your work from a different app into Quire, without going through the trouble of entering them one by one. Now, we have the answer: Copy and paste. Be it an Excel sheet with data, a Word document of bullet list, or an email from your coworker, you can easily move them to Quire and continue where you left off...</description>
+				<pubDate>Thu, 27 Oct 2016 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</guid>
+			</item>
+		
+			<item>
 				<title>We’re not Facebook. So why Like?</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 22 Dec 2015 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Out-of-mind-cope-with-time.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Out-of-mind-cope-with-time.html</guid>
-			</item>
-		
-			<item>
-				<title>Why Focusing On Productivity Makes You Less Productive</title>
-				
-					<dc:creator>Julie R. Neidlinger</dc:creator>
-				        
-				<description>You are the most productive person you know. Your phone is filled with to-do lists and productivity apps. You’re busy all the time. Your appointment calendar barely has an empty spot. If there ever was a picture of someone who is getting things done, it’s you. You’re the poster child for productivity.</description>
-				<pubDate>Wed, 04 Nov 2015 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Why-Focusing-On-Productivity-Makes-You-Less-Productive.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Why-Focusing-On-Productivity-Makes-You-Less-Productive.html</guid>
 			</item>
 		
 	</channel>
