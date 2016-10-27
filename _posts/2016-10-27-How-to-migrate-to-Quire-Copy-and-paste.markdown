@@ -30,17 +30,19 @@ Be it an Excel sheet with data, a Word document of bullet list, or an email from
 
 Here are a few examples:
 
-## 1. Spreadsheet
+## 1. Text Editor
 
-First, you press Ctrl + C or right click to copy the content in an Excel, Google or Numbers spreadsheet.
+You may have a bullet list or notes in text editors such as Notepad and Word.
 
-<div style="max-width: 500px; max-height: 197px; margin: 0 auto;">
+First, you press Ctrl + C (Cmd + C for Mac) or right click to copy the content.
+
+<div style="max-width: 500px; max-height: 236px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.PNG)
 {% endmarkdown %}
 </div>
 
-Next, you go to your Quire project, and right click to select Paste.
+Next, you go to your Quire project, click on a task and right click to select Paste.
 
 <div style="max-width: 308px; max-height: 171px; margin: 0 auto;">
 {% markdown %}
@@ -48,51 +50,11 @@ Next, you go to your Quire project, and right click to select Paste.
 {% endmarkdown %}
 </div>
 
-Then, you press Ctrl + V or right click to paste what you copied for preview.
+Then, you press Ctrl + V (Cmd + V for Mac) or right click to paste what you copied for preview.
 
 <div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
-{% endmarkdown %}
-</div>
-
-By default, we recognize what you pasted as **multiple tasks**, with each row being the name, attributes and description of each task.
-
-Only columns called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description**, in no particular order, and the cells below them are recognized. The rest is omitted.
-
-#### Note: The header column names must be exactly the same with the first letter capitalized.
-
-
-
-If you manually select single task, we will recognize the data you pasted as a single task, with the first line as its name and the rest as its description.
-
-#### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
-
-## 2. CSV
-
-With a CSV file, it is the same as copying and pasting from a spreadsheet file.
-
-Once again, only those called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description** and what is below them are recognized.
-
-#### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
-
-## 3. Text Editor
-
-You may have a bullet list or notes in text editors such as Notepad and Word.
-
-Similarly, you first copy the content.
-
-<div style="max-width: 500px; max-height: 236px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.PNG)
-{% endmarkdown %}
-</div>
-
-Then, you go to Quire to paste it for preview.
-
-<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
 {% endmarkdown %}
 </div>
 
@@ -104,7 +66,7 @@ If you manually select **single task**, we will recognize the list you pasted as
 
 #### Note: The @assignee and #tag you typed must already be your project members and tags to be added.
 
-## 4. Gmail
+## 2. Gmail
 
 If you want to turn an important email into a task, here is what you do.
 
@@ -112,7 +74,7 @@ You copy the subject and its content.
 
 <div style="max-width: 500px; max-height: 217px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
 </div>
 
@@ -120,7 +82,7 @@ Then, you go to Quire to paste it.
 
 <div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
 </div>
 
@@ -131,6 +93,90 @@ We also automatically omit the unnecessary detail like “to me” and “5:25 P
 If you manually select **multiple tasks**, we then recognize the content you pasted as multiple tasks, with each line being the name of each task.
 
 For other email service providers including Hotmail and Outlook, we will recognize what you pasted as **multiple tasks**, with each line being the name of each task.
+
+## 3. Spreadsheet
+
+First, you copy the header and content in an Excel, Google Sheets or other spreadsheet applications.
+
+<div style="max-width: 500px; max-height: 197px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.PNG)
+{% endmarkdown %}
+</div>
+
+Then, you go to Quire to paste what you copied for preview.
+
+<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
+{% endmarkdown %}
+</div>
+
+By default, we recognize what you pasted as **multiple tasks**, with each row being the name, attributes and description of each task.
+
+Only columns called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description**, in no particular order, and the cells below them are recognized. The rest is omitted.
+
+#### Note: The header column names must be exactly the same with the first letter capitalized.
+
+You can create a tree structure with tasks and subtasks by adding a column called **Parent**.
+
+For the column **Parent** to be recognized, you need to have another column called **ID**.
+
+<div style="max-width: 500px; max-height: 49px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.PNG)
+{% endmarkdown %}
+</div>
+
+Under the column **ID**, you first assign an ID to the parent task.
+
+<div style="max-width: 500px; max-height: 74px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
+{% endmarkdown %}
+</div>
+
+Then, you go to the task you want to make as the subtask, and enter the parent task ID you have just assigned under the **Parent** column.
+
+<div style="max-width: 500px; max-height: 89px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/10.png)
+{% endmarkdown %}
+</div>
+
+Ta-da! Now you have a tree structure with tasks and subtasks.
+
+<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
+{% endmarkdown %}
+</div>
+
+If you manually select single task, we will recognize the data you pasted as a single task, with the first line as its name and the rest as its description.
+
+#### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
+
+When you paste from Excel, there are a few limitations to keep in mind:
+
+### Cell Width.
+
+In case you have an empty cell, you need to make sure its neighboring cell on the left is wide enough to read the full texts. Otherwise, the cells will not be recognized properly.
+
+### Date Format.
+
+For columns Start and Due to be recognized, you need to enter dates in the format of the country you selected in your [Account Settings](https://quire.io/r/setting). For example, if you selected English (United States), the date format should be Nov 18, 2016. In this example, 11/18/2016, 11-18-2016 and 11.18.2016 are recognized too.
+
+### Priority.
+
+For column Priority to be recognized, you need to enter Low, Medium, High or Urgent (not case sensitive).
+
+## 4. CSV
+
+With a CSV file, it is the same as copying and pasting from a spreadsheet file.
+
+Once again, only those called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description** and what is below them are recognized.
+
+#### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
 
 In short, we have made migration quick and easy. With copy and paste.
 
