@@ -60,7 +60,7 @@ Then, you press Ctrl + V (Cmd + V for Mac) or right click to paste what you copi
 
 By default, we recognize the list as **multiple tasks**, with each line being the name of each task and subtask.
 
-We also automatically translate texts like “<tomorrow>”, #Marketing”, “@Megan” and “!2” into **due date**, **tag**, **assignee** and **priority**, and omit unnecessary numbers, characters and punctuation marks like “-” and “*” which are supported by Markdown.
+We also automatically translate texts like `<tomorrow>`, `#Marketing`, `@Megan` and `!2` into **due date**, **tag**, **assignee** and **priority**, and omit unnecessary numbers, characters and punctuation marks like “-” and “*” which are supported by Markdown.
 
 If you manually select **single task**, we will recognize the list you pasted as a single task, with the first line as its name and the rest as its description.
 
