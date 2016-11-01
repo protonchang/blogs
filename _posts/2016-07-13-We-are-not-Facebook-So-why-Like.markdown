@@ -26,7 +26,7 @@ What does Quire and Facebook have in common? Likes.
 
 In Quire, we call them favorites. Of course you can ♥ a task and feel proud of the 23 number of ♥ you get, but more importantly, it’s a way to easily see the tasks that matter to you. Personally.
 
-In other words, when you want focus on a few tasks that are important to you and you alone, you ♥ them.
+In other words, when you want to focus on a few tasks that are important to you and you alone, you ♥ them.
 
 Below, we dig into favorites a bit more:
 

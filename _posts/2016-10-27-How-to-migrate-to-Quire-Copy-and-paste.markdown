@@ -156,11 +156,7 @@ If you manually select single task, we will recognize the data you pasted as a s
 
 #### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
 
-When you paste from Excel, there are a few limitations to keep in mind:
-
-### Cell Width.
-
-In case you have an empty cell, you need to make sure its neighboring cell on the left is wide enough to read the full texts. Otherwise, the cells will not be recognized properly.
+When you paste from Excel, there are two limitations to keep in mind:
 
 ### Date Format.
 
