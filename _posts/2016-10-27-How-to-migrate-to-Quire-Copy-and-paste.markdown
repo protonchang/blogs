@@ -50,6 +50,8 @@ Next, you go to your Quire project, click on a task and right click to select Pa
 {% endmarkdown %}
 </div>
 
+### Tip: You can skip this step by simply pressing Ctrl + V (or Cmd + V for Mac) to paste what you copied in a Chrome, Firefox or Microsoft Edge browser.
+
 Then, you press Ctrl + V (Cmd + V for Mac) or right click to paste what you copied for preview.
 
 <div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
