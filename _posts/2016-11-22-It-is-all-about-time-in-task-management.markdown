@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "It is all about time in task management."
-date:   2016-11-21 11:58:07
+date:   2016-11-22 11:58:07
 categories: "features"
 
 index-intro: "Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time. But, we often fail. To solve this problem, Quire has got a series of features including start date and time, due date and time, reminders, status, etc. to help you and your team..."
 category-intro: "Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time..."
 
-image: "2016-11-21-It-is-all-about-time-in-task-management/0.jpg"
+image: "2016-11-22-It-is-all-about-time-in-task-management/0.jpg"
 tags: time date tracking
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Your time comes with a price tag", "A plan well-laid, a party well-played"]
 
-imgDir: "2016-11-21-It-is-all-about-time-in-task-management"
+imgDir: "2016-11-22-It-is-all-about-time-in-task-management"
 ---
 
 
