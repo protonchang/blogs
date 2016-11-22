@@ -7,14 +7,25 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>It is all about time in task management.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time. But, we often fail. To solve this problem, Quire has got a series of features including start date and time, due date and time, reminders, status, etc. to help you and your team...</description>
+				<pubDate>Mon, 21 Nov 2016 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/It-is-all-about-time-in-task-management.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/It-is-all-about-time-in-task-management.html</guid>
+			</item>
+		
+			<item>
 				<title>How to migrate to Quire? Copy and paste.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
 				        
 				<description>Many of you have asked about a way to import your work from a different app into Quire, without going through the trouble of entering them one by one. Now, we have the answer: Copy and paste. Be it an Excel sheet with data, a Word document of bullet list, or an email from your coworker, you can easily move them to Quire and continue where you left off...</description>
 				<pubDate>Thu, 27 Oct 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</guid>
+				<link>https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste%20copy.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste%20copy.html</guid>
 			</item>
 		
 			<item>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 05 Jan 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Keep-Your-New-Years-Resolutions-on-the-Road.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Keep-Your-New-Years-Resolutions-on-the-Road.html</guid>
-			</item>
-		
-			<item>
-				<title>Out of mind, cope with time</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>It was on a Wednesday morning that I told myself, “This is it. You’ll travel to Hong Kong this Saturday to shop at Apple Store, J. Crew and Lane Crawford in the IFC Mall and be back in one day.” So, I booked the round tickets online on Wednesday, self checked on Friday, and left home with a shoulder bag at exactly 7am on Saturday.</description>
-				<pubDate>Tue, 22 Dec 2015 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Out-of-mind-cope-with-time.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Out-of-mind-cope-with-time.html</guid>
 			</item>
 		
 	</channel>
