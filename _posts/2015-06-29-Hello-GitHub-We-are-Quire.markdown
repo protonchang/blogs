@@ -86,18 +86,18 @@ First, choose a task.
 
 Find the ID for this task in the url bar.
 
-<div style="max-width: 625px; max-height: 101px; margin: 0 auto;">
+<div style="max-width: 574px; max-height: 106px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
 </div>
 
-You enter a # and the first 4 or more characters of the task ID in the commit message.
+You enter a # and the task ID in the commit message.
 
 For example:
 
 ```
-Write #6BOd.
+Write #634.
 ```
 
 When you make a reference, we will add a comment to the task like this:
@@ -123,7 +123,7 @@ You can also add a message at the end of your commit.
 For example:
 
 ```
-Edit #6BOd added more description.
+Edit #634 added more description.
 ```
 
 Then, it will appear like this in the task’s comment:
@@ -141,7 +141,7 @@ Follow the same steps for referencing a task, and simply add “and” in your c
 For example:
 
 ```
-Edit #6BOd, #7BOd and #8BOd paraphrased a few sentences.
+Edit #634, #635 and #636 paraphrased a few sentences.
 ```
 
 It will look like this in all three tasks:
@@ -164,18 +164,18 @@ Again, first select a task.
 
 Find the task ID in the url bar.
 
-<div style="max-width: 626px; max-height: 117px; margin: 0 auto;">
+<div style="max-width: 574px; max-height: 106px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/13.png)
 {% endmarkdown %}
 </div>
 
-Use any of the keywords below followed by a # and the first 4 or more characters of the task ID in your commit message.
+Use any of the keywords below followed by a # and the task ID in your commit message.
 
 For example:
 
 ```
-Close #6BOd article finalized.
+Close #634 article finalized.
 ```
 
 Keywords:
@@ -210,7 +210,7 @@ Follow the same steps for closing a task, and add “and” in your commit messa
 For example:
 
 ```
-Close #7BOd and #8BOd articles finalized.
+Close #635 and #636 articles finalized.
 ```
 
 When you complete these two tasks, we will add the same comment to both tasks:
