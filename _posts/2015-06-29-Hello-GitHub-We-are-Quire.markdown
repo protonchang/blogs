@@ -92,6 +92,8 @@ Find the ID for this task in the url bar.
 {% endmarkdown %}
 </div>
 
+#### Tip: You can press Ctrl (or Alt for Mac) to see all task IDs.
+
 You enter a # and the task ID in the commit message.
 
 For example:
