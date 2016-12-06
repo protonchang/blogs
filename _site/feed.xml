@@ -7,14 +7,25 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire in 2016, and things to look forward to.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village. As such a joyous time approaches, we want to take this opportunity to thank all of you, and share some thoughts and facts before we call it a year...</description>
+				<pubDate>Tue, 06 Dec 2016 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-in-2016-and-things-to-look-forward-to.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-in-2016-and-things-to-look-forward-to.html</guid>
+			</item>
+		
+			<item>
 				<title>It is all about time in task management.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
 				        
 				<description>Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time. But, we often fail. To solve this problem, Quire has got a series of features including start date and time, due date and time, reminders, status, etc. to help you and your team...</description>
 				<pubDate>Tue, 22 Nov 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/It-is-all-about-time-in-task-management.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/It-is-all-about-time-in-task-management.html</guid>
+				<link>https://quire.io/blog/p/It-is-all-about-time-in-task-management%20copy.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/It-is-all-about-time-in-task-management%20copy.html</guid>
 			</item>
 		
 			<item>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 01 Feb 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html</guid>
-			</item>
-		
-			<item>
-				<title>Keep Your New Year&#39;s Resolutions on the Road</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>New year comes with an opportunity for you to become a more productive, better and happier person by kicking off the resolutions you set to accomplish. Having said that, people who set resolutions never expect themselves to follow through. In fact, 25% of them give up by January 7. Here’s a tip to help you go from making them, to actually keeping them.</description>
-				<pubDate>Tue, 05 Jan 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Keep-Your-New-Years-Resolutions-on-the-Road.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Keep-Your-New-Years-Resolutions-on-the-Road.html</guid>
 			</item>
 		
 	</channel>
