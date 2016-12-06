@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quire in 2016, and things to look forward to."
+title:  "Quire now, and things to look forward to in 2017."
 date:   2016-12-06 11:58:07
 categories: "tips"
 
