@@ -38,7 +38,7 @@ The biggest challenge my team and I had before using Quire was being able to eas
 
 Now in [Quire](https://quire.io/), we have every colleague as a project and in each project, each client that the colleague is responsible for as a task that includes the client’s profile in its description. If we ever need to focus on a specific group of clients, we just add tags (eg. 10 different tag for 10 different products) and filter by them.
 
-For example, my colleague Melissa is working with client UBS - the Swiss banking giant - and she had a meeting to show them a fund product. When I wanted to know how it went and give some suggestions, I simply posted a comment which was nicely time stamped, and so right after being notified of it, Melissa could check it out.
+For example, my colleague is working with a client and she had a meeting to show them a fund product. When I wanted to know how it went and give some suggestions, I simply posted a comment which was nicely time stamped, and so right after being notified of it, she could check it out.
 
 For us, Quire keeps communication between different people from different countries easy, and everything else organized and ready within our reach, in ways it never was before!
 
