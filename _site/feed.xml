@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Bringing people around the globe in a task manager, and why not a CRM tool</title>
+				
+					<dc:creator>Sebastian Schaefer</dc:creator>
+				        
+				<description>Collaborating with different people from different countries can be tedious - but not for us at Green Shoots Capital. We are a Switzerland-based financial company that sells financial products. Three months ago, we found ourselves spending hours each day to figure out who is doing what and what has been updated. Given that we have about 30 team members (all under 50 by the way) from countries...</description>
+				<pubDate>Tue, 03 Jan 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire now, and things to look forward to in 2017.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 04 Feb 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html</guid>
-			</item>
-		
-			<item>
-				<title>Turn Your Projects into Customizable Reports in Excel</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>They say old habits die hard. So we get that some of you, or your managers, are used to the flexibility of customizing your own reports in a software application you’re already familiar with: Microsoft Excel or Google Sheets. When it comes to that, you can export your projects into CSV formatted files on Quire.</description>
-				<pubDate>Mon, 01 Feb 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html</guid>
 			</item>
 		
 	</channel>
