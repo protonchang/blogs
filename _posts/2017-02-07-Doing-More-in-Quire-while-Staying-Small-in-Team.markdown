@@ -34,7 +34,7 @@ I spoke to Ray about how Quire has helped him stay away from chaos and pressure.
 
 ## How did you find out about Quire?
 
-Years ago, I used to use a PIM software called ECCO Pro. The thing I liked about it was that it allowed you to set up hierarchical to-do lists which is exactly how I think about my work. It seemed no other software did that at the time.
+Years ago, I used to use a PIM software called [ECCO Pro](http://eccopro.com/). The thing I liked about it was that it allowed you to set up hierarchical to-do lists which is exactly how I think about my work. It seemed no other software did that at the time.
 
 Unfortunately, the company went out of business. So I did a search to find a “**hierarchical todo list**” software, and [Quire](https://quire.io/) was what I found.
 
