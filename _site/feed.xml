@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Doing More in Quire, while Staying Small in Team</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>For many of us, the biggest challenge is to stay productive and organized as our team grows bigger and bigger. But it is the opposite for Ray. Ray works as a senior software engineer in Aerovironment, Inc., a technology company located in California, United States. For him, the question is how to get more things done in a team that shrinked from 12 to 4-5 people...</description>
+				<pubDate>Tue, 07 Feb 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Doing-More-in-Quire-while-Staying-Small-in-Team.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Doing-More-in-Quire-while-Staying-Small-in-Team.html</guid>
+			</item>
+		
+			<item>
 				<title>Bringing people around the globe in a task manager, and why not a CRM tool</title>
 				
 					<dc:creator>Sebastian Schaefer</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 15 Mar 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/A-plan-well-laid-a-party-well-played.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/A-plan-well-laid-a-party-well-played.html</guid>
-			</item>
-		
-			<item>
-				<title>Time to Break the Myth of “Multiple Assignees” in Task Management</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”. While other task management tools or to-do apps out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother...</description>
-				<pubDate>Thu, 04 Feb 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html</guid>
 			</item>
 		
 	</channel>
