@@ -236,6 +236,30 @@ Reference image syntax looks like this:
 
 In this style of writing, “id” is the name of a defined image reference, which is defined in the same way as link references.
 
+### **TABLES**
+
+You can create tables using `|` (pipes) and `-` (hyphens).
+
+Pipes are used to separate each column and hyphens create each column’s header.
+
+So, if you type:
+
+```
+| Left   | Center   | Right |
+| :------ |:-----------:| ------:|
+| A | text A | word A |
+| B | text B | word B |
+| C | text C | word C |
+```
+
+It will turn out like this:
+
+| Left | Center | Right |
+| :---- |:---------:| ------:|
+| A | text A | word A |
+| B | text B | word B |
+| C | text C | word C |
+
 ### **BLOCKQUOTES**
 
 Blockquotes are indicated using “>” angle brackets.
@@ -311,6 +335,37 @@ Or if you choose Javascript as your content language:
     ```
 
 You will see that it displays text in different colors according to the content language you chose, making it easier for programmers and developers to read.
+
+### **BACKSLASH ESCAPES**
+
+We let you use \ (backslash) to surround text with characters, so you can escape the characters’ general meaning.
+
+For example, if you want to surround a word with asterisks, use backslashes before the asterisks:
+
+```
+\*literal asterisks\*
+```
+
+Then, it will turn out like this:
+
+```
+*literal asterisks*
+```
+
+We support backslash escapes for the following characters:
+
+- \   backslash
+- `   backtick
+- *   asterisk
+- _   underscore
+- {}  curly braces
+- []  square brackets
+- ()  parentheses
+- #   hash mark
+- +   plus sign
+- -   hyphen
+- .   dot
+- !   exclamation mark
 
 ### **YOUTUBE VIDEOS**
 

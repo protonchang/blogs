@@ -184,6 +184,12 @@
              
              
             <a class="" 
+              href="/blog/category/ios">IOS</a>
+          
+             
+             
+             
+            <a class="" 
               href="/blog/category/user_story">USER_STORY</a>
           
         </div>
@@ -376,6 +382,45 @@ H2
 </code></pre></div>
 <p>In this style of writing, “id” is the name of a defined image reference, which is defined in the same way as link references.</p>
 
+<h3 id="tables"><strong>TABLES</strong></h3>
+
+<p>You can create tables using <code>|</code> (pipes) and <code>-</code> (hyphens).</p>
+
+<p>Pipes are used to separate each column and hyphens create each column’s header.</p>
+
+<p>So, if you type:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">| Left   | Center   | Right |
+| :------ |:-----------:| ------:|
+| A | text A | word A |
+| B | text B | word B |
+| C | text C | word C |
+</code></pre></div>
+<p>It will turn out like this:</p>
+
+<table><thead>
+<tr>
+<th style="text-align: left">Left</th>
+<th style="text-align: center">Center</th>
+<th style="text-align: right">Right</th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: left">A</td>
+<td style="text-align: center">text A</td>
+<td style="text-align: right">word A</td>
+</tr>
+<tr>
+<td style="text-align: left">B</td>
+<td style="text-align: center">text B</td>
+<td style="text-align: right">word B</td>
+</tr>
+<tr>
+<td style="text-align: left">C</td>
+<td style="text-align: center">text C</td>
+<td style="text-align: right">word C</td>
+</tr>
+</tbody></table>
+
 <h3 id="blockquotes"><strong>BLOCKQUOTES</strong></h3>
 
 <p>Blockquotes are indicated using “&gt;” angle brackets.</p>
@@ -432,6 +477,33 @@ var setArray = function(elems) {
 ```
 </code></pre></div>
 <p>You will see that it displays text in different colors according to the content language you chose, making it easier for programmers and developers to read.</p>
+
+<h3 id="backslash-escapes"><strong>BACKSLASH ESCAPES</strong></h3>
+
+<p>We let you use \ (backslash) to surround text with characters, so you can escape the characters’ general meaning.</p>
+
+<p>For example, if you want to surround a word with asterisks, use backslashes before the asterisks:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">\*literal asterisks\*
+</code></pre></div>
+<p>Then, it will turn out like this:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">*literal asterisks*
+</code></pre></div>
+<p>We support backslash escapes for the following characters:</p>
+
+<ul>
+<li>\   backslash</li>
+<li>`   backtick</li>
+<li>*   asterisk</li>
+<li>_   underscore</li>
+<li>{}  curly braces</li>
+<li>[]  square brackets</li>
+<li>()  parentheses</li>
+<li>#   hash mark</li>
+<li>+   plus sign</li>
+<li>-   hyphen</li>
+<li>.   dot</li>
+<li>!   exclamation mark</li>
+</ul>
 
 <h3 id="youtube-videos"><strong>YOUTUBE VIDEOS</strong></h3>
 

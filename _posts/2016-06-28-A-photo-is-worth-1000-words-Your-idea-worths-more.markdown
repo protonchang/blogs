@@ -2,7 +2,7 @@
 layout: post
 title:  "A photo is worth 1000 words. Your idea worths more!"
 date:   2016-06-28 11:58:07
-categories: "features"
+categories: "ios"
 
 index-intro: "Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas! Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day..."
 category-intro: "Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas..."
@@ -27,6 +27,10 @@ Hey, have you tried the recently-released [Quire for iOS](https://itunes.apple.c
 Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day even if we have a chance to get them down.
 
 The good news is, you have the iOS app to help you with that! Or, to be more precise, the 3-in-1 **Snap to Add**. By tabbing “+” and choosing whichever option, Camera, Photos or Text, that suits you at the moment, you can bring your ideas into the world!
+
+Here is a demo video:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9sySNM6HcUU" frameborder="0" allowfullscreen></iframe></center>
 
 And we’ve got a few scenarios to show you:
 
