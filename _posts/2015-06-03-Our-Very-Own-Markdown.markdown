@@ -254,11 +254,33 @@ So, if you type:
 
 It will turn out like this:
 
-| Left | Center | Right |
-| :---- |:---------:| ------:|
-| A | text A | word A |
-| B | text B | word B |
-| C | text C | word C |
+<div style="max-width: 227px; max-height: 155px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
+{% endmarkdown %}
+</div>
+
+### **ESCAPE PIPE**
+
+You may want to escape a pipe in a table cell. It can be done easily with ``\`` in front of the pipe.
+
+For example, if you type:
+
+```
+| Left   | Right |
+| :------ | ------:|
+| A | text A |
+| B | text B |
+| C | text C \| word C |
+```
+
+It will look like this:
+
+<div style="max-width: 198px; max-height: 157px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
+{% endmarkdown %}
+</div>
 
 ### **BLOCKQUOTES**
 
@@ -338,7 +360,7 @@ You will see that it displays text in different colors according to the content 
 
 ### **BACKSLASH ESCAPES**
 
-We let you use \ (backslash) to surround text with characters, so you can escape the characters’ general meaning.
+We let you use `\` (backslash) to surround text with characters, so you can escape the characters’ general meaning.
 
 For example, if you want to surround a word with asterisks, use backslashes before the asterisks:
 
