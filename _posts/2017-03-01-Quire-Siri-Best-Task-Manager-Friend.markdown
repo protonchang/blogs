@@ -46,13 +46,13 @@ One example would be: “Write the article by 5pm next Friday and assign to Crys
 
 We also support other languages including German, French, Mandarin and Japanese. 
 
-The same example in German is, “Schreiben Sie den Artikel Fälligkeitsdatum auf 5pm setzen und Crystal zuweisen.”
+The same example in German is, “Schreibe den Artikel bis nächsten Freitag 17 Uhr und weise ihn Crystal zu.”
 
-In French, you can say, “Rédiger l’article, expire vendredi prochain à 17:00 et affecté à Crystal.”
+In French, you can say, “Rédiger l’article, expire vendredi prochain à 17:00, et affecté à Crystal.”
 
-If you speak Mandarin, it will then be, “下週五下午五點寫文章並請Crystal完成。”
+If you speak Mandarin, it will be, “下禮拜五下午五點寫文章並請Crystal完成。”
 
-And in the case of Japanese, it will be, “来週金曜日の午後5時までに文章を書き、そしてCrystalに割り当てる。”
+Or, if the task is due tomorrow, you can say this in Japanese, “明日文章を書きそしてCrystalに割り当てる。”
 
 Siri is officially our best friend when we are on the go.
 
