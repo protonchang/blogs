@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire, Siri&#39;s Best Task Manager Friend</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap your ideas and pinch to zoom being introduced. And now, we welcome the smart assistant Siri on board! When you talk to Siri about us, we listen and do the rest...</description>
+				<pubDate>Wed, 01 Mar 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Siri-Best-Task-Manager-Friend.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Siri-Best-Task-Manager-Friend.html</guid>
+			</item>
+		
+			<item>
 				<title>Doing More in Quire, while Staying Small in Team</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 26 Apr 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Type-it-while-you-think-it.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Type-it-while-you-think-it.html</guid>
-			</item>
-		
-			<item>
-				<title>A plan well-laid, a party well-played</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>“Prost!” cheered the Taiwanese girl Laura, the German guy Richard, and a few dozens people as they banged their glasses of beer together while biting down chicken legs, sausages and pig’s trotters in a German after-wedding party in a German restaurant...</description>
-				<pubDate>Tue, 15 Mar 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/A-plan-well-laid-a-party-well-played.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/A-plan-well-laid-a-party-well-played.html</guid>
 			</item>
 		
 	</channel>
