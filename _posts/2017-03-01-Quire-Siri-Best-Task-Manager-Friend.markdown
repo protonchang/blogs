@@ -30,7 +30,7 @@ When you talk to Siri about us, we listen and do the rest. Quire will take your 
 
 Check out the demo video:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/f5PKHumpwsE" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe height="315" src="https://www.youtube.com/embed/f5PKHumpwsE" frameborder="0" style="max-width: 560px; width: 100%" allowfullscreen></iframe></center>
 
 Simply say, “Hey Siri, send a message to [your project name] on Quire.” Or, you can say, “Quire [your project name] saying” to start the conversation with Siri.
 
