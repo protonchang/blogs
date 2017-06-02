@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>On a journey to build a dream school together in Austria</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>I am a Community Manager. As a Community Manager, I talk to our users a lot. They tell me all sorts of stories, from what they enjoy the most about our product, to how they recently traveled to Greece for a 10-day vacation. But there is one that really caught my eyes. It is a story about a group of people who were passionate...</description>
+				<pubDate>Fri, 02 Jun 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/On-a-journey-to-build-a-dream-school-together-in-Austria.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/On-a-journey-to-build-a-dream-school-together-in-Austria.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Helps Move Your Team Projects Forward</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 28 Jun 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html</guid>
-			</item>
-		
-			<item>
-				<title>Snap your ideas! Introducing Quire for iOS</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that...</description>
-				<pubDate>Tue, 14 Jun 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Snap-your-ideas-Introducing-Quire-for-iOS.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Snap-your-ideas-Introducing-Quire-for-iOS.html</guid>
 			</item>
 		
 	</channel>
