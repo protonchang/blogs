@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Mark II, reimagined and rebuilt for your dreams</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference...</description>
+				<pubDate>Thu, 15 Jun 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</guid>
+			</item>
+		
+			<item>
 				<title>On a journey to build a dream school together in Austria</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 13 Jul 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/We-are-not-Facebook-So-why-Like.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/We-are-not-Facebook-So-why-Like.html</guid>
-			</item>
-		
-			<item>
-				<title>A photo is worth 1000 words. Your idea worths more!</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas! Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day...</description>
-				<pubDate>Tue, 28 Jun 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html</guid>
 			</item>
 		
 	</channel>
