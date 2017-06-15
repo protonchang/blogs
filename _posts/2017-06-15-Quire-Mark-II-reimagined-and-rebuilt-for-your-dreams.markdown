@@ -4,7 +4,7 @@ title:  "Quire Mark II, reimagined and rebuilt for your dreams"
 date:   2017-06-15 11:58:07
 categories: "milestones"
 
-index-intro: "Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference..."
+index-intro: "Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference. Imagine you adding your own color to the painting..."
 category-intro: "Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to..."
 
 image: "2017-06-15-Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams/0.png"
@@ -130,9 +130,7 @@ These are what we are doing for the next phase of Quire Mark II at the moment. I
 
 ## We were not alone. You made it all possible!
  
-Thanks to the many [feedbacks](https://quire.io/w/Quire_Feedbacks/Quire_Feedbacks) of our users, we made a great leap in the history of Quire. We took our best ideas, plus months and months of feedback and suggestions from passionate users like you, to put together the best-ever-made Quire.
- 
-To name a few, Rafael, Steve, Roman, Philipp, Joshua, Tristan, Andrés and Lee.
+Thanks to your many [feedbacks](https://quire.io/w/Quire_Feedbacks/Quire_Feedbacks), we made a great leap in Quire Mark II. To name a few, Rafael, Steve, Roman, Philipp, Joshua, Tristan, Andrés and Lee.
  
 With your continuous participation, a new type of collaboration tool for teams with big ideas has been blooming finely.
  
