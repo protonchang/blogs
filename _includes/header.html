@@ -34,7 +34,7 @@
       <li class="item feedback">
           <a href="/feedback">Feedback</a>
       </li>
-      <li class="item t-user dropdown hide" id="u-id">
+      <li class="item t-user dropdown" id="u-id">
         <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown">
           <!-- <img class="img-icon x30 circle" src="https://quire.s3.amazonaws.com/BI613BWUDag2wydvYxm5vWlk/image.jpg?1441693943103" alt="A"> -->
           <!-- <div class="img-icon x30 circle iconc-31">A</div> -->
@@ -42,18 +42,15 @@
         <ul class="arrow-dropdown-menu dropdown-menu pull-right arrow-border">
           <li class="dropdown-header"></li>
 
-          <li class="divider"></li>
-
-          <li class="u-item"><a href=""><i class="fa fa-user fa-fw"></i>My Profile</a></li>
-          <li class="u-item"><a href="/r/setting"><i class="fa fa-cog fa-fw"></i>Account Settings</a></li>
+          <li class="u-item"><a href="[:url currentUser]"><i class="icon-user-o"></i>My Profile</a></li>
+          <li class="u-item"><a href="/r/setting?[='$PARAM_TAB=$FCT_OPTIONS_TAB']"><i class="icon-cog-o"></i>Account Settings</a></li>
 
           <li class="divider"></li>
 
-          <li class="u-item"><a href="/invite"><i class="fa fa-heart-o fa-fw"></i>Recommend Quire</a></li>
+          <li class="u-item"><a href="/invite"><i class="icon-heart-o"></i>Recommend Quire</a></li>
 
           <li class="divider"></li>
-          
-          <li class="u-item"><a href="/r/logout"><i class="fa fa-sign-out fa-fw"></i>Log out</a></li>
+          <li class="u-item"><a href="/r/logout"><i class="icon-sign-out"></i>Log out</a></li>
         </ul>
       </li>
   </ul>
