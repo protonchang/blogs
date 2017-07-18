@@ -32,9 +32,9 @@ This is exactly where Quire - Quire Mark II to be more precise - comes in. To he
 
 Capturing your ideas, and breaking them down for achievement are what we do best. Now, Quire Mark II sets a new standard for accomplishing them with ease, and a little grace. And it opens up possibilities for anchoring your dreams in reality.
 
-### **Cross-Project: View all related projects at once**
+### **Smart Folders: View all related projects at once**
 
-To start off, we have **cross-project**, the one place where you can review, reorganize your ideas and tasks from different projects and different organizations.
+To start off, we have **smart folder**, a folder of different projects from different organizations where you can review, reorganize your ideas and tasks in them.
 
 <div style="max-width: 550px; max-height: 305px; margin: 0 auto;">
 {% markdown %}
