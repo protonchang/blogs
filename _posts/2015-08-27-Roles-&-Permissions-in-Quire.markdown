@@ -14,7 +14,7 @@ authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
-relatedPosts: [""]
+relatedPosts: ["Quire 101", "We have a new member role in organizations."]
 
 imgDir: "2015-08-27-Roles-and-Permissions"
 ---
@@ -24,9 +24,9 @@ imgDir: "2015-08-27-Roles-and-Permissions"
 
 ## **Overview**
 
-By default, Normal is the role given to the new member you have invited. Being a Normal member basically allows you to manage everything in a project or organization, except its members.
+By default, Normal is the role given to the new member you have invited. Being a Normal member basically allows you to manage everything in a project, except its members.
 
-An Admin, on the other hand, has all the permissions, including managing a project or organization, and its members.
+An Admin, on the other hand, has all the permissions, including managing a project, and its members.
 
 When you outsource a task to an external team, you can assign different roles to the team’s external members. The external members will only have permissions to the task outsourced to the team even if they take on the Admin role.
 
@@ -56,7 +56,7 @@ For more details, the tables below summarize what each of the four roles can do 
 {% endmarkdown %}
 </div>
 
-#### Note: The role assigned to an organization member will be executed in all projects of the organization, unless another role is assigned in a particular project.
+#### Note: When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
 
 ---
 

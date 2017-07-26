@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>We have a new member role in organizations.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of. In summary, Admin, Normal+ and Limited+ members...</description>
+				<pubDate>Wed, 26 Jul 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Mark II, reimagined and rebuilt for your dreams</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 27 Oct 2016 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html</guid>
-			</item>
-		
-			<item>
-				<title>We’re not Facebook. So why Like?</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>What does Quire and Facebook have in common? Likes. In Quire, we call them favorites. Of course you can ♥ a task and feel proud of the 23 number of ♥ you get, but more importantly, it’s a way to easily see the tasks that matter to you. Personally...</description>
-				<pubDate>Wed, 13 Jul 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/We-are-not-Facebook-So-why-Like.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/We-are-not-Facebook-So-why-Like.html</guid>
 			</item>
 		
 	</channel>
