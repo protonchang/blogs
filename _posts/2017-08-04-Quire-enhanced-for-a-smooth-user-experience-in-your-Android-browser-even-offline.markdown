@@ -4,7 +4,7 @@ title:  "Quire enhanced for a smooth user experience in your Android browser, ev
 date:   2017-08-04 11:58:07
 categories: "features"
 
-index-intro: "We are one step closer to making Quire accessible anywhere on any device. For the past couple months, we have optimized it for your Android mobile browser, so it now comes with better reliability, and accessibility. Even when you are offline. What exactly have been enhanced? To name a few, you can swipe a task to instantly do more. To quickly break down a task into smaller items, you can swipe it from right to left to add subtasks..."
+index-intro: "We are one step closer to making Quire accessible anywhere on any device. For the past couple months, we have optimized it for your Android mobile browser, so it now comes with better reliability, and accessibility. Even when you are offline. What exactly have been enhanced? To name a few, you can swipe a task to instantly do more. To quickly break down a task into smaller items, you can swipe it from right to left to add subtasks. To complete a task, swipe it from left to right and tap the complete icon..."
 category-intro: "We are one step closer to making Quire accessible anywhere on any device..."
 
 image: "2017-08-04-Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline/0.png"

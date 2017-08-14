@@ -99,7 +99,7 @@ Atx-style headers use 1–6 number signs at the start of the line, followed by 1
 
 ### **LINE BREAKS**
 
-To generate a new line, you press SHIFT+Enter.
+To generate a new line, you press ENTER.
 
 **HORIZONTAL RULES**
 
