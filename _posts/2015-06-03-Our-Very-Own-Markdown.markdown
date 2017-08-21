@@ -260,6 +260,8 @@ It will turn out like this:
 {% endmarkdown %}
 </div>
 
+#### Tip: You can type `<br>` to break a line in a table cell, and `\<br>` to keep `<br>` in the cell.
+
 ### **ESCAPE PIPE**
 
 You may want to escape a pipe in a table cell. It can be done easily with ``\`` in front of the pipe.
