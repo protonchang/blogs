@@ -28,45 +28,55 @@ Humans are predominantly visual animals. We process visual information much bett
 
 Simply follow 4 steps and you’ll have your tasks synced with your Google Calendar!
 
-*Click on the Options icon that looks like a wheel.*
+### 1. Go to project's Settings -> Options -> Integrations
 
-<div style="max-width: 700px; max-height: 441px; margin: 0 auto;">
+<div style="max-width: 219px; max-height: 96px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
-*Choose Sync to calendar.*
+### 2. Click on "Sync" under Calendar
 
-<div style="max-width: 700px; max-height: 440px; margin: 0 auto;">
+<div style="max-width: 473px; max-height: 152px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
 
-*Follow the 4 steps. You can uncheck the box to see all tasks.*
+#### Tip: You can click on the arrow beside the project name at the top and choose Integrate Calendars directly.
 
-<div style="max-width: 700px; max-height: 444px; margin: 0 auto;">
+### 3. Choose what kind of tasks you want to sync
+
+<div style="max-width: 454px; max-height: 207px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
 </div>
 
----
+### 4. Choose Google Calendar if it is not already set by default
 
-*Syncs automatically in a day if not right away:*
-
-<div style="max-width: 545px; max-height: 424px; margin: 0 auto;">
+<div style="max-width: 455px; max-height: 207px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
 </div>
 
-Hope you find this feature useful and enjoy Quire even more!
+### 5. Follow the steps specificed in the description
 
----
+<div style="max-width: 453px; max-height: 184px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
+{% endmarkdown %}
+</div>
 
-## <div style="text-align:center;">Cheers for now!</div>
+Syncs automatically in a day if not right away!
+
+<div style="max-width: 545px; max-height: 424px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
+{% endmarkdown %}
+</div>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
