@@ -42,7 +42,7 @@ Sometimes, users would like to focus on only one task and its subtasks on [Quire
 {% endmarkdown %}
 </div>
 
-To further zoom in on a subtask, press the Down arrow key to select it and then Z.
+To further zoom in on a subtask, press the Down arrow key to select it and then press Z.
 
 To zoom out, press A.
 

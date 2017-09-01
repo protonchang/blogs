@@ -2,7 +2,7 @@
 layout: post
 title:  "Time to Break the Myth of “Multiple Assignees” in Task Management"
 date:   2016-02-04 11:58:07
-categories: "workstyle"
+categories: "features"
 
 index-intro: "We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”. While other task management tools or to-do apps out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother..."
 category-intro: "We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”..."

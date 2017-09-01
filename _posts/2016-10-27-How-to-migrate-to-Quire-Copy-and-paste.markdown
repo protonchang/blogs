@@ -44,7 +44,7 @@ First, you press Ctrl + C (Cmd + C for Mac) or right click to copy the content.
 
 Next, you go to your Quire project, click on a task and right click to select Paste.
 
-<div style="max-width: 308px; max-height: 171px; margin: 0 auto;">
+<div style="max-width: 331px; max-height: 203; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -54,7 +54,7 @@ Next, you go to your Quire project, click on a task and right click to select Pa
 
 Then, you press Ctrl + V (Cmd + V for Mac) or right click to paste what you copied for preview.
 
-<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+<div style="max-width: 500px; max-height: 574px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
@@ -74,7 +74,7 @@ If you want to turn an important email into a task, here is what you do.
 
 You copy the subject and its content.
 
-<div style="max-width: 500px; max-height: 217px; margin: 0 auto;">
+<div style="max-width: 500px; max-height: 229px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
@@ -82,7 +82,7 @@ You copy the subject and its content.
 
 Then, you go to Quire to paste it.
 
-<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+<div style="max-width: 500px; max-height: 481x; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
@@ -108,7 +108,7 @@ First, you copy the header and content in an Excel, Google Sheets or other sprea
 
 Then, you go to Quire to paste what you copied for preview.
 
-<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+<div style="max-width: 500px; max-height: 479px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
 {% endmarkdown %}
@@ -148,7 +148,7 @@ Then, you go to the task you want to make as the subtask, and enter the parent t
 
 Ta-da! Now you have a tree structure with tasks and subtasks.
 
-<div style="max-width: 500px; max-height: 438px; margin: 0 auto;">
+<div style="max-width: 500px; max-height: 478px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/11.png)
 {% endmarkdown %}
