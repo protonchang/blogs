@@ -28,9 +28,9 @@ So what are they? They’re *smart* keyboard shortcuts. They can help you add **
 
 ## When you add a new task...
 
-You may want to get David to write an article that’s urgent and is related to design by Oct. 2nd.
+You may want to get David to write an article that’s urgent and is related to marketing by Oct. 2nd.
 
-Simply add a task, and type “Write the article **@David !1 #Design <10/2>” and press Enter.
+Simply add a task, and type “Write the article **@David !1 #Marketing <10/2>” and press Enter.
 
 <div style="max-width: 550px; max-height: 134px; margin: 0 auto;">
 {% markdown %}
@@ -38,7 +38,7 @@ Simply add a task, and type “Write the article **@David !1 #Design <10/2>” a
 {% endmarkdown %}
 </div>
 
-Your task would, of course, be automatically assigned to David, have a priority of Urgent, a due date of Oct. 2nd and the tag Design.
+Your task would, of course, be automatically assigned to David, have a priority of Urgent, a due date of Oct. 2nd and the tag Marketing.
 
 <div style="max-width: 550px; max-height: 135px; margin: 0 auto;">
 {% markdown %}
@@ -46,7 +46,7 @@ Your task would, of course, be automatically assigned to David, have a priority 
 {% endmarkdown %}
 </div>
 
-If you want to set a start date as well, simply type "Write the article @David #Design <**9/20**; **10/2**>" and press Enter.
+If you want to set a start date as well, simply type "Publish the article @David #Marketing <**9/20**; **10/2**>" and press Enter.
 
 Obviously, when you type @, # or <> (with or without ;), you can use the Up or Down arrow key to select the assignee, tag or start/due date you want.
 
@@ -86,7 +86,7 @@ You can type **keywords**, **assignees** (with **@**), **tags** (with **#**) and
 
 You can also hover a task in the search results to highlight it in the tree list.
 
-<div style="max-width: 550px; max-height: 236px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 200x; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
