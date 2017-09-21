@@ -28,25 +28,25 @@ So what are they? They’re *smart* keyboard shortcuts. They can help you add **
 
 ## When you add a new task...
 
-You may want to get David to write an article that’s urgent and is related to design by May 2nd.
+You may want to get David to write an article that’s urgent and is related to design by Oct. 2nd.
 
-Simply add a task, and type “Write the article **@David !1 #Design <5/2>” and press Enter.
+Simply add a task, and type “Write the article **@David !1 #Design <10/2>” and press Enter.
 
-<div style="max-width: 550px; max-height: 139px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 134px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
-Your task would, of course, be automatically assigned to David, have a priority of Urgent, a due date of May 2nd and the tag Design.
+Your task would, of course, be automatically assigned to David, have a priority of Urgent, a due date of Oct. 2nd and the tag Design.
 
-<div style="max-width: 550px; max-height: 96px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 135px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
 
-If you want to set a start date as well, simply type "Write the article @David #Design <**7/20**; **8/2**>" and press Enter.
+If you want to set a start date as well, simply type "Write the article @David #Design <**9/20**; **10/2**>" and press Enter.
 
 Obviously, when you type @, # or <> (with or without ;), you can use the Up or Down arrow key to select the assignee, tag or start/due date you want.
 
@@ -58,21 +58,27 @@ You can see all the input date formats allowed [here](https://quire.io/w/Getting
 
 You may want to add or change the assignee, tag and due date of an existing task.
 
-It’s like what you’d do when you’re adding a new task. For example, you can type “Write the article **@Kevin @Megan <+7d>**” and press Enter.
+It’s like what you’d do when you’re adding a new task. For example, you can type “Write the article **@Kevin @Megan <+7d>**” (counting from today) and press Enter.
 
-<div style="max-width: 550px; max-height: 148px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 137px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
 </div>
 
-What happens is that this task would be assigned to both Kevin and Megan instead, and has a new due date of August 5th.
+What happens is that this task would be assigned to both Kevin and Megan instead, and has a new due date of Sept. 30th.
 
-<div style="max-width: 550px; max-height: 100px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 135px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
 </div>
+
+You may also want to add or remove assigness and tags from a task, without having to type them all over again.
+
+To add one more assignee or tag to a task, type `+@assignee` or `+#tag` in the task name.
+
+To remove an existing assignee or tag from a task, type `-@assignee` or `-#tag` instead.
 
 ## When you search for tasks...
 
@@ -80,7 +86,7 @@ You can type **keywords**, **assignees** (with **@**), **tags** (with **#**) and
 
 You can also hover a task in the search results to highlight it in the tree list.
 
-<div style="max-width: 550px; max-height: 234px; margin: 0 auto;">
+<div style="max-width: 550px; max-height: 236px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
 {% endmarkdown %}
