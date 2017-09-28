@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire. Students. And off-road vehicles.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Not long ago, I talked to Michael, a copywriter whose son goes to a primary school in Austria, about how 100 parents, students and teachers built and run their school together. This time, Quire made its way into a university in the United States...</description>
+				<pubDate>Thu, 28 Sep 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Students-And-road-off-vehicles.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Students-And-road-off-vehicles.html</guid>
+			</item>
+		
+			<item>
 				<title>A few things about tasks, projects, organizations and smart folders you should know.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 03 Jan 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire now, and things to look forward to in 2017.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village. As such a joyous time approaches, we want to take this opportunity to thank all of you, and share some thoughts and facts before we call it a year...</description>
-				<pubDate>Tue, 06 Dec 2016 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-in-2016-and-things-to-look-forward-to.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-in-2016-and-things-to-look-forward-to.html</guid>
 			</item>
 		
 	</channel>
