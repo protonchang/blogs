@@ -44,6 +44,8 @@ For more details, the tables below summarize what each of the four roles can do 
 {% endmarkdown %}
 </div>
 
+#### Note: Limited members can only complete tasks that are assigned to them.
+
 ---
 
 ## **Organization**
