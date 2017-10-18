@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire and Slack work great together.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack...</description>
+				<pubDate>Wed, 18 Oct 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire. Students. And off-road vehicles.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 07 Feb 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Doing-More-in-Quire-while-Staying-Small-in-Team.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Doing-More-in-Quire-while-Staying-Small-in-Team.html</guid>
-			</item>
-		
-			<item>
-				<title>Bringing people around the globe in a task manager, and why not a CRM tool</title>
-				
-					<dc:creator>Sebastian Schaefer</dc:creator>
-				        
-				<description>Collaborating with different people from different countries can be tedious - but not for us at Green Shoots Capital. We are a Switzerland-based financial company that sells financial products. Three months ago, we found ourselves spending hours each day to figure out who is doing what and what has been updated. Given that we have about 30 team members (all under 50 by the way) from countries...</description>
-				<pubDate>Tue, 03 Jan 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Bringing-people-around-the-globe-in-a-task-manager.html</guid>
 			</item>
 		
 	</channel>

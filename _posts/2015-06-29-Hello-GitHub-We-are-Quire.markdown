@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello GitHub, We’re Quire"
 date:   2015-06-29 11:58:07
-categories: "features"
+categories: "integrations"
 
 index-intro: "For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes. But not to worry, Quire has got it covered."
 category-intro: "For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes..."
