@@ -4,7 +4,7 @@ title:  "Quire and Slack work great together."
 date:   2017-10-18 11:58:07
 categories: "integrations"
 
-index-intro: "It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack..."
+index-intro: "It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects..."
 category-intro: "For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects right inside a Slack channel..."
 
 image: "2017-10-18-Quire-and-Slack-work-great-together/0.png"
@@ -159,14 +159,13 @@ Example: /quire add under 12 Design new logo
 `/quire add after [another task ID] name`<br>
 Example: /quire add after 34 Design new logo
 
-**Edit a task**<br>
+**Edit a task name**<br>
 `/quire edit [task ID] name.`<br>
 Example: /quire edit 123 Design new logo<br>
-Example: /quire edit 123 Design new logo <today> !1 @david
 
-**Assign a task**<br>
+**Assign members, date, priority and tags to a task**<br>
 `/quire assign [task ID] [@team member name] [!priority] [#tag] [<due>]`<br>
-Example: /quire assign 123 @eric @jess #design !1 <Oct 25><br>
+Example: /quire assign 123 @eric @jess #design !1 <10/25><br>
 Example: /quire assign 123 +@david -@jess +#marketing
 
 **Comment a task**<br>
