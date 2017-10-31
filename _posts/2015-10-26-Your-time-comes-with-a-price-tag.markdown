@@ -2,7 +2,7 @@
 layout: post
 title:  "Your time comes with a price tag"
 date:   2015-10-26 11:58:07
-categories: "lifestyle"
+categories: "dreams"
 
 index-intro: "I have a bucket list. I’ve always wanted to learn the guitar and Japanese, backpack in Europe, go bungee jumping, and publish a book. However, it seems I can always find excuses to postpone them: I don’t have the time, I don’t have enough money, I don’t know where to begin, etc...."
 category-intro: "I have a bucket list. I’ve always wanted to learn the guitar and Japanese, backpack in Europe, go bungee jumping, and publish a book..."

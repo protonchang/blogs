@@ -245,20 +245,18 @@ Pipes are used to separate each column and hyphens create each column’s header
 So, if you type:
 
 ```
-| Left   | Center   | Right |
-| :------ |:-----------:| ------:|
-| A | text A | word A |
-| B | text B | word B |
-| C | text C | word C |
+| 1st Header | 2nd Header |
+| ---------- | ---------- |
+| text       | text       |
+| text       | text       |
 ```
 
 It will turn out like this:
 
-<div style="max-width: 227px; max-height: 155px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
-{% endmarkdown %}
-</div>
+| 1st Header | 2nd Header |
+| ---------- | ---------- |
+| text       | text       |
+| text       | text       |
 
 #### Tip: You can type `<br>` to break a line in a table cell, and `\<br>` to keep `<br>` in the cell.
 
