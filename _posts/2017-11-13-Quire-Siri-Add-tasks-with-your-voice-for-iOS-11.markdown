@@ -24,7 +24,7 @@ imgDir: "2017-11-13-Quire-Siri-Add-tasks-with-your-voice-for-iOS-11"
 
 Your smart assistant Siri just got smarter with iOS 11 for you in Quire.
 
-Just like in our earlier [blog post](http://127.0.0.1:4000/blog/p/Quire-Siri-Best-Task-Manager-Friend.html), simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unclick your phone!
+Just like in our earlier [blog post](https://quire.io/blog/p/Quire-Siri-Best-Task-Manager-Friend.html), simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unclick your phone!
 
 And now with iOS 11, the conversation has become even more natural.
 
