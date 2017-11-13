@@ -4,7 +4,7 @@ title:  "Quire + Siri: Add tasks with your voice for iOS 11"
 date:   2017-11-13 11:58:07
 categories: "iOS"
 
-index-intro: "Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone..."
+index-intro: "Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone! And now with iOS 11, the conversation has become even more natural..."
 category-intro: "Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri..."
 
 image: "2017-11-13-Quire-Siri-Add-tasks-with-your-voice-for-iOS-11/0.png"
@@ -51,7 +51,7 @@ Here are what you say to start the conversation:
 
 <div style="max-width: 300px; max-height: 532px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.jpeg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
@@ -64,7 +64,7 @@ For example:
 
 <div style="max-width: 300px; max-height: 532px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.jpeg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
 
@@ -74,7 +74,7 @@ Siri will add the task to your Quire project.
 
 <div style="max-width: 300px; max-height: 532px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.jpeg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
 </div>
 
@@ -84,11 +84,11 @@ When you go to your project in Quire, this is what you will see:
 
 <div style="max-width: 300px; max-height: 532px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.jpeg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
 {% endmarkdown %}
 </div>
 
-#### Note: “Send a message on Quire” works for versions before iOS 11.<p><br>
+#### Note: “Send a message on Quire” works for versions before iOS 11.<p>
 
 If you speak in German, here are what you can say to start the conversation:
 
