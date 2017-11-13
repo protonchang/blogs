@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire + Siri: Add tasks with your voice for iOS 11</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone...</description>
+				<pubDate>Mon, 13 Nov 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire and Slack work great together.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 01 Mar 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-Siri-Best-Task-Manager-Friend.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Siri-Best-Task-Manager-Friend.html</guid>
-			</item>
-		
-			<item>
-				<title>Dreams Come True: Doing more, while staying small in team.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>For many of us, the biggest challenge is to stay productive and organized as our team grows bigger and bigger. But it is the opposite for Ray. Ray works as a senior software engineer in Aerovironment, Inc., a technology company located in California, United States. For him, the question is how to get more things done in a team that shrinked from 12 to 4-5 people...</description>
-				<pubDate>Tue, 07 Feb 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dreams-Come-True-Doing-more-while-staying-small-in-team.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Come-True-Doing-more-while-staying-small-in-team.html</guid>
 			</item>
 		
 	</channel>
