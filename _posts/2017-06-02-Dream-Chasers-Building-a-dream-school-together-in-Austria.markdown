@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dreams Come True: Building a dream school together in Austria"
+title:  "Dream Chasers: Building a dream school together in Austria"
 date:   2017-06-02 11:58:07
 categories: "dreams"
 
 index-intro: "I am a Community Manager. As a Community Manager, I talk to our users a lot. They tell me all sorts of stories, from what they enjoy the most about our product, to how they recently traveled to Greece for a 10-day vacation. But there is one that really caught my eyes. It is a story about a group of people who were passionate..."
 category-intro: "I am a Community Manager. As a Community Manager, I talk to our users a lot. They tell me all sorts of stories..."
 
-image: "2017-06-02-Dreams-Come-True-Building-a-dream-school-together-in-Austria/0.jpeg"
+image: "2017-06-02-Dream-Chasers-Building-a-dream-school-together-in-Austria/0.jpeg"
 tags: user story education school
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Quire Helps Move Your Team Projects Forward", "Doing More in Quire, while Staying Small in Team"]
 
-imgDir: "2017-06-02-Dreams-Come-True-Building-a-dream-school-together-in-Austria"
+imgDir: "2017-06-02-Dream-Chasers-Building-a-dream-school-together-in-Austria"
 ---
 
 

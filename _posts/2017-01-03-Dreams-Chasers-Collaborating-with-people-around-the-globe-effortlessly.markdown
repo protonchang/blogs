@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dreams Come True: Collaborating with people around the globe effortlessly."
+title:  "Dream Chasers: Collaborating with people around the globe effortlessly."
 date:   2017-01-03 11:58:07
 categories: "dreams"
 
 index-intro: "Collaborating with different people from different countries can be tedious - but not for us at Green Shoots Capital. We are a Switzerland-based financial company that sells financial products. Three months ago, we found ourselves spending hours each day to figure out who is doing what and what has been updated. Given that we have about 30 team members (all under 50 by the way) from countries..."
 category-intro: "With 30 sales people, 40 fund managers and thousands of clients across the globe..."
 
-image: "2017-01-03-Dreams-Come-True-Collaborating-with-people-around-the-globe-effortlessly/0.jpeg"
+image: "2017-01-03-Dream-Chasers-Collaborating-with-people-around-the-globe-effortlessly/0.jpeg"
 tags: user story CRM
 author: "Sebastian Schaefer"
 authorImg: "/images/author/sebastianschaefer.jpeg"
@@ -16,7 +16,7 @@ authorLink: "https://twitter.com/greenshoots"
 
 relatedPosts: ["Keep Your New Year's Resolutions on the Road", "Your time comes with a price tag"]
 
-imgDir: "2017-01-03-Dreams-Come-True-Collaborating-with-people-around-the-globe-effortlessly"
+imgDir: "2017-01-03-Dream-Chasers-Collaborating-with-people-around-the-globe-effortlessly"
 ---
 
 

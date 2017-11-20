@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dreams Come True: Delivering what our clients want when they want."
+title:  "Dream Chasers: Delivering what our clients want when they want."
 date:   2017-03-22 11:58:07
 categories: "dreams"
 
 index-intro: "We all know how hideous it can be for one to take many roles, be responsible for a team, and manage many projects at a time. Take Nisarg Desai for example. He is a software engineer, a team leader and also a project coordinator in a startup company called Troot Technologies LLP in India..."
 category-intro: "We all know how hideous it can be for one to take many roles, be responsible for a team, and manage many projects at a time..."
 
-image: "2017-03-22-Dreams-Come-True-Delivering-what-our-clients-want-when-they-want/0.jpeg"
+image: "2017-03-22-Dream-Chasers-Delivering-what-our-clients-want-when-they-want/0.jpeg"
 tags: user story startup team
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Doing More in Quire, while Staying Small in Team", "Bringing people around the globe in a task manager, and why not a CRM tool"]
 
-imgDir: "2017-03-22-Dreams-Come-True-Delivering-what-our-clients-want-when-they-want"
+imgDir: "2017-03-22-Dream-Chasers-Delivering-what-our-clients-want-when-they-want"
 ---
 
 

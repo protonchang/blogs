@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dreams Come True: Doing more, while staying small in team."
+title:  "Dream Chasers: Doing more, while staying small in team."
 date:   2017-02-07 11:58:07
 categories: "dreams"
 
 index-intro: "For many of us, the biggest challenge is to stay productive and organized as our team grows bigger and bigger. But it is the opposite for Ray. Ray works as a senior software engineer in Aerovironment, Inc., a technology company located in California, United States. For him, the question is how to get more things done in a team that shrinked from 12 to 4-5 people..."
 category-intro: "For many of us, the biggest challenge is to stay productive and organized as our team grows bigger and bigger. But it is the opposite for Ray..."
 
-image: "2017-02-07-Dreams-Come-True-Doing-more-while-staying-small-in-team/0.jpeg"
+image: "2017-02-07-Dream-Chasers-Doing-more-while-staying-small-in-team/0.jpeg"
 tags: user story tech team
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Keep Your New Year's Resolutions on the Road", "Bringing people around the globe in a task manager, and why not a CRM tool"]
 
-imgDir: "2017-02-07-Dreams-Come-True-Doing-more-while-staying-small-in-team"
+imgDir: "2017-02-07-Dream-Chasers-Doing-more-while-staying-small-in-team"
 ---
 
 

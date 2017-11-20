@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dreams Come True: Making the best off-road vehicles."
+title:  "Dream Chasers: Making the best off-road vehicles."
 date:   2017-09-28 11:58:07
 categories: "dreams"
 
 index-intro: "Not long ago, I talked to Michael, a copywriter whose son goes to a primary school in Austria, about how 100 parents, students and teachers built and run their school together. This time, Quire made its way into a university in the United States..."
 category-intro: "Not long ago, I talked to Michael, a copywriter whose son goes to a primary school in Austria, about how 100 parents, students..."
 
-image: "2017-09-28-Dreams-Come-True-Making-the-best-off-road-vehicles/0.jpg"
+image: "2017-09-28-Dream-Chasers-Making-the-best-off-road-vehicles/0.jpg"
 tags: university students team
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["On a journey to build a dream school together in Austria", "Quire Helps Move Your Team Projects Forward"]
 
-imgDir: "2017-09-28-Dreams-Come-True-Making-the-best-off-road-vehicles"
+imgDir: "2017-09-28-Dream-Chasers-Making-the-best-off-road-vehicles"
 ---
 
 
