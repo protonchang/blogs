@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Share a project with your clients, without them sign up!</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Quire’s “Shared Links” feature makes it super easy for you to collaborate with your clients. We all know that sometimes, clients have their own habits and it is hard to ask them to change. Now, in addition to asking them to sign up Quire, you can get them to view your Quire project with one single invitation link, and zero effort on their part...</description>
+				<pubDate>Thu, 23 Nov 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</guid>
+			</item>
+		
+			<item>
 				<title>Dream Chasers: Taking on the world with the best melons from Brazil</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 02 Jun 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Dream-Chasers-Building-a-dream-school-together-in-Austria.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Building-a-dream-school-together-in-Austria.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Delivering what our clients want when they want.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We all know how hideous it can be for one to take many roles, be responsible for a team, and manage many projects at a time. Take Nisarg Desai for example. He is a software engineer, a team leader and also a project coordinator in a startup company called Troot Technologies LLP in India...</description>
-				<pubDate>Wed, 22 Mar 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dream-Chasers-Delivering-what-our-clients-want-when-they-want.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Delivering-what-our-clients-want-when-they-want.html</guid>
 			</item>
 		
 	</channel>
