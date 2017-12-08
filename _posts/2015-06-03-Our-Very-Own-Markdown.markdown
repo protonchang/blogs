@@ -33,7 +33,7 @@ Follow these 3 steps to see a few examples:
 
 Voila! A pop-up of our markdown list:
 
-<div style="max-width: 593px; max-height: 405px; margin: 0 auto;">
+<div style="max-width: 599px; max-height: 492px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
@@ -71,9 +71,9 @@ Now that you have seen what our Markdown can do, see the cheat sheet below and g
 
 ---
 
-## <div style="text-align:center;">**Markdown Cheat Sheet**<div>
+# <div style="text-align:center;">**Markdown Cheat Sheet**<div>
 
-### **HEADERS**
+## **HEADERS**
 
 Quire’s Markdown supports two styles of headers, Setext and Atx.
 
@@ -97,7 +97,7 @@ Atx-style headers use 1–6 number signs at the start of the line, followed by 1
 ###### H6
 ```
 
-### **LINE BREAKS**
+## **LINE BREAKS**
 
 To generate a new line, you press ENTER.
 
@@ -112,7 +112,7 @@ You can produce a horizontal rule by typing 3 or more hyphens, asterisks or unde
  — — — — — — — — 
  ```
 
-### **EMPHASIS**
+## **EMPHASIS**
 
  You use asterisks to indicate emphasis.
 
@@ -128,7 +128,7 @@ For bold, you use 2 asterisks. For example:
 This is **very important**.
 ```
 
-### **STRIKETHROUGHS**
+## **STRIKETHROUGHS**
 
 You can use two tildes at the start and the end of the text:
 
@@ -136,7 +136,7 @@ You can use two tildes at the start and the end of the text:
 ~~Delete text.~~
 ```
 
-### **LISTS**
+## **LISTS**
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
@@ -181,7 +181,7 @@ Each item may consist of multiple paragraphs. To add a paragraph in a list item,
 3. step3
 ```
 
-### **LINKS**
+## **LINKS**
 
 You use square brackets to delimit the text and round brackets for the link. For example,
 
@@ -214,7 +214,7 @@ The third is an automated Link. You can simply write down a link, Markdown will 
 Google: http://google.com/
 ```
 
-### **IMAGES**
+## **IMAGES**
 
 Markdown supports two styles of images: inline and reference.
 
@@ -236,7 +236,7 @@ Reference image syntax looks like this:
 
 In this style of writing, “id” is the name of a defined image reference, which is defined in the same way as link references.
 
-### **TABLES**
+## **TABLES**
 
 You can create tables using `|` (pipes) and `-` (hyphens).
 
@@ -260,7 +260,7 @@ It will turn out like this:
 
 #### Tip: You can type `<br>` to break a line in a table cell, and `\<br>` to keep `<br>` in the cell.
 
-### **ESCAPE PIPE**
+## **ESCAPE PIPE**
 
 You may want to escape a pipe in a table cell. It can be done easily with ``\`` in front of the pipe.
 
@@ -282,7 +282,7 @@ It will look like this:
 {% endmarkdown %}
 </div>
 
-### **BLOCKQUOTES**
+## **BLOCKQUOTES**
 
 Blockquotes are indicated using “>” angle brackets.
 
@@ -298,7 +298,7 @@ Also, blockquotes can rest in blockquotes by adding levels of angle brackets:
 > I’m back at the first level.
 ```
 
-### **CODE**
+## **CODE**
 
 To indicate a span of code, wrap it with “`” backtick quotes. For example,
 
@@ -312,7 +312,7 @@ To include backtick characters in a code, you use multiple backtick quotes and s
 Use two asterisks `` `**` `` for bold.
 ```
 
-### **CODE BLOCK**
+## **CODE BLOCK**
 
 You can generate a code block by indenting 4 spaces or 1 tab:
 
@@ -332,7 +332,7 @@ Or type 3 backticks in the beginning and the end of the text like this:
 
 Remember to break the line before and after the backticks.
 
-### **SYNTAX HIGHLIGHTING**
+## **SYNTAX HIGHLIGHTING**
 
 We take code block one step further by adding Syntax Highlighting.
 
@@ -358,7 +358,40 @@ Or if you choose Javascript as your content language:
 
 You will see that it displays text in different colors according to the content language you chose, making it easier for programmers and developers to read.
 
-### **BACKSLASH ESCAPES**
+## **CSS Styles**
+
+You can add [CSS style](https://www.w3schools.com/html/html_css.asp) to text in task name, description and comment with `{css-style| text}`.
+
+For instance, if you type:
+
+```
+{color: red, font-size:20px|color text}
+```
+
+It will turn out like this:
+
+<div style="max-width: 165px; max-height: 28px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
+{% endmarkdown %}
+</div>
+
+## **Characters**
+
+You can now add characters too via [HTML entities](https://www.w3schools.com/html/html_entities.asp).
+
+Let's say you type:
+
+```
+&yen;, &reg;, &#8451; and &#x263B;
+
+```
+
+It will turn out like this:
+
+&yen;, &reg;, &#8451; and &#x263B;
+
+## **BACKSLASH ESCAPES**
 
 We let you use `\` (backslash) to surround text with characters, so you can escape the characters’ general meaning.
 
@@ -389,7 +422,7 @@ We support backslash escapes for the following characters:
 - .   dot
 - !   exclamation mark
 
-### **YOUTUBE VIDEOS**
+## **YOUTUBE VIDEOS**
 
 Youtube videos can be added if you add an image with a link to the video:
 
