@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Highlight Your Tasks with Color and Styles</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>We see it as our mission to keep a simple, clean interface, including a neat task list. However, for those of you who want to easily identify your tasks and projects in a long list, you can use Markdown, and CSS styles to make them stand out...</description>
+				<pubDate>Thu, 14 Dec 2017 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</guid>
+			</item>
+		
+			<item>
 				<title>Share a project with your clients, without them sign up!</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 15 Jun 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Building a dream school together in Austria</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>I am a Community Manager. As a Community Manager, I talk to our users a lot. They tell me all sorts of stories, from what they enjoy the most about our product, to how they recently traveled to Greece for a 10-day vacation. But there is one that really caught my eyes. It is a story about a group of people who were passionate...</description>
-				<pubDate>Fri, 02 Jun 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dream-Chasers-Building-a-dream-school-together-in-Austria.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Building-a-dream-school-together-in-Austria.html</guid>
 			</item>
 		
 	</channel>
