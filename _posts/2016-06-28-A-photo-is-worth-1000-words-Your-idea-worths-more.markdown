@@ -2,7 +2,7 @@
 layout: post
 title:  "A photo is worth 1000 words. Your idea worths more!"
 date:   2016-06-28 11:58:07
-categories: "ios"
+categories: "mobile"
 
 index-intro: "Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas! Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day..."
 category-intro: "Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas..."

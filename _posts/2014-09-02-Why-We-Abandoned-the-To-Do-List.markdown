@@ -26,7 +26,7 @@ Central to most task management software is a conventional to-do list that store
 
 > **What purpose does a to-do list serve?**
 
-We start writing tasks down when there are too many of them for us to manage them well. Tasks can be better prioritized and tracked for their completion in a written or visual form so they become “tangible” in a way. Simply put, a to-do list helps us to remember (track) and compare (rank) our tasks.
+We start writing tasks down when there are too many of them for us to manage them well. Tasks can be better prioritized and tracked for their completion in a written or visual form so they become “tangible” in a way. Simply put, ***a to-do list helps us to remember (track) and compare (rank) our tasks***.
 
 ---
 
@@ -36,9 +36,9 @@ As the number of tasks grows, looking at an extended list does not help us much 
 
 When we put down “incomparable” tasks forming a heterogeneous list, we make the tasks difficult to compare or rank. Tasks are “incomparable” in the sense that they vary too greatly in their scope and context; hence comparing or ranking them makes no sense.
 
-For instance, if we have both “Read n pages of Book X” and “Get a Pilot License” on our to-do list, they’ll only become comparable if we understand the context which the reading task belongs. Suppose, we recall that a “project due tomorrow” would require that we first digest the material on those n pages in Book X, we can then weigh in on the priority between “project due tomorrow” and “Get a Pilot License”. A heterogeneous list therefore requires us to remember all the contexts associated with each task which would prove to be difficult.
+For instance, if we have both “*Read n pages of Book X*” and “*Get a Pilot License*” on our to-do list, they’ll only become comparable if we understand the context which the reading task belongs. Suppose, we recall that a “project due tomorrow” would require that we first digest the material on those n pages in Book X, we can then weigh in on the priority between “project due tomorrow” and “*Get a Pilot License*”. A heterogeneous list therefore requires us to remember all the contexts associated with each task which would prove to be difficult.
 
-Without exhaustively considering all possible ways to falsify the usefulness of to-do lists, let’s note that ***a to-do list no longer suffice when the number of tasks is large enough to render them equally important or when the list becomes heterogeneous.***
+Without exhaustively considering all possible ways to falsify the usefulness of to-do lists, let’s note that ***a to-do list no longer suffice when the number of tasks is large enough to render them equally important or when the list becomes heterogeneous***.
 
 ---
 
@@ -50,9 +50,9 @@ A task with a large scope and long duration inevitably is required to be broken 
 
 > **How do task management software deal with to-do list’s limitations?**
 
-Given these limitations, the prevalent solution is to divide the primordial to-do list into several other lists. For instance, the “sibling” tasks are often placed into another list called “sub-tasks” whereas the “parent” tasks may be designated to a list of “sections” or other synonyms.
+Given these limitations, the prevalent solution is to divide the primordial to-do list ***into several other lists***. For instance, the “sibling” tasks are often placed into ***nother list*** called “sub-tasks” whereas the “parent” tasks may be designated to ***a list*** of “sections” or other synonyms.
 
-A more flexible system may allow a sub-task to bear sub-tasks of its own which effectively is attaching another list to itself indefinitely. This scheme produces a hierarchical structure as depicted below:
+A more flexible system may allow a sub-task to bear sub-tasks of its own which effectively is ***attaching another list to itself indefinitely***. This scheme produces a hierarchical structure as depicted below:
 
 <div style="max-width: 322px; max-height: 294px; margin: 0 auto;">
 {% markdown %}
@@ -60,7 +60,7 @@ A more flexible system may allow a sub-task to bear sub-tasks of its own which e
 {% endmarkdown %}
 </div>
 
-Having the flexibility to attach another list of sub-tasks to any given task or another sub-task ensures that we can always “zoom-in” and break down on a task. ***This process gives rise to a hierarchy which in turn indicates their dependencies.*** Therefore we've eliminated the problem of a flat list of equally important tasks. And because ***we now have a hierarchy of tasks, we can organize tasks as such that we can achieve homogeneity for each level of tasks.***
+Having the flexibility to attach another list of sub-tasks to any given task or another sub-task ensures that we can always “zoom-in” and break down on a task. ***This process gives rise to a hierarchy which in turn indicates their dependencies***. Therefore we've eliminated the problem of a flat list of equally important tasks. And because ***we now have a hierarchy of tasks, we can organize tasks as such that ***we can achieve homogeneity for each level of tasks***.
 
 ---
 
@@ -94,7 +94,7 @@ or
 
 #### screenshots were taken from Asana
 
-In either case, we’d completely miss the dependency that “Review A3" has on “Do B2", since it belongs to a list of subtasks hidden in view. Neither view conveys the context which would rather indicate that one sub-task of one task hierarchy depends on that of another. ***Essentially, what users see is still to-do lists in their primordial form, but now in multiples, without presenting tasks’ context and relations.***
+In either case, we’d completely miss the dependency that “Review A3" has on “Do B2", since it belongs to a list of subtasks hidden in view. Neither view conveys the context which would rather indicate that one sub-task of one task hierarchy depends on that of another. ***Essentially, what users see is still to-do lists in their primordial form, but now in multiples, without presenting tasks’ context and relations***.
 
 ---
 
@@ -108,7 +108,7 @@ In either case, we’d completely miss the dependency that “Review A3" has on 
 
 ***The problem*** of linking lists together to form the necessary hierarchy ***is that lists are kept as separate entities.*** Showing how many lists necessary to convey the context is not feasible given the constraints in a user interface.
 
-Instead, we recognized that this hierarchy would be better represented with a tree structure. Each sub-task becomes a child node of a task. ***When a task is retrieved, so are all the parent and children task nodes that make up the entire context.***
+Instead, we recognized that this hierarchy would be better represented with a tree structure. Each sub-task becomes a child node of a task. ***When a task is retrieved, so are all the parent and children task nodes that make up the entire context***.
 
 Under this structure, tasks and their dependencies are clearly presented in the task management system.
 
@@ -136,7 +136,7 @@ The to-do list helps us to make our goals more “tangible” but it was never m
 
 Nested to-do lists provides the logical hierarchy to accommodate more complex tasks, such as those we find in a project which requires team work and collaboration. But nested lists are still separate lists which divide a task’s context, nor can this context be displayed effectively in a user interface.
 
-We see that ***a tree structure’s hierarchy naturally captures how tasks evolve through their life cycle.*** It provides a bird’s eye view of tasks’ relationships. A ***Task Tree*** serves as a better backbone to a task management system. We’d love to know if this idea works for you; give the task tree a [try](https://quire.io/).
+We see that ***a tree structure’s hierarchy naturally captures how tasks evolve through their life cycle***. It provides a bird’s eye view of tasks’ relationships. A ***Task Tree*** serves as a better backbone to a task management system. We’d love to know if this idea works for you; give the task tree a [try](https://quire.io/).
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

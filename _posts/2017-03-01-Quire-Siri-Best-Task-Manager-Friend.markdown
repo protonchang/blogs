@@ -2,7 +2,7 @@
 layout: post
 title:  "Quire, Siri's Best Task Manager Friend"
 date:   2017-03-01 11:58:07
-categories: "ios"
+categories: "mobile"
 
 index-intro: "It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap your ideas and pinch to zoom being introduced. And now, we welcome the smart assistant Siri on board! When you talk to Siri about us, we listen and do the rest..."
 category-intro: "It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap to add and pinch to zoom being introduced. And now..."

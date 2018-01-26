@@ -14,7 +14,7 @@ authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
-relatedPosts: ["Drill Down", "Make your Product Backlog Speak the Whole Story"]
+relatedPosts: ["Drill Down", "Highlight Your Tasks with Color and Styles"]
 
 imgDir: "2015-06-03-Markdown"
 ---

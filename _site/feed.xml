@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Introducing: Quire for Android</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Finally, it is here. Kicking off the new year 2018, we are proud to present to you: Quire for Android. We took time to craft and create this app for Android, so we can get it right. We made sure the layout, navigation, gestures and look-and-feel were simple...</description>
+				<pubDate>Fri, 26 Jan 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Introducing-Quire-for-Android.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Introducing-Quire-for-Android.html</guid>
+			</item>
+		
+			<item>
 				<title>Highlight Your Tasks with Color and Styles</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 26 Jul 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Mark II, reimagined and rebuilt for your dreams</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference. Imagine you adding your own color to the painting...</description>
-				<pubDate>Thu, 15 Jun 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html</guid>
 			</item>
 		
 	</channel>
