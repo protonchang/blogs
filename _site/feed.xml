@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>4 productivity tips that make sense for your project in 2018</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos like sticky notes being everywhere all the time, figuring out what was where in your head nonstop and chasing after your colleagues for updates tirelessly, it is time for a change....</description>
+				<pubDate>Tue, 30 Jan 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</guid>
+			</item>
+		
+			<item>
 				<title>Introducing: Quire for Android</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 04 Aug 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html</guid>
-			</item>
-		
-			<item>
-				<title>We have a new member role in organizations.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of. In summary, Admin, Normal+ and Limited+ members...</description>
-				<pubDate>Wed, 26 Jul 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/We-have-a-new-member-role-in-organizations.html</guid>
 			</item>
 		
 	</channel>
