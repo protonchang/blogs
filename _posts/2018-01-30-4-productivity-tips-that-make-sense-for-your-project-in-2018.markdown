@@ -5,7 +5,7 @@ date:   2018-01-30 11:58:07
 categories: "dreams"
 
 index-intro: "A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos like sticky notes being everywhere all the time, figuring out what was where in your head nonstop and chasing after your colleagues for updates tirelessly, it is time for a change...."
-category-intro: "A new year is a new start, and it often comes with a new determination to do better, and be better..."
+category-intro: "A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos..."
 
 image: "2018-01-30-4-productivity-tips-that-make-sense-for-your-project-in-2018/0.jpg"
 tags: dream vision ideas
@@ -42,7 +42,7 @@ Let’s say my friends and I have a vision: make the Earth a better place by cre
 
 We see how it has become a habit for people to buy Coke from 7-Eleven that come in plastic bottles, or how OLs grab Starbucks coffee in paper cup on their way to work. If we could make a portable water bottle great for all kinds of drinks, we can help reduce plastic waste, and thus contribute to a better Earth - the one and only place we now live in.
 
-As marketing guys, how do we promote it? Creating it is one thing; Letting people know about it is another story.
+Creating it is one thing; Letting people know about it is another story. So how do we promote it? 
 
 That, is the question of the day.
 nt to be, what you want to do and where you want to be for now. Don’t worry about not knowing how to get there. You can fill in the details later.

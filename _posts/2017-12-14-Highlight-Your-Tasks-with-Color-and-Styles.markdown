@@ -64,6 +64,14 @@ This is what a task list with styles looks like:
 {% endmarkdown %}
 </div>
 
+#### Tip: You can quickly add some of the basic styles by typing ```{``` and selecting the style you want.
+
+<div style="max-width: 371px; max-height: 212px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
+{% endmarkdown %}
+</div>
+
 ## Add Color & Styles to Text
 
 Not just task names, you can also add color and styles in task descriptions and comments.
