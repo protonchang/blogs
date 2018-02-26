@@ -103,6 +103,16 @@ No matter where you are, you will get notified of new activities, and be reminde
 {% endmarkdown %}
 </div>
 
+## Dark Theme for the Comfort of Your Eyes
+
+Eyes grow weary? You can switch to Dark Theme in your Profile view for an instant relief.
+
+<div style="max-width: 305px; max-height: 533px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.jpg)
+{% endmarkdown %}
+</div><p><br>
+
 We recommend using Android 5.0 or higher to get the best user experience of Quire’s Android app.
 
 Like always, any feedback, thought or idea is welcome! Share it in our [feedback community](https://quire.io/w/Quire_Feedbacks/), or send us an email at [feedback@quire.io](feedback@quire.io).
