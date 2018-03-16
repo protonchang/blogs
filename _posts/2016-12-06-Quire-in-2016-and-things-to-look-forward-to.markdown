@@ -2,12 +2,12 @@
 layout: post
 title:  "Quire now, and things to look forward to in 2017."
 date:   2016-12-06 11:58:07
-categories: "tips"
+categories: "milestones"
 
 index-intro: "It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village. As such a joyous time approaches, we want to take this opportunity to thank all of you, and share some thoughts and facts before we call it a year..."
 category-intro: "It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to..."
 
-image: "2016-12-06-Quire-in-2016-and-things-to-look-forward-to/0_v2_new.png"
+image: "2016-12-06-Quire-in-2016-and-things-to-look-forward-to/0.png"
 tags: ideas plan to-dos
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -20,7 +20,7 @@ imgDir: "2016-12-06-Quire-in-2016-and-things-to-look-forward-to"
 ---
 
 
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0_v2_new.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.png)
 
 It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village.
 
