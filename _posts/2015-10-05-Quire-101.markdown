@@ -7,7 +7,7 @@ categories: "features"
 index-intro: "Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire. Task: A task is the basic unit of action in Quire."
 category-intro: "Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire..."
 
-image: "2015-10-05-Quire-101/0.png"
+image: "2015-10-05-Quire-101/quire-101-task-project.png"
 tags: taskmanagement basics productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -20,7 +20,7 @@ imgDir: "2015-10-05-Quire-101"
 ---
 
 
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-101-task-project.png)
 
 Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire:
 
@@ -32,19 +32,21 @@ A task is the basic unit of action in Quire.
 
 Click on <img style="width: 16px; max-height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-task.png" /> to create a task.
 
-<div style="max-width: 760px; max-height: 146px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 101px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-add-task.png)
 {% endmarkdown %}
 </div>
+
+#### Tip: You can also press ```+``` or ```t``` to add a task.
 
 ### Create a Subtask
 
 Click on <img style="width: 20px; max-height: 16px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/add-subtask.png" /> to create a subtask.
 
-<div style="max-width: 760px; max-height: 151px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 140px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-add-subtask.png)
 {% endmarkdown %}
 </div>
 
@@ -52,27 +54,27 @@ Click on <img style="width: 20px; max-height: 16px; display: inline;" src="{{ si
 
 For each task, you can add a due date, assignee, tags, and so on. You can also drag and drop any task or subtask whenever its priority or relationship changes.
 
-<div style="max-width: 759px; max-height: 461px; margin: 0 auto;">
+<div style="max-width: 560px; max-height: 373px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-tree-task-list.png)
 {% endmarkdown %}
 </div>
 
 When you click on a task, you will see its detail on the right. This is where you can do more, such as adding descriptions and comments and attaching files, to the task.
 
-<div style="max-width: 522px; max-height: 505px; margin: 0 auto;">
+<div style="max-width: 445px; max-height: 585px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-task-description-comment.png)
 {% endmarkdown %}
 </div>
 
 There are easier ways for you to navigate and manage your tasks: keyboard shortcuts.
 
-Click on Keyboard Shortcuts under the Help icon in the upper-right of your screen, or simply press F1.
+Click on Keyboard Shortcuts under the Help icon in the bottom-right of your screen, or simply press F1 (Fn+F1 for Mac).
 
-<div style="max-width: 268px; max-height: 185px; margin: 0 auto;">
+<div style="max-width: 224px; max-height: 160px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-help.png)
 {% endmarkdown %}
 </div>
 
@@ -80,37 +82,37 @@ Click on Keyboard Shortcuts under the Help icon in the upper-right of your scree
 
 A project is a hierarchical list of tasks.
 
-You can switch from one project to another in the sidebar, after you click on <img style="width: 16px; max-height: 14px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/hamburger.png" /> on the upper-left of your screen.
+You can switch from one project to another in the sidebar, after you click on <img style="width: 16px; max-height: 14px; display: inline;" src="{{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-hamburger.png" /> on the upper-left of your screen.
 
-<div style="max-width: 288px; max-height: 267px; margin: 0 auto;">
+<div style="max-width: 238px; max-height: 333px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-projects-list-sidebar.png)
 {% endmarkdown %}
 </div>
 
-In the sidebar, you will not only see all of your projects in the tab Projects, but also all of your tasks, tasks that have been assigned to you, in the tab My Tasks.
+In the sidebar, you will not only see all of your projects under Projects, but also all of your tasks, tasks that have been assigned to you, in My Tasks.
 
-<div style="max-width: 288px; max-height: 346px; margin: 0 auto;">
+<div style="max-width: 238px; max-height: 324px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-my-tasks.png)
 {% endmarkdown %}
 </div>
 
-#### Tip: You can choose to always show the sidebar by hovering over My Tasks and clicking on the Pin button.
+#### Tip: You can choose to always show the sidebar by clicking on the "pin" icon.
 
-<div style="max-width: 339px; max-height: 118px; margin: 0 auto;">
+<div style="max-width: 279px; max-height: 86px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/8.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-pin-sidebar.png)
 {% endmarkdown %}
 </div>
 
 ### Create a Project
 
-To create a project, click on “+ Add Project” in the tab Projects in the sidebar.
+To create a project, click on “+” at the top of the sidebar.
 
-<div style="max-width: 255px; max-height: 166px; margin: 0 auto;">
+<div style="max-width: 274px; max-height: 90px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/9.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m2-add-project-organization-smart-folder.png)
 {% endmarkdown %}
 </div>
 
