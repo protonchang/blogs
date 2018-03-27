@@ -38,7 +38,7 @@ Click on <img style="width: 16px; max-height: 16px; display: inline;" src="{{ si
 {% endmarkdown %}
 </div>
 
-#### Tip: You can also press ```+``` or ```t``` to add a task.
+#### Tip: You can  press ```+``` or ```Ctrl+Enter``` (```Cmd+Enter``` for Mac) to add a task next to a selected task.
 
 ### Create a Subtask
 
