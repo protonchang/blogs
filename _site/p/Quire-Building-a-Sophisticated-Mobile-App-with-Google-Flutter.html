@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- meta tag for social website: facebook -->
+    <meta property="og:title" content="Quire: Building a Sophisticated Mobile App with Google’s Flutter">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">
+    <meta property="og:image" content="https://quire.io/blog2018-04-10-Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter/quire-mobile-app-google-flutter.png">
+    <meta property="og:description" content="">
+    <meta property="og:site_name" content="Quire & You">
+    <meta property="og:locale" content="en_us">
+    
+      <meta property="article:modified_time" content="2018-04-10T19:58:07+08:00">
+      <meta property="article:published_time" content="2018-04-10T19:58:07+08:00">
+      <meta property="article:author" content="https://www.facebook.com/">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/Introducing-Quire-for-Android.html">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html">
+      
+    
+
+    
+      
+      <meta property="article:section" content="mobile">
+      
+    
+
+    
+      
+      <meta property="article:tag" content="mobile">
+      
+      <meta property="article:tag" content="android">
+      
+      <meta property="article:tag" content="app">
+      
+      <meta property="article:tag" content="flutter">
+      
+    
+
+    <!-- meta tag for social website: twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Quire: Building a Sophisticated Mobile App with Google’s Flutter">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://quire.io/blog2018-04-10-Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter/quire-mobile-app-google-flutter.png">
+    <meta name="twitter:url" content="https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">
+
+    <meta name="description" content="">
+
+    <!-- meta tag for social website: search engine -->
+    
+
+    <link rel="canonical" href="https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">
+
+    
+
+    
+      <link rel="prev" href="https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html" title="4 productivity tips that make sense for your project in 2018">
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Quire: Building a Sophisticated Mobile App with Google’s Flutter</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta charset="utf-8" />
+
+    <!-- <link rel="stylesheet" href="/blog/css/main.css"> -->
+    <link rel="canonical" href="https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">
+    <link rel="alternate" type="application/rss+xml" title="Quire & You" href="https://quire.io/blog/feed.xml" />
+
+    <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/lato-2.010.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/blog.css" />
+  </head>
+
+  <body data-init="blog">
+    <div id="wrap">
+      <header id="header-wrapper" role="banner" 
+        class="header-wrap navbar navbar-default navbar-fixed-top">
+        <div id="header" class="container">
+          <div id="quire-logo" class="navbar-header">
+  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
+    <span>toggle menu</span>
+  </button>
+  <h1 class="quire-logo-icon">
+    <em>
+      <!-- <a id="home" href="[= currentUser != null ? '/w': '/']" title="Quire"> -->
+      <a id="home" href="/" title="Quire">
+        <!-- <img src="[=connect.server.uriVersionPrefix]/s/img/website/logo_grey.svg" alt="Quire"> -->
+        <img src="/s/img/website/logo_grey.svg" alt="Quire">
+      </a>
+    </em>
+  </h1>
+</div>
+<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
+  <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    
+      <li class="item blog active">
+        <a href="/blog" onclick="gapg({'page':'/blog','title':'Blog'})">Blog</a>
+      </li>
+
+
+      <li class="item login">
+          <a href="/login?continue=https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">Log in</a>
+      </li>
+      <li class="item start-free">
+        <a href="/signup" class="start-free-btn b green" >GET STARTED - It's FREE!</a>
+      </li>
+
+
+      <li class="item invite">
+          <a href="/invite">Invite</a>
+      </li>
+      <li class="item feedback">
+          <a href="/feedback">Feedback</a>
+      </li>
+      <li class="item t-user dropdown" id="u-id">
+        <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown">
+          <!-- <img class="img-icon x30 circle" src="https://quire.s3.amazonaws.com/BI613BWUDag2wydvYxm5vWlk/image.jpg?1441693943103" alt="A"> -->
+          <!-- <div class="img-icon x30 circle iconc-31">A</div> -->
+        </a>
+        <ul class="arrow-dropdown-menu dropdown-menu pull-right arrow-border">
+          <li class="dropdown-header"></li>
+
+          <li class="u-item"><a href="[:url currentUser]"><i class="icon-user-o"></i>My Profile</a></li>
+          <li class="u-item"><a href="/r/setting?tab=options"><i class="icon-cog-o"></i>Account Settings</a></li>
+
+          <li class="divider"></li>
+
+          <li class="u-item"><a href="/invite"><i class="icon-heart-o"></i>Recommend Quire</a></li>
+
+          <li class="divider"></li>
+          <li class="u-item"><a href="/r/logout"><i class="icon-sign-out"></i>Log out</a></li>
+        </ul>
+      </li>
+  </ul>
+</nav>
+        </div>
+        <div id="side-menu-toggle"></div>
+        <div id="side-menu">
+          <a class="" href="/blog/">ALL</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/lifestyle">LIFESTYLE</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/workstyle">WORKSTYLE</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/productivity">PRODUCTIVITY</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/tips">TIPS</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/features">FEATURES</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/integrations">INTEGRATIONS</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/dreams">DREAMS</a>
+          
+             
+             
+             
+            <a class="active" 
+              href="/blog/category/mobile">MOBILE</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/milestones">MILESTONES</a>
+          
+        </div>
+      </header>
+
+      <div id="body" class="container">
+        <div id="post">
+
+  <div class="left-part">
+    <h5 class="category">
+      <a href="/blog/category/mobile">mobile</a> · <span>Apr 10, 2018<span>
+    </h5>
+    <h2 class="title">Quire: Building a Sophisticated Mobile App with Google’s Flutter</h2>
+    <h5 class="author">
+      <img src="/blog/images/author/jerry.jpeg">
+      <div>
+        <a href="https://twitter.com/jerrywellchen" class="name">Jerry Chen</a>
+        <div class="desc">Software engineer. Passionate about all things new.</div>
+      </div>
+    </h5>
+    <div class="share">
+      
+      <a href="http://twitter.com/share?text=Quire: Building a Sophisticated Mobile App with Google’s Flutter&url=https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html&via=quire_io" class="twitter" target="_blank"></a>
+      <a href="http://www.facebook.com/sharer.php?u=https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html" class="fb" target="_blank"></a>
+      <a href="https://plus.google.com/share?url=https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html" target="_blank" class="gplus"></a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html&title=Quire: Building a Sophisticated Mobile App with Google’s Flutter&summary=&source=" target="_blank" class="in"></a>
+    </div>
+    <span class="clearfix"></span>
+  </div>
+  <div class="right-part">
+    <div class="markdown"><p><img src="/blog/images/2018-04-10-Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter/quire-mobile-app-google-flutter.png" alt="My helpful screenshot"></p>
+
+<p>A couple years ago, we developed <a href="https://itunes.apple.com/us/app/quire-unfold-your-ideas/id1095193897?mt=8">Quire iOS app</a> in Swift. Last year, we chose <a href="https://flutter.io/">Flutter</a> for developing <a href="https://play.google.com/store/apps/details?id=io.quire.app">Quire Android app</a>. I’d like to share my experience of developing the Android app with Flutter - the good and the bad, the strengths and weaknesses - in this article.</p>
+
+<h1 id="who-we-are">Who we are</h1>
+
+<p>I’m a front-end developer of <a href="https://quire.io/">Quire</a>, a simple, lightweight project management tool for capturing ideas, managing tasks and collaborating with teams. For many years, we <a href="http://simonpai.github.io/2014/09/03/quire-building-with-dart/">use Dart on both our server and web</a> so here we are, building our Android app with this new open source mobile development framework Flutter that uses the Dart programming language. Two months have passed since its official launch in the Play Store, I believe it’s time for us to share the journey with Flutter, offer some feedbacks and thoughts, and hopefully enlighten those of you in the Flutter community or interested in joining it.</p>
+
+<h1 id="why-flutter">Why Flutter</h1>
+
+<p>One of the main reasons to use Flutter is that we’d like to streamline our development using a single language, and the same platform. Quire is an application that evolves quickly; We release a new update almost on a weekly - if not daily - basis. Maintaining two copies of code has become a burden over time. At first, we tried the so-called Hybrid Mobile App approach like <a href="https://cordova.apache.org/">Cordova</a> as a solution, but the resulting UI and UX didn’t reach the standard we’re aiming at. Flutter, on the other hand, has high performance UI rendering, smooth transition characters and a core language: Dart, of which the model is shared on all server, web and mobile sides. Flutter meets our requirements to develop a high-quality, single-codebase and fast development cycle.</p>
+
+<h1 id="what-is-flutter">What is Flutter</h1>
+
+<p>Flutter is a UI framework for Android and iOS apps by Google. We can just write UI code once, and run it on both platform. It also provides a bridge to native, so you can do almost everything that Swift/Kotlin/Java does. The core concepts for Flutter are drawing and bridging, as described in the following:</p>
+
+<h2 id="drawing-canvas">Drawing Canvas</h2>
+
+<p>Flutter directly draws UI on canvas in the UIViewController of iOS and Activity of Android. Our Dart UI code will be compiled into machine code and drawing. That’s why Flutter has smooth UI and transition. If we compare it to CSS, they use <a href="https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514">simpler layout model, which is better than such CSS complexible layout model</a>.</p>
+
+<h2 id="bridge">Bridge</h2>
+
+<p>If we need to access each platform’s resource, we can use bridge to transfer our Dart command and data to native level, and vise versa. Since drawing on Canvas is in Flutter environment, <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">there is no need to use bridge to native code</a>, which reduces the cost of context switch, much lower than that of other hybrid frameworks like React Native.</p>
+
+<h1 id="flutter-vs-ios-sdk">Flutter vs iOS SDK</h1>
+
+<p>Flutter is a open source framework, and that means you can quickly understand what’s going on in every API call. What’s more, we can trace the whole system’s architecture and mechanism. If you are using iOS SDK, then you may need to read countless books, from the simplest to the hardest, trial and error for so many times, and thus be able to find the real, underlying rules of logic eventually.</p>
+
+<h2 id="language-level">Language Level</h2>
+
+<p>If you have couple years of experience in Swift, you may have heard the local reasoning character for Swift. But it doesn’t mean the SDK level has the same one. For example, when we need to set the delegate for UIView based component, or set the callback for the function call in most cases, the related operation flows are always in different sections due to delegate pattern. The callback pattern also causes the callback hell issue.</p>
+
+<p>You may ask, what’s the best async pattern in Swift? Callback? GCD? PromiseKit? Or even Reactive Swift? It seems there is no perfect solution for it. With Dart, we only need to do something like this:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">Future scrollToComment(Comment comment) async {
+  await model.scrollTo(comment.position);
+  await model.highlight(comment);
+}
+</code></pre></div>
+<p>That’s the truth of local reasoning. Right? </p>
+
+<p>Swift gets another point deducted because of build time. Three years ago, we started our model porting and iOS UI implementation using Swift. Our codebase eventually grew and became huge, with the compile time increasing day by day. Nothing is more painful than expecting something to happen in an instant but it takes longer than expected.</p>
+
+<p>We probably can tolerate 2 or 3 minutes of compilation time for release, as this process can be automatic and doesn’t happen frequently. But what if we just change a line of code for style update and checking the result? In the worst case, we have to wait more than a minute!</p>
+
+<p>You may see there are many articles on improving the time of compilation by changing your syntax, which actually goes against the reason we use a new language for clearer syntax and better productivity. Whereas Dart, it not only has Ahead-of-Time (AOT) compiler to optimize speed for production release, but also a JIT compiler for fast development. Updating a line of code now only needs 0.5 second in most cases. We are quite happy with the result.</p>
+
+<h2 id="framework-level">Framework Level</h2>
+
+<p>Using Storyboard in Interface Builder (IB) to build UI is like a dream come true. We only need to drag and drop to create widgets and everything will be done. But in the real world, UI is not such an easy task to fulfil, especially when you may have heard someone suggesting you to keep the file Storyboard as small as possible, or simply don’t use it.</p>
+
+<p>We finally decided to stop using IB when we reached its limitation and performance impact. But building the UI programmatically in iOS is also a nightmare. For  example, UI components, autolayout, legacy layout and transitions need more codes than you expected; Code block will look disorganized; And you always need to read tons of documents to make sure your implementation meets every rule.</p>
+
+<p>Flutter uses “Code as UI template” in Dart 2.0, composing UI just like a JSX/XML/HTML style. This makes us easy to maintain UI code.</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">Container(
+ child: Center(
+   child: Row(
+     children: [
+       Icon(‘smile’),
+       Text(‘Hi’, style: TextStyle(color: Colors.red))
+     ]
+   )
+ )
+)
+</code></pre></div>
+<p>Layout in iOS’ official solution has never made sense to me. Third party solutions in iOS are always the winner in this bottle. For me, Flexbox is better than AutoLayout-like solution. Its UI composing is much easier and more intuitive. Flutter use Flexbox concept for layout model. In addition, there is a document to guide web developers each step of the way. Being a web front-end developer for many years, that’s obviously good news.</p>
+
+<p>In our case, the case of Quire, the Bridge from/to native is a the last line of defense. We always keep it in mind that if there is no other solution to do that, we can at least do it like what native iOS/Android developer did. This promises that we can deliver any feature even in the worst case, since we are using a beta version framework (which was actually still in Alpha during our development of the first version to be submitted to the Play Store). For example, we found the time it takes to compress a photo is very long (about 50 seconds, 70% image quality) using Dart. With Java code, it only needs 0.5 second.</p>
+
+<h2 id="things-to-look-out-with-flutter">Things to look out with Flutter</h2>
+
+<p>Flutter is still in Beta and evolving fast. We should bear in mind that things may change without any guarantee. Below, you will find a few features I think are missing and should be considered by Flutter for their next or future release.</p>
+
+<h3 id="no-scrollto-index-api-yet">No scrollTo index API yet</h3>
+
+<p>If you are using the ListView, <a href="https://github.com/flutter/flutter/issues/12319">you can only scroll this view by giving the scroll offset</a>. It’s easy for fixing row height case, whereas for various row height case, it’s a little bit complicated to achieve this. Our idea in Quire app is </p>
+
+<ol>
+<li>Give each row a index.</li>
+<li>Scroll a constant distance to check which of these widget states is generated so to see what the current range is.</li>
+<li>Search many times for step 2 until our target row appears.</li>
+</ol>
+
+<p>In the case of a super long list, to optimize its smoothness, we introduced the recommended row height variable. Scrolling based on the row height will make sure scrolling can be more accurate, and smoother in a long list.</p>
+
+<h3 id="model-flow-and-binding-with-ui-initstate-and-dispose">Model flow and binding with UI initState and dispose</h3>
+
+<p>Design for model binding should make sure the model can be listened to many times, and be countable. In our experience, you can bind it in initState, unbind it in dispose, and start/stop the model operation when binding exists and without any listener. Make sure you do not emit any event when binding (e.g. Fire event in initState). Why? Because of the initState/dispose of a state is executing, the event will cause other listeners to receive the event and update the state, while the context scope is locked.</p>
+
+<h3 id="don-t-cache-widget-build-is-the-core-philosophy-for-flutter">Don’t cache widget. Build is the core philosophy for Flutter</h3>
+
+<p>The building cost is not as expensive as you imagined. If you cache it, you have to handle your cleanup as well. Leave that work to Flutter, it can do this using the React concept, diff and only update the necessary one. In our case, the Quire tree view, we tested more than 2,000 rows in ListView (for some reason, we didn’t use builder solution of ListView). It’s much faster than our expected due to Stateful Widget which only generates row states when it’s in the viewport. For the build cache, Flutter has published an <a href="https://medium.com/@mehmetf_71205/inheriting-widgets-b7ac56dbbeb1">article</a> for it.</p>
+
+<h3 id="most-ios-look-widgets-are-not-ready">Most iOS-look widgets are not ready</h3>
+
+<p>Flutter is currently focusing on Material design components. It’s fine to use them in iOS because material design is commonly designed for cross platform. But in some cases, it’s not as good as in Android. Take for example the wheel based datepicker. Overall, I think it’s still necessary to offer a user experience that matches the native behavior in iOS.</p>
+
+<h3 id="input-in-flutter">Input in Flutter</h3>
+
+<p>There are many input related issues. For example, in issue <a href="https://github.com/flutter/flutter/issues/13765">#13765</a>, you should be able to see the newline before you enter more words; In issue <a href="https://github.com/flutter/flutter/issues/5986">#5986</a>, there is no chance to know what key the user entered.</p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>Flutter is a powerful framework for creating both Android and iOS native app. We enjoyed it while developing our Android app, and shall enjoy it even more when it’s officially released. Even though it was in Alpha and <a href="https://dzone.com/articles/googles-flutter-beta-builds-beautiful-native-apps">now Beta</a>, Flutter has always been very stable. Its developers are also very active in answering any question or issues you have.</p>
+
+<p>Being an open source framework, it lets you easily track what’s going on, what’s been fixed and updated. You can even fix the issues yourself and contribute to the community! Flutter - a high-performing cross-platform framework that comes with native behavior - is definitely the best solution for you. We are currently planning to replace our Swift-based iOS app with Flutter in the coming months, and I shall share our experience again when that time comes. Keep going Flutter, you are absolutely awesome.</p>
+</div>
+    <div class="bottom">
+      <hr>
+      <div id="disqus_thread"></div>
+      <hr>
+      <div class="related">
+        
+        
+          
+            
+          
+            
+          
+            
+              <a href="/blog/p/Introducing-Quire-for-Android.html">
+                <div class="img" style="background-image: url('/blog/images/2018-01-26-Introducing-Quire-for-Android/0.png')"></div>
+                <h5>
+                  POSTED BY Crystal Chen · Jan 26, 2018
+                </h5>
+                <h3 class="author">Introducing: Quire for Android</h3>
+              </a>
+              
+              
+                
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <a href="/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html">
+                <div class="img" style="background-image: url('/blog/images/2017-08-04-Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline/0.png')"></div>
+                <h5>
+                  POSTED BY Crystal Chen · Aug 4, 2017
+                </h5>
+                <h3 class="author">Quire enhanced for a smooth user experience in your Android browser, even offline!</h3>
+              </a>
+              
+              
+              
+                <span class="clearfix"></span>
+                
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+        <span class="clearfix"></span>
+      </div>
+    </div>
+  </div>
+  <span class="clearfix"></span>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'quire';
+        
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+      </div>
+
+      <footer class="footer-wrap navbar navbar-default">
+        <div id="footer" class="container">
+          <nav class="navbar-collapse bs-navbar-collapse">
+  <ul id="sns-items" class="nav navbar-nav navbar-right">
+  </ul>
+  <div id="footer-txt" class="col-sm-12">
+    <ul class="nav navbar-nav">
+      <li class="item"><a href="/blog" onclick="gapg({'page':'/blog','title':'Blog'})">Blog</a></li>
+      <li class="item"><a href="/about">About</a></li>
+      <li class="item"><a href="mailto:feedback@quire.io">Feedback</a></li>
+      <li class="item"><a href="/pricing">Pricing</a></li>
+      <li class="item"><a href="/terms">Terms</a></li>
+      <li class="item"><a href="/faq">FAQ</a></li>
+    </ul>
+  </div>
+</nav>
+        </div>
+      </footer>
+    </div>
+    
+    <script src="https://quire.io/s/js/jquery-1.10.2.min.js"></script>
+    <script async src="https://quire.io/s/js/pack.min.js"></script>
+    <script async src="https://quire.io/s/js/blog.min.js"></script>
+  </body>
+
+</html>

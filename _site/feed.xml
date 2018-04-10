@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire: Building a Sophisticated Mobile App with Google’s Flutter</title>
+				
+					<dc:creator>Jerry Chen</dc:creator>
+				        
+				<description>A couple years ago, we developed Quire iOS app in Swift. Last year, we chose Flutter for developing Quire Android app. I’d like to share my experience of developing the Android app with Flutter - the good and the bad, the strengths and weaknesses - in this article. I’m a front-end developer of Quire, a simple, lightweight project management tool for capturing ideas, managing tasks and collaborating with teams...</description>
+				<pubDate>Tue, 10 Apr 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</guid>
+			</item>
+		
+			<item>
 				<title>4 productivity tips that make sense for your project in 2018</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 11 Sep 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire enhanced for a smooth user experience in your Android browser, even offline!</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We are one step closer to making Quire accessible anywhere on any device. For the past couple months, we have optimized it for your Android mobile browser, so it now comes with better reliability, and accessibility. Even when you are offline. What exactly have been enhanced? To name a few, you can swipe a task to instantly do more. To quickly break down a task into smaller items, you can swipe it from right to left to add subtasks. To complete a task, swipe it from left to right and tap the complete icon...</description>
-				<pubDate>Fri, 04 Aug 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html</guid>
 			</item>
 		
 	</channel>
