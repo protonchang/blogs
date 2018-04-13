@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Introducing: New Navigation Bar and Filter</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks...</description>
+				<pubDate>Fri, 13 Apr 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire: Building a Sophisticated Mobile App with Google’s Flutter</title>
 				
 					<dc:creator>Jerry Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 28 Sep 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Dream-Chasers-Making-the-best-off-road-vehicles.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Making-the-best-off-road-vehicles.html</guid>
-			</item>
-		
-			<item>
-				<title>A few things about tasks, projects, organizations and smart folders you should know.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Tasks, projects, organizations and smart folders make up the hierarchical structure of Quire. In this blog post, we will clarify what each of them is, and illustrate a few examples on how you can use them at will. A task is an actionable item to be done. It can be broken down into subtasks, sub-subtasks, and so on. But it can also be ideas, notes or sections that you want to jot down first and divide into smaller items later. Getting Started with Quire is one example of documentation...</description>
-				<pubDate>Mon, 11 Sep 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html</guid>
 			</item>
 		
 	</channel>
