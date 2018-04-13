@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Introducing: New Navigation Bar and Filter"
-date:   2018-04-13 11:58:07
+date:   2018-04-16 11:58:07
 categories: "milestones"
 
 index-intro: "Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks..."
 category-intro: "Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist..."
 
-image: "2018-04-13-introducing-New-Navigation-Bar-and-Filter/quire-ui-navigation-bar-filter.png"
+image: "2018-04-16-introducing-New-Navigation-Bar-and-Filter/quire-ui-navigation-bar-filter.png"
 tags: UI navigation filter
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@crystalshchen"
 
 relatedPosts: ["Quire Mark II, reimagined and rebuilt for your dreams", "Quire now, and things to look forward to in 2017."]
 
-imgDir: "2018-04-13-introducing-New-Navigation-Bar-and-Filter"
+imgDir: "2018-04-16-introducing-New-Navigation-Bar-and-Filter"
 ---
 
 
