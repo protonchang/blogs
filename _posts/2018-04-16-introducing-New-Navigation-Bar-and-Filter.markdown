@@ -2,10 +2,10 @@
 layout: post
 title:  "Introducing: New Navigation Bar and Filter"
 date:   2018-04-16 11:58:07
-categories: "milestones"
+categories: "features"
 
 index-intro: "Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks..."
-category-intro: "Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist..."
+category-intro: "Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation..."
 
 image: "2018-04-16-introducing-New-Navigation-Bar-and-Filter/quire-ui-navigation-bar-filter.png"
 tags: UI navigation filter
