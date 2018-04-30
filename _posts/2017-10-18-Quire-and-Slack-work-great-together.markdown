@@ -30,15 +30,23 @@ For those of you who often communicate on Slack, you and your team can now recei
 
 You need to link an organization to a Slack team, and a project to a Slack channel.
 
-***1. Go to a Quire organization’s Settings, and click on “Add to Slack”***
+***1. Go to a Quire organization, and click on the "pen" edit icon***
 
-<div style="max-width: 530px; max-height: 215px; margin: 0 auto;">
+<div style="max-width: 537px; max-height: 112px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m3-organization-edit.png)
 {% endmarkdown %}
 </div>
 
-***2. Select the Slack team you want to link to, and click on “Authorize”***
+***2. Go to Options -> Integratoins, and click on "Add to Slack"***
+
+<div style="max-width: 728px; max-height: 253px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m3-integrations-slack.png)
+{% endmarkdown %}
+</div>
+
+***3. Select the Slack team you want to link to, and click on “Authorize”***
 
 <div style="max-width: 700px; max-height: 360px; margin: 0 auto;">
 {% markdown %}
