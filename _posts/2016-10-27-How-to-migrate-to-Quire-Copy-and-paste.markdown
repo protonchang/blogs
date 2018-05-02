@@ -116,7 +116,7 @@ Then, you go to Quire to paste what you copied for preview.
 
 By default, we recognize what you pasted as **multiple tasks**, with each row being the name, attributes and description of each task.
 
-Only columns called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description**, in no particular order, and the cells below them are recognized. The rest is omitted.
+Only columns called **Name**, **Assignee**, **Tag**, **Start**, **Due**, **Priority**, **Status**, **Description**, **Parent** and **ID**, in no particular order, and the cells below them are recognized. The rest is omitted.
 
 #### Note: The header column names must be exactly the same with the first letter capitalized.
 
@@ -172,7 +172,7 @@ For column Priority to be recognized, you need to enter Low, Medium, High or Urg
 
 With a CSV file, it is the same as copying and pasting from a spreadsheet file.
 
-Once again, only those called **Parent**, **Priority**, **Assignee**, **Start**, **Due**, **Name** and **Description** and what is below them are recognized.
+Once again, only those called **Name**, **Assignee**, **Tag**, **Start**, **Due**, **Priority**, **Status**, **Description**, **Parent** and **ID** and what is below them are recognized.
 
 #### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
 
