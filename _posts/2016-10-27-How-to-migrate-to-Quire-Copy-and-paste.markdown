@@ -156,6 +156,8 @@ Ta-da! Now you have a tree structure with tasks and subtasks.
 
 If you manually select single task, we will recognize the data you pasted as a single task, with the first line as its name and the rest as its description.
 
+Also, keep in mind that if a task has more than one assignee or tag, you need to have a column for each assignee or tag. Each column will have the same header name — Assignee or Tag.
+
 #### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
 
 When you paste from Excel, there are two limitations to keep in mind:
@@ -173,6 +175,8 @@ For column Priority to be recognized, you need to enter Low, Medium, High or Urg
 With a CSV file, it is the same as copying and pasting from a spreadsheet file.
 
 Once again, only those called **Name**, **Assignee**, **Tag**, **Start**, **Due**, **Priority**, **Status**, **Description**, **Parent** and **ID** and what is below them are recognized.
+
+And keep in mind that if a task has more than one assignee or tag, you need to have a column for each assignee or tag. Each column will have the same header name — Assignee or Tag.
 
 #### Note: What you typed under columns Assignee and Tag must already be your project members and tags to be added.
 
