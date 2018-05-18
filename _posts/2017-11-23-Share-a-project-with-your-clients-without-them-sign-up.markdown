@@ -30,9 +30,9 @@ All you need to do is send your clients a link. Once they click the link, they w
 
 ## It takes only a few secs to invite your clients.
 
-First, go to your project’s Settings, and head over to the “Members” tab.
+First, click on the "arrow" icon beside your project name, and select "Edit members."
 
-<div style="max-width: 219px; max-height: 96px; margin: 0 auto;">
+<div style="max-width: 333px; max-height: 131px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
