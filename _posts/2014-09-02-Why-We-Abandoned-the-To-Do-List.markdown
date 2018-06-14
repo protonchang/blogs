@@ -112,9 +112,9 @@ Instead, we recognized that this hierarchy would be better represented with a tr
 
 Under this structure, tasks and their dependencies are clearly presented in the task management system.
 
-<div style="max-width: 700px; max-height: 536px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 389px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/why-we-abandaned-to-do-list.png)
 {% endmarkdown %}
 </div>
 
@@ -122,9 +122,9 @@ A task may start out as a rough goal without a plan or the background knowledge 
 
 As we plan and organize our tasks as they progress, tasks represented as tree nodes can be easily re-arranged in accordance with their dependencies by drag-n-drop as depicted below:
 
-<div style="max-width: 700px; max-height: 540px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 376px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/7.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/why-we-abandaned-to-do-list-2.png)
 {% endmarkdown %}
 </div>
 
