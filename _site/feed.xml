@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire iOS 2.0: New Features and Even Greater Performance</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action. Whenever, wherever you want. Today, we took Quire iOS 2.0 to another level: not only did we added new features, we also enhanced it for better consistency and better UX so you can enjoy the same experience across all devices...</description>
+				<pubDate>Fri, 13 Jul 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html</guid>
+			</item>
+		
+			<item>
 				<title>Introducing: New Navigation Bar and Filter</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 18 Oct 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Making the best off-road vehicles.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Not long ago, I talked to Michael, a copywriter whose son goes to a primary school in Austria, about how 100 parents, students and teachers built and run their school together. This time, Quire made its way into a university in the United States...</description>
-				<pubDate>Thu, 28 Sep 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dream-Chasers-Making-the-best-off-road-vehicles.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Making-the-best-off-road-vehicles.html</guid>
 			</item>
 		
 	</channel>

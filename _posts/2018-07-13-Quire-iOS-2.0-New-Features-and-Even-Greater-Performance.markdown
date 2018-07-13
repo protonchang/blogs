@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "Quire iOS 2.0: New Features and Even Greater Performance"
+date:   2018-07-13 11:58:07
+categories: "mobile"
+
+index-intro: "Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action. Whenever, wherever you want. Today, we took Quire iOS 2.0 to another level: not only did we added new features, we also enhanced it for better consistency and better UX so you can enjoy the same experience across all devices..."
+category-intro: "Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action..."
+
+image: "2018-07-13-Quire-iOS-2.0-New-Features-and-Even-Greater-Performance/quire-ios-2.0.png"
+tags: mobile ios app flutter
+author: "Crystal Chen"
+authorImg: "/images/author/crystal.png"
+authorDesc: "Content writer, food lover, and aniholic."
+authorLink: "https://medium.com/@crystalshchen"
+
+relatedPosts: ["Snap your ideas! Introducing Quire for iOS", "Introducing: Quire for Android"]
+
+imgDir: "2018-07-13-Quire-iOS-2.0-New-Features-and-Even-Greater-Performance"
+---
+
+
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-2.0.png)
+
+Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action. Whenever, wherever you want.
+
+Today, we took [Quire iOS 2.0](https://itunes.apple.com/us/app/quire-unfold-your-ideas/id1095193897?mt=8) to another level: not only did we added new features, we also enhanced it for better consistency and better UX so you can enjoy the same experience across all devices.
+
+You can see the new features and enhancements highlighted below.
+
+## Multi-Select Tasks
+
+You can now select multiple tasks simultaneously to bulk assign tasks.
+
+For example, you can select 15 tasks to give them the same due date at once without going into each task one by one — which is insanely tedious.
+
+There are two ways to multi-select tasks: long tap a task, or swipe a task from the right edge of your iPhone/iPad’s screen.
+
+Then, you can tap on any icon in the menu bar for batch operation.
+
+<div style="max-width: 600px; max-height: 548px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-multi-select-tasks-bulk.png)
+{% endmarkdown %}
+</div>
+
+## Customizable Filters
+
+
+Filtering has never been this flexible and easy with multiple criteria/conditions.
+
+For example, you can filter tasks by priority and multiple tags at the same time.
+
+You can also tap the “star” icon on the right of the filter to save this filtered view for later use.
+
+<div style="max-width: 600px; max-height: 548px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-filter-multiple-criteria.png)
+{% endmarkdown %}
+</div>
+
+## Dark Theme
+
+We understand how your eyes can feel tired working at night.
+
+To help you work more comfortably, we added a Dark Theme that you can switch to in “My Profile” settings.
+
+<div style="max-width: 600px; max-height: 548px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-dark-theme.png)
+{% endmarkdown %}
+</div>
+
+## Performance and Stability
+
+In this milestone of our iOS app, you will enjoy an even faster speed, and an even more stable Quire.
+
+For example, it is now at least 200% faster to open the sidebar and switch to another project.
+
+<div style="max-width: 600px; max-height: 548px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-left-sidebar.png)
+{% endmarkdown %}
+</div>
+
+## Breadcrumbs
+
+Not just when you sort and filter! In Quire iOS 2.0, you can see the breadcrumbs — aka parent tasks, grandparent tasks, etc. — of each task after you filter by Status, including In Progress and Completed, in landscape mode.
+
+<div style="max-width: 600px; max-height: 331px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-breadcrumbs-landscape-mode.png)
+{% endmarkdown %}
+</div>
+
+## Better Consistency, Better UX Experience
+
+We have enhanced our iOS app, matching it to our web app for better consistency, and better UX experience.
+
+For example, notice the assignee, date, tag, priority, etc., icons? They are in the same location as those in the web app to save you time from familiarizing with them.
+
+<div style="max-width: 600px; max-height: 593px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-ios-task-detail.png)
+{% endmarkdown %}
+</div>
+
+Let’s kick start your ideas by dumping them via [Siri](https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html) or [Camera](https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html)! You are more than welcome to leave your suggestions or feedback in comments below.
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
