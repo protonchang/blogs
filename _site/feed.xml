@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Mark III: Nested Tasks Meets Board</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board. For years, many Quire users have enjoyed “nested tasks” to see and organize their ideas into a well-planned list of small, actionable to-dos. Now, with Kanban board, execution on your to-dos is made even easier...</description>
+				<pubDate>Mon, 23 Jul 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire iOS 2.0: New Features and Even Greater Performance</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 13 Nov 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire and Slack work great together.</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects...</description>
-				<pubDate>Wed, 18 Oct 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-and-Slack-work-great-together.html</guid>
 			</item>
 		
 	</channel>
