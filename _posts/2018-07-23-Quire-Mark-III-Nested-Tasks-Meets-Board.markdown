@@ -84,7 +84,7 @@ In short, Quire’s nested “Tasks” view is good for planning and seeing the 
 
 ## Without You, We Would Not Have Made This Far.
 
-Like always, we want to thank you all for your feedback and support. 
+Like always, we want to thank you all for your [feedback](https://quire.io/w/Quire_Feedbacks/) and support. 
 
 Quire 3.0 now offers an Agile bridge between board and nested to do list. When combined together, they give your team an even more natural, smoother workflow from ideas to action.
 
