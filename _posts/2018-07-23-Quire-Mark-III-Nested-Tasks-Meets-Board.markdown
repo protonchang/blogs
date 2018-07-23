@@ -46,7 +46,7 @@ Next, in the “Board” view,  you add three boards named Design, Development a
 
 <div style="max-width: 550px; max-height: 512px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-3.0-add-tasks-to-kanban-board.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-3.0-kanban-board.png)
 {% endmarkdown %}
 </div>
 
@@ -54,7 +54,7 @@ Then, you pick out a couple tasks to add them to status columns like To Dos, Dev
 
 <div style="max-width: 550px; max-height: 512px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-3.0-kanban-board.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-3.0-add-tasks-to-kanban-board.png)
 {% endmarkdown %}
 </div>
 
