@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>To Do List and Kanban: What Project Management Did Wrong</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>Be it teams, agencies, or companies, there must have been a time when they looked for project management tools or softwares, tried each one of them, and asked all sorts of questions about them, hoping to choose the best project management software to accomplish their next big, amazing projects. Unfortunately, there is no one-for-all, perfect solution. Just the right one to help you boost your productivity...</description>
+				<pubDate>Fri, 10 Aug 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Mark III: Nested Tasks Meets Board</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 20 Nov 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Dream-Chasers-Taking-on-the-world-with-the-best-melons-from-Brazil.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Taking-on-the-world-with-the-best-melons-from-Brazil.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire + Siri: Add tasks with your voice for iOS 11</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone! And now with iOS 11, the conversation has become even more natural...</description>
-				<pubDate>Mon, 13 Nov 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html</guid>
 			</item>
 		
 	</channel>
