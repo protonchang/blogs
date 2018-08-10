@@ -95,7 +95,7 @@ What others do is they treat “To do list” and “Kanban board” as two sepa
 
 In our opinion, “nested to do list” is good for planning a project, and “Kanban board” is for executing the same project collaboratively. It does not make sense to take a project and divide it into two; Not only is it tedious to manage tasks, but you also lose track of them.
 
-So, What Makes Quire Different?
+## So, What Makes Quire Different?
 
 In Quire, “Nested to do list” and “Kanban board” have very different purposes: the former is to organize your project and see its big picture, and the latter is to focus on completing a few crucial tasks at a time from the same project.
 
