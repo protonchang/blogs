@@ -28,23 +28,21 @@ Humans are predominantly visual animals. We process visual information much bett
 
 Simply follow 4 steps and you’ll have your tasks synced with your Google Calendar!
 
-### 1. Go to project's Settings -> Options -> Integrations
+### 1. Go to a project's Options
 
-<div style="max-width: 219px; max-height: 96px; margin: 0 auto;">
+<div style="max-width: 227px; max-height: 68px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
-### 2. Click on "Sync" under Calendar
+### 2. Select Integrate --> Calendars in the dropdown
 
-<div style="max-width: 473px; max-height: 152px; margin: 0 auto;">
+<div style="max-width: 382px; max-height: 291px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
 </div>
-
-#### Tip: You can click on the arrow beside the project name at the top and choose Integrate Calendars directly.
 
 ### 3. Choose what kind of tasks you want to sync
 
