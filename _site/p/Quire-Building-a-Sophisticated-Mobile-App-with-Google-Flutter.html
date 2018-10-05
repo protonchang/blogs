@@ -324,7 +324,7 @@
 
 <p>Design for model binding should make sure the model can be listened to many times, and be countable. In our experience, you can bind it in initState, unbind it in dispose, and start/stop the model operation when binding exists and without any listener. Make sure you do not emit any event when binding (e.g. Fire event in initState). Why? Because of the initState/dispose of a state is executing, the event will cause other listeners to receive the event and update the state, while the context scope is locked.</p>
 
-<h3 id="don-t-cache-widget-build-is-the-core-philosophy-for-flutter">Don’t cache widget. Build is the core philosophy for Flutter</h3>
+<h3 id="don’t-cache-widget-build-is-the-core-philosophy-for-flutter">Don’t cache widget. Build is the core philosophy for Flutter</h3>
 
 <p>The building cost is not as expensive as you imagined. If you cache it, you have to handle your cleanup as well. Leave that work to Flutter, it can do this using the React concept, diff and only update the necessary one. In our case, the Quire tree view, we tested more than 2,000 rows in ListView (for some reason, we didn’t use builder solution of ListView). It’s much faster than our expected due to Stateful Widget which only generates row states when it’s in the viewport. For the build cache, Flutter has published an <a href="https://medium.com/@mehmetf_71205/inheriting-widgets-b7ac56dbbeb1">article</a> for it.</p>
 
