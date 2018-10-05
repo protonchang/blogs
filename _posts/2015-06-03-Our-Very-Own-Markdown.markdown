@@ -128,12 +128,20 @@ For bold, you use 2 asterisks. For example:
 This is **very important**.
 ```
 
-## **STRIKETHROUGHS**
+## **UNDERLINES**
 
-You can use two tildes at the start and the end of the text:
+You can use one underscore at the start and the end of the text:
 
 ```
-~~Delete text.~~
+_Underlined text._
+```
+
+## **STRIKETHROUGHS**
+
+You can use one tilde at the start and the end of the text:
+
+```
+~Delete text.~
 ```
 
 ## **LISTS**
