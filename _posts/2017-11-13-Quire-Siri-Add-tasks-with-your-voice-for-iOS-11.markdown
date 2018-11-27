@@ -43,6 +43,8 @@ Now, Siri is ready to interact with Quire.
 
 Here are what you say to start the conversation:
 
+* Add task on Quire
+* Add a task on Quire
 * Add task in Quire
 * Add a task in Quire
 * Add [task name] in Quire

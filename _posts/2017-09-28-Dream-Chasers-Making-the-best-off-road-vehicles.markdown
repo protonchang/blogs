@@ -26,7 +26,7 @@ Not long ago, I talked to Michael, a copywriter whose son goes to a primary scho
 
 This time, Quire made its way into a university in the United States.
 
-VIctor Law, a 5th year student majoring in Aerospace Engineering at [Georgia Institute of Technology](http://www.gatech.edu/), spoke to me about how Quire has helped him and his team prepare for the annual off-road vehicles race.
+Victor Law, a 5th year student majoring in Aerospace Engineering at [Georgia Institute of Technology](http://www.gatech.edu/), spoke to me about how Quire has helped him and his team prepare for the annual off-road vehicles race.
 
 > “Quire helps us stay on track, and more importantly, makes sure we are delivering the best-quality designs.”<br>
 > -- Victor Law<br>
