@@ -23,12 +23,9 @@ imgDir: "2018-11-30-Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019"
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/your-new-year-resolutions-in-productive-2019.png)
 
 
-<div style="max-width: 650px; max-height: 411px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-project-management-software-2019-quire.png)
-{% endmarkdown %}
-</div>
-<div align="center">Quire Screenshot</div>
+We got days till Christmas. And New Year.
+
+The moment midnight strikes, people will be making their New Year’s resolutions for 2019. Whether you are starting fresh or picking up projects from where you left off in 2018—we got you covered!
 
 ## For Project Management
 
@@ -38,14 +35,13 @@ Brilliant project starts with brilliant ideas. And it all begins in [Quire](http
 
 You can easily jot down your ideas and organize them in a nested task list, and focus on completing it in a visual [Kanban board](https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html).
 
-In addition, we have handpicked a couple productivity apps to help your projects too:
-
-<div style="max-width: 650px; max-height: 372px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 411px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-communication-collaboration-tool-2019-slack.jpg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-project-management-software-2019-quire.png)
 {% endmarkdown %}
 </div>
-<div align="center">Slack Screenshot</div>
+
+In addition, we have handpicked a couple productivity apps to help your projects too:
 
 ## For Communications
 
@@ -55,12 +51,11 @@ From brainstorming on ideas, sharing what you have done, to searching for messag
 
 It brings all of your team’s chats, talks, and discussions together in a single place.
 
-<div style="max-width: 650px; max-height: 344px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 372px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-file-management-tool-2019-g-suite.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-communication-collaboration-tool-2019-slack.jpg)
 {% endmarkdown %}
 </div>
-<div align="center">G Suite Screenshot</div>
 
 ## For File Management
 
@@ -70,12 +65,11 @@ When it comes to storing, editing and managing your work, [G Suite](https://gsui
 
 Take for example Google Docs. What better way to share your ideas with others, work on them, and edit them together in real-time?
 
-<div style="max-width: 650px; max-height: 475px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 344px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-time-tracking-management-app-2019-toggl-2.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-file-management-tool-2019-g-suite.png)
 {% endmarkdown %}
 </div>
-<div align="center">Toggl Screenshot</div>
 
 ## For Time Tracking & Time Management
 
@@ -85,12 +79,11 @@ No idea where your hours are going? [Toggl](https://toggl.com/) tracks the time 
 
 With its time tracker, you can press a button to record time, or enter it manually. You can even add tags, member or client’s name, and other details.
 
-<div style="max-width: 650px; max-height: 468px; margin: 0 auto;">
+<div style="max-width: 650px; max-height: 475px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-integration-platform-to-connect-apps-2019-zapier.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-time-tracking-management-app-2019-toggl-2.png)
 {% endmarkdown %}
 </div>
-<div align="center">Zapier Screenshot</div>
 
 ## For Workflow with Others
 
@@ -99,6 +92,12 @@ With its time tracker, you can press a button to record time, or enter it manual
 A powerful way to boost productivity is [Zapier](https://zapier.com/). It connects over 1,000 applications and ties them together— including the ones you use everyday.
 
 By creating a “Zap”, you define an action, and set it up to repeat when triggers happen. Let say you receive an email in Gmail from someone (aka a “trigger”), you would automatically receive a SMS notification (aka an “action”).
+
+<div style="max-width: 650px; max-height: 468px; margin: 0 auto;">
+{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/best-integration-platform-to-connect-apps-2019-zapier.png)
+{% endmarkdown %}
+</div>
 
 With the year 2019 just around the corner, what are you waiting for?
 
