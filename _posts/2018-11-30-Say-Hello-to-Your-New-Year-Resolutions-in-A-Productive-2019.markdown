@@ -4,7 +4,7 @@ title:  "Say Hello to Your New Year’s Resolutions in A Productive 2019."
 date:   2018-11-30 11:58:07
 categories: "tips"
 
-index-intro: "We got days till Christmas. And New Year. The moment midnight strikes, people will be making their New Year’s resolutions for 2019. Whether you are starting fresh or picking up projects from where you left off in 2018—we got you covered! Brilliant project starts with brilliant ideas. And it all begins in Quire..."
+index-intro: "We got days till Christmas. And New Year. The moment midnight strikes, people will be making their New Year’s resolutions for 2019. Whether you are starting fresh or picking up projects from where you left off in 2018—we got you covered! Brilliant project starts with brilliant ideas. And it all begins in Quire. You can easily jot down your ideas and organize them..."
 category-intro: "We got days till Christmas. And New Year. The moment midnight strikes, people will be making their New Year’s resolutions for 2019..."
 
 image: "2018-11-30-Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019/your-new-year-resolutions-in-productive-2019.png"
