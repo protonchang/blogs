@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019.</title>
+				
+					<dc:creator>Crystal Chen</dc:creator>
+				        
+				<description>We got days till Christmas. And New Year. The moment midnight strikes, people will be making their New Year’s resolutions for 2019. Whether you are starting fresh or picking up projects from where you left off in 2018—we got you covered! Brilliant project starts with brilliant ideas. And it all begins in Quire...</description>
+				<pubDate>Fri, 30 Nov 2018 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</guid>
+			</item>
+		
+			<item>
 				<title>To Do List and Kanban: What Project Management Did Wrong</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 23 Nov 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Taking on the world with the best melons from Brazil</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>José Luís Prado and his family see it as their mission to bring their well-established melons Melão REI from their hometown in Ceará, northern Brazil, to countries all over the globe. Founded in 1983 by his father Carlos, José is the 2nd generation of this family-owned business ITAUEIRA. They grow all kinds of melons from yellow honeydew melons to green melons, watermelons as well as grapes, and ship them to countries...</description>
-				<pubDate>Mon, 20 Nov 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dream-Chasers-Taking-on-the-world-with-the-best-melons-from-Brazil.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dream-Chasers-Taking-on-the-world-with-the-best-melons-from-Brazil.html</guid>
 			</item>
 		
 	</channel>
