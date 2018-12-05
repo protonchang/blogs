@@ -135,6 +135,9 @@ For example: /quire add Design new logo
 Example: /quire link Development_Project<br>
 Example: /quire link https://quire.io/w/development_project
 
+**Unlink a channel from project**<br>
+`/quire unlink`
+
 **List all projects and their IDs**<br>
 `/quire list project`<br>
 
