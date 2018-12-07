@@ -18,3 +18,10 @@ install jekyll 2.5.3
 install gem jekyll-paginate 1.1.0
 
 install gem redcarpet 3.3.2
+
+## Build with docker
+### Install docker image
+`./installDockerBuild`
+
+### Build with docker image
+`./dockerBuild`
