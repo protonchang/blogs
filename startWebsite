@@ -1,0 +1,18 @@
+#!/bin/bash
+# website
+#
+#	Purpose:
+#		
+#	Description:
+#		
+#	History:
+#		Fri Dec 15 13:21:48 CST 2018, Created by jimmyshiau
+#
+# Copyright (C) 2017 Potix Corporation. All Rights Reserved.
+docker stop blog-website
+docker run --rm \
+  --name blog-website \
+  -p 4000:80 \
+  --volume="$PWD:/srv/jekyll" \
+  --volume="$PWD/quire.conf:/etc/nginx/conf.d/default.conf:ro" \
+  -d nginx

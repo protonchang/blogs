@@ -31,3 +31,6 @@ exclude:
 - Dockerfile
 - installDockerBuild
 - dockerBuild
+- quire.conf
+- startWebsite
+- stopWebsite
