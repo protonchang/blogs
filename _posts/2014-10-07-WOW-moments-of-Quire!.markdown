@@ -114,7 +114,7 @@ Note: this concept is derived from Windows’ desktop behaviour, like how you ca
 {% endmarkdown %}
 </div>
 
-*(3) drag a task with sub-tasks, it will collapse and move the whole tree to where you drop it. **The hierarchy of the tasks will thus, not be affected.***
+*(3) drag a task with sub-tasks, it will collapse and move the whole tree to where you drop it. <strong>The hierarchy of the tasks will thus, not be affected.</strong>*
 
 For example, if we drag task C on top of task B, the relationship of task C & D remains.
 

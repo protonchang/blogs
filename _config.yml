@@ -26,3 +26,8 @@ category_archive: {
 twitter_account: 'quire_io'
 locale:         en_us
 icon: "/s/img/favicon.ico"
+exclude:
+- README.md
+- Dockerfile
+- installDockerBuild
+- dockerBuild

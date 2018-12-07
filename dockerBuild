@@ -1,0 +1,15 @@
+#!/bin/bash
+#	Purpose:
+#		build jekyll with docker image
+#	Description:
+#		
+#	History:
+#		Wed Dec 7 9:21:48 CST 2018, Created by jimmyshiau
+#
+# Copyright (C) 2018 Potix Corporation. All Rights Reserved.
+#
+docker run --rm \
+  -e "TZ=Asia/Taipei" \
+  --volume="$PWD:/srv/jekyll" \
+  -it quire-blog \
+  jekyll build

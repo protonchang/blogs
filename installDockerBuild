@@ -1,0 +1,14 @@
+#!/bin/bash
+#	Purpose:
+#		install docker build jekyll image
+#	Description:
+#		
+#	History:
+#		Wed Dec 7 9:21:48 CST 2018, Created by jimmyshiau
+#
+# Copyright (C) 2018 Potix Corporation. All Rights Reserved.
+#
+# install
+# Run: 
+docker rmi quire-blog
+docker build -t quire-blog .
