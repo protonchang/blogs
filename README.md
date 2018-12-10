@@ -25,3 +25,10 @@ install gem redcarpet 3.3.2
 
 ### Build with docker image
 `./dockerBuild`
+
+## Run blog server
+### Start blog server
+* `./startWebsite `
+* Then access `http:localhost:4000`
+### Stop blog server
+`./stopWebsite `
