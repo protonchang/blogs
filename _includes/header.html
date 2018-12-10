@@ -12,31 +12,18 @@
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
-    
       <li class="item blog active">
-        <a href="/blog">Blog</a>
+        <a href="/blog">BLOG</a>
       </li>
-
-
       <li class="item login">
-          <a href="/login?continue={{page.url | prepend: site.baseurl | prepend: site.url}}">Log in</a>
+          <a class="b green" href="/login?continue={{page.url | prepend: site.baseurl | prepend: site.url}}">LOG IN</a>
       </li>
       <li class="item start-free">
-        <a href="/signup" class="start-free-btn b green" >GET STARTED - It's FREE!</a>
+        <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
       </li>
-
-
-      <li class="item invite">
-          <a href="/invite">Invite</a>
-      </li>
-      <li class="item feedback">
-          <a href="/feedback">Feedback</a>
-      </li>
+      <li class="item feedback hidden-xxs hidden-xs"><a href="/feedback">FEEDBACK</a></li>
       <li class="item t-user dropdown" id="u-id">
-        <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown">
-          <!-- <img class="img-icon x30 circle" src="https://quire.s3.amazonaws.com/BI613BWUDag2wydvYxm5vWlk/image.jpg?1441693943103" alt="A"> -->
-          <!-- <div class="img-icon x30 circle iconc-31">A</div> -->
-        </a>
+        <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown"></a>
         <ul class="arrow-dropdown-menu dropdown-menu pull-right arrow-border">
           <li class="dropdown-header"></li>
 
@@ -46,6 +33,17 @@
           <li class="divider"></li>
 
           <li class="u-item"><a href="/invite"><i class="icon-heart-o"></i>Recommend Quire</a></li>
+          <li class="u-item dropdown-submenu">
+            <a><i class="icon-question-circle"></i>Help</a>
+            <ul class="dropdown-menu" role="menu">
+              <li class="u-item">
+                <a href="/w/Getting_Started_with_Quire/" target="_blank"><i class="icon-book-open-o"></i>Getting Started</a>
+              </li>
+              <li class="u-item feedback">
+                <a href="/feedback" class="feedback-item" target="_blank"><i class="icon-inbox-file-word"></i>Feedback</a>
+              </li>
+            </ul>
+          </li>
 
           <li class="divider"></li>
           <li class="u-item"><a href="/r/logout"><i class="icon-sign-out"></i>Log out</a></li>
