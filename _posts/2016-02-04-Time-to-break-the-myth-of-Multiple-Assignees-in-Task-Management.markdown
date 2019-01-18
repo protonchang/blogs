@@ -35,9 +35,9 @@ If you could assign such task to these three people, they’d each receive a not
 
 Honestly, you wouldn’t want to make the effort checking your resources, deciding who in the team should do it, or worse, change the habit of how you delegate tasks, just as long as it’s done by the team.
 
-<div style="max-width: 325px; max-height: 148px; margin: 0 auto;">
+<div style="max-width: 261px; max-height: 123px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.jpg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
 {% endmarkdown %}
 </div>
 
@@ -51,7 +51,7 @@ So, imagine going to the trouble of breaking it down when it’s perfectly alrig
 
 If you could assign this task to both designers, they’d be able to work it out among themselves to complete it. This is what teamwork is about.
 
-<div style="max-width: 257px; max-height: 290px; margin: 0 auto;">
+<div style="max-width: 357px; max-height: 259px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
 {% endmarkdown %}
@@ -66,9 +66,9 @@ You and your engineering friends have finished building a product, and since it�
 Of course, you can assign a person to do it but it’d be better if more than one do it, so to give you as many feedback as possible. In other words, the more the better.
 
 
-<div style="max-width: 325px; max-height: 219px; margin: 0 auto;">
+<div style="max-width: 311px; max-height: 270px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.jpg)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
 {% endmarkdown %}
 </div>
 
