@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Import Your Data From Other Project Management Software</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist.</description>
+				<pubDate>Tue, 19 Feb 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</guid>
+			</item>
+		
+			<item>
 				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 14 Dec 2017 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</guid>
-			</item>
-		
-			<item>
-				<title>Share a project with your clients, without them sign up!</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Quire’s “Shared Links” feature makes it super easy for you to collaborate with your clients. We all know that sometimes, clients have their own habits and it is hard to ask them to change. Now, in addition to asking them to sign up Quire, you can get them to view your Quire project with one single invitation link, and zero effort on their part...</description>
-				<pubDate>Thu, 23 Nov 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html</guid>
 			</item>
 		
 	</channel>
