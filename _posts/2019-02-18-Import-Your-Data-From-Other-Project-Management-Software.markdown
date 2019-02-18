@@ -7,7 +7,7 @@ categories: "features"
 index-intro: "Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist."
 category-intro: "You can now easily import your data from other project management softwares to Quire."
 
-image: "2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/your-new-year-resolutions-in-productive-2019.png"
+image: "2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/ImportData_cover.png"
 tags: migrate data from other project management softwares
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
