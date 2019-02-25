@@ -59,6 +59,9 @@ For more details, the tables below summarize what each of the four roles can do 
 </div>
 
 #### Note: When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
+#### Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of.
+
+#### In summary, Admin, Normal+ and Limited+ members of an organization can access all projects in this organization. Normal and Guest members cannot.
 
 ---
 
