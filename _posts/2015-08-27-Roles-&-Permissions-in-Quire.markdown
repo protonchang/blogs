@@ -24,13 +24,31 @@ imgDir: "2015-08-27-Roles-and-Permissions"
 
 ## **Overview**
 
-By default, Normal is the role given to the new member you have invited. Being a Normal member basically allows you to manage everything in a project, except its members.
+**Organization Level** 
 
-An Admin, on the other hand, has all the permissions, including managing a project, and its members.
+- Admin 
+- Normal +
+- Limited +
+
+An Admin has all the permissions, including managing every project within the organization and its members.
+
+Normal+ and Limited + can access to all projects in this organization.
+
+**Project Level** 
+
+- Admin 
+- Normal 
+- Limited 
+- Guest
+- External Team
+
+An Admin of a project can has all the permissions, including managing the project and its members.
+
+Normal, Limited and Guest are project member who can only access the project they are members of. Being a Normal member basically allows you to manage everything in a project, except its members. Limited can access to all the tasks and edit the tasks that are assigned to them. Guest can only read the project that they are assigned to. 
 
 When you outsource a task to an external team, you can assign different roles to the team’s external members. The external members will only have permissions to the task outsourced to the team even if they take on the Admin role.
 
-For more details, the tables below summarize what each of the four roles can do in a project, organization and external team.
+For more details, the tables below summarize what each of the roles can do in a project, organization and external team.
 
 ---
 
@@ -59,9 +77,6 @@ For more details, the tables below summarize what each of the four roles can do 
 </div>
 
 #### Note: When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
-#### Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of.
-
-#### In summary, Admin, Normal+ and Limited+ members of an organization can access all projects in this organization. Normal and Guest members cannot.
 
 ---
 
