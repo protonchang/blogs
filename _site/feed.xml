@@ -18,6 +18,17 @@
 			</item>
 		
 			<item>
+				<title>Dream Chasers: Making a Safer and Cleaner Space Environment</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Space pollution is indeed a growing problem, but may not be so obvious or visible to people on earth. Alexandre de Villardi de Montlaur and his team are among scientists and engineers trying to solve this problem. Alexandre, coordinator of the most significant project, the ECE3SAT project at ECE Paris, shares with us on how Quire has supported his team in designing a deboriting satellite that seeks to resolve this growing issue.</description>
+				<pubDate>Mon, 18 Feb 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</guid>
+			</item>
+		
+			<item>
 				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019.</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 26 Jan 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Introducing-Quire-for-Android.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Introducing-Quire-for-Android.html</guid>
-			</item>
-		
-			<item>
-				<title>Highlight Your Tasks with Color and Styles</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We see it as our mission to keep a simple, clean interface, including a neat task list. However, for those of you who want to easily identify your tasks and projects in a long list, you can use Markdown, and CSS styles to make them stand out...</description>
-				<pubDate>Thu, 14 Dec 2017 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html</guid>
 			</item>
 		
 	</channel>
