@@ -46,7 +46,7 @@ An Admin of a project can has all the permissions, including managing the projec
 
 Normal, Limited and Guest are project member who can only access the project they are members of. Being a Normal member basically allows you to manage everything in a project, except its members. Limited can access to all the tasks and edit the tasks that are assigned to them. Guest can only read the project that they are assigned to. 
 
-When you outsource a task to an external team, you can assign different roles to the team’s external members. The external members will only have permissions to the task outsourced to the team even if they take on the Admin role.
+When you outsource a task to an [external team](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html), you can assign different roles to the team’s external members. The external members will only have permissions to the task outsourced to the team even if they take on the Admin role.
 
 For more details, the tables below summarize what each of the roles can do in a project, organization and external team.
 

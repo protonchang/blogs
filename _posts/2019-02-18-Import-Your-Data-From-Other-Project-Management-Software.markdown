@@ -7,7 +7,7 @@ categories: "features"
 index-intro: "Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist."
 category-intro: "You can now easily import your data from other project management softwares to Quire."
 
-image: "2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/your-new-year-resolutions-in-productive-2019.png"
+image: "2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/ImportData_cover.png"
 tags: migrate data from other project management softwares
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -68,15 +68,24 @@ Okay, here are few simple steps that you can follow to import the JSON file.
  
 ***If you’re importing data from Asana…***
 
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/asana.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/asana-import.png)
 
 After you finish imported your data, the data will be transferred automatically into the tree structure task list view as a default setting. All of the subtasks in the description section on Asana will be treated as subtasks in the task list on Quire. If you wish to use Kanban Board view, you can add your tasks from your task list view to the board.
  
 ***If you’re importing data from Trello…***
 
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/trello.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/trello-board.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/trello-tree.png)
+
 All of your board and cards from Trello will be automatically transferred to Kanban Board in Quire. The tags, descriptions and comments will also be transferred into the appropriate sections. Also, if you want to work with your project in a nested task list view mode, you can switch to tasks. All of your tasks have been successfully transferred there.
  
 ***If you’re importing data from Wunderlist…***
+
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/wunderlist-setting.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/wunderlist.png)
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/wunderlist-import.png)
 
 All of the lists from the left sidebar in Wunderlist will be treated as root task in Quire, and the tasks inside the lists will be treated as subtasks. If there’s a subtask in Wunderlist, it will become the sub-subtask in Quire. If you wish to treat each list from Wunderlist as a project in Quire, you can move these tasks to other projects.
  
