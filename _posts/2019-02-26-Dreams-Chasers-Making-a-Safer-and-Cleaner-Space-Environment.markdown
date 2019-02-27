@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dream Chasers: Making a Safer and Cleaner Space Environment"
-date:   2019-02-18 11:58:07
+date:   2019-02-26 11:58:07
 categories: "dreams"
 
 index-intro: "Space pollution is indeed a growing problem, but may not be so obvious or visible to people on earth. Alexandre de Villardi de Montlaur and his team are among scientists and engineers trying to solve this problem. Alexandre, coordinator of the most significant project, the ECE3SAT project at ECE Paris, shares with us on how Quire has supported his team in designing a deboriting satellite that seeks to resolve this growing issue."
 category-intro: "How Quire has supported a group of scientists and engineers in managing their project."
 
-image: "2019-02-17-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment/cover.png"
+image: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment/cover.png"
 tags: how to use a project management tool
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@vicky_2214"
 
 relatedPosts: ["Why We Abandoned the To-Do List", "Quire Mark III: Nested Tasks Meets Board"]
 
-imgDir: "2019-02-17-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment"
+imgDir: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment"
 ---
 
 ![Dream Chasers]({{ site.baseurl }}/images/{{page.imgDir}}/cover.png)

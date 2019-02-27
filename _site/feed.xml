@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Dream Chasers: Making a Safer and Cleaner Space Environment</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Space pollution is indeed a growing problem, but may not be so obvious or visible to people on earth. Alexandre de Villardi de Montlaur and his team are among scientists and engineers trying to solve this problem. Alexandre, coordinator of the most significant project, the ECE3SAT project at ECE Paris, shares with us on how Quire has supported his team in designing a deboriting satellite that seeks to resolve this growing issue.</description>
+				<pubDate>Tue, 26 Feb 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</guid>
+			</item>
+		
+			<item>
 				<title>Import Your Data From Other Project Management Software</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -15,17 +26,6 @@
 				<pubDate>Tue, 19 Feb 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Making a Safer and Cleaner Space Environment</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Space pollution is indeed a growing problem, but may not be so obvious or visible to people on earth. Alexandre de Villardi de Montlaur and his team are among scientists and engineers trying to solve this problem. Alexandre, coordinator of the most significant project, the ECE3SAT project at ECE Paris, shares with us on how Quire has supported his team in designing a deboriting satellite that seeks to resolve this growing issue.</description>
-				<pubDate>Mon, 18 Feb 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</guid>
 			</item>
 		
 			<item>
