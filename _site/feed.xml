@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Dream Chasers: How does a Silicon Valley NPO coordinate with 400 volunteers?</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Realizing that the volunteer project’s scale and complexity have outgrown beyond a regular spreadsheet can track, ZGZG signed up for a Quire account with the hope to find a tool that helps them organize their tasks. They share with us how ZGZG uses Quire to track tasks and boost productivity across their community.</description>
+				<pubDate>Tue, 09 Apr 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers.html</guid>
+			</item>
+		
+			<item>
 				<title>Dream Chasers: Making a Safer and Cleaner Space Environment</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 30 Jan 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</guid>
-			</item>
-		
-			<item>
-				<title>Introducing: Quire for Android</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Finally, it is here. Kicking off the new year 2018, we are proud to present to you: Quire for Android. We took time to craft and create this app for Android, so we can get it right. We made sure the layout, navigation, gestures and look-and-feel were simple...</description>
-				<pubDate>Fri, 26 Jan 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Introducing-Quire-for-Android.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Introducing-Quire-for-Android.html</guid>
 			</item>
 		
 	</channel>
