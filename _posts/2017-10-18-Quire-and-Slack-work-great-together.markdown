@@ -84,7 +84,7 @@ Take projects Design Project (with project ID `Design_Project`) and Marketing Pr
 
 You can type:
 
-`/quire follow Design_Project Marketing_Product`
+`/quire follow project Design_Project Marketing_Product`
 
 #### Note: Once you make a channel follow a project or more, everyone will get notified of all activities in the projects.
 
