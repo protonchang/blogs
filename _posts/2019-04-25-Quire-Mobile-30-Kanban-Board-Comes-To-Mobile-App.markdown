@@ -32,7 +32,7 @@ The basic idea of Kanban board is to select several crucial tasks from your long
 
 Think of every task as a sticky note and your board as a blackboard - you can drag and drop to move the tasks across columns through every stage. You can also add new tasks to increase the workload and track the progress of what you have been doing.
 
-<video autoplay="" muted="" loop="" style="max-height: 599px; margin: 0 auto; width: 100%;" >
+<video muted="" loop="" autoplay="" playsinline style="max-height: 599px; margin: 0 auto; width: 100%;" >
   <source src="{{ site.baseurl }}/images/{{page.imgDir}}/Kanban_board_drag_drop.mp4" type="video/mp4">
 </video>
 
