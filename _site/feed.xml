@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Mobile 3.0: Kanban Board comes to Mobile App</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App.</description>
+				<pubDate>Thu, 25 Apr 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html</guid>
+			</item>
+		
+			<item>
 				<title>Dream Chasers: How does a Silicon Valley NPO coordinate with 400 volunteers?</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 10 Apr 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</guid>
-			</item>
-		
-			<item>
-				<title>4 productivity tips that make sense for your project in 2018</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos like sticky notes being everywhere all the time, figuring out what was where in your head nonstop and chasing after your colleagues for updates tirelessly, it is time for a change....</description>
-				<pubDate>Tue, 30 Jan 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/4-productivity-tips-that-make-sense-for-your-project-in-2018.html</guid>
 			</item>
 		
 	</channel>
