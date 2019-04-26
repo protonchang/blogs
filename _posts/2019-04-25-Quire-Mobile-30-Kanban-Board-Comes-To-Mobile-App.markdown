@@ -20,7 +20,19 @@ imgDir: "2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App"
 
 ![Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/Kanban_board.png)
 
-Hello Quire squad, we have some great news for all of you! One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App. 
+Hello Quire squad, we have some great news for all of you! One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to both [Android](https://play.google.com/store/apps/details?id=io.quire.app) and [iOS](https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8) App. 
+
+<div style="max-width: 161px; max-height: 48px; margin: 0 auto; margin-bottom: 24px">
+<a href="https://play.google.com/store/apps/details?id=io.quire.app" target="_blank">{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Play_Badge.png)
+{% endmarkdown %}</a>
+</div>
+
+<div style="max-width: 144px; max-height: 48px; margin: 0 auto; margin-bottom: 45px">
+<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" target="_blank">{% markdown %}
+![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/App_Store_Badge.png)
+{% endmarkdown %}</a>
+</div>
 
 We both know how you all love to use the nested task list to dump your ideas and organize them into a hierarchical order. Now Mobile users, you can get in motion and have a jumpstart with your project using Quire Kanban Board. 
 
