@@ -6,7 +6,7 @@ categories: "mobile"
 
 index-intro: "One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App."
 
-image: "2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App/Kanban_board_Quire.png"
+image: "2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App/Kanban_board.png"
 tags: nested task list meets Kanban board
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -18,7 +18,7 @@ relatedPosts: ["Quire iOS 2.0: New Features and Even Greater Performance", "Quir
 imgDir: "2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App"
 ---
 
-![Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/Kanban_board_Quire.png)
+![Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/Kanban_board.png)
 
 Hello Quire squad, we have some great news for all of you! One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App. 
 
