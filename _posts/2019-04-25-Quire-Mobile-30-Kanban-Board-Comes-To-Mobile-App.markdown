@@ -36,7 +36,7 @@ Think of every task as a sticky note and your board as a blackboard - you can dr
   <source src="{{ site.baseurl }}/images/{{page.imgDir}}/Kanban_board_drag_drop.mp4" type="video/mp4">
 </video>
 
-Did you know that we also have “swimlane” in our Kanban board? No, it’s not the real swimlane. It’s the figurative flow that shows in Quire Kanban board by using either filter or sort feature. You can view the task and related information in sorted order, which helps you focus more on what matters to you. 
+Did you know that we also have “swimlane” in our Kanban board? No, it’s not the real swimlane. It’s the figurative flow that shows in Quire Kanban board by using either filter or sort feature. You can view related tasks in sorted order, which helps you focus more on what matters to you. 
 
 For example, you can choose “Sort by Assignee” to view all the tasks that are grouped by each assignee to get a hold of who is responsible for what. 
 
