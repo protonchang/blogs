@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Never leave your keyboard - Shortcuts that actually make your life easier</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We would like to reveal some secret shortcuts keys that you might not be aware of on Quire. A full cheatsheet of our unique shortcuts.</description>
+				<pubDate>Tue, 07 May 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Mobile 3.0: Kanban Board comes to Mobile App</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 16 Apr 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire: Building a Sophisticated Mobile App with Google’s Flutter</title>
-				
-					<dc:creator>Jerry Chen</dc:creator>
-				        
-				<description>A couple years ago, we developed Quire iOS app in Swift. Last year, we chose Flutter for developing Quire Android app. I’d like to share my experience of developing the Android app with Flutter - the good and the bad, the strengths and weaknesses - in this article. I’m a front-end developer of Quire, a simple, lightweight project management tool for capturing ideas, managing tasks and collaborating with teams...</description>
-				<pubDate>Tue, 10 Apr 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html</guid>
 			</item>
 		
 	</channel>
