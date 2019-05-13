@@ -4,7 +4,7 @@ title:  "Never leave your keyboard - Shortcuts that actually make your life easi
 date:   2019-05-07 11:58:07
 categories: "features"
 
-index-intro: "We would like to reveal some secret shortcuts keys that you might not be aware of on Quire. A full cheatsheet of our unique shortcuts."
+index-intro: "You’re always busy with your work, we know that. You don't like to go back and forth between keyboard and mouse since it's just a waste of time? No worries, we've got you covered. Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore."
 
 image: "2019-05-07-A-few-shortcuts-that-actually-make-your-life-easier/keyboard_shortcut.png"
 tags: shortcuts
