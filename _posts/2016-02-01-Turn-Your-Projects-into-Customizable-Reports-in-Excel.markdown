@@ -14,7 +14,7 @@ authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
-relatedPosts: ["Turning Quire into a Mac App", "Pin Quire to Your Smartphone’s Home Screen"]
+relatedPosts: ["Creating Quire Desktop App from Google Chrome", "Pin Quire to Your Smartphone’s Home Screen"]
 
 imgDir: "2016-02-01-Turn-Your-Projects-into-Customizable-Reports-in-Excel"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating Quire Desktop App from Chrome"
+title:  "Creating Quire Desktop App from Google Chrome"
 date:   2019-05-28 11:58:07
 categories: "tips"
 
