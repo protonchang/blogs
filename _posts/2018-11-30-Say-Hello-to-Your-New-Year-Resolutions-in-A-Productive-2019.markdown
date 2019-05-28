@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Say Hello to Your New Year’s Resolutions in A Productive 2019."
+title:  "Say Hello to Your New Year’s Resolutions in A Productive 2019"
 date:   2018-11-30 11:58:07
 categories: "tips"
 

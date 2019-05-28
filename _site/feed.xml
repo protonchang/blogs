@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Creating Quire Desktop App from Chrome</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Right now Quire only has a web browser version and a native iOS and Android app, a lot of our users have requested a native MacOs and Windows desktop app. While our developers are working on making the desktop app happen (not soon, unfortunately), there’s a simple way to let you create an app with Google Chrome.</description>
+				<pubDate>Tue, 28 May 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</guid>
+			</item>
+		
+			<item>
 				<title>Never leave your keyboard - Shortcuts that actually make your life easier</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -62,7 +73,7 @@
 			</item>
 		
 			<item>
-				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019.</title>
+				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019</title>
 				
 					<dc:creator>Crystal Chen</dc:creator>
 				        
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 13 Jul 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html</guid>
-			</item>
-		
-			<item>
-				<title>Introducing: New Navigation Bar and Filter</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks...</description>
-				<pubDate>Mon, 16 Apr 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/introducing-New-Navigation-Bar-and-Filter.html</guid>
 			</item>
 		
 	</channel>
