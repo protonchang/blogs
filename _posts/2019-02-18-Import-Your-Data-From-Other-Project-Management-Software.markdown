@@ -83,6 +83,8 @@ All of your board and cards from Trello will be automatically transferred to Kan
 All of the lists from the left sidebar in Wunderlist will be treated as root task in Quire, and the tasks inside the lists will be treated as subtasks. If there’s a subtask in Wunderlist, it will become the sub-subtask in Quire. If you wish to treat each list from Wunderlist as a project in Quire, you can move these tasks to other projects.
  
 ## So what are you waiting for? Start your journey with Quire now!
+
+And in case you're still sitting on the fence when it comes to choose the right task management software, we've prepared a list for you. Check out [here](https://quire.io/compare/best-task-management-software-for-creative-teams). 
  
 If you still have questions, leave your comment here or reach out to us at feedback@quire.io.
 

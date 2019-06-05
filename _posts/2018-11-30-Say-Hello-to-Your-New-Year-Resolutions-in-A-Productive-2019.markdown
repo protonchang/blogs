@@ -103,6 +103,8 @@ With the year 2019 just around the corner, what are you waiting for?
 
 Let’s give your New Year’s resolutions your best shot!
 
+And if you're interested in knowing how to keep your work organized, we've prepared a list for you. Check out [here](https://quire.io/compare/best-task-management-software-for-creative-teams). 
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
