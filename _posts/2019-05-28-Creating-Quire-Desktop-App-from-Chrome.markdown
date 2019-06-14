@@ -61,6 +61,10 @@ Right now Quire only has a web browser version and a native iOS and Android app,
 
 Voila! Now you have your own desktop Quire app! It works both online and offline! 
 
+Another small tip: if you're using MacOS, at the dropdown menu, you can find the option named "Install Quire". 
+
+You can just hit the option and a shortcut will be automatically created to the Dock and the Launchpad view. Just like a native MacOs app!
+
 Have fun! We hope you will achieve all of your dreams one day! 
 
 
