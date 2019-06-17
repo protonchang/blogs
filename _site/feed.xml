@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method?</description>
+				<pubDate>Tue, 25 Jun 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html</guid>
+			</item>
+		
+			<item>
 				<title>Top 3 Productivity Tips With Online To Do List Software</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 10 Aug 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Mark III: Nested Tasks Meets Board</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board. For years, many Quire users have enjoyed “nested tasks” to see and organize their ideas into a well-planned list of small, actionable to-dos. Now, with Kanban board, execution on your to-dos is made even easier...</description>
-				<pubDate>Mon, 23 Jul 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html</guid>
 			</item>
 		
 	</channel>
