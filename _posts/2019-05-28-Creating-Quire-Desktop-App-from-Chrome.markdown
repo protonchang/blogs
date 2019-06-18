@@ -23,7 +23,27 @@ imgDir: "2019-05-28-Creating-Quire-Desktop-App-from-Chrome"
 
 Right now Quire only has a web browser version and a native iOS and Android app, a lot of our users have requested a native MacOs and Windows desktop app. While our developers are working on making the desktop app happen (not soon, unfortunately), there’s a simple way to let you create an app with Google Chrome. 
 
-### Here's how you can do it:
+### There are two ways to have your own Quire app in your desktop.
+
+### If you have the latest version of Google Chrome.
+
+1. First, open Quire workspace.
+	<div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
+	{% markdown %}![Quire]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_task_management.png){% endmarkdown %}
+	</div>
+
+1. At the dropdown menu, you can find the option named "Install Quire"
+    <div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
+	{% markdown %}![Chrome app]({{ site.baseurl }}/images/{{page.imgDir}}/Chrome-install.png){% endmarkdown %}
+	</div>
+
+1. Hit the option and a shortcut will be automatically created to the Dock and the Launchpad view.
+    <div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
+	{% markdown %}![Native app]({{ site.baseurl }}/images/{{page.imgDir}}/native-app.png){% endmarkdown %}
+	</div>
+	
+
+### If you don't have the latest version of Google Chrome.
 
 1. First, open Quire workspace.
 	<div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
@@ -60,10 +80,6 @@ Right now Quire only has a web browser version and a native iOS and Android app,
 	</div>
 
 Voila! Now you have your own desktop Quire app! It works both online and offline! 
-
-Another small tip: if you're using MacOS, at the dropdown menu, you can find the option named "Install Quire". 
-
-You can just hit the option and a shortcut will be automatically created to the Dock and the Launchpad view. Just like a native MacOs app!
 
 Have fun! We hope you will achieve all of your dreams one day! 
 
