@@ -5,6 +5,7 @@ date:   2019-04-09 11:58:07
 categories: "dreams"
 
 index-intro: "Realizing that the volunteer project’s scale and complexity have outgrown beyond a regular spreadsheet can track, ZGZG signed up for a Quire account with the hope to find a tool that helps them organize their tasks. They share with us how ZGZG uses Quire to track tasks and boost productivity across their community."
+category-intro: "Realizing that the volunteer project’s scale and complexity have outgrown beyond a regular spreadsheet can track, ZGZG signed up for a Quire account with the hope to find a tool that helps them organize their tasks. They share with us how ZGZG uses Quire to track tasks and boost productivity across their community."
 
 image: "2019-04-09-Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers/NPO_uses_project_management_tool.png"
 tags: how to use a project management tool
