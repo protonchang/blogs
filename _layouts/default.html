@@ -27,7 +27,7 @@
 
     {% if page.tags %}
       {% for tag in page.tags %}
-      <meta property="article:tag" content="{{ tag }}">
+      <meta property="article:tag" content="{{ tag | replace:'-',' ' }}">
       {% endfor %}
     {% endif %}
 
