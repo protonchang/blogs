@@ -8,7 +8,7 @@ index-intro: "Space pollution is indeed a growing problem, but may not be so obv
 category-intro: "How Quire has supported a group of scientists and engineers in managing their project."
 
 image: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment/cover.png"
-tags: how to use a project management tool
+tags: productivity task-management to-do-list project-management-software
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Content writer and wanderer."

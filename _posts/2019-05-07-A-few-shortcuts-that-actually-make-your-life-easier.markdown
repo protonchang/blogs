@@ -8,7 +8,7 @@ index-intro: "You’re always busy with your work, we know that. You don't like 
 category-intro: " Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore."
 
 image: "2019-05-07-A-few-shortcuts-that-actually-make-your-life-easier/keyboard_shortcut.png"
-tags: shortcuts
+tags: shortcuts productivity task-management project-management-software to-do-list
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."

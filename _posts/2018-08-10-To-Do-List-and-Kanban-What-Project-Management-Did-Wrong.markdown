@@ -8,7 +8,7 @@ index-intro: "Be it teams, agencies, or companies, there must have been a time w
 category-intro: "Be it teams, agencies, or companies, there must have been a time when they looked for project management tools or softwares..."
 
 image: "2018-08-10-To-Do-List-and-Kanban-What-Project-Management-Did-Wrong/team-achieve-project.jpg"
-tags: nested tasks kanban board
+tags: to-do-list tasks kanban board
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

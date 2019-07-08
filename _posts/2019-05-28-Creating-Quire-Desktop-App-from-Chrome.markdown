@@ -8,7 +8,7 @@ index-intro: "Right now Quire only has a web browser version and a native iOS an
 category-intro: "There’s a simple way to let you create a Quire desktop app with Google Chrome....."
 
 image: "2019-05-28-Creating-Quire-Desktop-App-from-Chrome/Quire_desktop_app.png"
-tags: shortcuts
+tags: desktop MacOs Windows Chrome productivity
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."

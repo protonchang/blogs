@@ -8,7 +8,7 @@ index-intro: "When most people come across a “task management tool” or “ta
 category-intro: "When most people come across a “task management tool” or “task manager”, they instantly build up this vivid framework..."
 
 image: "2015-01-13-Restaurants/0.jpg"
-tags: taskmanagement lifestyle tips
+tags: task-management lifestyle tips
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
 authorDesc: "Marketing specialist, gourmet lover and, fashionholic."

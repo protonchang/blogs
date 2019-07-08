@@ -8,7 +8,7 @@ index-intro: "Today, we are proud to announce: Quire Mark III for you to streaml
 category-intro: "Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board..."
 
 image: "2018-07-23-Quire-Mark-III-Nested-Tasks-Meets-Board/quire-3.0-nested-tasks-meets-board.png"
-tags: nested tasks kanban board
+tags: to-do-list tasks kanban board
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

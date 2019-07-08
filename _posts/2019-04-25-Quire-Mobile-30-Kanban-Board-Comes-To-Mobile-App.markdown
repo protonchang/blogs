@@ -7,7 +7,7 @@ categories: "mobile"
 index-intro: "One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App."
 
 image: "2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App/Kanban_board.png"
-tags: nested task list meets Kanban board
+tags: to-do-list Kanban-board
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."

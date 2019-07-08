@@ -8,7 +8,7 @@ index-intro: "Tasks, projects, organizations and smart folders make up the hiera
 category-intro: "Tasks, projects, organizations and smart folders make up the hierarchical structure of Quire..."
 
 image: "2017-09-11-A-few-things-about-tasks-projects-organizations-and-smart-folders/0.png"
-tags: taskmanagement membership collaboration
+tags: task-management membership collaboration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

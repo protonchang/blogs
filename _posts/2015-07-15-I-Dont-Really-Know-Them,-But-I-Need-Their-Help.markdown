@@ -8,7 +8,7 @@ index-intro: "Let’s face it, we all need a little help now and then, even if i
 category-intro: "Let’s face it, we all need a little help now and then, even if it is from someone we hardly know. In reality, there is not just you and me..."
 
 image: "2015-07-15-External-Team-Overview/0.png"
-tags: taskmanagement workstyle outsource
+tags: task-management workstyle outsource
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

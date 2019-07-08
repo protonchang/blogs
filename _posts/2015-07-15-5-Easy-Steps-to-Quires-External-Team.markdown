@@ -8,7 +8,7 @@ index-intro: "Here is something useful for those of you who need outside help, l
 category-intro: "Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project..."
 
 image: "2015-07-15-External-Team-Guide/0.jpg"
-tags: taskmanagement workstyle outsource
+tags: task-management workstyle outsource
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

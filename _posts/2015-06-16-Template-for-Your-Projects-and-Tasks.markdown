@@ -8,7 +8,7 @@ index-intro: "It is common for people to create a template of an email message t
 category-intro: "It is common for people to create a template of an email message they will often use, so they will not need to write up everything again..."
 
 image: "2015-06-16-Template/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

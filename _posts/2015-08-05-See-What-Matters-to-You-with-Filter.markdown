@@ -8,7 +8,7 @@ index-intro: "Sometimes, when you are working on a project, you only want to foc
 category-intro: "Sometimes, when you are working on a project, you only want to focus on tasks that are of the uttermost importance to you at the moment..."
 
 image: "2015-08-05-Filter/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

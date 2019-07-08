@@ -8,7 +8,7 @@ index-intro: "Have you ever experienced the “wow! moment” when playing apps 
 category-intro: "Have you ever experienced the “wow! moment” when playing apps on your phone or working on a computer?..."
 
 image: "2014-10-07-Wow-Moments/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
 authorDesc: "Marketing specialist, gourmet lover and, fashionholic."

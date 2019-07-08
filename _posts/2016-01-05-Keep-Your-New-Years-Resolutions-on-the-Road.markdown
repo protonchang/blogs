@@ -8,7 +8,7 @@ index-intro: "New year comes with an opportunity for you to become a more produc
 category-intro: "New year comes with an opportunity for you to become a more productive, better and happier person by kicking off..."
 
 image: "2016-01-05-Keep-Your-New-Years-Resolutions-on-the-Road/0.png"
-tags: tips plan to-dos
+tags: tips plan to-do-list
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

@@ -8,7 +8,7 @@ index-intro: "For some of you, it is difficult enough to keep everyone up to dat
 category-intro: "For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes..."
 
 image: "2015-06-29-Github-Integration/0.png"
-tags: taskmanagement productivity integration
+tags: task-management productivity integration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

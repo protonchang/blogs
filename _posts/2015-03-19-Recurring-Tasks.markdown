@@ -8,7 +8,7 @@ index-intro: "Recurring tasks can be very useful for tasks that happens repeated
 category-intro: "Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month..."
 
 image: "2015-03-19-Recurring-Tasks/0.jpg"
-tags: taskmanagement workstyle features
+tags: task-management workstyle features
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
 authorDesc: "Marketing specialist, gourmet lover and, fashionholic."

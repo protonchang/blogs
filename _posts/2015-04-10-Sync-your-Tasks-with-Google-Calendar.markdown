@@ -8,7 +8,7 @@ index-intro: "Humans are predominantly visual animals. We process visual informa
 category-intro: "Humans are predominantly visual animals. We process visual information much better than we do non-visual ones..."
 
 image: "2015-04-10-Sync-Google-Calendar/0.jpg"
-tags: taskmanagement workstyle features
+tags: task-management workstyle features
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
 authorDesc: "Marketing specialist, gourmet lover and, fashionholic."

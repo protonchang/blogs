@@ -8,7 +8,7 @@ index-intro: "We believe full-trust collaboration is the most productive. Howeve
 category-intro: "We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team..."
 
 image: "2015-08-27-Roles-and-Permissions/0.png"
-tags: taskmanagement membership collaboration
+tags: task-management membership collaboration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

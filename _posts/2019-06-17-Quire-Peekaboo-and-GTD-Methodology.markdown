@@ -8,7 +8,7 @@ index-intro: "Researchers have pointed out that incomplete tasks can trigger str
 category-intro: "Several years ago, we introduced Kanban board and you all love it. At that time, we explained Kanban board will help you focus and execute the assignments that matter the most at the moment while a nested task list is good for planning and brainstorming. You may ask, so what’s the difference between a Kanban board and Peekaboo folder?."
 
 image: "2019-06-17-Quire-Peekaboo-and-GTD-Methodology/GTD-2019.png"
-tags: productivity hack
+tags: productivity GTD Getting-Things-Done to-do-list GTD-Method
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."

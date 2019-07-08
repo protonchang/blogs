@@ -8,7 +8,7 @@ index-intro: "In a fiercely competitive digital landscape, great project managem
 category-intro: "In a fiercely competitive digital landscape, great project management is a vital skill for teams and individuals alike. Disorganization and inefficiency can devastate the most promising teams and projects...."
 
 image: "2019-06-05-Top-3-Online-To-Do-List-Software-Productivity-Tips/to-do-list.png"
-tags: productivity hack
+tags: productivity project-management-software task-management
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."

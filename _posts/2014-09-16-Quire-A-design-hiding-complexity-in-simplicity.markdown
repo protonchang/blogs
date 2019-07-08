@@ -8,7 +8,7 @@ index-intro: "In my previous blog post, I have mentioned how the simplicity of U
 category-intro: "In my previous blog post, I have mentioned how the simplicity of UI makes up one of the most important key factors to an effective task management tool..."
 
 image: "2014-09-16-Complexity-in-Simplicity/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Nancy Lin"
 authorImg: "/images/author/nancy.png"
 authorDesc: "Marketing specialist, gourmet lover and, fashionholic."

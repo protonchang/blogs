@@ -8,7 +8,7 @@ index-intro: "We made a few enhancements in our organization member roles. Both 
 category-intro: "We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization..."
 
 image: "2017-07-26-We-have-a-new-member-role-in-organizations/0.png"
-tags: taskmanagement membership collaboration
+tags: task-management membership collaboration
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

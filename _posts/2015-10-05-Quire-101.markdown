@@ -8,7 +8,7 @@ index-intro: "Even though we’re already simple enough and you’re surely smar
 category-intro: "Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire..."
 
 image: "2015-10-05-Quire-101/quire-101-task-project.png"
-tags: taskmanagement basics productivity
+tags: task-management basics productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

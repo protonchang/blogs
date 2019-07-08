@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Set up GTD Method in Quire to live a stress-free life</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>The GTD method is a way to organize, categorize, plan and execute your tasks. Many people discussed and argued whether GTD methodology is really efficient given its complexity. However, as straightforward as it is, GTD is set up to help you answer one question “When to do what?”. In this post, we&#39;re going to introduce how to set up GTD Method in Quire for you to live a stress-free life.</description>
+				<pubDate>Mon, 08 Jul 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 30 Nov 2018 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</guid>
-			</item>
-		
-			<item>
-				<title>To Do List and Kanban: What Project Management Did Wrong</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>Be it teams, agencies, or companies, there must have been a time when they looked for project management tools or softwares, tried each one of them, and asked all sorts of questions about them, hoping to choose the best project management software to accomplish their next big, amazing projects. Unfortunately, there is no one-for-all, perfect solution. Just the right one to help you boost your productivity...</description>
-				<pubDate>Fri, 10 Aug 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html</guid>
 			</item>
 		
 	</channel>

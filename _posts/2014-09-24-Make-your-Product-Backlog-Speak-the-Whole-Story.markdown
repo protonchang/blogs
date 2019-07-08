@@ -8,7 +8,7 @@ index-intro: "The Conventional Product Backlog contains an ordered list of requi
 category-intro: "The Conventional Product Backlog contains an ordered list of requirements often written in a User Story form..."
 
 image: "2014-09-24-Product-Backlog/0.jpeg"
-tags: taskmanagement productivity tips
+tags: task-management productivity tips
 author: "Lance Lu"
 authorImg: "/images/author/lance.png"
 authorLink: "https://medium.com/@Sphota"

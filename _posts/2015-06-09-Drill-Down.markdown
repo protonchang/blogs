@@ -8,7 +8,7 @@ index-intro: "Sometimes, users would like to focus on only one task and its subt
 category-intro: "Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and..."
 
 image: "2015-06-09-Drill-Down/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."

@@ -8,7 +8,7 @@ index-intro: "You may have heard of Markdown. If you have, it is a good thing. I
 category-intro: "You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly..."
 
 image: "2015-06-03-Markdown/0.jpg"
-tags: taskmanagement workstyle productivity
+tags: task-management workstyle productivity
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
