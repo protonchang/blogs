@@ -306,6 +306,23 @@ Also, blockquotes can rest in blockquotes by adding levels of angle brackets:
 > I’m back at the first level.
 ```
 
+## **CHECKLISTS**
+
+You can create your own checklist by typing `- [ ]`
+
+```
+- [ ] Checklist item 1
+- [ ] Checklist item 2
+- [ ] Checklist item 3
+```
+
+With Quire checklist, you can tick off your checklist as well. 
+
+<form action="/action_page.php" method="get">
+  <input type="checkbox" name="vehicle" value="Bike"> Take my dog for a walk<br>
+  <input type="checkbox" name="vehicle" value="Car" checked="checked"> Do laundry<br>
+</form>
+
 ## **CODE**
 
 To indicate a span of code, wrap it with “`” backtick quotes. For example,
