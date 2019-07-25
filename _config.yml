@@ -10,8 +10,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 permalink: '/p/:title.html'
-paginate: 7
+paginate: 9
 paginate_path: "/pages/page:num/"
+popular_posts: ["Why We Abandoned the To-Do List", "Quire — A design hiding complexity in simplicity", "Quire — A design hiding complexity in simplicity"]
 
 # Build settings
 # markdown: kramdown

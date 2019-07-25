@@ -3,33 +3,57 @@ layout: default
 ---
 
 <div id="post-list">
-
-  <div class="banner">
-    <h1>Quire & You</h1>
-    <h4>Unfold Your Ideas</h4>
-  </div>
-
-  <ul class="posts">
+  <ul class="posts page-{{paginator.page}}">
+    {% assign i = -1 %}
     {% for post in paginator.posts %}
-      {% assign postUrl = post.url | prepend: site.baseurl %}
+      {% assign i = i | plus:1 %}
+      {% assign postUrl = post.url | prepend: site.baseurl %}   
+
+      {% if paginator.page == 1 and i == 0 %}
+
+        <div class="pop-sec">
+          <div class="header">Popular Articles</div>
+          <ul class="pops">
+            {% assign count = 0 %}
+            {% for pop in site.popular_posts %}
+              {% for post in site.posts %}
+                {% if pop == post.title %}
+                  <li class="pop">
+                    <a href="{{ postUrl }}" class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></a>
+
+                    <div class="title"> {{ post.title }}</div>
+                    <span class="clearfix"></span>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+          <span class="clearfix"></span>
+        </div>
+
+      {% endif %}
+
       <li class="post">
         <a href="{{ postUrl }}" class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></a>
 
         <div class="post-meta">
-          <div class="left-meta">
-            <h5 class="category">{{ post.categories[0] }}</h5>
-            <a href="{{ postUrl }}" class="title">{{ post.title }}</a>
-            <h5 class="author">
-              POSTED BY {{ post.author }} · {{ post.date | date: "%b %-d, %Y" }}
-            </h5>
-          </div>
-          <div class="right-meta">
-            {{post.index-intro}}
-            <a class="more" href="{{ postUrl }}">continue reading</a>
-          </div>
+            <div class="meta">
+              <span class="category">{{ post.categories[0] | upcase }}</span>
+              <span class="date">
+                 · {{ post.date | date: "%b %-d, %Y" }}
+              </span>
+            </div>
+            <!-- <a href="{{ postUrl }}" class="title">{{post.index-intro}}</a> -->
+            <div class="title"> {{ post.title }}</div>
+            <div class="desc">{{post.index-intro}}</div>
+            <div class="bottom-mask"></div>
         </div>
-        <div class="clearfix"></div>
       </li>
+
+      {% if paginator.page == 1 and i == 0 %}
+        <div class="clearfix"></div>
+      {% endif %}
+
     {% endfor %}
       <li class="pagination">
         {% if paginator.next_page %}
