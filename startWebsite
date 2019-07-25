@@ -16,6 +16,6 @@ docker run --rm \
   -e "TZ=Asia/Taipei" \
   --volume="$PWD:/srv/jekyll" \
   --volume="$PWD/quire.conf:/etc/nginx/conf.d/jekyll.conf:ro" \
-  -d quire-blog
+  quire-blog
 
 open http://localhost:4000/blog/
