@@ -10,7 +10,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 permalink: '/p/:title.html'
-paginate: 12
+paginate: 15
 paginate_path: "/pages/page:num/"
 popular_posts: ["Why We Abandoned the To-Do List", "Quire — A design hiding complexity in simplicity", "How a good task management tool can help make your life a lot easier!"]
 
