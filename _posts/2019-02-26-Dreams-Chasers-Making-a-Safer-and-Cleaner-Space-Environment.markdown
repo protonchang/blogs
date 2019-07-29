@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Content writer and wanderer."
 authorLink: "https://medium.com/@vicky_2214"
 
-relatedPosts: ["Why We Abandoned the To-Do List", "Quire Mark III: Nested Tasks Meets Board"]
+relatedPosts: ["Why We Abandoned the To-Do List", "Why We Abandoned the To-Do List", "Quire Mark III: Nested Tasks Meets Board"]
 
 imgDir: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment"
 ---

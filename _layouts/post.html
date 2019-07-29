@@ -1,57 +1,69 @@
 ---
 layout: default
 ---
-<div id="post">
+<div class="share-container">
+  <div class="share">
+    <div class="share-title">share</div>
+    {% assign postUrl = (site.url | append: site.baseurl | append: page.url) %}
+    <a href="http://twitter.com/share?text={{page.title}}&url={{postUrl}}&via={{site.twitter_account}}" class="twitter" target="_blank"></a>
+    <a href="http://www.facebook.com/sharer.php?u={{postUrl}}" class="fb" target="_blank"></a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{postUrl}}&title={{page.title}}&summary=&source=" target="_blank" class="in"></a>
+  </div>
+</div>
 
-  <div class="left-part">
+<div id="post">
+  <div class="article">
     <h5 class="category">
       <a href="{{ page.categories[0] | prepend: "/category/" | prepend: site.baseurl }}">{{ page.categories[0] }}</a> · <span>{{ page.date | date: "%b %-d, %Y" }}<span>
     </h5>
     <h2 class="title">{{ page.title }}</h2>
+    
+    <div class="markdown">{{ content }}</div>
     <h5 class="author">
       <img src="{{ page.authorImg | prepend: site.baseurl }}">
-      <div>
+      <div class="text-container">
         <a href="{{page.authorLink}}" class="name">{{ page.author }}</a>
         <div class="desc">{{ page.authorDesc }}</div>
       </div>
     </h5>
-    <div class="share">
-      {% assign postUrl = (site.url | append: site.baseurl | append: page.url) %}
-      <a href="http://twitter.com/share?text={{page.title}}&url={{postUrl}}&via={{site.twitter_account}}" class="twitter" target="_blank"></a>
-      <a href="http://www.facebook.com/sharer.php?u={{postUrl}}" class="fb" target="_blank"></a>
-      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{postUrl}}&title={{page.title}}&summary=&source=" target="_blank" class="in"></a>
-    </div>
-    <span class="clearfix"></span>
   </div>
-  <div class="right-part">
-    <div class="markdown">{{ content }}</div>
-    <div class="bottom">
-      <hr>
-      <div id="disqus_thread"></div>
-      <hr>
-      <div class="related">
-        {% assign count = 0 %}
-        {% for r in page.relatedPosts %}
-          {% for p in site.posts %}
-            {% if r == p.title %}
-              <a href="{{ p.url | prepend: site.baseurl}}">
-                <div class="img" style="background-image: url('{{ p.image | prepend: "/images/" | prepend: site.baseurl }}')"></div>
-                <h5>
-                  POSTED BY {{ p.author }} · {{ p.date | date: "%b %-d, %Y" }}
-                </h5>
-                <h3 class="author">{{ p.title }}</h3>
+  <div class="bottom">
+    <hr>
+    <ul class="related">
+      <div class="related-title">Related Article</div>
+      {% assign count = 0 %}
+      {% for r in page.relatedPosts %}
+        {% for post in site.posts %}
+          {% if r == post.title %}
+            <li class="post">
+              <a href="{{ postUrl }}">
+                <div class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></div>
+                <div class="post-meta">
+                    <div class="meta">
+                      <span class="category">{{ post.categories[0] | upcase }}</span>
+                      <span class="date">
+                         · {{ post.date | date: "%b %-d, %Y" }}
+                      </span>
+                    </div>
+                    <!-- <a href="{{ postUrl }}" class="title">{{post.index-intro}}</a> -->
+                    <div class="title"> {{ post.title }}</div>
+                    <div class="desc">{{post.index-intro}}</div>
+                    <div class="bottom-mask"></div>
+                </div>
               </a>
-              {% assign count = count | plus: 1 %}
-              {% assign clearfix = count | modulo: 2 %}
-              {% if clearfix == 0 %}
-                <span class="clearfix"></span>
-              {% endif %}  
-            {% endif %}
-          {% endfor %}
+            </li>
+            {% assign count = count | plus: 1 %}
+            {% assign clearfix = count | modulo: 3 %}
+            {% if clearfix == 0 %}
+              <span class="clearfix"></span>
+            {% endif %}  
+          {% endif %}
         {% endfor %}
-        <span class="clearfix"></span>
-      </div>
-    </div>
+      {% endfor %}
+      <span class="clearfix"></span>
+    </ul>
+    <hr>
+    <div id="disqus_thread"></div>
   </div>
   <span class="clearfix"></span>
     <script type="text/javascript">
