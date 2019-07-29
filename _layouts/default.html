@@ -79,7 +79,9 @@
         <div id="header" class="container">
           {% include header.html %}
         </div>
-        <div id="side-menu-toggle"></div>
+        <div class="side-menu-container">
+          <div id="side-menu-toggle"></div>
+        </div>
         <div id="side-menu">
           <a class="{% if page.category == null and page.categories == null %}active{% endif %}" href="{{ site.baseurl | append: '/'}}">ALL</a>
           {% for c in site.categories %}
