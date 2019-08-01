@@ -12,7 +12,7 @@ tags: desktop MacOs Windows Chrome productivity
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
-authorLink: "https://medium.com/@vicky_2214"
+authorLink: "https://medium.com/@quire.io"
 
 relatedPosts: ["Say Hello to Your New Year’s Resolutions in A Productive 2019", "Turn Your Projects into Customizable Reports in Excel"]
 

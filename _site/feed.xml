@@ -7,7 +7,18 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Set up GTD Method in Quire to live a stress-free life</title>
+				<title>7 Productivity Tips to Avoid Burnout at Work</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>No one wants to be unhappy at work. When realizing some burnout symptoms,  you can start making some adjustments to the way you’re doing your job. Here are some proven effective tips to avoid burnout and get your smile back.</description>
+				<pubDate>Thu, 01 Aug 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</guid>
+			</item>
+		
+			<item>
+				<title>Set Up GTD Method in Quire to Live a Stress-free Life</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
 				        
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 19 Feb 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</guid>
-			</item>
-		
-			<item>
-				<title>Say Hello to Your New Year’s Resolutions in A Productive 2019</title>
-				
-					<dc:creator>Crystal Chen</dc:creator>
-				        
-				<description>We got days till Christmas. And New Year. The moment midnight strikes, people will be making their New Year’s resolutions for 2019. Whether you are starting fresh or picking up projects from where you left off in 2018—we got you covered! Brilliant project starts with brilliant ideas. And it all begins in Quire. You can easily jot down your ideas and organize them...</description>
-				<pubDate>Fri, 30 Nov 2018 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Say-Hello-to-Your-New-Year-Resolutions-in-A-Productive-2019.html</guid>
 			</item>
 		
 	</channel>

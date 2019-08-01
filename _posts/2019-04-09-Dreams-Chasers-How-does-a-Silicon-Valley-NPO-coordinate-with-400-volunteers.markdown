@@ -12,7 +12,7 @@ tags: productivity tool to-do-list task-management
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
-authorLink: "https://medium.com/@vicky_2214"
+authorLink: "https://medium.com/@quire.io"
 
 relatedPosts: ["On a journey to build a dream school together in Austria", "Quire Helps Move Your Team Projects Forward"]
 

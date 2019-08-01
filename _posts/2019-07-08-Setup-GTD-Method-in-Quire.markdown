@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Set up GTD Method in Quire to live a stress-free life"
+title:  "Set Up GTD Method in Quire to Live a Stress-free Life"
 date:   2019-07-08 11:58:07
 categories: "workstyle"
 
@@ -12,7 +12,7 @@ tags: productivity GTD Getting-Things-Done to-do-list GTD-Method task-management
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
-authorLink: "https://medium.com/@vicky_2214"
+authorLink: "https://medium.com/@quire.io"
 
 relatedPosts: ["3 Reasons to Be and Stay Lazy", "Top 3 Productivity Tips With Online To Do List Software"]
 

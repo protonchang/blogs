@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 3 Productivity Tips With Online To Do List Software"
 date:   2019-06-05 11:58:07
-categories: "workstyle"
+categories: "tips"
 
 index-intro: "In a fiercely competitive digital landscape, great project management is a vital skill for teams and individuals alike. Disorganization and inefficiency can devastate the most promising teams and projects. There is certainly no shortage of project management tools offering solutions to this challenge. One such grouping of tools is generally referred to as online to do list software..."
 category-intro: "In a fiercely competitive digital landscape, great project management is a vital skill for teams and individuals alike. Disorganization and inefficiency can devastate the most promising teams and projects...."
@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
 authorLink: "https://medium.com/@vicky_2214"
 
-relatedPosts: ["Why We Abandoned the To-Do List", "To Do List and Kanban: What Project Management Did Wrong"]
+relatedPosts: ["Why We Abandoned the To-Do List", "7 Productivity Tips to Avoid Burnout at Work"]
 
 imgDir: "2019-06-05-Top-3-Online-To-Do-List-Software-Productivity-Tips"
 ---
