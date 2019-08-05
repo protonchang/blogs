@@ -14,7 +14,7 @@ layout: default
 <div id="post">
   <div class="article">
     <h5 class="category">
-      <a href="{{ page.categories[0] | prepend: "/category/" | prepend: site.baseurl }}">{{ page.categories[0] }}</a> · <span>{{ page.date | date: "%b %-d, %Y" }}<span>
+      <a href="{{ page.categories[0] | prepend: "/category/" | prepend: site.baseurl }}">{{ page.categories[0] | replace:'-',' ' }}</a> · <span>{{ page.date | date: "%b %-d, %Y" }}<span>
     </h5>
     <h2 class="title">{{ page.title }}</h2>
     

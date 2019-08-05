@@ -4,7 +4,7 @@ layout: default
 <div id="category">
 	<div class="post">
 		<h2>CATEGORY</h2>
-		<h1>{{ page.category }}</h1>
+		<h1>{{ page.category | replace:'-',' ' }}</h1>
 		<span class="clearfix"></span>
 	</div>
 	{% for p in site.categories[page.category] %}
