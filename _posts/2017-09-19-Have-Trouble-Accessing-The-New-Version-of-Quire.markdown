@@ -2,7 +2,7 @@
 layout: post
 title:  "Have Trouble Accessing The New Version of Quire?"
 date:   2017-09-19 11:58:07
-categories: "troubleshoot"
+categories: "Productivity-tips"
 
 index-intro: "As many of you already know, we update Quire for you to get the most out of it. If you have trouble accessing the latest verison, you can try clearing your browser cache and reload, and also your Service Worker cache. First, at the top right, click on the More options icon and hover to More tools..."
 category-intro: "As many of you already know, we update Quire for you to get the most out of it. If you have trouble accessing the latest verison..."

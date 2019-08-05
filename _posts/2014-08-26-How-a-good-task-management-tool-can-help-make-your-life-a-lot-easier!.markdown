@@ -2,7 +2,7 @@
 layout: post
 title:  "How a good task management tool can help make your life a lot easier!"
 date:    2014-08-26 11:58:07
-categories: "lifestyle"
+categories: "Workstyle"
 
 index-intro: "In a modern world like this, with the launch of the internet and what comes with it the abundant flow of information makes today’s business world more dynamic than ever. If you are still using sheets of paper or static documents to manage your tasks, you’re out. It’s about time you find yourself and your team a task management tool that would help you increase your team’s productivity, efficiency and performance."
 category-intro: "In a modern world like this, with the launch of the internet and what comes with it the abundant flow of information..."

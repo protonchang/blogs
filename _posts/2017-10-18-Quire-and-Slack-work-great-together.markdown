@@ -2,7 +2,7 @@
 layout: post
 title:  "Quire and Slack work great together."
 date:   2017-10-18 11:58:07
-categories: "integrations"
+categories: "Milestones"
 
 index-intro: "It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects..."
 category-intro: "For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects right inside a Slack channel..."

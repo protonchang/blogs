@@ -2,7 +2,7 @@
 layout: post
 title:  "Quire — A design hiding complexity in simplicity"
 date:   2014-09-16 11:58:07
-categories: "productivity"
+categories: "Productivity-tips"
 
 index-intro: "In my previous blog post, I have mentioned how the simplicity of UI makes up one of the most important key factors to an effective task management tool. I want to take this further and elaborate on how we came up with the design Quire looks like today."
 category-intro: "In my previous blog post, I have mentioned how the simplicity of UI makes up one of the most important key factors to an effective task management tool..."

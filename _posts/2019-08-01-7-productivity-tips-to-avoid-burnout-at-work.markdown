@@ -2,7 +2,7 @@
 layout: post
 title:  "7 Productivity Tips to Avoid Burnout at Work"
 date:   2019-08-01 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "No one wants to be unhappy at work. When realizing some burnout symptoms,  you can start making some adjustments to the way you’re doing your job. Here are some proven effective tips to avoid burnout and get your smile back."
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "4 productivity tips that make sense for your project in 2018"
 date:   2018-01-30 11:58:07
-categories: "dreams"
+categories: "Productivity-tips"
 
 index-intro: "A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos like sticky notes being everywhere all the time, figuring out what was where in your head nonstop and chasing after your colleagues for updates tirelessly, it is time for a change...."
 category-intro: "A new year is a new start, and it often comes with a new determination to do better, and be better. If 2017 ended unhappily for you with chaos..."
@@ -26,7 +26,7 @@ A new year is a new start, and it often comes with a new determination to do bet
 
 If 2017 ended unhappily for you with chaos like sticky notes being everywhere all the time, figuring out what was where in your head nonstop and chasing after your colleagues for updates tirelessly, it is time for a change.
 
-That change, is [GTD method](https://gettingthingsdone.com/). If you haven’t heard or read about Getting Things Done, Proposed by David Allen, it is a way for getting organized and stay productive. [Chris Winfield’s system](http://www.chriswinfield.com/dream-dump-map-chunk/) is a simpler vision of it and I call it, **the 4 Ds**.
+That change, is [GTD method](https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html). If you haven’t heard or read about Getting Things Done, Proposed by David Allen, it is a way for getting organized and stay productive. [Chris Winfield’s system](http://www.chriswinfield.com/dream-dump-map-chunk/) is a simpler vision of it and I call it, **the 4 Ds**.
 
 <div style="max-width: 550px; max-height: 300px; margin: 0 auto;">
 {% markdown %}
