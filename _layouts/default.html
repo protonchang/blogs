@@ -21,7 +21,7 @@
 
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
-      <meta property="article:section" content="{{ category }}">
+      <meta property="article:section" content="{{ category | replace:'-',' ' }}">
       {% endfor %}
     {% endif %}
 
@@ -87,7 +87,7 @@
             {% assign c1 = page.category | downcase %} {%comment%} for category page {%endcomment%}
             {% assign c2 = page.categories | first | downcase %} {%comment%} for post page {%endcomment%}
             <a class="{% if cName == c1 or cName == c2 %}active{% endif %}" 
-              href="{{ cName | prepend: "/category/" | prepend: site.baseurl }}">{{ c | first | upcase }}</a>
+              href="{{ cName | prepend: "/category/" | prepend: site.baseurl }}">{{ c | first | upcase | replace:'-',' ' }}</a>
           {% endfor %}
         </div>
       </header>
