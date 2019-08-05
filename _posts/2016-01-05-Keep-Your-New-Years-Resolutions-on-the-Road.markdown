@@ -2,7 +2,7 @@
 layout: post
 title:  "Keep Your New Year's Resolutions on the Road"
 date:   2016-01-05 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "New year comes with an opportunity for you to become a more productive, better and happier person by kicking off the resolutions you set to accomplish. Having said that, people who set resolutions never expect themselves to follow through. In fact, 25% of them give up by January 7. Here’s a tip to help you go from making them, to actually keeping them."
 category-intro: "New year comes with an opportunity for you to become a more productive, better and happier person by kicking off..."

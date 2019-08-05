@@ -2,7 +2,7 @@
 layout: post
 title:  "Turn Your Projects into Customizable Reports in Excel"
 date:   2016-02-01 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "They say old habits die hard. So we get that some of you, or your managers, are used to the flexibility of customizing your own reports in a software application you’re already familiar with: Microsoft Excel or Google Sheets. When it comes to that, you can export your projects into CSV formatted files on Quire."
 category-intro: "They say old habits die hard. So we get that some of you, or your managers, are used to the flexibility of customizing your own reports..."

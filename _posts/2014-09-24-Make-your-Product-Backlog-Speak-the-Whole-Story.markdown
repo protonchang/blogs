@@ -2,7 +2,7 @@
 layout: post
 title:  "Make your Product Backlog Speak the Whole Story"
 date:   2014-09-24 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "The Conventional Product Backlog contains an ordered list of requirements often written in a User Story form. These fragmented “stories” do not give us a clear picture of what the Product is, or what values they bring as a whole. The Product Owner, the Development Team and stakeholders all depend on this backlog to..."
 category-intro: "The Conventional Product Backlog contains an ordered list of requirements often written in a User Story form..."

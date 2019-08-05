@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 3 Productivity Tips With Online To Do List Software"
 date:   2019-06-05 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "In a fiercely competitive digital landscape, great project management is a vital skill for teams and individuals alike. Disorganization and inefficiency can devastate the most promising teams and projects. There is certainly no shortage of project management tools offering solutions to this challenge. One such grouping of tools is generally referred to as online to do list software..."
 category-intro: "In a fiercely competitive digital landscape, great project management is a vital skill for teams and individuals alike. Disorganization and inefficiency can devastate the most promising teams and projects...."

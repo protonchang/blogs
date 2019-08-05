@@ -2,7 +2,7 @@
 layout: post
 title:  "How an impossible mission was made possible"
 date:   2015-10-28 11:58:07
-categories: "lifestyle"
+categories: "Workstyle"
 
 index-intro: "I remember in the movie The Imitation Game, after Joan Clarke showed up late for the evaluation that involved solving a difficult crossword puzzle, Allen said to Manzies: “This isn’t about crossword puzzles. It’s about how one approaches solving an impossible problem. Do you take the whole thing at once or divide it into small."
 category-intro: "I remember in the movie The Imitation Game, after Joan Clarke showed up late for the evaluation that involved solving a difficult crossword puzzle..."

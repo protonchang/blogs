@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating Quire Desktop App from Google Chrome"
 date:   2019-05-28 11:58:07
-categories: "tips"
+categories: "Productivity-tips"
 
 index-intro: "Right now Quire only has a web browser version and a native iOS and Android app, a lot of our users have requested a native MacOs and Windows desktop app. While our developers are working on making the desktop app happen (not soon, unfortunately), there’s a simple way to let you create an app with Google Chrome."
 category-intro: "There’s a simple way to let you create a Quire desktop app with Google Chrome....."
