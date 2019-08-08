@@ -12,7 +12,7 @@ github_username:  jekyll
 permalink: '/p/:title.html'
 paginate: 15
 paginate_path: "/pages/page:num/"
-popular_posts: ["Why We Abandoned the To-Do List", "Quire — A design hiding complexity in simplicity", "How a good task management tool can help make your life a lot easier!"]
+popular_posts: ["To Do List and Kanban: What Project Management Did Wrong", "Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack", "Why We Abandoned the To-Do List"]
 
 search: true
 search_full_content: true
