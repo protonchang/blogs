@@ -19,7 +19,7 @@ layout: default
               {% for post in site.posts %}
                 {% if pop == post.title %}
                   <li class="pop">
-                    <a href="{{ postUrl }}">
+                    <a href="{{ post.url | prepend: site.baseurl }}">
                       <div class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></div>
 
                       <div class="title"> {{ post.title }}</div>
