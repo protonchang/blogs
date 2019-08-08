@@ -9,12 +9,22 @@
   <div class="self-label">
     <a id="self" href="/blog">Blog</a>
   </div>
+  {% if site.search == true %}
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  {% endif %}
   <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
     <span>toggle menu</span>
   </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    {% if site.search == true %}
+      <li class="item search-toggle">
+          <a class="icon-search"></a>
+      </li>
+      {% endif %}
       <li class="item login">
           <a class="b green" href="/login?continue={{page.url | prepend: site.baseurl | prepend: site.url}}">LOG IN</a>
       </li>

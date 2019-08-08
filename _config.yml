@@ -14,6 +14,9 @@ paginate: 15
 paginate_path: "/pages/page:num/"
 popular_posts: ["Why We Abandoned the To-Do List", "Quire — A design hiding complexity in simplicity", "How a good task management tool can help make your life a lot easier!"]
 
+search: true
+search_full_content: true
+
 # Build settings
 # markdown: kramdown
 markdown: redcarpet

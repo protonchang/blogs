@@ -67,12 +67,22 @@
   <div class="self-label">
     <a id="self" href="/blog">Blog</a>
   </div>
+  
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  
   <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
     <span>toggle menu</span>
   </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    
+      <li class="item search-toggle">
+          <a class="icon-search"></a>
+      </li>
+      
       <li class="item login">
           <a class="b green" href="/login?continue=https://quire.io/blog/category/features/index.html">LOG IN</a>
       </li>
@@ -158,235 +168,560 @@
               href="/blog/category/mobile">MOBILE</a>
           
         </div>
+        
+          <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
+            </div>
+          </div>
+        
       </header>
 
       <div id="body" class="container">
-        <div id="category">
-	<div class="post">
-		<h2>CATEGORY</h2>
-		<h1>features</h1>
-		<span class="clearfix"></span>
-	</div>
-	
-    <a href="/blog/p/Quire-Peekaboo-and-GTD-Methodology.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2019-06-17-Quire-Peekaboo-and-GTD-Methodology/GTD-2019.png');"></div>
-      <h5>
-        POSTED BY Vicky Pham · Jun 25, 2019
-      </h5>
-      <h3>Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack</h3>
-      <h5>Several years ago, we introduced Kanban board and you all love it. At that time, we explained Kanban board will help you focus and execute the assignments that matter the most at the moment while a nested task list is good for planning and brainstorming. You may ask, so what’s the difference between a Kanban board and Peekaboo folder?.</h5>
-    </a>
-  
-    <a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2019-05-07-A-few-shortcuts-that-actually-make-your-life-easier/keyboard_shortcut.png');"></div>
-      <h5>
-        POSTED BY Vicky Pham · May 7, 2019
-      </h5>
-      <h3>Never leave your keyboard - Shortcuts that actually make your life easier</h3>
-      <h5> Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore.</h5>
-    </a>
-  
-    <a href="/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/ImportData_cover.png');"></div>
-      <h5>
-        POSTED BY Vicky Pham · Feb 19, 2019
-      </h5>
-      <h3>Import Your Data From Other Project Management Software</h3>
-      <h5>You can now easily import your data from other project management softwares to Quire.</h5>
-    </a>
-  
-    <a href="/blog/p/introducing-New-Navigation-Bar-and-Filter.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2018-04-16-introducing-New-Navigation-Bar-and-Filter/quire-ui-navigation-bar-filter.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Apr 16, 2018
-      </h5>
-      <h3>Introducing: New Navigation Bar and Filter</h3>
-      <h5>Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation...</h5>
-    </a>
-  
-    <a href="/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-12-14-Highlight-Your-Tasks-with-Color-and-Styles/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Dec 14, 2017
-      </h5>
-      <h3>Highlight Your Tasks with Color and Styles</h3>
-      <h5>We see it as our mission to keep a simple, clean interface, including a neat task list. However, for those of you who want to easily identify...</h5>
-    </a>
-  
-    <a href="/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-11-23-Share-a-project-with-your-clients-without-them-sign-up/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Nov 23, 2017
-      </h5>
-      <h3>Share a project with your clients, without them sign up!</h3>
-      <h5>Quire’s “Shared Links” feature makes it super easy for you to collaborate with your clients. We all know that sometimes...</h5>
-    </a>
-  
-    <a href="/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-09-11-A-few-things-about-tasks-projects-organizations-and-smart-folders/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Sep 11, 2017
-      </h5>
-      <h3>A few things about tasks, projects, organizations and smart folders you should know.</h3>
-      <h5>Tasks, projects, organizations and smart folders make up the hierarchical structure of Quire...</h5>
-    </a>
-  
-    <a href="/blog/p/We-have-a-new-member-role-in-organizations.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-07-26-We-have-a-new-member-role-in-organizations/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jul 26, 2017
-      </h5>
-      <h3>We have a new member role in organizations.</h3>
-      <h5>We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization...</h5>
-    </a>
-  
-    <a href="/blog/p/It-is-all-about-time-in-task-management.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-11-22-It-is-all-about-time-in-task-management/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Nov 22, 2016
-      </h5>
-      <h3>It is all about time in task management.</h3>
-      <h5>Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time...</h5>
-    </a>
-  
-    <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-10-27-How-to-migrate-to-Quire-Copy-and-paste/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Oct 27, 2016
-      </h5>
-      <h3>How to migrate to Quire? Copy and paste.</h3>
-      <h5>Many of you have asked about a way to import your work from a different app into Quire, without going through the trouble of entering them one by one...</h5>
-    </a>
-  
-    <a href="/blog/p/We-are-not-Facebook-So-why-Like.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-07-13-We-are-not-Facebook-So-why-Like/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jul 13, 2016
-      </h5>
-      <h3>We’re not Facebook. So why Like?</h3>
-      <h5>What does Quire and Facebook have in common? Likes. In Quire, we call them favorites. Of course you can ♥ a task and feel proud of the 23 number of ♥ you get, but more importantly...</h5>
-    </a>
-  
-    <a href="/blog/p/Type-it-while-you-think-it.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-04-26-Type-it-while-you-think-it/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Apr 26, 2016
-      </h5>
-      <h3>Type it while you think it, with @, #, <> and more.</h3>
-      <h5>Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone...</h5>
-    </a>
-  
-    <a href="/blog/p/A-plan-well-laid-a-party-well-played.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-03-15-A-plan-well-laid-a-party-well-played/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Mar 15, 2016
-      </h5>
-      <h3>A plan well-laid, a party well-played</h3>
-      <h5>“Prost!” cheered the Taiwanese girl Laura, the German guy Richard, and a few dozens people as they banged their glasses of beer together...</h5>
-    </a>
-  
-    <a href="/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-02-04-Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Feb 4, 2016
-      </h5>
-      <h3>Time to Break the Myth of “Multiple Assignees” in Task Management</h3>
-      <h5>We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-101.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-10-05-Quire-101/quire-101-task-project.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Oct 5, 2015
-      </h5>
-      <h3>Quire 101</h3>
-      <h5>Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire...</h5>
-    </a>
-  
-    <a href="/blog/p/Roles-&-Permissions-in-Quire.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-08-27-Roles-and-Permissions/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Aug 27, 2015
-      </h5>
-      <h3>Roles & Permissions in Quire</h3>
-      <h5>We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team...</h5>
-    </a>
-  
-    <a href="/blog/p/See-What-Matters-to-You-with-Filter.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-08-05-Filter/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Aug 5, 2015
-      </h5>
-      <h3>See What Matters to You with Filter</h3>
-      <h5>Sometimes, when you are working on a project, you only want to focus on tasks that are of the uttermost importance to you at the moment...</h5>
-    </a>
-  
-    <a href="/blog/p/5-Easy-Steps-to-Quires-External-Team.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-07-15-External-Team-Guide/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jul 15, 2015
-      </h5>
-      <h3>5 Easy Steps to Quire’s External Team</h3>
-      <h5>Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project...</h5>
-    </a>
-  
-    <a href="/blog/p/Template-for-Your-Projects-and-Tasks.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-06-16-Template/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 16, 2015
-      </h5>
-      <h3>Template for Your Projects and Tasks</h3>
-      <h5>It is common for people to create a template of an email message they will often use, so they will not need to write up everything again...</h5>
-    </a>
-  
-    <a href="/blog/p/Drill-Down.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-06-09-Drill-Down/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 9, 2015
-      </h5>
-      <h3>Drill Down</h3>
-      <h5>Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and...</h5>
-    </a>
-  
-    <a href="/blog/p/Our-Very-Own-Markdown.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-06-03-Markdown/0.jpg');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 3, 2015
-      </h5>
-      <h3>Our Very Own Markdown</h3>
-      <h5>You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly...</h5>
-    </a>
-  
-    <a href="/blog/p/Sync-your-Tasks-with-Google-Calendar.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-04-10-Sync-Google-Calendar/0.jpg');"></div>
-      <h5>
-        POSTED BY Nancy Lin · Apr 10, 2015
-      </h5>
-      <h3>Sync your Tasks with Google Calendar</h3>
-      <h5>Humans are predominantly visual animals. We process visual information much better than we do non-visual ones...</h5>
-    </a>
-  
-    <a href="/blog/p/Recurring-Tasks.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-03-19-Recurring-Tasks/0.jpg');"></div>
-      <h5>
-        POSTED BY Nancy Lin · Mar 19, 2015
-      </h5>
-      <h3>Recurring Tasks</h3>
-      <h5>Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-Building-a-Large-Application-with-Dart.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2014-09-03-Quire-Building-a-Large-Application-with-Dart/quire-built-with-dart-2.png');"></div>
-      <h5>
-        POSTED BY Simon Pai · Sep 3, 2014
-      </h5>
-      <h3>Quire: Building a Large Application with Dart</h3>
-      <h5>Quire is not the first web application written in Dart and won’t be the last one, but it could be the first app that relies on Dart so heavily...</h5>
-    </a>
-  
-  <span class="clearfix"></span>
-</div>
+        <div id="post-list">
+  <h2 id="category">Features</h2>
 
+  <ul class="posts">
+    
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Peekaboo-and-GTD-Methodology.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2019-06-17-Quire-Peekaboo-and-GTD-Methodology/GTD-2019.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jun 25, 2019
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Peekaboo-and-GTD-Methodology.html" class="title">Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method?</a> -->
+              <div class="title"> Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack</div>
+              <div class="desc">Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method?</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2019-05-07-A-few-shortcuts-that-actually-make-your-life-easier/keyboard_shortcut.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · May 7, 2019
+                </span>
+              </div>
+              <!-- <a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" class="title">You’re always busy with your work, we know that. You don't like to go back and forth between keyboard and mouse since it's just a waste of time? No worries, we've got you covered. Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore.</a> -->
+              <div class="title"> Never leave your keyboard - Shortcuts that actually make your life easier</div>
+              <div class="desc">You’re always busy with your work, we know that. You don't like to go back and forth between keyboard and mouse since it's just a waste of time? No worries, we've got you covered. Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2019-02-18-Import-Your-Data-From-Other-Project-Management-Software/ImportData_cover.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Feb 19, 2019
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html" class="title">Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist.</a> -->
+              <div class="title"> Import Your Data From Other Project Management Software</div>
+              <div class="desc">Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/introducing-New-Navigation-Bar-and-Filter.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2018-04-16-introducing-New-Navigation-Bar-and-Filter/quire-ui-navigation-bar-filter.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Apr 16, 2018
+                </span>
+              </div>
+              <!-- <a href="/blog/p/introducing-New-Navigation-Bar-and-Filter.html" class="title">Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks...</a> -->
+              <div class="title"> Introducing: New Navigation Bar and Filter</div>
+              <div class="desc">Today, we are introducing an upgraded Quire 2.0 to better your navigation, and experience of Quire — we just cannot resist the temptation to perfect our UI/UX! In this upgrade, you will enjoy a new UI for easier, faster navigation between your project’s different views, and a whole new level filtering experience to help you focus on certain tasks...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-12-14-Highlight-Your-Tasks-with-Color-and-Styles/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Dec 14, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Highlight-Your-Tasks-with-Color-and-Styles.html" class="title">We see it as our mission to keep a simple, clean interface, including a neat task list. However, for those of you who want to easily identify your tasks and projects in a long list, you can use Markdown, and CSS styles to make them stand out...</a> -->
+              <div class="title"> Highlight Your Tasks with Color and Styles</div>
+              <div class="desc">We see it as our mission to keep a simple, clean interface, including a neat task list. However, for those of you who want to easily identify your tasks and projects in a long list, you can use Markdown, and CSS styles to make them stand out...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-11-23-Share-a-project-with-your-clients-without-them-sign-up/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Nov 23, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html" class="title">Quire’s “Shared Links” feature makes it super easy for you to collaborate with your clients. We all know that sometimes, clients have their own habits and it is hard to ask them to change. Now, in addition to asking them to sign up Quire, you can get them to view your Quire project with one single invitation link, and zero effort on their part...</a> -->
+              <div class="title"> Share a project with your clients, without them sign up!</div>
+              <div class="desc">Quire’s “Shared Links” feature makes it super easy for you to collaborate with your clients. We all know that sometimes, clients have their own habits and it is hard to ask them to change. Now, in addition to asking them to sign up Quire, you can get them to view your Quire project with one single invitation link, and zero effort on their part...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-09-11-A-few-things-about-tasks-projects-organizations-and-smart-folders/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Sep 11, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html" class="title">Tasks, projects, organizations and smart folders make up the hierarchical structure of Quire. In this blog post, we will clarify what each of them is, and illustrate a few examples on how you can use them at will. A task is an actionable item to be done. It can be broken down into subtasks, sub-subtasks, and so on. But it can also be ideas, notes or sections that you want to jot down first and divide into smaller items later. Getting Started with Quire is one example of documentation...</a> -->
+              <div class="title"> A few things about tasks, projects, organizations and smart folders you should know.</div>
+              <div class="desc">Tasks, projects, organizations and smart folders make up the hierarchical structure of Quire. In this blog post, we will clarify what each of them is, and illustrate a few examples on how you can use them at will. A task is an actionable item to be done. It can be broken down into subtasks, sub-subtasks, and so on. But it can also be ideas, notes or sections that you want to jot down first and divide into smaller items later. Getting Started with Quire is one example of documentation...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/We-have-a-new-member-role-in-organizations.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-07-26-We-have-a-new-member-role-in-organizations/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jul 26, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/We-have-a-new-member-role-in-organizations.html" class="title">We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of. In summary, Admin, Normal+ and Limited+ members...</a> -->
+              <div class="title"> We have a new member role in organizations.</div>
+              <div class="desc">We made a few enhancements in our organization member roles. Both Normal+ and Normal members can add projects in an organization, and when they do, they become Admins of the projects. The only difference is that Normal members cannot access other projects that they are not members of. In summary, Admin, Normal+ and Limited+ members...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/It-is-all-about-time-in-task-management.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-11-22-It-is-all-about-time-in-task-management/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Nov 22, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/It-is-all-about-time-in-task-management.html" class="title">Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time. But, we often fail. To solve this problem, Quire has got a series of features including start date and time, due date and time, reminders, status, etc. to help you and your team...</a> -->
+              <div class="title"> It is all about time in task management.</div>
+              <div class="desc">Time is a tricky thing. We all want to get the most out of it by making the right kind of plan, and doing the right kind of tasks in the right amount of time. But, we often fail. To solve this problem, Quire has got a series of features including start date and time, due date and time, reminders, status, etc. to help you and your team...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-10-27-How-to-migrate-to-Quire-Copy-and-paste/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Oct 27, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" class="title">Many of you have asked about a way to import your work from a different app into Quire, without going through the trouble of entering them one by one. Now, we have the answer: Copy and paste. Be it an Excel sheet with data, a Word document of bullet list, or an email from your coworker, you can easily move them to Quire and continue where you left off...</a> -->
+              <div class="title"> How to migrate to Quire? Copy and paste.</div>
+              <div class="desc">Many of you have asked about a way to import your work from a different app into Quire, without going through the trouble of entering them one by one. Now, we have the answer: Copy and paste. Be it an Excel sheet with data, a Word document of bullet list, or an email from your coworker, you can easily move them to Quire and continue where you left off...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/We-are-not-Facebook-So-why-Like.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-07-13-We-are-not-Facebook-So-why-Like/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jul 13, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/We-are-not-Facebook-So-why-Like.html" class="title">What does Quire and Facebook have in common? Likes. In Quire, we call them favorites. Of course you can ♥ a task and feel proud of the 23 number of ♥ you get, but more importantly, it’s a way to easily see the tasks that matter to you. Personally...</a> -->
+              <div class="title"> We’re not Facebook. So why Like?</div>
+              <div class="desc">What does Quire and Facebook have in common? Likes. In Quire, we call them favorites. Of course you can ♥ a task and feel proud of the 23 number of ♥ you get, but more importantly, it’s a way to easily see the tasks that matter to you. Personally...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Type-it-while-you-think-it.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-04-26-Type-it-while-you-think-it/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Apr 26, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Type-it-while-you-think-it.html" class="title">Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task.</a> -->
+              <div class="title"> Type it while you think it, with @, #, <> and more.</div>
+              <div class="desc">Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/A-plan-well-laid-a-party-well-played.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-03-15-A-plan-well-laid-a-party-well-played/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Mar 15, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/A-plan-well-laid-a-party-well-played.html" class="title">“Prost!” cheered the Taiwanese girl Laura, the German guy Richard, and a few dozens people as they banged their glasses of beer together while biting down chicken legs, sausages and pig’s trotters in a German after-wedding party in a German restaurant...</a> -->
+              <div class="title"> A plan well-laid, a party well-played</div>
+              <div class="desc">“Prost!” cheered the Taiwanese girl Laura, the German guy Richard, and a few dozens people as they banged their glasses of beer together while biting down chicken legs, sausages and pig’s trotters in a German after-wedding party in a German restaurant...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-02-04-Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Feb 4, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html" class="title">We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”. While other task management tools or to-do apps out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother...</a> -->
+              <div class="title"> Time to Break the Myth of “Multiple Assignees” in Task Management</div>
+              <div class="desc">We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”. While other task management tools or to-do apps out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-101.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-10-05-Quire-101/quire-101-task-project.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Oct 5, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-101.html" class="title">Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire. Task: A task is the basic unit of action in Quire.</a> -->
+              <div class="title"> Quire 101</div>
+              <div class="desc">Even though we’re already simple enough and you’re surely smart enough, here’s a real basic guide of Quire. Task: A task is the basic unit of action in Quire.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Roles-&-Permissions-in-Quire.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-08-27-Roles-and-Permissions/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Aug 27, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Roles-&-Permissions-in-Quire.html" class="title">We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team, you can choose different roles for your members. The four roles are Admin, Normal, Limited, and Guest, each with their own level of permissions.</a> -->
+              <div class="title"> Roles & Permissions in Quire</div>
+              <div class="desc">We believe full-trust collaboration is the most productive. However, for a fine grained control of permissions in your team, you can choose different roles for your members. The four roles are Admin, Normal, Limited, and Guest, each with their own level of permissions.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/See-What-Matters-to-You-with-Filter.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-08-05-Filter/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Aug 5, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/See-What-Matters-to-You-with-Filter.html" class="title">Sometimes, when you are working on a project, you only want to focus on tasks that are of the uttermost importance to you at the moment, like see the ones you are responsible for, or the ones that are marked urgent.</a> -->
+              <div class="title"> See What Matters to You with Filter</div>
+              <div class="desc">Sometimes, when you are working on a project, you only want to focus on tasks that are of the uttermost importance to you at the moment, like see the ones you are responsible for, or the ones that are marked urgent.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/5-Easy-Steps-to-Quires-External-Team.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-07-15-External-Team-Guide/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jul 15, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/5-Easy-Steps-to-Quires-External-Team.html" class="title">Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project: You can now easily (and safely) outsource the task with Quire’s new feature “external team.”</a> -->
+              <div class="title"> 5 Easy Steps to Quire’s External Team</div>
+              <div class="desc">Here is something useful for those of you who need outside help, like freelancers, to help you complete a task in your project: You can now easily (and safely) outsource the task with Quire’s new feature “external team.”</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Template-for-Your-Projects-and-Tasks.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-06-16-Template/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jun 16, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Template-for-Your-Projects-and-Tasks.html" class="title">It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On Quire, we let you do the same with projects and tasks.</a> -->
+              <div class="title"> Template for Your Projects and Tasks</div>
+              <div class="desc">It is common for people to create a template of an email message they will often use, so they will not need to write up everything again the next time, or the next. On Quire, we let you do the same with projects and tasks.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Drill-Down.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-06-09-Drill-Down/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jun 9, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Drill-Down.html" class="title">Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen. This is when the “drill down” feature comes in handy.</a> -->
+              <div class="title"> Drill Down</div>
+              <div class="desc">Sometimes, users would like to focus on only one task and its subtasks on Quire, especially when they have a long task list and want to hide all the other tasks from the screen. This is when the “drill down” feature comes in handy.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Our-Very-Own-Markdown.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-06-03-Markdown/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Jun 3, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Our-Very-Own-Markdown.html" class="title">You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly.</a> -->
+              <div class="title"> Our Very Own Markdown</div>
+              <div class="desc">You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Sync-your-Tasks-with-Google-Calendar.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-04-10-Sync-Google-Calendar/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Apr 10, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Sync-your-Tasks-with-Google-Calendar.html" class="title">Humans are predominantly visual animals. We process visual information much better than we do non-visual ones. A lot of people manually add their tasks onto their Calendar once they are aware of the due dates so as to get a more visualized schedule.</a> -->
+              <div class="title"> Sync your Tasks with Google Calendar</div>
+              <div class="desc">Humans are predominantly visual animals. We process visual information much better than we do non-visual ones. A lot of people manually add their tasks onto their Calendar once they are aware of the due dates so as to get a more visualized schedule.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Recurring-Tasks.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-03-19-Recurring-Tasks/0.jpg)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Mar 19, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Recurring-Tasks.html" class="title">Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month, statistics that needs to be updated every second day, or a meeting one must attend fortnightly.</a> -->
+              <div class="title"> Recurring Tasks</div>
+              <div class="desc">Recurring tasks can be very useful for tasks that happens repeatedly in a regular pattern. A newsletter that must be sent to customers every month, statistics that needs to be updated every second day, or a meeting one must attend fortnightly.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Building-a-Large-Application-with-Dart.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2014-09-03-Quire-Building-a-Large-Application-with-Dart/quire-built-with-dart-2.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">FEATURES</span>
+                <span class="date">
+                   · Sep 3, 2014
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Building-a-Large-Application-with-Dart.html" class="title">Quire is not the first web application written in Dart and won’t be the last one, but it could be the first app that relies on Dart so heavily, on both client and server sides. It’s a fun task manager with tree structure to the core. The project itself has 53992 lines, 1620KB of Dart code, built with a few open source libraries from the community...</a> -->
+              <div class="title"> Quire: Building a Large Application with Dart</div>
+              <div class="desc">Quire is not the first web application written in Dart and won’t be the last one, but it could be the first app that relies on Dart so heavily, on both client and server sides. It’s a fun task manager with tree structure to the core. The project itself has 53992 lines, 1620KB of Dart code, built with a few open source libraries from the community...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+  </ul> 
+</div>
       </div>
 
       <footer class="footer-wrap navbar navbar-default">
@@ -418,6 +753,15 @@
     <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
     <script async src="/s/js/pack.min.js"></script>
     <script async src="/s/js/blog.min.js"></script>
+    
+      
+      
+        
+      
+      <script src="/blog/assets/js/lunr/lunr.min.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-store.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-en.js"></script>
+    
   </body>
 
 </html>

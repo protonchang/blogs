@@ -67,12 +67,22 @@
   <div class="self-label">
     <a id="self" href="/blog">Blog</a>
   </div>
+  
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  
   <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
     <span>toggle menu</span>
   </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    
+      <li class="item search-toggle">
+          <a class="icon-search"></a>
+      </li>
+      
       <li class="item login">
           <a class="b green" href="/login?continue=https://quire.io/blog/category/milestones/index.html">LOG IN</a>
       </li>
@@ -158,64 +168,142 @@
               href="/blog/category/mobile">MOBILE</a>
           
         </div>
+        
+          <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
+            </div>
+          </div>
+        
       </header>
 
       <div id="body" class="container">
-        <div id="category">
-	<div class="post">
-		<h2>CATEGORY</h2>
-		<h1>milestones</h1>
-		<span class="clearfix"></span>
-	</div>
-	
-    <a href="/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2018-07-23-Quire-Mark-III-Nested-Tasks-Meets-Board/quire-3.0-nested-tasks-meets-board.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jul 23, 2018
-      </h5>
-      <h3>Quire Mark III: Nested Tasks Meets Board</h3>
-      <h5>Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-and-Slack-work-great-together.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-10-18-Quire-and-Slack-work-great-together/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Oct 18, 2017
-      </h5>
-      <h3>Quire and Slack work great together.</h3>
-      <h5>For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects right inside a Slack channel...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-06-15-Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 15, 2017
-      </h5>
-      <h3>Quire Mark II, reimagined and rebuilt for your dreams</h3>
-      <h5>Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-in-2016-and-things-to-look-forward-to.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-12-06-Quire-in-2016-and-things-to-look-forward-to/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Dec 6, 2016
-      </h5>
-      <h3>Quire now, and things to look forward to in 2017.</h3>
-      <h5>It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to...</h5>
-    </a>
-  
-    <a href="/blog/p/Hello-GitHub-We-are-Quire.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2015-06-29-Github-Integration/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 29, 2015
-      </h5>
-      <h3>Hello GitHub, We’re Quire</h3>
-      <h5>For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes...</h5>
-    </a>
-  
-  <span class="clearfix"></span>
-</div>
+        <div id="post-list">
+  <h2 id="category">Milestones</h2>
 
+  <ul class="posts">
+    
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2018-07-23-Quire-Mark-III-Nested-Tasks-Meets-Board/quire-3.0-nested-tasks-meets-board.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MILESTONES</span>
+                <span class="date">
+                   · Jul 23, 2018
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" class="title">Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board. For years, many Quire users have enjoyed “nested tasks” to see and organize their ideas into a well-planned list of small, actionable to-dos. Now, with Kanban board, execution on your to-dos is made even easier...</a> -->
+              <div class="title"> Quire Mark III: Nested Tasks Meets Board</div>
+              <div class="desc">Today, we are proud to announce: Quire Mark III for you to streamline your workflow visually in a board. For years, many Quire users have enjoyed “nested tasks” to see and organize their ideas into a well-planned list of small, actionable to-dos. Now, with Kanban board, execution on your to-dos is made even easier...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-and-Slack-work-great-together.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-10-18-Quire-and-Slack-work-great-together/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MILESTONES</span>
+                <span class="date">
+                   · Oct 18, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-and-Slack-work-great-together.html" class="title">It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects...</a> -->
+              <div class="title"> Quire and Slack work great together.</div>
+              <div class="desc">It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-06-15-Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MILESTONES</span>
+                <span class="date">
+                   · Jun 15, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Mark-II-reimagined-and-rebuilt-for-your-dreams.html" class="title">Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference. Imagine you adding your own color to the painting...</a> -->
+              <div class="title"> Quire Mark II, reimagined and rebuilt for your dreams</div>
+              <div class="desc">Today is the day Quire goes big. The day we present Quire Mark II to you, the best-ever-made collaborative task management app to bring your ideas to life. “Genius is in the idea. Impact, however, comes from action,” said Simon Sinek. Many people have a dream, and they talk about it with every bit of exciting details. What makes it even more exciting is to realize it, to really make a difference. Imagine you adding your own color to the painting...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-in-2016-and-things-to-look-forward-to.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-12-06-Quire-in-2016-and-things-to-look-forward-to/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MILESTONES</span>
+                <span class="date">
+                   · Dec 6, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-in-2016-and-things-to-look-forward-to.html" class="title">It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village. As such a joyous time approaches, we want to take this opportunity to thank all of you, and share some thoughts and facts before we call it a year...</a> -->
+              <div class="title"> Quire now, and things to look forward to in 2017.</div>
+              <div class="desc">It is near the end of the year. You are probably getting ready for the Christmas and New Year holiday and planning your trip to the Santa Claus Village. As such a joyous time approaches, we want to take this opportunity to thank all of you, and share some thoughts and facts before we call it a year...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Hello-GitHub-We-are-Quire.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2015-06-29-Github-Integration/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MILESTONES</span>
+                <span class="date">
+                   · Jun 29, 2015
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Hello-GitHub-We-are-Quire.html" class="title">For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes. But not to worry, Quire has got it covered.</a> -->
+              <div class="title"> Hello GitHub, We’re Quire</div>
+              <div class="desc">For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes. But not to worry, Quire has got it covered.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+  </ul> 
+</div>
       </div>
 
       <footer class="footer-wrap navbar navbar-default">
@@ -247,6 +335,15 @@
     <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
     <script async src="/s/js/pack.min.js"></script>
     <script async src="/s/js/blog.min.js"></script>
+    
+      
+      
+        
+      
+      <script src="/blog/assets/js/lunr/lunr.min.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-store.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-en.js"></script>
+    
   </body>
 
 </html>

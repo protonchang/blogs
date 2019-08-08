@@ -1,21 +1,33 @@
 ---
 layout: default
 ---
-<div id="category">
-	<div class="post">
-		<h2>CATEGORY</h2>
-		<h1>{{ page.category | replace:'-',' ' }}</h1>
-		<span class="clearfix"></span>
-	</div>
-	{% for p in site.categories[page.category] %}
-    <a href="{{ p.url | prepend: site.baseurl }}" class="post">
-    	<div class="img" style="background-image: url('{{ p.image | prepend: "/images/" | prepend: site.baseurl }}');"></div>
-      <h5>
-        POSTED BY {{ p.author }} · {{ p.date | date: "%b %-d, %Y" }}
-      </h5>
-      <h3>{{ p.title }}</h3>
-      <h5>{{ p.category-intro }}</h5>
-    </a>
-  {% endfor %}
-  <span class="clearfix"></span>
+<div id="post-list">
+  <h2 id="category">{{ page.category | replace:'-',' ' | capitalize }}</h2>
+
+  <ul class="posts">
+    {% assign i = -1 %}
+    {% for post in site.categories[page.category] %}
+      {% assign i = i | plus:1 %}
+      {% assign postUrl = post.url | prepend: site.baseurl %}   
+
+      <li class="post">
+        <a href="{{ postUrl }}">
+          <div class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">{{ post.categories[0] | upcase | replace:'-',' ' }}</span>
+                <span class="date">
+                   · {{ post.date | date: "%b %-d, %Y" }}
+                </span>
+              </div>
+              <!-- <a href="{{ postUrl }}" class="title">{{post.index-intro}}</a> -->
+              <div class="title"> {{ post.title }}</div>
+              <div class="desc">{{post.index-intro}}</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    {% endfor %}
+  </ul> 
 </div>

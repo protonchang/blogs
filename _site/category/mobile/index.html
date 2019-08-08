@@ -67,12 +67,22 @@
   <div class="self-label">
     <a id="self" href="/blog">Blog</a>
   </div>
+  
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  
   <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
     <span>toggle menu</span>
   </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    
+      <li class="item search-toggle">
+          <a class="icon-search"></a>
+      </li>
+      
       <li class="item login">
           <a class="b green" href="/login?continue=https://quire.io/blog/category/mobile/index.html">LOG IN</a>
       </li>
@@ -158,100 +168,230 @@
               href="/blog/category/mobile">MOBILE</a>
           
         </div>
+        
+          <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
+            </div>
+          </div>
+        
       </header>
 
       <div id="body" class="container">
-        <div id="category">
-	<div class="post">
-		<h2>CATEGORY</h2>
-		<h1>mobile</h1>
-		<span class="clearfix"></span>
-	</div>
-	
-    <a href="/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App/Kanban_board.png');"></div>
-      <h5>
-        POSTED BY Vicky Pham · Apr 25, 2019
-      </h5>
-      <h3>Quire Mobile 3.0: Kanban Board comes to Mobile App</h3>
-      <h5></h5>
-    </a>
-  
-    <a href="/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2018-07-13-Quire-iOS-2.0-New-Features-and-Even-Greater-Performance/quire-ios-2.0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jul 13, 2018
-      </h5>
-      <h3>Quire iOS 2.0: New Features and Even Greater Performance</h3>
-      <h5>Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2018-04-10-Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter/quire-mobile-app-google-flutter.png');"></div>
-      <h5>
-        POSTED BY Jerry Chen · Apr 10, 2018
-      </h5>
-      <h3>Quire: Building a Sophisticated Mobile App with Google’s Flutter</h3>
-      <h5>A couple years ago, we developed Quire iOS app in Swift. Last year, we chose Flutter for developing Quire Android app...</h5>
-    </a>
-  
-    <a href="/blog/p/Introducing-Quire-for-Android.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2018-01-26-Introducing-Quire-for-Android/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jan 26, 2018
-      </h5>
-      <h3>Introducing: Quire for Android</h3>
-      <h5>Finally, it is here. Kicking off the new year 2018, we are proud to present to you: Quire for Android. We took time to craft and create this app for Android, so we can get it right...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-11-13-Quire-Siri-Add-tasks-with-your-voice-for-iOS-11/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Nov 13, 2017
-      </h5>
-      <h3>Quire + Siri: Add tasks with your voice for iOS 11</h3>
-      <h5>Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-08-04-Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Aug 4, 2017
-      </h5>
-      <h3>Quire enhanced for a smooth user experience in your Android browser, even offline!</h3>
-      <h5>We are one step closer to making Quire accessible anywhere on any device...</h5>
-    </a>
-  
-    <a href="/blog/p/Quire-Siri-Best-Task-Manager-Friend.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2017-03-01-Quire-Siri-Best-Task-Manager-Friend/0.gif');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Mar 1, 2017
-      </h5>
-      <h3>Quire, Siri's Best Task Manager Friend</h3>
-      <h5>It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap to add and pinch to zoom being introduced. And now...</h5>
-    </a>
-  
-    <a href="/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-06-28-A-photo-is-worth-1000-words-Your-idea-worths-more/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 28, 2016
-      </h5>
-      <h3>A photo is worth 1000 words. Your idea worths more!</h3>
-      <h5>Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas...</h5>
-    </a>
-  
-    <a href="/blog/p/Snap-your-ideas-Introducing-Quire-for-iOS.html" class="post">
-    	<div class="img" style="background-image: url('/blog/images/2016-06-14-Snap-your-ideas-Introducing-Quire-for-iOS/0.png');"></div>
-      <h5>
-        POSTED BY Crystal Chen · Jun 14, 2016
-      </h5>
-      <h3>Snap your ideas! Introducing Quire for iOS</h3>
-      <h5>Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching...</h5>
-    </a>
-  
-  <span class="clearfix"></span>
-</div>
+        <div id="post-list">
+  <h2 id="category">Mobile</h2>
 
+  <ul class="posts">
+    
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2019-04-25-Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App/Kanban_board.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Apr 25, 2019
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html" class="title">One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App.</a> -->
+              <div class="title"> Quire Mobile 3.0: Kanban Board comes to Mobile App</div>
+              <div class="desc">One of the long-awaited features that all of our users have been requesting has come to life. Today we are super excited that we have brought our famous Kanban Board to your Mobile App.</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2018-07-13-Quire-iOS-2.0-New-Features-and-Even-Greater-Performance/quire-ios-2.0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Jul 13, 2018
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-iOS-2.0-New-Features-and-Even-Greater-Performance.html" class="title">Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action. Whenever, wherever you want. Today, we took Quire iOS 2.0 to another level: not only did we added new features, we also enhanced it for better consistency and better UX so you can enjoy the same experience across all devices...</a> -->
+              <div class="title"> Quire iOS 2.0: New Features and Even Greater Performance</div>
+              <div class="desc">Quire is designed to help you realize your goals from first capturing your ideas, to turning them into minimal todos for action. Whenever, wherever you want. Today, we took Quire iOS 2.0 to another level: not only did we added new features, we also enhanced it for better consistency and better UX so you can enjoy the same experience across all devices...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2018-04-10-Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter/quire-mobile-app-google-flutter.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Apr 10, 2018
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html" class="title">A couple years ago, we developed Quire iOS app in Swift. Last year, we chose Flutter for developing Quire Android app. I’d like to share my experience of developing the Android app with Flutter - the good and the bad, the strengths and weaknesses - in this article. I’m a front-end developer of Quire, a simple, lightweight project management tool for capturing ideas, managing tasks and collaborating with teams...</a> -->
+              <div class="title"> Quire: Building a Sophisticated Mobile App with Google’s Flutter</div>
+              <div class="desc">A couple years ago, we developed Quire iOS app in Swift. Last year, we chose Flutter for developing Quire Android app. I’d like to share my experience of developing the Android app with Flutter - the good and the bad, the strengths and weaknesses - in this article. I’m a front-end developer of Quire, a simple, lightweight project management tool for capturing ideas, managing tasks and collaborating with teams...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Introducing-Quire-for-Android.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2018-01-26-Introducing-Quire-for-Android/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Jan 26, 2018
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Introducing-Quire-for-Android.html" class="title">Finally, it is here. Kicking off the new year 2018, we are proud to present to you: Quire for Android. We took time to craft and create this app for Android, so we can get it right. We made sure the layout, navigation, gestures and look-and-feel were simple...</a> -->
+              <div class="title"> Introducing: Quire for Android</div>
+              <div class="desc">Finally, it is here. Kicking off the new year 2018, we are proud to present to you: Quire for Android. We took time to craft and create this app for Android, so we can get it right. We made sure the layout, navigation, gestures and look-and-feel were simple...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-11-13-Quire-Siri-Add-tasks-with-your-voice-for-iOS-11/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Nov 13, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html" class="title">Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone! And now with iOS 11, the conversation has become even more natural...</a> -->
+              <div class="title"> Quire + Siri: Add tasks with your voice for iOS 11</div>
+              <div class="desc">Your smart assistant Siri just got smarter with iOS 11 for you in Quire. Just like in our earlier blog post, simply call up Siri and tell her/him the task, the assignee and a due date and time, and it will be added directly to Quire. No need to open the app, or unlock your phone! And now with iOS 11, the conversation has become even more natural...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-08-04-Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Aug 4, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-enhanced-for-a-smooth-user-experience-in-your-Android-browser-even-offline.html" class="title">We are one step closer to making Quire accessible anywhere on any device. For the past couple months, we have optimized it for your Android mobile browser, so it now comes with better reliability, and accessibility. Even when you are offline. What exactly have been enhanced? To name a few, you can swipe a task to instantly do more. To quickly break down a task into smaller items, you can swipe it from right to left to add subtasks. To complete a task, swipe it from left to right and tap the complete icon...</a> -->
+              <div class="title"> Quire enhanced for a smooth user experience in your Android browser, even offline!</div>
+              <div class="desc">We are one step closer to making Quire accessible anywhere on any device. For the past couple months, we have optimized it for your Android mobile browser, so it now comes with better reliability, and accessibility. Even when you are offline. What exactly have been enhanced? To name a few, you can swipe a task to instantly do more. To quickly break down a task into smaller items, you can swipe it from right to left to add subtasks. To complete a task, swipe it from left to right and tap the complete icon...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Quire-Siri-Best-Task-Manager-Friend.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2017-03-01-Quire-Siri-Best-Task-Manager-Friend/0.gif)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Mar 1, 2017
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Quire-Siri-Best-Task-Manager-Friend.html" class="title">It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap your ideas and pinch to zoom being introduced. And now, we welcome the smart assistant Siri on board! When you talk to Siri about us, we listen and do the rest...</a> -->
+              <div class="title"> Quire, Siri's Best Task Manager Friend</div>
+              <div class="desc">It has been 8 months and 7 days since the birth of Quire iOS. We have seen features like snap your ideas and pinch to zoom being introduced. And now, we welcome the smart assistant Siri on board! When you talk to Siri about us, we listen and do the rest...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-06-28-A-photo-is-worth-1000-words-Your-idea-worths-more/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Jun 28, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html" class="title">Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas! Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day...</a> -->
+              <div class="title"> A photo is worth 1000 words. Your idea worths more!</div>
+              <div class="desc">Hey, have you tried the recently-released Quire for iOS? If you haven’t, you’re missing out on a whole new exciting way to jump start your ideas! Too often, we have ideas we want to capture at the very moment, and they may be words, photos or scenes that just pass us by and that we’ll most likely forget at the end of the day...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+      
+         
+
+      <li class="post">
+        <a href="/blog/p/Snap-your-ideas-Introducing-Quire-for-iOS.html">
+          <div class="featured-img" style="background-image: url(/blog/images/2016-06-14-Snap-your-ideas-Introducing-Quire-for-iOS/0.png)"></div>
+          <div class="post-meta">
+              <div class="meta">
+                <span class="category">MOBILE</span>
+                <span class="date">
+                   · Jun 14, 2016
+                </span>
+              </div>
+              <!-- <a href="/blog/p/Snap-your-ideas-Introducing-Quire-for-iOS.html" class="title">Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that...</a> -->
+              <div class="title"> Snap your ideas! Introducing Quire for iOS</div>
+              <div class="desc">Honestly. How many times have you ditched your ideas? Or, gone through the trouble of drawing them on a napkin or sketching them on a meeting board, and then simply forgetting where to look or losing them completely on the next day, just to name a few? We’re proud to present to you Quire app on iOS - the first-ever task manager that...</div>
+              <div class="bottom-mask"></div>
+          </div>
+        </a>
+      </li>
+
+    
+  </ul> 
+</div>
       </div>
 
       <footer class="footer-wrap navbar navbar-default">
@@ -283,6 +423,15 @@
     <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
     <script async src="/s/js/pack.min.js"></script>
     <script async src="/s/js/blog.min.js"></script>
+    
+      
+      
+        
+      
+      <script src="/blog/assets/js/lunr/lunr.min.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-store.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-en.js"></script>
+    
   </body>
 
 </html>

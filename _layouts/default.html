@@ -92,6 +92,21 @@
               href="{{ cName | prepend: "/category/" | prepend: site.baseurl }}">{{ c | first | upcase | replace:'-',' ' }}</a>
           {% endfor %}
         </div>
+        {% if site.search == true %}
+          <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
+            </div>
+          </div>
+        {% endif %}
       </header>
 
       <div id="body" class="container">
@@ -109,6 +124,18 @@
     <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
     <script async src="/s/js/pack.min.js"></script>
     <script async src="/s/js/blog.min.js"></script>
+    {% if site.search == true %}
+      {% assign lang = site.locale | slice: 0,2 | default: "en" %}
+      {% case lang %}
+      {% when "gr" %}
+        {% assign lang = "gr" %}
+      {% else %}
+        {% assign lang = "en" %}
+      {% endcase %}
+      <script src="{{ '/blog/assets/js/lunr/lunr.min.js' }}"></script>
+      <script src="{{ '/blog/assets/js/lunr/lunr-store.js' }}"></script>
+      <script src="{{ '/blog/assets/js/lunr/lunr-' | append: lang | append: '.js' }}"></script>
+    {% endif %}
   </body>
 
 </html>
