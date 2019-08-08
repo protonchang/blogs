@@ -36,7 +36,7 @@ layout: default
         {% for post in site.posts %}
           {% if r == post.title %}
             <li class="post">
-              <a href="{{ postUrl }}">
+              <a href="{{ post.url | prepend: site.baseurl }}">
                 <div class="featured-img" style="background-image: url({{ post.image | prepend: "/images/" | prepend: site.baseurl }})"></div>
                 <div class="post-meta">
                     <div class="meta">
