@@ -36,7 +36,7 @@ It’s time to stop the meeting madness and seek for improvement from another an
 
 An efficient meeting must serve a defined and specific goal. You cannot invite people over and waste their time for nothing.  Setting a clear objective for the meeting can also help you track progress and its efficiency. 
 
-The [New York Times](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting) has pointed out that “the agenda provides a compass for the conversation”, so if you don’t want the attendees leave the meeting without a clue about what just happened, it might be best to clearly state the meeting’s objective in the invitation before sending it out. 
+The [New York Times](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting) has pointed out that “the agenda provides a compass for the conversation”, so if you don’t want the attendees to leave the meeting without a clue about what just happened, it might be best to clearly state the meeting’s objective in the invitation before sending it out. 
 
 ![To-do list]({{ site.baseurl }}/images/{{page.imgDir}}/Task-list.png)
 
