@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>3 Proven Tips on How to Run Effective Meetings with a Digital To Do List</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>It’s time to stop the meeting madness and seek for improvement from another angle: using a digital to do list app as a tool to combat with meetings instead of the traditional approach.</description>
+				<pubDate>Mon, 12 Aug 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</guid>
+			</item>
+		
+			<item>
 				<title>7 Productivity Tips to Avoid Burnout at Work</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 26 Feb 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</guid>
-			</item>
-		
-			<item>
-				<title>Import Your Data From Other Project Management Software</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Finally, the one feature that everyone is waiting for has become available in Quire. We’re introducing our new import feature in order for all of our users to restore their local backup data or migrate from other project management softwares, including Asana, Trello or Wunderlist.</description>
-				<pubDate>Tue, 19 Feb 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html</guid>
 			</item>
 		
 	</channel>

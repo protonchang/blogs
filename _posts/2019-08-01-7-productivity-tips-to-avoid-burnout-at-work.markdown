@@ -15,7 +15,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
 authorLink: "https://medium.com/@quire.io"
 
-relatedPosts: ["4 productivity tips that make sense for your project in 2018", "Top 3 Productivity Tips With Online To Do List Software"]
+relatedPosts: ["4 productivity tips that make sense for your project in 2018", "Top 3 Productivity Tips With Online To Do List Software", "3 Proven Tips on How to Run Effective Meetings with a Digital To Do List"]
 
 imgDir: "2019-08-01-7-productivity-tips-to-avoid-burnout-at-work"
 ---
