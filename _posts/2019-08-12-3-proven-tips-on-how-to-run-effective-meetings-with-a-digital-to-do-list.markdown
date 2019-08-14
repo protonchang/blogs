@@ -22,13 +22,13 @@ imgDir: "2019-08-12-3-proven-tips-on-how-to-run-effective-meetings-with-a-digita
 
 ![productivity tips]({{ site.baseurl }}/images/{{page.imgDir}}/productivity-tip-effective-meetings.png)
 
-You may want to ask yourself these two questions: “How much time do you spend on meetings this week?” and “Are your business meetings effective?” If you think those meetings suck and they’re wasting your time, well, you’re not alone. 
+You may want to ask yourself these two questions: “How much time do I spend on meetings this week?” and “Are my business meetings effective?” If you think those meetings suck and they’re wasting your time, well, you’re not alone. 
 
 According to a [research](https://hbr.org/2014/04/how-a-weekly-meeting-took-up-300000-hours-a-year) on Harvard Business Review about quantifying the actual cost of meetings to your company, due to the ripple effect, one weekly meeting accounts for 7,000 hours a year and a company will spend approximately total 300,000 hours a year on just meetings only. 
 
 Time is money, but there is no money can buy back the time that you’ve spent. Moreover, the abundance of pointless and dreadful meetings will leave negative feelings among all of the employees, not to mention the unnecessary confusion that it may create after the meetings.
 
-It’s time to stop the meeting madness and seek for improvement from another angle: using a [project management software](https://quire.io/compare/best-project-management-software-reviews-comparisons) or [to do list app](https://quire.io/compare/best-to-do-list-apps) as a tool to combat with meetings instead of the traditional approach. We’ve put together some tips for running effective meetings for you.
+It’s time to stop the meeting madness and seek for improvement from another angle: use a [project management software](https://quire.io/compare/best-project-management-software-reviews-comparisons) or [to do list app](https://quire.io/compare/best-to-do-list-apps) as a tool to combat dreadful meetings instead of the traditional approach. We’ve put together some tips for running effective meetings for you.
 
 ## Tip #1: Set a clear objective
 
