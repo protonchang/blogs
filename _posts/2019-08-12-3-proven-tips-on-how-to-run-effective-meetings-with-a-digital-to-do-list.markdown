@@ -4,9 +4,9 @@ title:  "3 Proven Tips on How to Run Effective Meetings with a Digital To Do Lis
 date:   2019-08-12 11:58:07
 categories: "Productivity-tips"
 
-index-intro: "It’s time to stop the meeting madness and seek for improvement from another angle: using a digital to do list app as a tool to combat with meetings instead of the traditional approach."
+index-intro: "It’s time to stop the meeting madness and seek for improvement from another angle: use a digital to do list app as a tool to combat dreadful meetings instead of the traditional approach."
 
-category-intro: "You may want to ask yourself these two questions: “How much time do you spend on meetings this week?” and “Are your business meetings effective?” If you think those meetings suck and they’re nothing but a waste of time for you, well, you’re not alone."
+category-intro: "You may want to ask yourself these two questions: “How much time do I spend on meetings this week?” and “Are my business meetings effective?” If you think those meetings suck and they’re nothing but a waste of time for you, well, you’re not alone."
 
 image: "2019-08-12-3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list/productivity-tip-effective-meetings.png"
 tags: productivity tips project-management to-do-list effective-meetings meeting how-to-run-effective-meetings
