@@ -106,8 +106,6 @@ For tasks with start date and time, and due date and time, a Gantt chart view is
 
 #### Tip: You can [sync](https://quire.io/w/Getting_Started_with_Quire/128/Sync_to_iCal_Outlook...) your tasks to Google Calendar, Apple Calendar (iCal), Outlook Calendar or other.
 
-Worthy to mention here is that our very own calendar will be available in Quire Mark II (aka Quire 2.0) currently scheduled for 2017.
-
 The bottom line is, we all care about time.
 
 Often, it is not enough to know what dates tasks should be done, but what time they should be done. And it is with time that reminders can play their part to the fullest, with reminders that notifications can do the same, and so forth.
