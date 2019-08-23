@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Busy vs. Productive: 5 Tips to Improve Time Management Skills for Project Managers</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Why are you always busy but not productive? We&#39;re more than halfway through 2019 and it&#39;s about time to stop living like a zoombie because you are behind most of your deadlines. With our 5 simple tips to improve time management skills, you can own your day, become less busy and more productive.</description>
+				<pubDate>Fri, 23 Aug 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</guid>
+			</item>
+		
+			<item>
 				<title>3 Proven Tips on How to Run Effective Meetings with a Digital To Do List</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 09 Apr 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers.html</guid>
-			</item>
-		
-			<item>
-				<title>Dream Chasers: Making a Safer and Cleaner Space Environment</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Space pollution is indeed a growing problem, but may not be so obvious or visible to people on earth. Alexandre de Villardi de Montlaur and his team are among scientists and engineers trying to solve this problem. Alexandre, coordinator of the most significant project, the ECE3SAT project at ECE Paris, shares with us on how Quire has supported his team in designing a deboriting satellite that seeks to resolve this growing issue.</description>
-				<pubDate>Tue, 26 Feb 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html</guid>
 			</item>
 		
 	</channel>
