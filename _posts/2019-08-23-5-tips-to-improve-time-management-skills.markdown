@@ -58,7 +58,7 @@ It’s human nature to have limited self-control, but procrastination can be ove
 
 Don’t try to be a superhero and squeeze everything into a tight schedule. Excellent time management skills don’t require you to stress yourself out to overwork. Instead, you should get things done effectively and be productive while still maintaining a good mental health.
 
-When you think you’re already overloaded with your to do list, start saying no to the irrelevant tasks. You’re given with that much bv time, don’t sacrifice your sanity with a never-ending list. Take time out, get rest, have a life outside your office, etc. A good project manager is the one that knows how to balance between life and job, not a workaholic who is busy all the time. 
+When you think you’re already overloaded with your to do list, start saying no to the irrelevant tasks. You’re given with that much time, don’t sacrifice your sanity with a never-ending list. Take time out, get rest, have a life outside your office, etc. A good project manager is the one that knows how to balance between life and job, not a workaholic who is busy all the time. 
 
 
 [jekyll]:      http://jekyllrb.com
