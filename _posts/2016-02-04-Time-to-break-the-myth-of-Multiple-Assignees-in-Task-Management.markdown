@@ -23,11 +23,11 @@ imgDir: "2016-02-04-Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Managem
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.png)
 We often get asked, “Can I assign a task to more than one person?” Maybe you have this question too. Now the answer is, “Yes, you can!”.
 
-While other task management tools or to-do apps out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother deciding which member in the team should handle a task or breaking down a task that shouldn’t need to be broken down into subtasks just so you can assign them individually.
+While other [task management tools](https://quire.io/compare/best-task-management-software-for-creative-teams) or [to-do list apps](https://quire.io/compare/best-to-do-list-apps) out there say you may be confused as to who’s responsible for what or tasks may be overlooked with multiple assignees, we say otherwise: there are times that you don’t want to bother deciding which member in the team should handle a task or breaking down a task that shouldn’t need to be broken down into subtasks just so you can assign them individually.
 
 So why did we make it possible on [Quire](https://quire.io/)? Check out the three examples below.
 
-## Case 1 Effort to Assign Task
+## Case 1 - Effort to Assign Task
 
 Let’s say you and your sales team have potential customer inquiries coming in, and three people are responsible for replying them.
 
@@ -41,7 +41,7 @@ Honestly, you wouldn’t want to make the effort checking your resources, decidi
 {% endmarkdown %}
 </div>
 
-## Case 2 Hard to Divide Task
+## Case 2 - Hard to Divide Task
 
 You and your co-workers need to make an animated video, and there’re two graphic designers responsible for the concept of characters.
 
@@ -57,7 +57,7 @@ If you could assign this task to both designers, they’d be able to work it out
 {% endmarkdown %}
 </div>
 
-## Case 3 Not Enough Hands on Deck
+## Case 3 - Not Enough Hands on Deck
 
 Here’s another scenario that you may have already experienced yourself.
 
