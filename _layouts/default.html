@@ -32,9 +32,9 @@
     {% endif %}
 
     <!-- meta tag for social website: twitter -->
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.category-intro %}{{ page.category-intro | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.index-intro %}{{ page.index-intro | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.icon }}{% endif %}">
     <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
