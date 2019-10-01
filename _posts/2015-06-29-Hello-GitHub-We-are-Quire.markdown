@@ -20,7 +20,7 @@ imgDir: "2015-06-29-Github-Integration"
 ---
 
 
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.png)
+![Github Integration]({{ site.baseurl }}/images/{{page.imgDir}}/0.png)
 
 For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes.
 
@@ -28,45 +28,30 @@ But not to worry, [Quire](https://quire.io/) has got it covered. With the integr
 
 ## How do I integrate with GitHub?
 
-***1. Go to Project options (that looks like a wheel) in the main panel***
+1. Go to [Quire & Beyond](https://quire.io/apps)
 
-<div style="max-width: 165px; max-height: 103px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
-{% endmarkdown %}
-</div>
+    ![Quire App Directory]({{ site.baseurl }}/images/{{page.imgDir}}/appDirectory.png)
 
-***2. Click on “Integrate Github”***
+1. Choose Github and click on `Install`
 
-<div style="max-width: 169px; max-height: 325px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
-{% endmarkdown %}
-</div>
+    ![Quire Github integration]({{ site.baseurl }}/images/{{page.imgDir}}/github_profile.png)
 
-***3. Click on “Get Authentication”***
+1. Choose the project that you would like to integrate Github to
 
-<div style="max-width: 484px; max-height: 294px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
-{% endmarkdown %}
-</div>
+    ![Github]({{ site.baseurl }}/images/{{page.imgDir}}/github_selectProject.png)
 
-***4. Select one or more repositories you want to connect to and click on Save***
+1. Authorize your Github account with Quire
 
-<div style="max-width: 678px; max-height: 380px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
-{% endmarkdown %}
-</div>
+    ![Github authorization]({{ site.baseurl }}/images/{{page.imgDir}}/github_authorized.png)
 
-***5. You can simply click on “Continue to my project.”***
+1. Choose the Github repositories you want to connect to Quire
 
-<div style="max-width: 680px; max-height: 339px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
-{% endmarkdown %}
-</div>
+    ![Github repositories]({{ site.baseurl }}/images/{{page.imgDir}}/github_selectRepo.png)
+
+1. Successfully integrated Github with Quire
+
+    ![Github repositories]({{ site.baseurl }}/images/{{page.imgDir}}/github_success.png)
+
 
 Once you are back to your project, the integration is done!
 

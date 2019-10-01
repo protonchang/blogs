@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- meta tag for social website: facebook -->
+    <meta property="og:title" content="Be a Hero: Create Your Own App with Quire API">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html">
+    <meta property="og:image" content="https://quire.io/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/Quire-API.png">
+    <meta property="og:description" content="We are happy to announce the release of version 1.0.0 of our OpenAPI, Quire uses OAuth 2.0 to authenticate requests between your app and your users...">
+    <meta property="og:site_name" content="Quire & You">
+    <meta property="og:locale" content="en_us">
+    
+      <meta property="article:modified_time" content="2019-10-01T19:58:07+08:00">
+      <meta property="article:published_time" content="2019-10-01T19:58:07+08:00">
+      <meta property="article:author" content="https://www.facebook.com/">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html">
+      
+        <meta property="og:see_also" content="https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html">
+      
+    
+
+    
+      
+      <meta property="article:section" content="features">
+      
+    
+
+    
+      
+      <meta property="article:tag" content="Open">
+      
+      <meta property="article:tag" content="API">
+      
+    
+
+    <!-- meta tag for social website: twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Be a Hero: Create Your Own App with Quire API">
+    <meta name="twitter:description" content="We are happy to announce the release of version 1.0.0 of our OpenAPI, Quire uses OAuth 2.0 to authenticate requests between your app and your users. With OAu...">
+    <meta name="twitter:image" content="https://quire.io/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/Quire-API.png">
+    <meta name="twitter:url" content="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html">
+
+    <meta name="description" content="We are happy to announce the release of version 1.0.0 of our OpenAPI, Quire uses OAuth 2.0 to authenticate requests between your app and your users...">
+
+    <!-- meta tag for social website: search engine -->
+    
+
+    <link rel="canonical" href="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html">
+
+    
+
+    
+      <link rel="prev" href="https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html" title="Quire & Beyond: Build great things with Quire API">
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Be a Hero: Create Your Own App with Quire API</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta charset="utf-8" />
+
+    <link rel="canonical" href="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html">
+    <link rel="alternate" type="application/rss+xml" title="Quire & You" href="https://quire.io/blog/feed.xml" />
+
+    <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="https://d12y7sg0iam4lc.cloudfront.net/s/css/lato-2.010.min.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/blog.css" />
+  </head>
+
+  <body data-init="blog">
+    <div id="wrap">
+      <header id="header-wrapper" role="banner" 
+        class="header-wrap navbar navbar-default navbar-fixed-top">
+        <div id="header" class="container">
+          <div id="quire-logo" class="navbar-header">
+  <h1 class="quire-logo-icon">
+    <em>
+      <a id="home" href="/" title="Quire">
+        <img src="https://d12y7sg0iam4lc.cloudfront.net/s/img/quire_logo.svg" alt="Quire">
+      </a>
+    </em>
+  </h1>
+  <div class="self-label">
+    <a id="self" href="/blog">Blog</a>
+  </div>
+  
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  
+  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
+    <span>toggle menu</span>
+  </button>
+</div>
+<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
+  <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+    
+      <li class="item search-toggle">
+          <a class="icon-search"></a>
+      </li>
+      
+      <li class="item login">
+          <a class="b green" href="/login?continue=https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html">LOG IN</a>
+      </li>
+      <li class="item start-free hide">
+        <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
+      </li>
+      <li class="item go-to-project hide">
+        <a href="/w" class="go-to-project-btn b green">GO TO MY PROJECT</a>
+      </li>
+      <li class="item t-user dropdown" id="u-id">
+        <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown"></a>
+        <ul class="arrow-dropdown-menu dropdown-menu pull-right arrow-border" role="menu">
+          <li class="dropdown-header"></li>
+
+          <li class="u-item"><a href="[:url currentUser]"><i class="icon-user-o"></i>My Profile</a></li>
+          <li class="u-item"><a href="/r/setting?tab=options"><i class="icon-cog-o"></i>Account Settings</a></li>
+
+          <li class="divider"></li>
+
+          <li class="u-item"><a href="/invite"><i class="icon-heart-o"></i>Recommend Quire</a></li>
+          <li class="u-item dropdown-submenu">
+            <a href="#"><i class="icon-question-circle"></i>Help</a>
+            <ul class="dropdown-menu" role="menu">
+              <li class="u-item tutorial">
+                <a href="/tutorial" target="_blank"><i class="icon-graduation-cap-o"></i>Tutorial</a>
+              </li>
+              <li class="u-item">
+                <a href="/w/Getting_Started_with_Quire/" target="_blank"><i class="icon-book-open-o"></i>Getting Started</a>
+              </li>
+              <li class="u-item">
+                <a href="/feedback" class="feedback-item" target="_blank"><i class="icon-inbox-file-word"></i>Feedback</a>
+              </li>
+            </ul>
+          </li>
+
+          <li class="divider"></li>
+          <li class="u-item"><a href="/r/logout"><i class="icon-sign-out"></i>Log out</a></li>
+        </ul>
+      </li>
+  </ul>
+</nav>
+        </div>
+        <div class="side-menu-container">
+          <div id="side-menu-toggle"></div>
+        </div>
+        <div id="side-menu">
+          <a class="" href="/blog/">ALL</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/workstyle">WORKSTYLE</a>
+          
+             
+             
+             
+            <a class="active" 
+              href="/blog/category/features">FEATURES</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/productivity-tips">PRODUCTIVITY TIPS</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/milestones">MILESTONES</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/dreams">DREAMS</a>
+          
+             
+             
+             
+            <a class="" 
+              href="/blog/category/mobile">MOBILE</a>
+          
+        </div>
+        
+          <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
+            </div>
+          </div>
+        
+      </header>
+
+      <div id="body" class="container">
+        <div class="share-container">
+  <div class="share">
+    <div class="share-title">share</div>
+    
+    <a href="http://twitter.com/share?text=Be a Hero: Create Your Own App with Quire API&url=https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html&via=quire_io" class="twitter" target="_blank"></a>
+    <a href="http://www.facebook.com/sharer.php?u=https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html" class="fb" target="_blank"></a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html&title=Be a Hero: Create Your Own App with Quire API&summary=&source=" target="_blank" class="in"></a>
+  </div>
+</div>
+
+<div id="post">
+  <div class="article">
+    <h5 class="category">
+      <a href="/blog/category/features">features</a> · <span>Oct 1, 2019<span>
+    </h5>
+    <h2 class="title">Be a Hero: Create Your Own App with Quire API</h2>
+    
+    <div class="markdown"><p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/Quire-API.png" alt="Quire API"></p>
+
+<p>We are happy to announce the release of version 1.0.0 of our OpenAPI, Quire uses <a href="http://oauth.net/documentation/">OAuth 2.0</a> to authenticate requests between your app and your users. With OAuth, users can give you access to their Quire content without giving up their passwords. </p>
+
+<p>This means that a user could authorize an app to access data or make changes to their Quire account and services that are exposed by the Quire API. For example, an app could create or delete tasks, post a comment, or alter an assignee, due, tags.</p>
+
+<h2 id="oauth-application-setup">OAuth Application Setup</h2>
+
+<p>In order to use Quire API, you’ll need to create an Oauth app.</p>
+
+<h3 id="create-your-quire-oauth-app">Create your Quire oauth app</h3>
+
+<p>You’ll need to be logged in to your Quire account to create an app.</p>
+
+<ol>
+<li><p>Go to the Quire <a href="https://quire.io/apps/dev">developer app console</a> and click on the <strong>Create new app</strong> button.</p>
+
+<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/dev_management.png" alt="Quire developer app console"></p></li>
+<li><p>Choose the Quire Organization that your app belongs to, the organization members can view/edit all apps belongs to the selected organization.</p>
+
+<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/create_app.png" alt="Quire app organization"></p></li>
+<li><p>Give your application a name and Redirect URL, we will discuss the role of the Redirect URL later. For now you can supply the following URL:</p></li>
+</ol>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">http://localhost:3000/callback</code></pre></div>
+
+<ol>
+<li>Click the <strong>Create new app</strong> button, your newly created OAuth application will be presented on the developer console page, allowing you to further configure it.</li>
+</ol>
+
+<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/developer_console.png" alt="Quire app list"></p>
+
+<p>In summary, you should have these three bits of information:</p>
+
+<ul>
+<li><strong>Development Client ID:</strong> :wJoMEodI4fSSR54pfNwIuIzLnaJ</li>
+<li><strong>Development Client Secret:</strong> eb8faf4nyd1wbeconw060e9ejui8zg6w8p1hyoex</li>
+<li><strong>Callback URL:</strong> <code>http://localhost:3000/callback</code></li>
+</ul>
+
+<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/edit_app_setting.png" alt="Quire app credentials"></p>
+
+<h2 id="setup-your-development-environment">Setup Your Development Environment</h2>
+
+<h3 id="step-1-configure-your-app">Step 1. Configure Your App</h3>
+
+<p>Host your application configuration information in you app. </p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">clientId</span> <span class="o">=</span> <span class="s1">&#39;:wJoMEodI4fSSR54pfNwIuIzLnaJ&#39;</span><span class="p">;</span>
+<span class="kr">const</span> <span class="nx">clientSecret</span> <span class="o">=</span> <span class="s1">&#39;eb8faf4nyd1wbeconw060e9ejui8zg6w8p1hyoex&#39;</span><span class="p">;</span>
+<span class="kr">const</span> <span class="nx">redirectURI</span> <span class="o">=</span> <span class="s1">&#39;http://localhost:3000/callback&#39;</span><span class="p">;</span>
+  
+<span class="kr">const</span> <span class="nx">authorizationUrl</span> <span class="o">=</span> <span class="s1">&#39;https://quire.io/oauth&#39;</span><span class="p">;</span>
+<span class="kr">const</span> <span class="nx">tokenUrl</span> <span class="o">=</span> <span class="s1">&#39;https://quire.io/oauth/token&#39;</span><span class="p">;</span>
+<span class="kr">const</span> <span class="nx">apiUrl</span> <span class="o">=</span> <span class="s1">&#39;https://quire.io/api&#39;</span><span class="p">;</span></code></pre></div>
+
+<h3 id="step-2-redirect-user-to-authorize-app-on-quire">Step 2. Redirect User to Authorize App on Quire</h3>
+
+<p>Generate an authorization url that you will redirect your users to Quire’s OAuth endpoint URI. This will show a web page where logged in Quire users can authorize your application to access their content.</p>
+
+<p>Sample URL: </p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">https://quire.io/oauth?client_id<span class="o">=</span>your-client-ID<span class="p">&amp;</span><span class="nv">redirect_uri</span><span class="o">=</span>your-redirect-uri</code></pre></div>
+
+<p>An authorization link view example might look like:</p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">http</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;http&#39;</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">url</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;url&#39;</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">server</span> <span class="o">=</span> <span class="nx">http</span><span class="p">.</span><span class="nx">createServer</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">req</span><span class="p">,</span> <span class="nx">res</span><span class="p">)</span> <span class="p">{</span> 
+    <span class="kd">var</span> <span class="nx">uri</span> <span class="o">=</span> <span class="nx">url</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">req</span><span class="p">.</span><span class="nx">url</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">uri</span><span class="p">.</span><span class="nx">pathname</span> <span class="o">==</span> <span class="s1">&#39;/&#39;</span><span class="p">)</span> <span class="p">{</span>        
+        <span class="c1">//..    </span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">uri</span><span class="p">.</span><span class="nx">pathname</span> <span class="o">==</span> <span class="s2">&quot;/install&quot;</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nx">authUrl</span> <span class="o">=</span> <span class="nx">authorizationUrl</span> 
+            <span class="o">+</span> <span class="s1">&#39;?client_id=&#39;</span> <span class="o">+</span> <span class="nx">clientId</span> 
+            <span class="o">+</span> <span class="s1">&#39;&amp;redirect_uri=&#39;</span> <span class="o">+</span> <span class="nb">encodeURIComponent</span><span class="p">(</span><span class="nx">redirectURI</span><span class="p">);</span>
+        <span class="nx">res</span><span class="p">.</span><span class="nx">writeHead</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="p">{</span> <span class="s1">&#39;Content-Type&#39;</span><span class="o">:</span> <span class="s1">&#39;text/html&#39;</span> <span class="p">});</span>
+        <span class="nx">res</span><span class="p">.</span><span class="nx">write</span><span class="p">(</span>
+             <span class="s1">&#39;&lt;html&gt;&lt;body&gt;&#39;</span> 
+            <span class="o">+</span> <span class="s1">&#39;&lt;a href=&quot;&#39;</span> <span class="o">+</span> <span class="nx">authUrl</span> <span class="o">+</span> <span class="s1">&#39;&quot;&gt;Connect Quire&lt;/a&gt;&#39;</span> 
+         <span class="o">+</span> <span class="s1">&#39;&lt;/body&gt;&lt;/html&gt;&#39;</span><span class="p">);</span>
+        <span class="nx">res</span><span class="p">.</span><span class="nx">end</span><span class="p">();</span>
+
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">uri</span><span class="p">.</span><span class="nx">pathname</span> <span class="o">==</span> <span class="s2">&quot;/callback&quot;</span><span class="p">)</span> <span class="p">{</span>
+        <span class="c1">//...</span>
+    <span class="p">}</span>
+<span class="p">});</span>
+<span class="nx">server</span><span class="p">.</span><span class="nx">listen</span><span class="p">(</span><span class="mi">3000</span><span class="p">);</span></code></pre></div>
+
+<p>The <code>state</code> parameter is a random string used to prevent Cross-Site Request Forgery (CSRF) attacks. You should randomly generate a character string. It will be passed back to your app, unchanged, in Step 3. Your application should validate this value. Though it is optional, we strongly recommend including this parameter.</p>
+
+<p>Sample URL: </p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">https://quire.io/oauth?client_id<span class="o">=</span>your-client-ID<span class="p">&amp;</span><span class="nv">redirect_uri</span><span class="o">=</span>your-redirect-uri<span class="p">&amp;</span><span class="nv">state</span><span class="o">=</span>lpcl9v94z</code></pre></div>
+
+<h3 id="step-3-handle-the-oauth-2-0-server-response">Step 3. Handle the OAuth 2.0 server response</h3>
+
+<p>The OAuth 2.0 server responds to your application&#39;s access request by using the URL specified in the <code>redirect_uri</code>.</p>
+
+<p>If the user approves the access request, then the response contains an authorization code. If the user does not approve the request, the response contains an error message. The authorization code or error message that is returned to the web server appears on the query string, as shown below:</p>
+
+<p><strong>An error response:</strong></p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">http://localhost:3000/callback?error<span class="o">=</span>access_denied</code></pre></div>
+
+<p><strong>An authorization code response:</strong></p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">http://localhost:3000/callback?code<span class="o">=</span>4/P7q7W91a-oMsCeLvIaQm6bTrgtp7</code></pre></div>
+
+<p><strong>A callback example might look like:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="c1">//...</span>
+<span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">uri</span><span class="p">.</span><span class="nx">pathname</span> <span class="o">==</span> <span class="s2">&quot;/callback&quot;</span><span class="p">)</span> <span class="p">{</span>
+   <span class="kd">var</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">uri</span><span class="p">.</span><span class="nx">query</span><span class="p">;</span>
+   <span class="kd">var</span> <span class="nx">message</span> <span class="o">=</span> <span class="s1">&#39;Auth fail&#39;</span><span class="p">;</span>
+   <span class="k">if</span> <span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;error_description&quot;</span><span class="p">]</span> <span class="o">!=</span> <span class="kc">null</span><span class="p">)</span> <span class="p">{</span>
+       <span class="nx">message</span> <span class="o">=</span> <span class="nx">result</span><span class="p">[</span><span class="s2">&quot;error_description&quot;</span><span class="p">];</span>
+       <span class="k">if</span> <span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;error&quot;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;access_denied&#39;</span><span class="p">)</span> <span class="p">{</span>
+           <span class="c1">//display reject message</span>
+       <span class="p">}</span>
+       <span class="nx">messageView</span><span class="p">(</span><span class="nx">res</span><span class="p">,</span> <span class="nx">message</span><span class="p">);</span>
+   <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;code&quot;</span><span class="p">]</span> <span class="o">!=</span> <span class="kc">null</span><span class="p">)</span> <span class="p">{</span>
+       <span class="k">return</span> <span class="nx">exchangeAccessToken</span><span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;code&quot;</span><span class="p">])</span>
+       <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+            <span class="kd">var</span> <span class="nx">token</span> <span class="o">=</span> <span class="nx">data</span><span class="p">[</span><span class="s1">&#39;access_token&#39;</span><span class="p">];</span>
+            <span class="nx">message</span> <span class="o">=</span> <span class="nx">token</span> <span class="o">!=</span> <span class="kc">null</span> <span class="o">?</span> <span class="s1">&#39;Success&#39;</span><span class="o">:</span> <span class="s1">&#39;Fail&#39;</span><span class="p">;</span>
+            <span class="nx">messageView</span><span class="p">(</span><span class="nx">res</span><span class="p">,</span> <span class="nx">message</span><span class="p">);</span>
+        <span class="p">});</span>
+   <span class="p">}</span>
+<span class="p">}</span></code></pre></div>
+
+<p>When the user is redirected back to your application redirect_uri, a code and state parameter will also be present in the querystring parameters. The state is your CSRF anti-forgery token to validate the request.</p>
+
+<p>Extract the code and state from the query string parameters. The state may be validated at this point.</p>
+
+<p><strong>A validate example might look like:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;code&quot;</span><span class="p">]</span> <span class="o">!=</span> <span class="kc">null</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;state&quot;</span><span class="p">]</span> <span class="o">!=</span> <span class="nx">stateFromSession</span><span class="p">(</span><span class="nx">res</span><span class="p">))</span>
+        <span class="k">return</span> <span class="nx">messageView</span><span class="p">(</span><span class="nx">res</span><span class="p">,</span> <span class="s1">&#39;invalid state&#39;</span><span class="p">);</span>
+            
+    <span class="k">return</span> <span class="nx">exchangeAccessToken</span><span class="p">(</span><span class="nx">result</span><span class="p">[</span><span class="s2">&quot;code&quot;</span><span class="p">])</span>
+    <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+         <span class="kd">var</span> <span class="nx">token</span> <span class="o">=</span> <span class="nx">data</span><span class="p">[</span><span class="s1">&#39;access_token&#39;</span><span class="p">];</span>
+         <span class="nx">message</span> <span class="o">=</span> <span class="nx">token</span> <span class="o">!=</span> <span class="kc">null</span> <span class="o">?</span> <span class="s1">&#39;Success&#39;</span><span class="o">:</span> <span class="s1">&#39;Fail&#39;</span><span class="p">;</span>
+         <span class="nx">messageView</span><span class="p">(</span><span class="nx">res</span><span class="p">,</span> <span class="nx">message</span><span class="p">);</span>
+     <span class="p">});</span>
+<span class="p">}</span></code></pre></div>
+
+<h3 id="step-4-exchange-authorization-code-for-access-token">Step 4. Exchange authorization code for access token</h3>
+
+<p>Your application needs to make a <code>POST</code> call to the token endpoint with the extracted authorization code and the request parameters in the below.</p>
+
+<table><thead>
+<tr>
+<th>Parameter</th>
+<th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>grant_type</td>
+<td>authorization_code</td>
+</tr>
+<tr>
+<td>code</td>
+<td>{your-authorization-code}</td>
+</tr>
+<tr>
+<td>client_id</td>
+<td>{your-client-ID}</td>
+</tr>
+<tr>
+<td>client_secret</td>
+<td>{your-client-secret}</td>
+</tr>
+</tbody></table>
+
+<p><strong>A request an access token example might look like this:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">request</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;request&#39;</span><span class="p">);</span>
+<span class="kd">function</span> <span class="nx">exchangeAccessToken</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nx">Promise</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">resolve</span><span class="p">,</span> <span class="nx">reject</span><span class="p">){</span>
+        <span class="nx">request</span><span class="p">.</span><span class="nx">post</span><span class="p">({</span>
+            <span class="nx">url</span><span class="o">:</span> <span class="nx">tokenUrl</span><span class="p">,</span> 
+            <span class="nx">form</span><span class="o">:</span> <span class="p">{</span>
+              <span class="nx">grant_type</span><span class="o">:</span> <span class="s1">&#39;authorization_code&#39;</span><span class="p">,</span>
+              <span class="nx">code</span><span class="o">:</span> <span class="nx">code</span><span class="p">,</span>
+              <span class="nx">client_id</span><span class="o">:</span> <span class="nx">clientId</span><span class="p">,</span>
+              <span class="nx">client_secret</span><span class="o">:</span> <span class="nx">clientSecret</span>
+            <span class="p">}</span>
+          <span class="p">},</span> 
+          <span class="kd">function</span> <span class="p">(</span><span class="nx">error</span><span class="p">,</span> <span class="nx">httpResponse</span><span class="p">,</span> <span class="nx">body</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="nx">error</span><span class="p">)</span> <span class="p">{</span>
+              <span class="k">return</span> <span class="nx">reject</span><span class="p">(</span><span class="nx">error</span><span class="p">);</span>
+            <span class="p">}</span>
+            <span class="nx">resolve</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">body</span><span class="p">))</span>
+          <span class="p">});</span>
+    <span class="p">});</span>
+<span class="p">}</span></code></pre></div>
+
+<p>The access token you receive in response will be a JSON format. </p>
+
+<p><strong>Example Response:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">{</span> 
+  <span class="s2">&quot;access_token&quot;</span><span class="o">:</span><span class="s2">&quot;ACCESS_TOKEN&quot;</span><span class="p">,</span> 
+  <span class="s2">&quot;token_type&quot;</span><span class="o">:</span> <span class="s2">&quot;bearer&quot;</span><span class="p">,</span> 
+  <span class="s2">&quot;expires_in&quot;</span><span class="o">:</span><span class="mi">2592000</span><span class="p">,</span> 
+  <span class="s2">&quot;refresh_token&quot;</span><span class="o">:</span><span class="s2">&quot;REFRESH_TOKEN&quot;</span>
+<span class="p">}</span></code></pre></div>
+
+<p>The token should be kept carefully and permanently since you need it to access every Quire API.</p>
+
+<h2 id="make-calls-to-the-api-using-the-access-token">Make calls to the API using the access token</h2>
+
+<p>Your app now has an access token that it can be used to make API calls on user&#39;s behalf.</p>
+
+<h3 id="call-the-api">Call the API</h3>
+
+<p>Make the API call passing the access token as a bearer token in the header of the request. </p>
+
+<p><strong>An api call example might look like:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">getCurrentUser</span><span class="p">(</span><span class="nx">token</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nx">Promise</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">resolve</span><span class="p">,</span> <span class="nx">reject</span><span class="p">){</span>
+        <span class="nx">request</span><span class="p">.</span><span class="nx">get</span><span class="p">({</span>
+            <span class="nx">url</span><span class="o">:</span> <span class="nx">apiUrl</span> <span class="o">+</span> <span class="s1">&#39;/user/id/me&#39;</span><span class="p">,</span> 
+            <span class="nx">headers</span><span class="o">:</span> <span class="p">{</span>
+              <span class="s2">&quot;Authorization&quot;</span><span class="o">:</span> <span class="s2">&quot;Bearer &quot;</span> <span class="o">+</span> <span class="nx">token</span>
+            <span class="p">}</span>
+          <span class="p">},</span> 
+          <span class="kd">function</span> <span class="p">(</span><span class="nx">error</span><span class="p">,</span> <span class="nx">httpResponse</span><span class="p">,</span> <span class="nx">body</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="nx">error</span><span class="p">)</span> <span class="p">{</span>
+              <span class="k">return</span> <span class="nx">reject</span><span class="p">(</span><span class="nx">error</span><span class="p">);</span>
+            <span class="p">}</span>
+            <span class="nx">resolve</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">body</span><span class="p">))</span>
+          <span class="p">});</span>
+    <span class="p">});</span>
+<span class="p">}</span></code></pre></div>
+
+<p><strong>Example Response:</strong></p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">{</span>
+  <span class="s2">&quot;email&quot;</span><span class="o">:</span> <span class="s2">&quot;john@gmail.cc&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;website&quot;</span><span class="o">:</span> <span class="s2">&quot;https://coolwebsites.com&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;id&quot;</span><span class="o">:</span> <span class="s2">&quot;My_ID&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;description&quot;</span><span class="o">:</span> <span class="s2">&quot;This is *cool*!&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;url&quot;</span><span class="o">:</span> <span class="s2">&quot;https://quire.io/u/My_ID&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;nameText&quot;</span><span class="o">:</span> <span class="s2">&quot;My Name&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;nameHtml&quot;</span><span class="o">:</span> <span class="s2">&quot;My Name&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;descriptionText&quot;</span><span class="o">:</span> <span class="s2">&quot;This is cool!&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;descriptionHtml&quot;</span><span class="o">:</span> <span class="s2">&quot;This is &lt;i&gt;cool&lt;/i&gt;!&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;image&quot;</span><span class="o">:</span> <span class="s2">&quot;https://quire.s3.amazonaws.com/oid/image.jpg&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;iconColor&quot;</span><span class="o">:</span> <span class="s2">&quot;37&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;name&quot;</span><span class="o">:</span> <span class="s2">&quot;My Name&quot;</span><span class="p">,</span>
+  <span class="s2">&quot;oid&quot;</span><span class="o">:</span> <span class="s2">&quot;Dyh2YkFcu9uLgLFIeN1kB4Ld&quot;</span>
+<span class="p">}</span></code></pre></div>
+
+<h2 id="refreshing-tokens">Refreshing Tokens</h2>
+
+<p>An access token intentionally is meant for short-term use only. This is an important security mechanism of OAuth 2.0. When using the Authorization Code Grant Flow, the access tokens have an one-hour lifetime by default.</p>
+
+<p>When an access token expires, an HTTP 401 error will be returned:</p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">{</span> 
+  <span class="nx">code</span><span class="o">:</span> <span class="mi">401</span><span class="p">,</span> 
+  <span class="nx">message</span><span class="o">:</span> <span class="s1">&#39;Invalid or expired token.&#39;</span> 
+<span class="p">}</span>
+
+<span class="nx">Your</span> <span class="nx">application</span> <span class="nx">will</span> <span class="nx">need</span> <span class="nx">to</span> <span class="nx">refresh</span> <span class="nx">the</span> <span class="nx">access</span> <span class="nx">token</span><span class="p">.</span> 
+<span class="kd">function</span> <span class="nx">refreshToken</span><span class="p">(</span><span class="nx">refreshToken</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nx">Promise</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">resolve</span><span class="p">,</span> <span class="nx">reject</span><span class="p">){</span>
+        <span class="nx">request</span><span class="p">.</span><span class="nx">post</span><span class="p">({</span>
+            <span class="nx">url</span><span class="o">:</span> <span class="nx">tokenUrl</span><span class="p">,</span> 
+            <span class="nx">form</span><span class="o">:</span> <span class="p">{</span>
+              <span class="nx">grant_type</span><span class="o">:</span> <span class="s1">&#39;refresh_token&#39;</span><span class="p">,</span>
+              <span class="nx">refresh_token</span><span class="o">:</span> <span class="nx">refreshToken</span><span class="p">,</span>
+              <span class="nx">client_id</span><span class="o">:</span> <span class="nx">clientId</span><span class="p">,</span>
+              <span class="nx">client_secret</span><span class="o">:</span> <span class="nx">clientSecret</span>
+            <span class="p">}</span>
+          <span class="p">},</span> 
+          <span class="kd">function</span> <span class="p">(</span><span class="nx">error</span><span class="p">,</span> <span class="nx">httpResponse</span><span class="p">,</span> <span class="nx">body</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="nx">error</span><span class="p">)</span> <span class="p">{</span>
+              <span class="k">return</span> <span class="nx">reject</span><span class="p">(</span><span class="nx">error</span><span class="p">);</span>
+            <span class="p">}</span>
+            <span class="nx">resolve</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">body</span><span class="p">))</span>
+          <span class="p">});</span>
+    <span class="p">});</span>
+<span class="p">}</span></code></pre></div>
+
+<p>Alternatively, your application could redirect the user to the authentication flow. </p>
+
+<p>We hope by now you already know how to use Quire API! We can&#39;t wait to see the amazing apps that you will build for Quire! 😍</p>
+</div>
+    <h5 class="author">
+      <img src="/blog/images/author/Jimmy.jpeg">
+      <div class="text-container">
+        <a href="https://github.com/jimmyshiau" class="name">Jimmy Shiau</a>
+        <div class="desc">Software Engineer</div>
+      </div>
+    </h5>
+  </div>
+  <div class="bottom">
+    <hr>
+    <ul class="related">
+      <div class="related-title">Related Articles</div>
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li class="post">
+              <a href="/blog/p/Hello-GitHub-We-are-Quire.html">
+                <div class="featured-img" style="background-image: url(/blog/images/2015-06-29-Github-Integration/0.png)"></div>
+                <div class="post-meta">
+                    <div class="meta">
+                      <span class="category">MILESTONES</span>
+                      <span class="date">
+                         · Jun 29, 2015
+                      </span>
+                    </div>
+                    <!-- <a href="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html" class="title">For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes. But not to worry, Quire has got it covered.</a> -->
+                    <div class="title"> Hello GitHub, We’re Quire</div>
+                    <div class="desc">For some of you, it is difficult enough to keep everyone up to date with the tasks at hand. It is even more so when they involve codes. Lots of codes. But not to worry, Quire has got it covered.</div>
+                    <div class="bottom-mask"></div>
+                </div>
+              </a>
+            </li>
+            
+            
+              
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li class="post">
+              <a href="/blog/p/Quire-and-Slack-work-great-together.html">
+                <div class="featured-img" style="background-image: url(/blog/images/2017-10-18-Quire-and-Slack-work-great-together/0.png)"></div>
+                <div class="post-meta">
+                    <div class="meta">
+                      <span class="category">MILESTONES</span>
+                      <span class="date">
+                         · Oct 18, 2017
+                      </span>
+                    </div>
+                    <!-- <a href="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html" class="title">It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects...</a> -->
+                    <div class="title"> Quire and Slack work great together.</div>
+                    <div class="desc">It is our mission to help you work seamlessly via Quire and other apps you are already comfortably using. With the integration with Slack, we are one step closer. For those of you who often communicate on Slack, you and your team can now receive updates about your Quire projects...</div>
+                    <div class="bottom-mask"></div>
+                </div>
+              </a>
+            </li>
+            
+            
+              
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+            <li class="post">
+              <a href="/blog/p/Quire-and-Beyond-Announce-Quire-API.html">
+                <div class="featured-img" style="background-image: url(/blog/images/2019-09-25-Quire-and-Beyond-Announce-Quire-API/Build_with_Quire_API.png)"></div>
+                <div class="post-meta">
+                    <div class="meta">
+                      <span class="category">MILESTONES</span>
+                      <span class="date">
+                         · Sep 25, 2019
+                      </span>
+                    </div>
+                    <!-- <a href="https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html" class="title">Today, we’re very excited to announce that Quire API is officially available for all of you to start building great things with Quire. Quire API lets you build scripts and integrate your favorite applications with Quire. You can choose to share your application with your organization members only or you can let other users in Quire community enjoy your application by publishing it in Quire App Directory.</a> -->
+                    <div class="title"> Quire & Beyond: Build great things with Quire API</div>
+                    <div class="desc">Today, we’re very excited to announce that Quire API is officially available for all of you to start building great things with Quire. Quire API lets you build scripts and integrate your favorite applications with Quire. You can choose to share your application with your organization members only or you can let other users in Quire community enjoy your application by publishing it in Quire App Directory.</div>
+                    <div class="bottom-mask"></div>
+                </div>
+              </a>
+            </li>
+            
+            
+            
+              <span class="clearfix"></span>
+              
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      <span class="clearfix"></span>
+    </ul>
+    <hr>
+    <div id="disqus_thread"></div>
+  </div>
+  <span class="clearfix"></span>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'quire';
+        
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+      </div>
+
+      <footer class="footer-wrap navbar navbar-default">
+        <div id="footer" class="container">
+          <nav class="navbar-collapse bs-navbar-collapse">  
+  <div id="footer-txt" class="col-sm-12">
+    <ul class="nav navbar-nav">
+      <li class="item"><a href="/blog">Blog</li>
+      <li class="item"><a href="/features">Feature</a></li>
+      <li class="item"><a href="/pricing">Pricing</a></li>
+      <li class="item"><a href="/faq">FAQ</a></li>
+      <li class="item"><a href="/about">About</a></li>
+      <li class="item"><a href="mailto:info@quire.io">Contact Us</a></li>
+    </ul>
+    <div class="clearfix"></div>
+    <p class="copy-right">&copy;2018 Potix Corporation. All rights reserved. <a href="/privacy">Privacy Policy</a> &amp; <a href="/terms">Terms</a></p>
+  </div>
+  <ul id="sns-items" class="nav navbar-nav navbar-right">
+    <li class="sns-btn"><a class="i-btn x24 icon-twitter" href="https://twitter.com/quire_io" onclick="gae('social','tt')"></a></li>
+    <li class="sns-btn"><a class="i-btn x24 icon-facebook-square" href="https://www.facebook.com/quire.io" onclick="gae('social','fb')"></a></li>
+    <li class="sns-btn"><a class="i-btn x24 icon-linkedin" href="https://www.linkedin.com/groups/6737615" onclick="gae('social','li')"></a></li>
+  </ul>
+</nav>
+        </div>
+      </footer>
+    </div>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48347893-1"></script>
+    <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
+    <script async src="/blog/assets/js/pack.min.js"></script>
+    <script async src="/blog/assets/js/blog.min.js"></script>
+    
+      
+      
+        
+      
+      <script src="/blog/assets/js/lunr/lunr.min.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-store.js"></script>
+      <script src="/blog/assets/js/lunr/lunr-en.js"></script>
+    
+  </body>
+
+</html>

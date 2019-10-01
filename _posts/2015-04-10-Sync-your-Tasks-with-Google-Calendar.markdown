@@ -28,51 +28,27 @@ Humans are predominantly visual animals. We process visual information much bett
 
 Simply follow 4 steps and you’ll have your tasks synced with your Google Calendar!
 
-### 1. Go to a project's Options
+1. Go to [Quire & Beyond](https://quire.io/apps) and choose which kind of Calendar you would like to integrate
 
-<div style="max-width: 227px; max-height: 68px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/1.png)
-{% endmarkdown %}
-</div>
+    ![Quire Apps Directory]({{ site.baseurl }}/images/{{page.imgDir}}/appDirectory.png)
 
-### 2. Select Integrate --> Calendars in the dropdown
+1. Click on `Install` to start syncing your tasks with the Calendar
 
-<div style="max-width: 382px; max-height: 291px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
-{% endmarkdown %}
-</div>
+    ![Google Calendar]({{ site.baseurl }}/images/{{page.imgDir}}/gcal_profile.png)
 
-### 3. Choose what kind of tasks you want to sync
+1. Choose what kind of tasks you would like to sync
 
-<div style="max-width: 454px; max-height: 207px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
-{% endmarkdown %}
-</div>
+    ![Quire Calendar integration]({{ site.baseurl }}/images/{{page.imgDir}}/gcal_selectSpec.png)
 
-### 4. Choose Google Calendar if it is not already set by default
+1. Follow the steps shown on the screen to add your tasks to your favorite calendar
 
-<div style="max-width: 455px; max-height: 207px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
-{% endmarkdown %}
-</div>
-
-### 5. Follow the steps specificed in the description
-
-<div style="max-width: 453px; max-height: 184px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/5.png)
-{% endmarkdown %}
-</div>
+    ![Quire Calendar]({{ site.baseurl }}/images/{{page.imgDir}}/gcal_getLink.png)
 
 Syncs automatically in a day if not right away!
 
 <div style="max-width: 545px; max-height: 424px; margin: 0 auto;">
 {% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
+![Quire Google Calendar]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
 {% endmarkdown %}
 </div>
 

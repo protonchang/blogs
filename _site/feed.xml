@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Be a Hero: Create Your Own App with Quire API</title>
+				
+					<dc:creator>Jimmy Shiau</dc:creator>
+				        
+				<description>We are happy to announce the release of version 1.0.0 of our OpenAPI, Quire uses OAuth 2.0 to authenticate requests between your app and your users. With OAuth, users can give you access to their Quire content without giving up their passwords.</description>
+				<pubDate>Tue, 01 Oct 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire &amp; Beyond: Build great things with Quire API</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 28 May 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</guid>
-			</item>
-		
-			<item>
-				<title>Never leave your keyboard - Shortcuts that actually make your life easier</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>You’re always busy with your work, we know that. You don&#39;t like to go back and forth between keyboard and mouse since it&#39;s just a waste of time? No worries, we&#39;ve got you covered. Now with our full set of shortcut keys, you can do most of the actions with your keyboard, don’t have to reach to your mouse to edit Quire workspace anymore.</description>
-				<pubDate>Tue, 07 May 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html</guid>
 			</item>
 		
 	</channel>

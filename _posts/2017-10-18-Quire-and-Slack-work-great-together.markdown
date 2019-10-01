@@ -30,45 +30,25 @@ For those of you who often communicate on Slack, you and your team can now recei
 
 You need to link an organization to a Slack team, and a project to a Slack channel.
 
-***1. Go to a Quire organization, and click on the "pen" edit icon***
+1. Go to [Quire & Beyond](https://quire.io/apps)
 
-<div style="max-width: 537px; max-height: 112px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m3-organization-edit.png)
-{% endmarkdown %}
-</div>
+    ![Quire Apps Directory]({{ site.baseurl }}/images/{{page.imgDir}}/appDirectory.png)
 
-***2. Go to Options -> Integratoins, and click on "Add to Slack"***
+1. Choose Slack and click on `Install`
 
-<div style="max-width: 728px; max-height: 253px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/quire-m3-integrations-slack.png)
-{% endmarkdown %}
-</div>
+    ![Quire Slack integration]({{ site.baseurl }}/images/{{page.imgDir}}/slack_profile.png)
 
-***3. Select the Slack team you want to link to, and click on “Authorize”***
+1. Choose the organization that you would like to integrate Slack to
 
-<div style="max-width: 700px; max-height: 360px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)
-{% endmarkdown %}
-</div>
+    ![Quire organization]({{ site.baseurl }}/images/{{page.imgDir}}/slack_selectOrg.png)
 
-***3. After you have successfully linked to Slack, go to a Slack channel***
+1. Authorize Quire on your Slack account
 
-<div style="max-width: 283px; max-height: 260px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/3.png)
-{% endmarkdown %}
-</div>
+    ![Slack authorization]({{ site.baseurl }}/images/{{page.imgDir}}/slack_authorized.png)
 
-***4. Type ‘/quire link [project ID or project URL]’ to link this channel to a Quire project***
+1. Unlink a Slack channel on Quire Organization Settings
 
-<div style="max-width: 528px; max-height: 76px; margin: 0 auto;">
-{% markdown %}
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/4.png)
-{% endmarkdown %}
-</div>
+    ![Slack channel]({{ site.baseurl }}/images/{{page.imgDir}}/slack_unlink.png)
 
 #### Note: A Slack channel can only be linked to one Quire project.
 
