@@ -34,19 +34,16 @@ In order to use Quire API, you’ll need to create an Oauth app.
 You’ll need to be logged in to your Quire account to create an app.
 
 1. Go to the Quire [developer app console](https://quire.io/apps/dev) and click on the **Create new app** button.
-
     ![Quire developer app console]({{ site.baseurl }}/images/{{page.imgDir}}/dev_management.png)
 
-1. Choose the Quire Organization that your app belongs to, the organization members can view/edit all apps belongs to the selected organization.
+2. Choose the Quire Organization that your app belongs to, the organization members can view/edit all apps belongs to the selected organization.
+    <img src="{{ site.baseurl }}/images/{{page.imgDir}}/create_app.png" alt="Quire app organization">
 
-	<img src="{{ site.baseurl }}/images/{{page.imgDir}}/create_app.png" alt="Quire app organization">
+3. Give your application a name and Redirect URL, we will discuss the role of the Redirect URL later. For now you can supply the following URL:
 
-1. Give your application a name and Redirect URL, we will discuss the role of the Redirect URL later. For now you can supply the following URL:
+    `http://localhost:3000/callback`
 
-  {% highlight bash %}http://localhost:3000/callback{% endhighlight %}
-
-1. Click the **Create new app** button, your newly created OAuth application will be presented on the developer console page, allowing you to further configure it.
-
+4. Click the **Create new app** button, your newly created OAuth application will be presented on the developer console page, allowing you to further configure it.
   <img src="{{ site.baseurl }}/images/{{page.imgDir}}/developer_console.png" alt="Quire app list">
 
 In summary, you should have these three bits of information:

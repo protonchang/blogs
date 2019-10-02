@@ -20,7 +20,7 @@ imgDir: "2015-04-10-Sync-Google-Calendar"
 ---
 
 
-![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.jpg)
+![Google Calendar integration]({{ site.baseurl }}/images/{{page.imgDir}}/0.jpg)
 
 Humans are predominantly visual animals. We process visual information much better than we do non-visual ones. A lot of people manually add their tasks onto their Calendar once they are aware of the due dates so as to get a more visualized schedule. And it is for this reason, Quire has integrated with Google Calendar to help you do this automatically. Once you have imported a project and set a due date for a task, it will synchronize with your Google Calendar and have it displayed on the right date in a day’s time. You can then view visually which tasks are due this week or this month so you have a clear idea of what lies for you in the future.
 
@@ -44,7 +44,9 @@ Simply follow 4 steps and you’ll have your tasks synced with your Google Calen
 
     ![Quire Calendar]({{ site.baseurl }}/images/{{page.imgDir}}/gcal_getLink.png)
 
+<p style="text-align:center;">
 Syncs automatically in a day if not right away!
+</p>
 
 <div style="max-width: 545px; max-height: 424px; margin: 0 auto;">
 {% markdown %}

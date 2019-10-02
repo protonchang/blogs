@@ -44,7 +44,7 @@ Most of our users are not developers, including the one who is writing this blog
 
 Quire community is growing everyday, meaning there are a lot of exciting features and suggestions that our users expect to see in Quire. With the API, not only Quire Developer team can build great features for Quire, other developers can also contribute to create better things with Quire. 
 
-As an end-user, you can greatly benefited with a lot of upcoming apps from Quire contributors. We have a brand new [Quire App Directory](https://quire.io/apps) for you to browse which app you want to install to your Quire workspace. 
+As an end-user, you can be greatly benefited with a lot of upcoming apps from Quire contributors. We have a brand new [Quire App Directory](https://quire.io/apps) for you to browse which app you want to install to your Quire workspace. 
 
 You can learn how to install the app in our tutorial [here](https://quire.io/w/Getting_Started_with_Quire/218/Install_apps_with...). 
 

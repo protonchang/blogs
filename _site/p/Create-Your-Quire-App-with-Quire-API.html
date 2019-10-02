@@ -240,22 +240,16 @@
 <p>You’ll need to be logged in to your Quire account to create an app.</p>
 
 <ol>
-<li><p>Go to the Quire <a href="https://quire.io/apps/dev">developer app console</a> and click on the <strong>Create new app</strong> button.</p>
+<li><p>Go to the Quire <a href="https://quire.io/apps/dev">developer app console</a> and click on the <strong>Create new app</strong> button.
+<img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/dev_management.png" alt="Quire developer app console"></p></li>
+<li><p>Choose the Quire Organization that your app belongs to, the organization members can view/edit all apps belongs to the selected organization.
+<img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/create_app.png" alt="Quire app organization"></p></li>
+<li><p>Give your application a name and Redirect URL, we will discuss the role of the Redirect URL later. For now you can supply the following URL:</p>
 
-<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/dev_management.png" alt="Quire developer app console"></p></li>
-<li><p>Choose the Quire Organization that your app belongs to, the organization members can view/edit all apps belongs to the selected organization.</p>
-
-<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/create_app.png" alt="Quire app organization"></p></li>
-<li><p>Give your application a name and Redirect URL, we will discuss the role of the Redirect URL later. For now you can supply the following URL:</p></li>
+<p><code>http://localhost:3000/callback</code></p></li>
+<li><p>Click the <strong>Create new app</strong> button, your newly created OAuth application will be presented on the developer console page, allowing you to further configure it.
+<img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/developer_console.png" alt="Quire app list"></p></li>
 </ol>
-
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">http://localhost:3000/callback</code></pre></div>
-
-<ol>
-<li>Click the <strong>Create new app</strong> button, your newly created OAuth application will be presented on the developer console page, allowing you to further configure it.</li>
-</ol>
-
-<p><img src="/blog/images/2019-10-01-Create-your-own-app-with-Quire-API/developer_console.png" alt="Quire app list"></p>
 
 <p>In summary, you should have these three bits of information:</p>
 

@@ -63,11 +63,7 @@ To reference a task:
 
 First, choose a task.
 
-<div style="max-width: 700px; max-height: 203px; margin: 0 auto;">
-{% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/6.png)
-{% endmarkdown %}
-</div>
 
 Find the ID for this task in the url bar.
 
