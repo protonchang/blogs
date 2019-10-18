@@ -7,7 +7,7 @@ categories: "dreams"
 index-intro: "Exploring Mars is no longer just a wild dream to human beings anymore. Team Tumbleweed is a group of currently 16 students that is building a wind-driven Mars rover. The team is located at TU Delft in the Netherlands, TU Wien in Austria, and at Stanford University in the US."
 category-intro: "Exploring Mars is no longer just a wild dream to human beings anymore. Team Tumbleweed is a group of currently 16 students that is building a wind-driven Mars rover. The team is located at TU Delft in the Netherlands, TU Wien in Austria, and at Stanford University in the US."
 
-image: "2019-10-18-Dreams-Chasers-Start-your-dreams-on-Mars/Mars-rover.png"
+image: "2019-10-18-Dreams-Chasers-Start-your-dreams-on-Mars/mars-rover.png"
 tags: productivity tool to-do-list task-management case-study task-management-software project-management-software Quire Trello Kanban-board
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -19,7 +19,7 @@ relatedPosts: ["Dream Chasers: How does a Silicon Valley NPO coordinate with 400
 imgDir: "2019-10-18-Dreams-Chasers-Start-your-dreams-on-Mars"
 ---
 
-![Project Management Software]({{ site.baseurl }}/images/{{page.imgDir}}/Mars-rover.png)
+![Project Management Software]({{ site.baseurl }}/images/{{page.imgDir}}/mars-rover.png)
 
 Exploring Mars is no longer just a wild dream to human beings anymore. Team Tumbleweed is a group of currently 16 students that is building a wind-driven Mars rover. The team is located at TU Delft in the Netherlands, TU Wien in Austria, and at Stanford University in the US. 
 
