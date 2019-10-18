@@ -11,10 +11,10 @@ image: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment/c
 tags: productivity task-management to-do-list project-management-software
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Content writer and wanderer."
-authorLink: "https://medium.com/@vicky_2214"
+authorDesc: "Trying not to get lost in the city lights."
+authorLink: "https://medium.com/@itsvicky"
 
-relatedPosts: ["Why We Abandoned the To-Do List", "Why We Abandoned the To-Do List", "Quire Mark III: Nested Tasks Meets Board"]
+relatedPosts: ["Dream Chasers: How does a Silicon Valley NPO coordinate with 400 volunteers?", "Dream Chasers: Start Your Dreams on Mars", "Dream Chasers: Taking on the world with the best melons from Brazil"]
 
 imgDir: "2019-02-26-Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment"
 ---

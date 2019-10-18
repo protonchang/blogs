@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Dream Chasers: Start Your Dreams on Mars</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Exploring Mars is no longer just a wild dream to human beings anymore. Team Tumbleweed is a group of currently 16 students that is building a wind-driven Mars rover. The team is located at TU Delft in the Netherlands, TU Wien in Austria, and at Stanford University in the US.</description>
+				<pubDate>Fri, 18 Oct 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Dreams-Chasers-Start-your-dreams-on-Mars.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Dreams-Chasers-Start-your-dreams-on-Mars.html</guid>
+			</item>
+		
+			<item>
 				<title>Be a Hero: Create Your Own App with Quire API</title>
 				
 					<dc:creator>Jimmy Shiau</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 05 Jun 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Top-3-Online-To-Do-List-Software-Productivity-Tips.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Top-3-Online-To-Do-List-Software-Productivity-Tips.html</guid>
-			</item>
-		
-			<item>
-				<title>Creating Quire Desktop App from Google Chrome</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Right now Quire only has a web browser version and a native iOS and Android app, a lot of our users have requested a native MacOs and Windows desktop app. While our developers are working on making the desktop app happen (not soon, unfortunately), there’s a simple way to let you create an app with Google Chrome.</description>
-				<pubDate>Tue, 28 May 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Creating-Quire-Desktop-App-from-Chrome.html</guid>
 			</item>
 		
 	</channel>

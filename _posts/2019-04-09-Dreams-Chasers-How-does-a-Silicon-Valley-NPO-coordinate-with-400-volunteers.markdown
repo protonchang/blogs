@@ -8,13 +8,13 @@ index-intro: "Realizing that the volunteer project’s scale and complexity have
 category-intro: "Realizing that the volunteer project’s scale and complexity have outgrown beyond a regular spreadsheet can track, ZGZG signed up for a Quire account with the hope to find a tool that helps them organize their tasks. They share with us how ZGZG uses Quire to track tasks and boost productivity across their community."
 
 image: "2019-04-09-Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers/NPO_uses_project_management_tool.png"
-tags: productivity tool to-do-list task-management
+tags: productivity tool to-do-list task-management task-management-software project-management-software case-study
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Wanderer."
-authorLink: "https://medium.com/@quire.io"
+authorDesc: "Trying not to get lost in the city lights."
+authorLink: "https://medium.com/@itsvicky"
 
-relatedPosts: ["On a journey to build a dream school together in Austria", "Quire Helps Move Your Team Projects Forward"]
+relatedPosts: ["Dream Chasers: Building a dream school together in Austria", "Dream Chasers: Start Your Dreams on Mars", "Dream Chasers: Making a Safer and Cleaner Space Environment"]
 
 imgDir: "2019-04-09-Dreams-Chasers-How-does-a-Silicon-Valley-NPO-coordinate-with-400-volunteers"
 ---
