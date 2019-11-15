@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire My Tasks II: Redesign the way you kickstart a day</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Drum roll please! Today we’re thrilled to introduce you with the brand-new renovated My Tasks II. Now you can have your own Quire to-do list to keep track of all the tasks that are related to you. My Tasks is a default task list in Quire. Before, you have to select a project before adding a task. However, with the newly redesigned My Tasks, you can directly add a task to Quire without being specific about the project.</description>
+				<pubDate>Fri, 15 Nov 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire - Behind the Scenes: The Untold Stories</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 08 Jul 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method?</description>
-				<pubDate>Tue, 25 Jun 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html</guid>
 			</item>
 		
 	</channel>
