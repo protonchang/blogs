@@ -56,7 +56,7 @@ Though David Allen introduced GTD method to be worked with pen and paper, along 
 
 ![GTD Capture]({{ site.baseurl }}/images/{{page.imgDir}}/To-do-list.png)
 
-The first rule of GTD method is to have a blank mind and a clean plate. With Quire infinite [nested task list](https://quire.io/blog/p/Why-We-Abandoned-the-To-Do-List.html), you can dump all of your tangled thoughts and put them into a list. Sub-tasks can be served as detailed information to achieve a bigger goal (parent task). 
+The first rule of GTD method is to have a blank mind and a clean plate. With Quire [My Tasks](https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html), you can dump all of your tangled thoughts and put them into a list. Quire My Tasks lets you have an infinite list to store your cluttered tasks. Later you can come back and revisit your personal task list so that you can transfer or start working on them then complete the task list altogether.
 
 ### Step 2 - Clarify: Add assignees, descriptions, transfer, comments 
 

@@ -5,7 +5,7 @@ date:   2019-11-15 11:58:07
 categories: "Milestones"
 
 index-intro: "Drum roll please! Today we’re thrilled to introduce you with the brand-new renovated My Tasks II. Now you can have your own Quire to-do list to keep track of all the tasks that are related to you. My Tasks is a default task list in Quire. Before, you have to select a project before adding a task. However, with the newly redesigned My Tasks, you can directly add a task to Quire without being specific about the project."
-category-intro: "My Tasks is a default task list in Quire. Before, you have to select a project before adding a task. However, with the newly redesigned My Tasks, you can directly add a task to Quire without being specific about the project."
+category-intro: "The newly redeisgned My Tasks works wonder with GTD Method, optimize your workflow and overal boost up your productivity."
 
 image: "2019-11-14-Introduce-Quire-New-My-Tasks/Quire-my-tasks.png"
 tags: productivity productivity-app productivity-tool central-inbox-feature GTD-method to-do-list task-management task-management-software project-management-software Quire Kanban-board
@@ -25,13 +25,15 @@ Drum roll please! 🥁🥁🥁 Today we’re thrilled to introduce you with the 
 
 My Tasks is a default task list in Quire. Before, you have to select a project before adding a task. However, with the newly redesigned My Tasks, you can directly add a task to Quire without being specific about the project. Just select `Add to My Tasks` or use the shortcut `m` and the newly created task will be added to My Tasks list instead of the project you are working on. 
 
-The new My Tasks allows you to capture your ideas and put them in an unorganized folder so that your mind wouldn’t be too occupied. You can go back to the list in the future to filter out and work on the cluttered tasks that previously caught your attention. 
+The new My Tasks allows you to capture your ideas and put them in an unorganized folder so that your mind wouldn’t be too occupied. You can go back to the list in the future to filter out and work on the cluttered tasks that previously caught your attention.
+
+Also, we introduced a new short cut to launch and close My Tasks immediately no matter which project you're working on. Just hit `>` and voila, there you go. 
 
 ## What tasks will be included in My Tasks? 
 
-My Tasks will include tasks that are assigned to you, created by you without assignees with start or due dates, favorited by you in any project or your personal tasks. Those tasks can belong to a specific project or just be the personal tasks without being assigned to a project. 
+My Tasks will include tasks that are assigned to you, created by you without assignees with start or due dates in any project and your personal tasks. Those tasks can belong to a specific project or just be the personal tasks without being assigned to a project. 
 
-Since My Tasks is designed to be a simple to-do list that helps you view your tasks at a glance, the task hierarchy wouldn’t be highlighted unless those tasks are personal tasks. 
+Since My Tasks is designed to be a simple to-do list that helps you view your tasks at a glance, the task hierarchy wouldn’t be highlighted unless those tasks are personal tasks. If you want to check for the subtasks, just hit `⌥` on MacOS or `Ctrl` on Windows to turn on the `Advanced Mode` to view the breadcrumbs. Also, in the detail panel, you can still find the subtasks if you click on the progress bar.
 
 For more information about the new My Tasks, please visit the Getting Started Tutorial.
 
