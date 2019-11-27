@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A Closer Look at Quire Redesigned My Tasks II</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Last week, after a long and meticulous journey, we introduced the brand-new redesigned My Tasks II. The new My Tasks is a default list in Quire that allows you to focus on the right thing in the moment, organize your ongoing projects and get things done in a less stressful way.</description>
+				<pubDate>Wed, 27 Nov 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire My Tasks II: Redesign the way you kickstart a day</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 01 Aug 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</guid>
-			</item>
-		
-			<item>
-				<title>Set Up GTD Method in Quire to Live a Stress-free Life</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>The GTD method is a way to organize, categorize, plan and execute your tasks. Many people discussed and argued whether GTD methodology is really efficient given its complexity. However, as straightforward as it is, GTD is set up to help you answer one question “When to do what?”. In this post, we&#39;re going to introduce how to set up GTD Method in Quire for you to live a stress-free life.</description>
-				<pubDate>Mon, 08 Jul 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Setup-GTD-Method-in-Quire.html</guid>
 			</item>
 		
 	</channel>
