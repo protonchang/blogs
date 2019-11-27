@@ -33,9 +33,9 @@ Also, we introduced a new short cut to launch and close My Tasks immediately no 
 
 My Tasks will include tasks that are assigned to you, created by you without assignees with start or due dates in any project and your personal tasks. Those tasks can belong to a specific project or just be the personal tasks without being assigned to a project. 
 
-Since My Tasks is designed to be a simple to-do list that helps you view your tasks at a glance, the task hierarchy wouldn’t be highlighted unless those tasks are personal tasks. If you want to check for the subtasks, just hit `⌥` on MacOS or `Ctrl` on Windows to turn on the `Advanced Mode` to view the breadcrumbs. Also, in the detail panel, you can still find the subtasks if you click on the progress bar.
+All of the tasks in My Tasks share the same hierarchical layout with the project task list. Moreover, you can keep your task list in order by rearranging the tasks intuitively with drag-and-drop function whenever you need.
 
-For more information about the new My Tasks, please visit the Getting Started Tutorial.
+For more information about the new My Tasks, please visit the [Getting Started Tutorial](https://quire.io/w/Getting_Started_with_Quire/41/My_Tasks).
 
 ## How can I make the best out of the new My Tasks? 
 
@@ -60,6 +60,8 @@ A lot of Quireans (yes, that’s you - Quire users!) have raised the attention t
 That’s all for today! We hope you like the new My Tasks! Everything's coming together because of you and your support! Thank you for being a part of another milestone for Quire!
 
 If you have any questions, please do not hesitate to reach out feedback@quire.io 😄
+
+*Updated on Nov 27, 2019*
 
 
 [jekyll]:      http://jekyllrb.com
