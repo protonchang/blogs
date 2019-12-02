@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Meet Quire Team: Our Favorite Productivity Things in 2019</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>There are thousands of books, videos and blog posts available everywhere to teach you how to get more productive. The problem is, those pieces of advice can get very cliche and most of the time, you will forget everything you’ve just read in just 10 minutes, let alone follow the tips to improve your productivity. As a team who specializes in creating a tool to help everyone with workload efficiency, Quire team has put together a list of our favorites to keep a healthy work-life balance and help you improve your productivity in 2020!</description>
+				<pubDate>Mon, 02 Dec 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-favorite-productivity-things.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-favorite-productivity-things.html</guid>
+			</item>
+		
+			<item>
 				<title>A Closer Look at Quire Redesigned My Tasks II</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 12 Aug 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</guid>
-			</item>
-		
-			<item>
-				<title>7 Productivity Tips to Avoid Burnout at Work</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>No one wants to be unhappy at work. When realizing some burnout symptoms,  you can start making some adjustments to the way you’re doing your job. Here are some proven effective tips to avoid burnout and get your smile back.</description>
-				<pubDate>Thu, 01 Aug 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html</guid>
 			</item>
 		
 	</channel>
