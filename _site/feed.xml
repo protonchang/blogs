@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Quire &amp; You</title>
-		<description>A collaborative task management tool for breaking down goals in hierarchical lists.</description>		
+		<description>Tips and thoughts to help you achieve your dreams and get things done.</description>		
 		<link>https://quire.io</link>
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>What a year it’s been: Looking back at the incredible journey with Quire in 2019</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Christmas is rolling around and soon we will be making toasts celebrating another promising 365 days. By all accounts, 2019 has been a remarkable year for us at Quire and we would like to take a moment and share with you the incredible journey of the last 12 months.</description>
+				<pubDate>Mon, 02 Dec 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/look-back-at-2019.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/look-back-at-2019.html</guid>
+			</item>
 		
 			<item>
 				<title>Meet Quire Team: Our Favorite Productivity Things in 2019</title>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 23 Aug 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</guid>
-			</item>
-		
-			<item>
-				<title>3 Proven Tips on How to Run Effective Meetings with a Digital To Do List</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>It’s time to stop the meeting madness and seek for improvement from another angle: use a digital to do list app as a tool to combat dreadful meetings instead of the traditional approach.</description>
-				<pubDate>Mon, 12 Aug 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html</guid>
 			</item>
 		
 	</channel>

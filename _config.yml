@@ -2,7 +2,7 @@
 name: "Quire & You"
 title: "Quire & You"
 email: feedback@quire.io
-description: "A collaborative task management tool for breaking down goals in hierarchical lists."
+description: "Tips and thoughts to help you achieve your dreams and get things done."
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 # url: "http://localhost:4000" # the base hostname & protocol for your site
 url: "https://quire.io" # the base hostname & protocol for your site

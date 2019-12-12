@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "What a year it’s been: Looking back at the incredible journey with Quire in 2019"
+date:   2019-12-02 11:58:07
+categories: "Productivity-tips"
+
+index-intro: "Christmas is rolling around and soon we will be making toasts celebrating another promising 365 days. By all accounts, 2019 has been a remarkable year for us at Quire and we would like to take a moment and share with you the incredible journey of the last 12 months."
+category-intro: "2019 has been a remarkable year for us at Quire and we would like to take a moment and share with you the incredible journey of the last 12 months."
+
+image: "2019-12-12-look-back-at-2019/2020_new_year_resolutions.png"
+tags: mindset personal-goals efficiency Quire personal-productivity productivity productivity-app productivity-tool productivity-things to-do-list task-management task-management-software project-management-software New-year-resolutions
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Trying not to get lost in the city lights."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["Meet Quire Team: Our Favorite Productivity Things in 2019", "Busy vs. Productive: 5 Tips to Improve Time Management Skills for Project Managers", "Quire - Behind the Scenes: The Untold Stories"]
+
+imgDir: "2019-12-12-look-back-at-2019"
+---
+
+![Recap 2019]({{ site.baseurl }}/images/{{page.imgDir}}/2020_new_year_resolutions.png)
+
+If you feel like the last 365 days just flown by in a blink, well, you are not alone. Christmas is rolling around and soon we will be making toasts celebrating another promising 365 days. By all accounts, 2019 has been a remarkable year for us at Quire and we would like to take a moment and share with you the incredible journey of the last 12 months. 
+
+## Robust and reliable experience wrapped in the most elegant interface
+
+Quire is committed to bringing you the most powerful features and still keeping the clean and elegant interface. On the surface, you might not notice the differences, but in the last 365 days, we have enhanced a lot of existing not-so-obvious functions along with created several breakthroughs with the new features. 
+
+One of the fascinating features that captures everyone’s hearts is **Peekaboo**. Our philosophy when developing Quire is to get focused on your work and [get things done](https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html). Peekaboo feature was born to tuck away the irrelevant tasks in your list and let you come back and work on those tasks later. We want to deliver the amazing feeling of confidence in getting goals accomplished rather than let you worry about your task list.
+
+For years a lot of Quireans have raised the attention to us for more dynamic sorting and filtering options. We’ve heard you loud and clear. We made some adjustments and improvements to let you be creative with the sorting and filtering. Now that you are free to view your to-do lists however you want. 
+
+## Make your work faster, smarter and more interesting
+
+2019 marks another milestone for Quire team when we introduced the first version ever of [Quire Open API](https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html). We truly believe the sky’s the limit and with Quire Open API, you can build scripts and integrate your favorite applications with Quire. Also, we introduced a brand new [Quire App Directory](https://quire.io/apps) for our users to search for the integrations and make Quire a better and more complete tool. 
+
+We believe [high productivity](https://quire.io/compare/best-productivity-apps) starts with daily routines. In 2019, we redesigned and released My Tasks II so that you can start your day with a clean slate. Instead of getting lost in your to-do list, now you can have your own task list that includes only the tasks that are relevant to you. Before, when adding a task, you have to be specific about the project that the task goes into. With the renovated My Tasks II, don’t worry, you can start adding the task to your My Tasks. 
+
+## Connect team members and bring simplicity to teamwork
+
+Helping team to accomplish dreams and goals is always Quire’s core value. There are more than 100,000 teams trusted Quire with their projects. We have helped ten thousands of [remote teams](https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html) to connect and collaborate together. 
+
+The one thing that all of the teams on Quire shares in common  is that they work remotely with thousands of tasks assigned for dozens of team members. They have no time to get bogged down in [project management](https://quire.io/compare/best-project-management-software-reviews-comparisons).  As a dynamic team ourselves, we value simplicity over complexity. No one got time to learn a complicated system before actually getting things done. 
+
+In 2019, Quire has been available in another 3 languages: **Japanese**, **Spanish** and **French**. It’s always our ultimate goal to connect global team remotely and create a culture of trust and productivity. With 7 languages in total, we hope to deliver a reliable platform to bring diverse teams together (even if you are thousands of miles apart!). 
+
+## We are as excited about 2020 as you are…
+
+It still feels unreal to think how the last 20 years of the 2000s just flashed by and here we are, ready to conquer the next goals in life. As a team, we know how challenging it is when it comes to project management. But we also know how wonderful it feels when you finally achieve your dream!
+
+Thank you for being a part of this marvelous journey with us! Everything is possible because of you and your continuous support for Quire. We couldn’t have made this far if it’s not for you :) 
+
+Get ready for 2020 - a brand new chapter that will bring hope, opportunities and success to you and your team. We are very excited for what the future holds for Quire in 2020. Follow us on [Twitter](https://twitter.com/quire_io) to get the latest updates and news from Quire!
+
+Happy Holidays Greetings from all of us! 
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
