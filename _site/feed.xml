@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Best New Year&#39;s Resolutions that You Can Actually Keep in 2020</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We want to kickstart a decade with a clean slate. Instead of keep making general resolutions as “losing weight” or “saving up”, we will tell you some awesome easy New Year’s resolutions that are not too difficult to keep for you to be more productive in 2020.</description>
+				<pubDate>Wed, 18 Dec 2019 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</guid>
+			</item>
+		
+			<item>
 				<title>What a year it’s been: Looking back at the incredible journey with Quire in 2019</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 16 Sep 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html</guid>
-			</item>
-		
-			<item>
-				<title>Busy vs. Productive: 5 Tips to Improve Time Management Skills for Project Managers</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Why are you always busy but not productive? We&#39;re more than halfway through 2019 and it&#39;s about time to stop living like a zoombie because you are behind most of your deadlines. With our 5 simple tips to improve time management skills, you can own your day, become less busy and more productive.</description>
-				<pubDate>Fri, 23 Aug 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/5-tips-to-improve-time-management-skills.html</guid>
 			</item>
 		
 	</channel>
