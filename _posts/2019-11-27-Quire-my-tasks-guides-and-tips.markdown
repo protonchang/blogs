@@ -31,7 +31,7 @@ Curious about how Quire team is using the new My Tasks II to optimize our workfl
 
 You might realize often when you’re multitasking, good ideas come along and you need to write them down. However, you are not sure which project you can add to or you simply don’t want to waste your time scrolling just to find a specific task list. With the new My Tasks II, your problem is solved! 
 
-We introduced a brand new type of task called “personal task”. Those tasks are only visible to you and they do not belong to any particular project. Those tasks can be scattered thoughts or just a few words when you’re brainstorming. For example, late at night when you’re just about to call it a day, you realize you have to finish writing a memo and send to your boss and your client by tomorrow. With the revamped My Tasks II, just type `>` to launch My Tasks and type the tasks down and move on. 
+We introduced a brand new type of task called “personal task”. Those tasks are only visible to you and they do not belong to any particular project. Those tasks can be scattered thoughts or just a few words when you’re brainstorming. For example, late at night when you’re just about to call it a day, you realize you have to finish writing a memo and send to your boss and your client by tomorrow. With the revamped My Tasks II, just type `=` to launch My Tasks and type the tasks down and move on. 
 
 Adding personal tasks has become more intuitive with Quire. When you are working on different projects and you want to quickly make a note to self, you can use the hotkey `m` or click `+` on the upper right corner to add a task directly to My Tasks without leaving your current project. 
 
@@ -59,7 +59,7 @@ The best news is, with Quire users’ suggestions and feedback, we have added th
 
 ![Project management]({{ site.baseurl }}/images/{{page.imgDir}}/Quire-project.png)
 
-Many Quireans told us how they love the old 3-panel view for My Task. It’s always a breeze to click a task on `My Tasks` and view the project respectively in the main panel. With the new My Tasks II, navigation cannot get any more simple. You can simply right-click the task and choose `Go to [Project]` and the system will take you to the same task in the project. Then you can press `>` to go back to My Tasks and continue where you left off. 
+Many Quireans told us how they love the old 3-panel view for My Task. It’s always a breeze to click a task on `My Tasks` and view the project respectively in the main panel. With the new My Tasks II, navigation cannot get any more simple. You can simply right-click the task and choose `Go to [Project]` and the system will take you to the same task in the project. Then you can press `=` to go back to My Tasks and continue where you left off. 
 
 ## Collaborate and view project members’ progress. 
 

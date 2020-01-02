@@ -27,7 +27,7 @@ My Tasks is a default task list in Quire. Before, you have to select a project b
 
 The new My Tasks allows you to capture your ideas and put them in an unorganized folder so that your mind wouldn’t be too occupied. You can go back to the list in the future to filter out and work on the cluttered tasks that previously caught your attention.
 
-Also, we introduced a new short cut to launch and close My Tasks immediately no matter which project you're working on. Just hit `>` and voila, there you go. 
+Also, we introduced a new short cut to launch and close My Tasks immediately no matter which project you're working on. Just hit `=` and voila, there you go. 
 
 ## What tasks will be included in My Tasks? 
 
