@@ -8,7 +8,7 @@ index-intro: "You may have heard of Markdown. If you have, it is a good thing. I
 category-intro: "You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly..."
 
 image: "2015-06-03-Markdown/0.jpg"
-tags: task-management workstyle productivity
+tags: task-management workstyle productivity markdown
 author: "Crystal Chen"
 authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
@@ -22,8 +22,7 @@ imgDir: "2015-06-03-Markdown"
 
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/0.jpg)
 
-You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly. For those of you who do not know what it is, here is the introduction by its creator, **John Gruber** (of ***Daring Fireball***):
-http://daringfireball.net/projects/markdown/
+You may have heard of Markdown. If you have, it is a good thing. It can create rich texts, like in Microsoft Word, easily and quickly. For those of you who do not know what it is, here is the introduction by its creator, **John Gruber** (of ***Daring Fireball***): http://daringfireball.net/projects/markdown/
 
 So, we have Markdown. Precisely, [Quire](https://quire.io/)’s own flavored Markdown.
 
@@ -322,6 +321,21 @@ With Quire checklist, you can tick off your checklist as well.
   <input type="checkbox" name="vehicle" value="Bike"> Take my dog for a walk<br>
   <input type="checkbox" name="vehicle" value="Car" checked="checked"> Do laundry<br>
 </form>
+
+## PHONE NUMBERS
+
+```
+(415) 555-2671
+(415)5552671
+(415) 555 2671
++14155552671
+020 7183 8750
+0923-234-7890
+09232347890
+```
+
+You can type in the phone numbers in one of the above format and the system will generate a hyperlink to make a call. 
+
 
 ## **CODE**
 

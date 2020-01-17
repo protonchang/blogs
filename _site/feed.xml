@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Sublist: Bridge the Gap with Team To Do Lists and Personal Productivity</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>At Quire, we never let the stress win and make you feel less of yourself. It&#39;s not you, it’s the way your team works with the to do list. Today, in order to solve the frustration and distraction problems once and for all, we introduce you with the ultimate Quire Sublist - the feature that will change the way you deal with your task list forever.</description>
+				<pubDate>Fri, 17 Jan 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-sublist.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-sublist.html</guid>
+			</item>
+		
+			<item>
 				<title>Best New Year&#39;s Resolutions that You Can Actually Keep in 2020</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 25 Sep 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html</guid>
-			</item>
-		
-			<item>
-				<title>8 Best Tips for Remote Teams to Boost Productivity at Virtual Office</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>We are living in a fast-paced society where everything needs to be done quickly without any hassles. Nothing kills joy and productivity more than being chained to a desk for 8 hours a day and 5 days a week. Employees are happier when they can choose to work from home or at a rustic coffee shop, no matter if they are night owls or early birds, they have different options to make the schedule work best for their creativity and productivity.</description>
-				<pubDate>Mon, 16 Sep 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/8-best-tips-for-remote-teams-to-boost-productivity-at-virtual-office.html</guid>
 			</item>
 		
 	</channel>
