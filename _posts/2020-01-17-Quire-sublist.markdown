@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quire Sublist: Bridge the Gap with Team To Do Lists and Personal Productivity"
+title:  "Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity"
 date:   2020-01-17 11:58:07
 categories: "Features"
 
