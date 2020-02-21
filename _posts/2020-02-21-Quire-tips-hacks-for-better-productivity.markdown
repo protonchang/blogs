@@ -4,7 +4,7 @@ title:  "Top 12 Quire Hacks that Make Your Productivity Great Again"
 date:   2020-02-21 11:58:07
 categories: "Productivity-tips"
 
-index-intro: " Team productivity can slow down a bit with all of the cluttered task list, messy organization and awkward communication. In the spirit of sharing, in this post, we will let you know some of the top-notch Quire tips and hacks to make your productivity in 2020 great again!"
+index-intro: "Team productivity can slow down a bit with all of the cluttered task list, messy organization and awkward communication. In the spirit of sharing, in this post, we will let you know some of the top-notch Quire tips and hacks to make your productivity in 2020 great again!"
 category-intro: "In the spirit of sharing, in this post, we will let you know some of the top-notch Quire tips and hacks to make your life (and work) so much easier"
 
 image: "2020-02-21-Quire-tips-hacks-for-better-productivity/Top_12_Quire_Hacks.png"
