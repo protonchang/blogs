@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 12 Quire Hacks that Makes Your Productivity Great Again"
+title:  "Top 12 Quire Hacks that Make Your Productivity Great Again"
 date:   2020-02-21 11:58:07
 categories: "Productivity-tips"
 
