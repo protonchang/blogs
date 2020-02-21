@@ -50,8 +50,6 @@ You may ask again, how is it different from followers?
 
 With followers, it’s likely that you’ll follow as many tasks as possible in just one project so you can be kept in the loop of all things happening to them. But, you may want to focus on just a few ones important to you silently too. No one does it better than favorites!
 
-And we’ll put the tasks you’ve favorited from all projects into a single place: My Tasks tab in the sidebar.
-
 <div style="max-width: 327px; max-height: 280px; margin: 0 auto;">
 {% markdown %}
 ![My helpful screenshot]({{ site.baseurl }}/images/{{page.imgDir}}/2.png)

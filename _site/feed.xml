@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Top 12 Quire Hacks that Makes Your Productivity Great Again</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description> Team productivity can slow down a bit with all of the cluttered task list, messy organization and awkward communication. In the spirit of sharing, in this post, we will let you know some of the top-notch Quire tips and hacks to make your productivity in 2020 great again!</description>
+				<pubDate>Fri, 21 Feb 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/Quire-tips-hacks-for-better-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/Quire-tips-hacks-for-better-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 01 Oct 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Create-Your-Quire-App-with-Quire-API.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire &amp; Beyond: Build great things with Quire API</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Today, we’re very excited to announce that Quire API is officially available for all of you to start building great things with Quire. Quire API lets you build scripts and integrate your favorite applications with Quire. You can choose to share your application with your organization members only or you can let other users in Quire community enjoy your application by publishing it in Quire App Directory.</description>
-				<pubDate>Wed, 25 Sep 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html</guid>
 			</item>
 		
 	</channel>
