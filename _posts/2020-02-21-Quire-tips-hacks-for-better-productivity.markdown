@@ -43,7 +43,7 @@ Moreover, **Advanced Mode** lets you know if a task contains a **description**, 
 
 ![Subtask Progress]({{ site.baseurl }}/images/{{page.imgDir}}/subtask-progress-bar.png)
 
-If you’re a Quirean for a long time, you already know about the Overview page. It provides a comprehensive report of how your project goes. But did you know each task has its own overview section as well? 
+If you’re a Quirean for a long time, you already knew about the Overview page. It provides a comprehensive report of how your project goes. But did you know each task has its own overview section as well? 
 
 In the detail panel, under the **Description** section, you will see a line that says [#] incomplete and [#] completed subtasks. Click to expand and you can view a pie chart that summarizes the progress of the parent task and its subtasks. You can also view the clickable first-level subtasks as well. Cool, isn’t it?
 
@@ -97,7 +97,7 @@ If you want to assign a task to multiple assignees, you can hover to the member 
 
 ## 8. Create unlimited Sublists for one project
 
-Last month, we had a blast on our product launch on [Producthunt](https://www.producthunt.com/posts/quire-sublisthttps://www.producthunt.com/posts/quire-sublist)! We introduced our ultimate sublist feature for the first time and so many people LOVE it! 
+Last month, we had a blast on our product launch on [Producthunt](https://www.producthunt.com/posts/quire-sublist)! We introduced our ultimate sublist feature for the first time and so many people LOVE it! 
 
 We know with an ever-growing task list with no end in sight, you can get tired and unmotivated easily.  Now with the Quire Sublist, you can create as many sublists as you want for your project! The sublist behaves as a magic mirror that mimics what you do to your tasks in the main task list. 
 
