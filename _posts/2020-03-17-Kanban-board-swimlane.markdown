@@ -82,7 +82,7 @@ Many agile project management experts have praised how a physical board and stic
 
 #### Source: Giphy
 
-A cloud-based Kanban board lets your team quickly visualize what they have to pay attention to for the next couple weeks. With the Swimlanes, every task is laid out neatly with all of the visual elements put in parallel, team productivity is transparent and each team member can get extra boost to organize their own tasks or make adjustments if necessary. 
+A cloud-based Kanban board lets your team quickly visualize what they have to pay attention to for the next couple weeks. With the Swimlanes, every task is laid out neatly with all of the visual elements put in parallel, team productivity is transparent and each team member can get an extra boost to organize their own tasks or make adjustments if necessary. 
 
 Has your team tried to deploy Kanban Board and Kanban Swimlanes into the team working process yet? Let us know in the comment section below or tweet us at @quire_io! We can’t wait to learn more about your successful stories!
 
