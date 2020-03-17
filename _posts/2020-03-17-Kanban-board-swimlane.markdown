@@ -37,6 +37,14 @@ Kanban board is a productivity method that takes advantage of the limited work-i
 
 When you are working on your tasks with a Kanban board, chances are you will move the tasks around and use different ways to best visualize your workflow. So when you decide to split your original columns into different parallel lanes that represent some unique project milestones or workload, you are creating Kanban Swimlanes.
 
+<div style="max-width: 380px; max-height: 350px; margin: 0 auto;">
+{% markdown %}
+![Kanban_swimlane]({{ site.baseurl }}/images/{{page.imgDir}}/kanban_swimlanes.gif)
+{% endmarkdown %}
+</div>
+
+#### Source: Giphy
+
 Kanban board and Swimlanes are very popular in [agile project management](https://quire.io) because they force teams to prioritize and concentrate on the right tasks at the right time. Imagine choosing some crucial tasks from your ever-growing task list and drag to a Kanban board, now those tasks are beautifully laid out in the form of sticky notes with the status attached to. You can measure and make an estimated guess on the tasks progress at a glance.
 
 ## How can your productivity be benefited by the Swimlanes?
@@ -65,6 +73,14 @@ For example, your team is working on the tasks for several different phases, you
 Kanban Board and Kanban Swimlanes are the future of productivity
 
 Many agile project management experts have praised how a physical board and sticky notes have changed their work life. However, this low-tech approach only works if your team is working in the same building everyday. As many global companies decided to embrace the remote working culture, managers need to find a way to help teams envision their work process even when everyone is working with completely different time zones! 
+
+<div style="max-width: 380px; max-height: 350px; margin: 0 auto;">
+{% markdown %}
+![Swimlanes]({{ site.baseurl }}/images/{{page.imgDir}}/swimlanes.gif)
+{% endmarkdown %}
+</div>
+
+#### Source: Giphy
 
 A cloud-based Kanban board lets your team quickly visualize what they have to pay attention to for the next couple weeks. With the Swimlanes, every task is laid out neatly with all of the visual elements put in parallel, team productivity is transparent and each team member can get extra boost to organize their own tasks or make adjustments if necessary. 
 
