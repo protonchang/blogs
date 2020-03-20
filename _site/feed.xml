@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire joins forces with Google and Zoom to offer free accounts for Nonprofits</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We understand your struggles, and we would like to share the burden with all of the Nonprofits who have been suffering financially amid the coronavirus pandemic. Quire will offer completely free accounts for Nonprofits during the outbreak, no strings attached.</description>
+				<pubDate>Fri, 20 Mar 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/coronavirus-nonprofits-free-accounts.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/coronavirus-nonprofits-free-accounts.html</guid>
+			</item>
+		
+			<item>
 				<title>The Ultimate Guide to Kanban Swimlanes for Better Project Management</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 15 Nov 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire - Behind the Scenes: The Untold Stories</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Unwilling to settle for all the complexity, Quire was born as an answer to conquering a big project and achieving your dreams. Maybe you’re new to Quire or you’ve been a Quirean for a long time, we would like to share with you the journey of Quire. Today we’re thrilled to bring you an interview with Tom - the creator of Quire.  As a serial entrepreneur and a software developer, Tom shares with us his insightful tips to deal with software complexity, how to boost team productivity, and more!</description>
-				<pubDate>Mon, 21 Oct 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-behind-the-scenes-productivity-tips.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-behind-the-scenes-productivity-tips.html</guid>
 			</item>
 		
 	</channel>
