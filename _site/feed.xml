@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Coronavirus Outbreak: How to Work From Home and Still Stay Productive</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Social distancing is implemented to slow down the spread of Coronavirus. Don&#39;t freak out if it&#39;s your first work-at-home experience, we will tell you the ultimate guides, from setting up your new office to the way you collaborate with your team from afar.</description>
+				<pubDate>Wed, 25 Mar 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/work-from-home-tips.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/work-from-home-tips.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire joins forces with Google and Zoom to offer free accounts for Nonprofits</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 27 Nov 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire My Tasks II: Redesign the way you kickstart a day</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Drum roll please! Today we’re thrilled to introduce you with the brand-new renovated My Tasks II. Now you can have your own Quire to-do list to keep track of all the tasks that are related to you. My Tasks is a default task list in Quire. Before, you have to select a project before adding a task. However, with the newly redesigned My Tasks, you can directly add a task to Quire without being specific about the project.</description>
-				<pubDate>Fri, 15 Nov 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Introduce-Quire-New-My-Tasks.html</guid>
 			</item>
 		
 	</channel>
