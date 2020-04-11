@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Quire Mobile 5.0 and Everything You Need to Know"
-date:   2020-04-09 11:58:07
+date:   2020-04-11 11:58:07
 categories: "Mobile"
 
 index-intro: "We can’t be more excited to introduce you with Quire Mobile 5.0 - a brand new chapter for both Quire iOS and Android users! Faster performance, more user-focused interface, all-new tabbed navigation, dynamic search, new feature Sublist, etc., basically everything gets better with the all-new design Quire Mobile 5.0."
