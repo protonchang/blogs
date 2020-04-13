@@ -79,6 +79,10 @@ Your sublist will mirror the main list, which means whatever you do to your task
 
 ## More powerful and reliable Search functionality
 
+<video muted="" loop="" autoplay="" playsinline style="max-height: 599px; margin: 0 auto; width: 100%;" >
+  <source src="{{ site.baseurl }}/images/{{page.imgDir}}/Quire_search_mobile_app.mp4" type="video/mp4">
+</video>
+
 Search Views include lists of tasks, projects, organizations, smart folders or members that meet the criteria you specify. When searching for tasks, you can choose the scope that you want to search for, either “Active Tasks”, “All Tasks”, “Completed Tasks” or “Peekaboo Tasks”. 
 
 The search dialogue also shows the recent history of your search so that you can quickly access your previous search results. 
@@ -87,7 +91,18 @@ The search dialogue also shows the recent history of your search so that you can
 
 Quire Mobile 5.0 introduces a dramatic new app interface and the smoothest workflow for our users to achieve all of the dreams and ambitions. From optimizing the app performance to redesigning the new look, we hope to bring you the most reliable productivity app to work with your teams and actually get things done. 
 
-Quire Mobile 5.0 is available today as a free software update on Apple Store and Google Play Store. Get your latest update of the app to enjoy the brand-new experience. We hope the new version of Quire app makes your everyday life easier and helps to achieve all of your dreams!
+Quire Mobile 5.0 is available today as a free software update on [App Store](https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=io.quire.app). Get your latest update of the app to enjoy the brand-new experience. We hope the new version of Quire app makes your everyday life easier and helps to achieve all of your dreams!
+
+<div style="max-width: 144px; max-height: 48px; margin: 0 auto; margin-bottom: 45px">
+<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" target="_blank">{% markdown %}
+![Quire iOS]({{ site.baseurl }}/images/{{page.imgDir}}/App_Store_Badge.png)
+{% endmarkdown %}</a>
+</div>
+<div style="max-width: 161px; max-height: 48px; margin: 0 auto; margin-bottom: 24px">
+<a href="https://play.google.com/store/apps/details?id=io.quire.app" target="_blank">{% markdown %}
+![Quire Android]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Play_Badge.png)
+{% endmarkdown %}</a>
+</div> 
 
 Follow our Twitter [@quire_io](https://twitter.com/quire_io) to get the latest updates from Quire!
 
