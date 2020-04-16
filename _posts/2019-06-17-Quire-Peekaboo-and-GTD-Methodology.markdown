@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
 authorLink: "https://medium.com/@vicky_2214"
 
-relatedPosts: ["Never leave your keyboard - Shortcuts that actually make your life easier", "To Do List and Kanban: What Project Management Did Wrong"]
+relatedPosts: ["Set Up GTD Method in Quire to Live a Stress-free Life", "Never leave your keyboard - Shortcuts that actually make your life easier", "To Do List and Kanban: What Project Management Did Wrong"]
 
 imgDir: "2019-06-17-Quire-Peekaboo-and-GTD-Methodology"
 ---
@@ -25,6 +25,8 @@ imgDir: "2019-06-17-Quire-Peekaboo-and-GTD-Methodology"
 It's a Monday morning, you’re sitting at your desk trying to recover from your weekend while waiting for the morning caffeine to kick in. You are browsing your task list for the week and suddenly you feel defeated and discouraged by the never-ending list. Well, Monday doesn’t suck, you just don’t know how to organize your work yet. And we’re here to rescue you from the Monday blues. 
 
 Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method? 
+
+[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
 
 Years ago, when David Allen first introduced Getting Things Done (GTD) methodology in his book, it immediately became a phenomenon all over the world. Basically, GTD is a productivity method that helps you organize, optimize productivity, reduce stress and save your precious time. The key to GTD is an open loop that includes everything. 
 
@@ -76,7 +78,7 @@ Follow your passion, love your job and you will never have to work another day i
 
 If you still have any question or concern, reach out to us at feedback@quire.io 
 
-
+[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
 
 
 [jekyll]:      http://jekyllrb.com

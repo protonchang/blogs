@@ -36,7 +36,7 @@ We understand your struggles, and we would like to share the burden with all of 
 
 In recent years, Quire has the honor to help thousands of remote teams collaborate from all over the world and ensure the business’ long-term success.  Our communities have risen stronger than ever, and this is the time for us to return the favor to our users. Though Quire has already remained free since its launch, this time we went an extra mile for the Nonprofits and Education Institutions. During this challenging time, we decided to remove the quota limits for eligible Nonprofits’ accounts. We hope to help Nonprofit organizations achieve their missions while still staying within budget. 
 
-[![Quire for Nonprofits signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/signup)
+[![Quire for Nonprofits signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
 
 Amid the outbreak, mobile working helps slow down the spread of the virus and prevent public exposure to the infected persons. Thousands of businesses have immediately adopted a project management software to cope with the remote working situation. Nonetheless, most of the tools in the market require a big check for the whole team to use the software and filing for a budget in such short notice seems to be a problem for Nonprofits. 
 

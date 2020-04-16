@@ -29,6 +29,8 @@ Do you ever think how amazing it would feel to make the tasks in your to do list
 
 We know you’ve tried your best to optimize your productivity, but sometimes life gets in the way. At Quire, we never let the stress win and make you feel less of yourself. It's not you, it’s the way your team works with the to do list. Today, in order to solve the frustration and distraction problems once and for all, we introduce you with the ultimate **Quire Sublist** - the feature that will change the way you deal with your task list forever. 
 
+[![Quire free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+
 ## Personalize the Way You View Your Team Goals
 
 We’ve all been through this: sitting in conference rooms for hours on end where nothing gets done. Everyone has the same proposal and same action plan, but somehow you look at the eye of your teammates and you realize you two share the same feeling: I have absolutely no idea what is going on. 

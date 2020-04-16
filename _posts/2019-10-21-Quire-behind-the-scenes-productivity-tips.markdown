@@ -39,6 +39,8 @@ We created Quire to map out exactly how your mind works. When you face a challen
 
 Then when a list grows a bit overwhelming,  we have Kanban board for users to move some of the crucial tasks to focus on for a short period of time. Our Kanban board mirrors exactly how a tangible whiteboard works. Everything is laid out neatly for users to track progress and effortlessly visualize the workflow. You can have different boards for different teams within the same project. 
 
+[![Free signup]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+
 ### <div style="margin-bottom: 1em;"> Given your industry experience, what have been the biggest shifts you’ve witnessed over the years in the productivity software space? Can you identify any trends or challenges Quire has had to stay ahead of to remain competitive? </div>
 
 There is always a new productivity software that comes out every now and then. Each software is developed with different approaches. Every productivity software tries to add as many features as possible to their software to deliver the “whole package” tool for users. 

@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Wanderer."
 authorLink: "https://medium.com/@quire.io"
 
-relatedPosts: ["3 Reasons to Be and Stay Lazy", "Top 3 Productivity Tips With Online To Do List Software"]
+relatedPosts: ["Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack", "3 Reasons to Be and Stay Lazy", "Top 3 Productivity Tips With Online To Do List Software"]
 
 imgDir: "2019-07-08-Setup-GTD-Method-in-Quire"
 ---
@@ -43,6 +43,8 @@ The GTD method lays out 5 steps to achieve your goal without stressing yourself 
 5. **Engage:** Start doing!
 
 Now you already have an idea of how GTD method works, let’s go to the next step (the best step) to see how Quire comes in to rescue you from the tension of having too much to do and not knowing where to start. 
+
+[![Free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
 
 ## Aligning Quire with GTD Method
 
@@ -109,7 +111,7 @@ It’s undeniable that GTD is one of the best productivity methods. You have to 
 
 However, as we always say, there’s no perfect solution. Quire and GTD may be a powerful duo to help you boost your [productivity](https://quire.io) and achieve your goals, but it’s also up to you and how you want to digest your task list. Let’s wrap up with a very cliche saying that everything is possible, you just need to find a suitable tool and a good method to get you started on your dream! 
 
-
+[![GTD method tools]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
 
 
 
