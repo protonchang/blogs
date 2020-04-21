@@ -116,6 +116,8 @@ You can add different boards for different teams, such as RD and Marketing, for 
 
 You can even further dive into tasks in your own swimlane in the board!
 
+[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+
 ## One World, Two Views Multiplied
 
 Such is Quire’s interpretation of “Nested to do list” and “Kanban board”. It is our philosophy of the best way to boost a team’s efficiency and help them sail their dreams.
