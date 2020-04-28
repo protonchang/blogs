@@ -48,7 +48,7 @@ You can prepare a [to do list](https://quire.io/compare/best-to-do-list-apps) th
 
 Nothing is more annoying than being in a meeting that is dragged longer than expected and everything seems irrelevant.  Given the to do list that has been prepared beforehand, the meeting should be held accordingly to each task on the list and avoid the impromptu discussion that might destroy the agenda. 
 
-Taking notes during the meeting can be just as important. If a task is time-sensitive, add [start dates](https://quire.io/w/Getting_Started_with_Quire/102/Set_start_date_an...) and [due dates](https://quire.io/w/Getting_Started_with_Quire/29/Set_due_date_and_...) in order to track the schedule and control the deadlines in the future. Get creative with your task list, for example, you can add [tags](https://quire.io/w/Getting_Started_with_Quire/7/Add_edit_or_delet...) to each task for better management or directly cue the responsible personnel by [assigning the task](https://quire.io/w/Getting_Started_with_Quire/3/Assign_a_task_to_...) to them. 
+Taking notes during the meeting can be just as important. If a task is time-sensitive, add [start dates](https://quire.io/guide/set-date-time/#set-start-date) and [due dates](https://quire.io/guide/set-date-time/#set-due-date) in order to track the schedule and control the deadlines in the future. Get creative with your task list, for example, you can add [tags](https://quire.io/guide/assign-tags/) to each task for better management or directly cue the responsible personnel by [assigning the task](https://quire.io/guide/set-assignee/) to them. 
 
 ![Kanban Board apps]({{ site.baseurl }}/images/{{page.imgDir}}/Kanban-board.png)
 

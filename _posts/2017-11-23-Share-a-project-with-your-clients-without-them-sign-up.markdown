@@ -90,7 +90,7 @@ Only [Admin members](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html) 
 
 When you create a share link of your project and send it to your clients, they can view this project for a period of time.
 
-But when you [make a project public](https://quire.io/w/Getting_Started_with_Quire/22/Make_your_project_pr...'), it is open to anyone, not just limited to your clients, as long as it stays public. If there are Quire users, then not only can they view your project, but also add tasks, post comments, etc.
+But when you [make a project public](https://quire.io/guide/project-settings/#make-your-project-private-or-public), it is open to anyone, not just limited to your clients, as long as it stays public. If there are Quire users, then not only can they view your project, but also add tasks, post comments, etc.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

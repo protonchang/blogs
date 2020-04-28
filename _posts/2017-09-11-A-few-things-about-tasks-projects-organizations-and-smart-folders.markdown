@@ -39,8 +39,6 @@ A task is an actionable item to be done. It can be broken down into subtasks, su
 
 But it can also be ideas, notes or sections that you want to jot down first and divide into smaller items later.
 
-[Getting Started with Quire](https://quire.io/w/Getting_Started_with_Quire/) is one example of documentation.
-
 ## Project
 
 <div style="max-width: 462px; max-height: 390px; margin: 0 auto;">

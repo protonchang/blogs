@@ -71,7 +71,7 @@ To make your workflow even more intuitive, you can create a new task in your tea
 
 ## A smart to-do list that helps you get things done. 
 
-We rebuilt [Quire My Tasks](https://quire.io/w/Getting_Started_with_Quire/41/My_Tasks) with the goal to help our users visualize the task lists, plan ahead for future projects and ultimately get things done. My Tasks II is carefully designed to improve your workflow and optimize productivity. It’s just the early day for My Tasks II (and Quire!) so there are endless possibilities for us to explore. We hope with this update, we can be a part of your successful story to achieve your dreams one day. 
+We rebuilt [Quire My Tasks](https://quire.io/guide/my-tasks/) with the goal to help our users visualize the task lists, plan ahead for future projects and ultimately get things done. My Tasks II is carefully designed to improve your workflow and optimize productivity. It’s just the early day for My Tasks II (and Quire!) so there are endless possibilities for us to explore. We hope with this update, we can be a part of your successful story to achieve your dreams one day. 
 
 Share your stories with us and make suggestions to Quire team at feedback@quire.io or on [Twitter](https://twitter.com/quire_io).
 

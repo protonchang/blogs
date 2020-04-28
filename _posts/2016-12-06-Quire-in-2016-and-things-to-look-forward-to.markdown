@@ -65,13 +65,13 @@ Here are what we have done, at least the bigger ones, in case you missed them:
 * [Multiple assignees](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html)
 * [Multiple drag & drop](https://quire.io/blog/p/A-plan-well-laid-a-party-well-played.html)
 * [Start and due time](https://quire.io/blog/p/It-is-all-about-time-in-task-management.html)
-* [Reminders](https://quire.io/w/Getting_Started_with_Quire/105/Reminders)
-* [Task status](https://quire.io/w/Getting_Started_with_Quire/126/Add_a_status)
+* [Reminders](https://quire.io/guide/reminders/)
+* [Task status](https://quire.io/guide/set-status/)
 * [Copy and paste from other apps into Quire](https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html)
 * [Auto-add with @, #, <> and !](https://quire.io/blog/p/Type-it-while-you-think-it.html)
-* [Right-click on task for context menu](https://quire.io/w/Getting_Started_with_Quire/111/)
+* [Right-click on task for context menu](https://quire.io/guide/navigate-quire/#right-click-on-tasks)
 * [Favorites](https://quire.io/blog/p/We-are-not-Facebook-So-why-Like.html)
-* [Emoji](https://quire.io/w/Getting_Started_with_Quire/112/Add_emojis)
+* [Emoji](https://quire.io/guide/styling/#Emojis)
 
 To stay in the loop of our latest news and updates, follow us on [Twitter](https://twitter.com/quire_io)!
 

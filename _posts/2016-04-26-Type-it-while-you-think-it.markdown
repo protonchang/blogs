@@ -24,7 +24,7 @@ imgDir: "2016-04-26-Type-it-while-you-think-it"
 
 Today, you’re bound to have a Q-shaped smile on your face, because we’ve got special productivity-boosting tips for everyone, especially those who’re addicted to keeping your hands on the keyboard! Now, you no longer need to switch between keyboard and mouse while adding and prepping your task.
 
-So what are they? They’re *smart* keyboard shortcuts. They can help you add **[assignees](https://quire.io/w/Getting_Started_with_Quire/87/Auto-add_an_assignee)** (with **@**), **[tags](https://quire.io/w/Getting_Started_with_Quire/86/Auto-add_a_tag)** (with **#**), **[start and due dates](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_start_and...)** (with **<>**) and **[priority]()** (with **!**) quickly, and more naturally in a single line.
+So what are they? They’re *smart* keyboard shortcuts. They can help you add **[assignees](https://quire.io/guide/inline-assign/#inline-assign-a-task)** (with **@**), **[tags](https://quire.io/guide/inline-assign/#inline-add-a-tag)** (with **#**), **[start and due dates](https://quire.io/guide/inline-assign/#inline-set-a-start-and-due-date)** (with **<>**) and **[priority]()** (with **!**) quickly, and more naturally in a single line.
 
 ## When you add a new task...
 
@@ -50,7 +50,7 @@ If you want to set a start date as well, simply type "Publish the article @David
 
 Obviously, when you type @, # or <> (with or without ;), you can use the Up or Down arrow key to select the assignee, tag or start/due date you want.
 
-You can see all the input date formats allowed [here](https://quire.io/w/Getting_Started_with_Quire/85/Auto-set_a_due_date).
+You can see all the input date formats allowed [here](https://quire.io/guide/inline-assign/#inline-set-a-start-and-due-date).
 
 #### Note: Priority from high to low is !1, !2, !3 and !4.
 
@@ -104,7 +104,7 @@ To delete a task? Like you might have guessed, press **Ctrl+Delete**.
 
 We’re bringing you the *smart* shortcuts because it’s natural that when you’re adding a task, you already have an idea who should do it, what priority it should have, and when it should be done. So, instead of choosing them after you add a task, you can now do them all together with **@**, **#** and **<>**.
 
-There are also a whole other [shortcuts](https://quire.io/w/Getting_Started_with_Quire/11/Navigate_with_shortc...) in store you can check out!
+There are also a whole other [shortcuts](https://quire.io/guide/keyboard-cheatsheet/) in store you can check out!
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

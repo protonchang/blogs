@@ -89,7 +89,7 @@ When you multiple select several tasks, you can cue the bottom menu bar and choo
 * Jump to bottom menu bar - Press `Tab`
 * Select different option on the bottom menu bar - Press `←` or `→`
 
-We hope you have fun using Keyboard to navigate around Quire workspace and use most of the features with keystrokes only. If you still want to learn more, here’s a [cheat sheet](https://quire.io/w/Getting_Started_with_Quire/188/Keyboard_shortcut...) for you 😆
+We hope you have fun using Keyboard to navigate around Quire workspace and use most of the features with keystrokes only. If you still want to learn more, here’s a [cheat sheet](https://quire.io/guide/keyboard-cheatsheet/) for you 😆
 
 Stay tuned for more exciting upcoming features on Quire! 
 

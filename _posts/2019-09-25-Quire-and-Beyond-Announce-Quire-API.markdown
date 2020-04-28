@@ -46,7 +46,7 @@ Quire community is growing everyday, meaning there are a lot of exciting feature
 
 As an end-user, you can be greatly benefited with a lot of upcoming apps from Quire contributors. We have a brand new [Quire App Directory](https://quire.io/apps) for you to browse which app you want to install to your Quire workspace. 
 
-You can learn how to install the app in our tutorial [here](https://quire.io/w/Getting_Started_with_Quire/218/Install_apps_with...). 
+You can learn how to install the app in our tutorial [here](https://quire.io/guide/install-apps/). 
 
 We would like to thank everyone for patiently waiting and giving us your support. Without you, none of this would ever happen 😍
 

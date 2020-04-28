@@ -35,7 +35,7 @@ My Tasks will include tasks that are assigned to you, created by you without ass
 
 All of the tasks in My Tasks share the same hierarchical layout with the project task list. Moreover, you can keep your task list in order by rearranging the tasks intuitively with drag-and-drop function whenever you need.
 
-For more information about the new My Tasks, please visit the [Getting Started Tutorial](https://quire.io/w/Getting_Started_with_Quire/41/My_Tasks).
+For more information about the new My Tasks, please visit the [Getting Started Tutorial](https://quire.io/guide/my-tasks/).
 
 ## How can I make the best out of the new My Tasks? 
 

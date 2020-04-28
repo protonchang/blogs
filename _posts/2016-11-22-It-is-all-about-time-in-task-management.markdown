@@ -104,7 +104,7 @@ For tasks with start date and time, and due date and time, a Gantt chart view is
 {% endmarkdown %}
 </div>
 
-#### Tip: You can [sync](https://quire.io/w/Getting_Started_with_Quire/128/Sync_to_iCal_Outlook...) your tasks to Google Calendar, Apple Calendar (iCal), Outlook Calendar or other.
+#### Tip: You can [sync](https://quire.io/guide/calendar/) your tasks to Google Calendar, Apple Calendar (iCal), Outlook Calendar or other.
 
 The bottom line is, we all care about time.
 

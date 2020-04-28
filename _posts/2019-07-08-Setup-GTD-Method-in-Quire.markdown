@@ -68,17 +68,21 @@ GTD asks you one question here: “Is this task actionable _now_?”. If yes, th
 
 If the tasks require more than 2 actions to finish, you might have to transfer them into a new list. At Quire, you can easily move a group of tasks from one [project](https://quire.io/blog/p/Template-for-Your-Projects-and-Tasks.html) to another in just seconds. And if you bookmark the new project, you can easily switch between projects to keep track of everything.
 
-If you’re not the one who will be responsible for the tasks, you can delegate them for others. Quire lets you assign the task to one or more [assignees](https://quire.io/w/Getting_Started_with_Quire/3/Assign_a_task_to_...), even to a [team](https://quire.io/blog/p/I-Dont-Really-Know-Them,-But-I-Need-Their-Help.html)! 
+If you’re not the one who will be responsible for the tasks, you can delegate them for others. Quire lets you assign the task to one or more [assignees](https://quire.io/guide/set-assignee/), even to a [team](https://quire.io/blog/p/I-Dont-Really-Know-Them,-But-I-Need-Their-Help.html)! 
 
 ### Step 3 - Organize: Add tags, Due dates, Priority, Peekaboo
 
 ![GTD Organize]({{ site.baseurl }}/images/{{page.imgDir}}/GTD-step-3.png)
 
-David Allen suggests to categorize all of the actionable tasks at this step. The key here is to put the right thing to the right place. Luckily with Quire, we have [Peekaboo](https://quire.io/w/Getting_Started_with_Quire/191/Peekaboo_a_task), [Due dates](https://quire.io/w/Getting_Started_with_Quire/29/Set_due_date_and_...) and [Tags](https://quire.io/w/Getting_Started_with_Quire/7/Add_edit_or_delet...) features to let you fulfill this step. 
+David Allen suggests to categorize all of the actionable tasks at this step. The key here is to put the right thing to the right place. Luckily with Quire, we have [Peekaboo](https://quire.io/guide/peekaboo/), [Due dates](https://quire.io/guide/set-date-time/) and [Tags](https://quire.io/guide/assign-tags/) features to let you fulfill this step. 
+
+<div style="margin: 2em 0 !important; padding: 1em; font-size: 16px; background-color: #f8f9f9; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25);">
+🔖 Read more about how to <a href="http://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html" style="color: #939da4;">peekaboo a task to tuck away the distractions</a>
+</div>
 
 The golden rule of thumb for this step is to well-manage your list. Never underestimate how a plain and disorganized to do list can destroy your productivity, GTD method lets you go through your list and put more contexts to the list for better management. 
 
-Quire lets you assign tags, due and start dates and [priority](https://quire.io/w/Getting_Started_with_Quire/70/Set_priority) to a task. With all the details, you can have the big picture of your project and effortlessly track the progress.
+Quire lets you assign tags, due and start dates and [priority](https://quire.io/guide/set-priority/) to a task. With all the details, you can have the big picture of your project and effortlessly track the progress.
 
 If you want to [postpone](https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html) the tasks for future exploration or you just want those tasks to serve as reference list only, Quire Peekaboo feature lets you to tuck away all of the distractions so that you can focus only on the things that need your immediate attention. The idea is to move forward with your task list, rather than getting stuck on a particular step.
 
@@ -89,9 +93,9 @@ If you want to [postpone](https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodo
 
 It is critical for a GTD practitioner to reflect on the progress and make the changes accordingly. You have to review frequently to know how far you’re from the goal.
 
-Luckily, Quire has made the reflect process easier than ever with the exceptional [overview](https://quire.io/w/Getting_Started_with_Quire/14/Track_your_progress) reports. This view includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc.
+Luckily, Quire has made the reflect process easier than ever with the exceptional [overview](https://quire.io/guide/project-overview/) reports. This view includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc.
 
-You need to review your next action list (different projects), waiting for list (Peekaboo list), upcoming calendar ([Calendar integration](https://quire.io/w/Getting_Started_with_Quire/128/Sync_to_iCal_Outl...)). If there are some tasks that are no longer relevant, [delete](https://quire.io/w/Getting_Started_with_Quire/92/Delete_a_task) them for a cleaner task list.
+You need to review your next action list (different projects), waiting for list (Peekaboo list), upcoming calendar ([Calendar integration](https://quire.io/guide/calendar/). If there are some tasks that are no longer relevant, [delete](https://quire.io/guide/delete-task/) them for a cleaner task list.
 
 ### Step 5 - Engage: Kanban Board, My Task 
 
@@ -99,11 +103,11 @@ You need to review your next action list (different projects), waiting for list 
 
 No more procrastination! No more excuses! We hope at this step, you already know what you have to do now! Take action on your task list and achieve your dreams! 
 
-You can select several tasks that need your immediate attention and move them to [Kanban board](https://quire.io/w/Getting_Started_with_Quire/198/What_you_can_do_w...). By doing this, instead of looking at a long list (that sometimes may cause distraction), you can just focus on a flat board with all of the tasks that are beautifully laid out and ready to be worked on. 
+You can select several tasks that need your immediate attention and move them to [Kanban board](https://quire.io/guide/board-overview/). By doing this, instead of looking at a long list (that sometimes may cause distraction), you can just focus on a flat board with all of the tasks that are beautifully laid out and ready to be worked on. 
 
 Quire Kanban board also provides [swimlane](https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html) view for you. Just sort all of your tasks by tags or due dates or assignees and voila, a swimlane is effortlessly created and ready to be dove in! 
 
-If you’re working on a project with multiple assignees and contributors, Quire [My Task](https://quire.io/w/Getting_Started_with_Quire/41/View_all_my_tasks) section will be very handy for you to view all of your tasks from different projects and organizations. 
+If you’re working on a project with multiple assignees and contributors, Quire [My Task](https://quire.io/guide/my-tasks/) section will be very handy for you to view all of your tasks from different projects and organizations. 
 
 ## Is GTD Method a master key to open any door? 
 

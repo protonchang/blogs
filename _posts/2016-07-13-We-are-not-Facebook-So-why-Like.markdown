@@ -78,7 +78,7 @@ To summarize it in a sentence, favorite is not just about **like** but more impo
 
 We hope you ♥ it.
 
-Oh and you can choose to <a href="https://quire.io/w/Getting_Started_with_Quire/130/Disable_or_turn_off_..." target="new">turn this feature off</a> in the "Project settings" whenever you want.
+Oh and you can choose to [turn this feature off](https://quire.io/guide/project-settings/#enable-to-favorite-a-task) in the "Project settings" whenever you want.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

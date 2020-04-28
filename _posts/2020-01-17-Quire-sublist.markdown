@@ -46,7 +46,7 @@ For one project in Quire, you can have as many sublists as you wish. For example
 And when you are working with the sublists, you can always switch back to the “master” list at any time to view all of the tasks shared between team members and the big picture of your project. 
 
 <div style="margin: 2em 0 !important; padding: 1em; font-size: 16px; background-color: #f8f9f9; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25);">
-🔖 Learn more on <a href="https://quire.io/w/Getting_Started_with_Quire/219/Sublist_View" style="color: #939da4;">how to create a Sublist</a>
+🔖 Learn more on <a href="https://quire.io/guide/add-sublist/" style="color: #939da4;">how to create a Sublist</a>
 </div>
 
 ## Tackle To Do Lists As a Winning Team
@@ -61,7 +61,7 @@ You can build in as many tasks as you want, your team members can also contribut
 
 There are often some team members working together on the same section of the project. Quire Sublist was born to help you create a focused view for yourself and moreover, for the project members and even the external team that share the same workload.  If you are a team manager, for example, you can select several crucial tasks related to the Phase 1 of the Product Development and create a sublist named `Phase 1` then share with your team members. This way, everyone is kept on the same page and they all know which tasks are relevant to the milestone.
 
-The key to productivity is to get focused on what should be done, instead of being worried about everything all over the place. With the combination of Quire [MyTasks II](https://quire.io/w/Getting_Started_with_Quire/41/My_Tasks) and Sublist, now your team can be more proactive to stay on top of the deadlines. 
+The key to productivity is to get focused on what should be done, instead of being worried about everything all over the place. With the combination of Quire [MyTasks II](https://quire.io/guide/my-tasks/) and Sublist, now your team can be more proactive to stay on top of the deadlines. 
 
 <div style="margin: 2em 0 !important; padding: 1em; font-size: 16px; background-color: #f8f9f9; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25);">
 🔖 Learn more about <a href="https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html" style="color: #939da4;">Quire MyTasks II</a>
