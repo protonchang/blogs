@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Art of Being Productive While Staying In</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>As social distancing and self quarantining continue, here are some effective tips to keep you sane during lockdown and still being productive. Being a remote team, we have put together some of the best life hacks for you to enjoy the solitude during this unprecedented time.</description>
+				<pubDate>Tue, 05 May 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/productivity-tips-during-lockdown.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/productivity-tips-during-lockdown.html</guid>
+			</item>
+		
+			<item>
 				<title>Wunderlist Alternative: Effortlessly Switch to Quire</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 18 Dec 2019 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</guid>
-			</item>
-		
-			<item>
-				<title>What a year it’s been: Looking back at the incredible journey with Quire in 2019</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Christmas is rolling around and soon we will be making toasts celebrating another promising 365 days. By all accounts, 2019 has been a remarkable year for us at Quire and we would like to take a moment and share with you the incredible journey of the last 12 months.</description>
-				<pubDate>Thu, 12 Dec 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/look-back-at-2019.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/look-back-at-2019.html</guid>
 			</item>
 		
 	</channel>
