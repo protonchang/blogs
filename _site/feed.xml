@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>6 Mistakes Project Managers Make that Kill Productivity</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>In this article, Quire looks at 6 mistakes project managers make that kill productivity and what you can do to avoid them.</description>
+				<pubDate>Mon, 18 May 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/productivity-mistakes.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/productivity-mistakes.html</guid>
+			</item>
+		
+			<item>
 				<title>The Art of Being Productive While Staying In</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 17 Jan 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-sublist.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-sublist.html</guid>
-			</item>
-		
-			<item>
-				<title>Best New Year&#39;s Resolutions that You Can Actually Keep in 2020</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>We want to kickstart a decade with a clean slate. Instead of keep making general resolutions as “losing weight” or “saving up”, we will tell you some awesome easy New Year’s resolutions that are not too difficult to keep for you to be more productive in 2020.</description>
-				<pubDate>Wed, 18 Dec 2019 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/best-new-year-resolutions-to-keep.html</guid>
 			</item>
 		
 	</channel>
