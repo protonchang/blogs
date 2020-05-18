@@ -108,7 +108,7 @@ The right management tool helps keep everyone on track, it shows what tasks have
 The right management tool will make it easier to:
 
 * Tackle big projects by breaking them down into easier-to-manage steps.
-* [Visualize your workflow](https://www.google.com/url?q=https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html) so you can better manage and focus on the necessary tasks.
+* [Visualize your workflow](https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html) so you can better manage and focus on the necessary tasks.
 * Create [sublists](https://quire.io/blog/p/Quire-sublist.html) for individual team members to help them stay focused on the right tasks at the appropriate time.
 * Instant messaging.
 * Share and delegate tasks, and see their modifications instantly.
