@@ -8,7 +8,7 @@ index-intro: "In this article, Quire looks at 6 mistakes project managers make t
 category-intro: "In this article, Quire looks at 6 mistakes project managers make that kill productivity and what you can do to avoid them."
 
 image: "2020-05-18-productivity-mistakes/productivity_mistakes.png"
-tags: productivity productivity-app productivity-tool remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips social-distancing to-do-list task-list book-club
+tags: productivity productivity-app productivity-tool remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips social-distancing to-do-list task-list
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Content Creator."
@@ -33,7 +33,7 @@ Common project management mistakes that kill productivity include:
 * Not meeting the whole team before work begins on a project.
 * A lack of prioritization and breakdown of projects into manageable tasks.
 
-Also, using a mess of spreadsheets and emails rather than a project tool is a very common mistake that occurs when people are trying to cut corners. Here are some of the most common mistaks that kill productivity and how you can avoid those mistakes altogether.
+Also, using a mess of spreadsheets and emails rather than a project tool is a very common mistake that occurs when people are trying to cut corners. Here are some of the most common mistakes that kill productivity and how you can avoid those mistakes altogether.
 
 <div style="margin: 2em 0 !important; padding: 1em; font-size: 16px; background-color: #f8f9f9; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25);">
 🔖 Read more on how to <a href="https://quire.io/blog/p/work-from-home-tips.html" style="color: #939da4;">work from home and still stay productive</a>
