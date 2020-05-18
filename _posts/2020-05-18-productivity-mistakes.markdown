@@ -8,7 +8,7 @@ index-intro: "In this article, Quire looks at 6 mistakes project managers make t
 category-intro: "In this article, Quire looks at 6 mistakes project managers make that kill productivity and what you can do to avoid them."
 
 image: "2020-05-18-productivity-mistakes/productivity_mistakes.png"
-tags: productivity productivity-app productivity-tool remote-team coronavirus-pandenmic social-distancing social-distance to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips coronavirus-outbreak coronavirus work-at-home work-from-home corona-news social-distancing quarantine lockdown to-do-list task-list book-club
+tags: productivity productivity-app productivity-tool remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips social-distancing to-do-list task-list book-club
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Content Creator."
