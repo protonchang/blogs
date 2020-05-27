@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Take a Break When Working Remotely to Increase Productivity?</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We are obsessed with being “work martyrs” to prove our abilities to meet deadlines and complete the to-do lists every single day. Don&#39;t let your job take away your happiness! Here are some tips for you to take a break when working remotely and still get things done!</description>
+				<pubDate>Wed, 27 May 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/how-to-properly-take-a-break.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/how-to-properly-take-a-break.html</guid>
+			</item>
+		
+			<item>
 				<title>6 Mistakes Project Managers Make that Kill Productivity</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 21 Feb 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Quire-tips-hacks-for-better-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Quire-tips-hacks-for-better-productivity.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>At Quire, we never let the stress win and make you feel less of yourself. It&#39;s not you, it’s the way your team works with the to do list. Today, in order to solve the frustration and distraction problems once and for all, we introduce you with the ultimate Quire Sublist - the feature that will change the way you deal with your task list forever.</description>
-				<pubDate>Fri, 17 Jan 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Quire-sublist.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Quire-sublist.html</guid>
 			</item>
 		
 	</channel>

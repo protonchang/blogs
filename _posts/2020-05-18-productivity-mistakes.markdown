@@ -149,6 +149,7 @@ If you’re looking for a project management tool that is simple to use and navi
 
 That’s all for today! What’s your story of being a project manager? Let us know in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io) 😍 
 
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
