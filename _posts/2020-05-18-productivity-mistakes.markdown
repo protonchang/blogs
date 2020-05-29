@@ -145,7 +145,11 @@ This is not micro-managing either. You’re not looking (virtually) over your te
 
 If you’re looking for a project management tool that is simple to use and navigate, Quire is the tool you’re looking for. Quire is also designed to be a centralized collaboration tool, to help improve communication, organization and workflow.
 
+<div class="guest-only">
+{% markdown %}
 [![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+{% endmarkdown %}
+</div>
 
 That’s all for today! What’s your story of being a project manager? Let us know in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io) 😍 
 
