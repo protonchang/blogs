@@ -31,7 +31,7 @@ Let’s face it, too much information is a serious problem. How can you focus on
 
 If you think your project doesn’t show enough information, chances are you have turned off the **Advanced Mode**. There’s a cool tip here: hit `Ctrl` on Windows or `Alt` on MacOS or simply shake your phone to enable the **Advanced Mode**. 
 
-Now look at the task list, isn’t it everything that you are looking for? We chose to hide some of the information that we personally think it’s not irrelevant, but in case we are wrong, here you go. 
+Now look at the task list, isn’t it everything that you are looking for? We chose to hide some of the information that we personally think it’s not relevant, but in case we are wrong, here you go. 
 
 Wait! Are you too confused with this “brand-new” view now? Let us walk you through some of the hidden gems in the **Advanced Mode**. 
 

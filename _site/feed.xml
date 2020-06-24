@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Use Apple Sign-in with Quire</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Sign in with Apple makes it easy for users to access Quire using Touch ID, Face ID and device passcode. Turn on and set up Apple Sign-in to start working on your projects with Quire!</description>
+				<pubDate>Wed, 24 Jun 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/apple-sign-in.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/apple-sign-in.html</guid>
+			</item>
+		
+			<item>
 				<title>A Guide to Deep Work: How to Achieve the Ultimate Productivity</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 17 Mar 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/Kanban-board-swimlane.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/Kanban-board-swimlane.html</guid>
-			</item>
-		
-			<item>
-				<title>Best 5 tips to Use a Digital To Do List for Remote Teams during a Virus Outbreak</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Building a global remote team during the outbreak can take a village, but talented people from across the world can still successfully collaborate as long as leaders can choose the best platform for the team to thrive.</description>
-				<pubDate>Thu, 05 Mar 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/to-do-list-tips-remote-teams.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/to-do-list-tips-remote-teams.html</guid>
 			</item>
 		
 	</channel>
