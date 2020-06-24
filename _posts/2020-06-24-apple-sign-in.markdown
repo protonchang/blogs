@@ -19,7 +19,7 @@ relatedPosts: ["Quire Sublist: Bridge the Gap between Team To Do Lists and Perso
 imgDir: "2020-06-24-apple-sign-in"
 ---
 
-![Apple Sign-in]({{ site.baseurl }}/images/{{page.imgDir}}/Apple_Sign_in.png)
+![Apple Sign-in]({{ site.baseurl }}/images/{{page.imgDir}}/Apple_Sign_In.png)
 
 Since our latest update, Quire users can use Apple sign-in method to access Quire on both mobile devices or web browsers. By adding a new sign-in method, users can have a faster and more private way to log in or sign up for Quire. 
 
