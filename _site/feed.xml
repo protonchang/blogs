@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Zapier Meets Quire: Automate the Way You Work</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Zapier was born to instantly connect thousands of apps so they can work together and ultimately help users simplify their workflows. Integrate Zapier to your Quire projects to optimize the way you work.</description>
+				<pubDate>Mon, 29 Jun 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/zapier-integration.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/zapier-integration.html</guid>
+			</item>
+		
+			<item>
 				<title>How to Use Apple Sign-in with Quire</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 20 Mar 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/coronavirus-nonprofits-free-accounts.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/coronavirus-nonprofits-free-accounts.html</guid>
-			</item>
-		
-			<item>
-				<title>The Ultimate Guide to Kanban Swimlanes for Better Project Management</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Kanban board is proven to play a critical role in project management. One of the most important practices of Kanban Board is the Swimlane. This ultimate guide will tell you what Kanban Swimlane is and how to become a Kanban expert.</description>
-				<pubDate>Tue, 17 Mar 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/Kanban-board-swimlane.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/Kanban-board-swimlane.html</guid>
 			</item>
 		
 	</channel>
