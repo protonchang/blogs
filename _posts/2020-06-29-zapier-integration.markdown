@@ -62,6 +62,8 @@ If you are working with your team members and they’re not exactly tech savvy, 
 
 Now you’re all set and ready to use your first Zap! Click on any of the Use this Zap buttons below! 
 
+<script type="text/javascript" src="https://zapier.com/apps/embed/widget.js?guided_zaps=207271,207303,207308,207313,207322,207335,207337,207340,207345"></script>
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
