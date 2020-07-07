@@ -27,11 +27,11 @@ Quire is a [task management software](https://quire.io/compare/best-task-managem
 
 ## How do I start using Zapier?
 
-1. Sign up for a Zapier account, or sign in if you already have one.
+1. Click on any of the **Use this Zap** buttons below (or go to Quire Integrations](https://zapier.com/apps/quire/integrations) page on Zapier).
 
-1. Go to [Quire Integrations](https://zapier.com/apps/quire/integrations) page on Zapier.
+1. Sign up for a Zapier account or sign in if you already have one.
 
-1. Connect Quire and a complementary app to Zapier. You can click on any of the Use this Zap buttons below as well.
+1. Connect Quire and a complementary app to Zapier. 
 
 1. Follow the steps to set up the Zapier automation.
 
