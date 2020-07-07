@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Zapier Meets Quire: Automate the Way You Work"
-date:   2020-06-29 11:58:07
+date:   2020-07-07 11:58:07
 categories: "Features"
 
 index-intro: "Zapier was born to instantly connect thousands of apps so they can work together and ultimately help users simplify their workflows. Integrate Zapier to your Quire projects to optimize the way you work."
 category-intro: "Zapier was born to instantly connect thousands of apps so they can work together and ultimately help users simplify their workflows. Integrate Zapier to your Quire projects to optimize the way you work."
 
-image: "2020-06-29-zapier-integration/zapier_integration.png"
+image: "2020-07-07-zapier-integration/zapier_integration.png"
 tags: productivity productivity-app productivity-tool Zapier automate-workflow Zapier-integration increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity", "A Closer Look at Quire Redesigned My Tasks II", "Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack"]
 
-imgDir: "2020-06-29-zapier-integration"
+imgDir: "2020-07-07-zapier-integration"
 ---
 
 ![Zapier Integration]({{ site.baseurl }}/images/{{page.imgDir}}/zapier_integration.png)
@@ -35,11 +35,6 @@ Quire is a [task management software](https://quire.io/compare/best-task-managem
 1.  Choose Zapier and click on Install.
 	<div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
 	{% markdown %}![Quire Zapier]({{ site.baseurl }}/images/{{page.imgDir}}/integrate_zapier.png){% endmarkdown %}
-	</div>
-
-1. Choose the organization that you would like to integrate Zapier to.
-	<div style="max-width: 600px; max-height: 454px; margin: 0 auto;">
-	{% markdown %}![Zapier integration with Quire]({{ site.baseurl }}/images/{{page.imgDir}}/integrate_zapier2.png){% endmarkdown %}
 	</div>
 
 1. Sign up for a Zapier account, or sign in if you already have one.
