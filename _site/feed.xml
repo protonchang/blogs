@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Boost Teamwork Performance with Transparent Communication</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>Transparency is an important part of team communication, and how a task management software like Quire can help.</description>
+				<pubDate>Tue, 04 Aug 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/transparency-in-communication.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/transparency-in-communication.html</guid>
+			</item>
+		
+			<item>
 				<title>How a Task Management Software Helps Businesses Achieve Higher Productivity in a Post-pandemic World</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Sat, 11 Apr 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/introducing-new-mobile-app.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/introducing-new-mobile-app.html</guid>
-			</item>
-		
-			<item>
-				<title>Coronavirus Outbreak: How to Work From Home and Still Stay Productive</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Social distancing is implemented to slow down the spread of Coronavirus. Don&#39;t freak out if it&#39;s your first work-at-home experience, we will tell you the ultimate guides, from setting up your new office to the way you collaborate with your team from afar.</description>
-				<pubDate>Wed, 25 Mar 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/work-from-home-tips.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/work-from-home-tips.html</guid>
 			</item>
 		
 	</channel>

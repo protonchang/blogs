@@ -2,7 +2,7 @@
 layout: post
 title:  "Quire - Behind the Scenes: The Untold Stories"
 date:   2019-10-21 11:58:07
-categories: "productivity-tips"
+categories: "dreams"
 
 index-intro: "Unwilling to settle for all the complexity, Quire was born as an answer to conquering a big project and achieving your dreams. Maybe you’re new to Quire or you’ve been a Quirean for a long time, we would like to share with you the journey of Quire. Today we’re thrilled to bring you an interview with Tom - the creator of Quire.  As a serial entrepreneur and a software developer, Tom shares with us his insightful tips to deal with software complexity, how to boost team productivity, and more!"
 category-intro: "Unwilling to settle for all the complexity, Quire was born as an answer to conquering a big project and achieving your dreams. Maybe you’re new to Quire or you’ve been a Quirean for a long time, we would like to share with you the journey of Quire."
