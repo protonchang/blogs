@@ -37,7 +37,7 @@ As a Community Manager, I also lead the localization process for all of the 9 la
 
 ## 2. Describe what a day is like in Quire community team?
  
-My day usually starts with a cup of coffee on my desk! 😁  After the caffeine kicks in, I will read through all the feedback in Quire Forum, go through every users’ emails and from other channels such as Facebook, Youtube, Quire blog, Twitter, and Instagram. Social media is a great way to reach out and  build relationships with our users so my team and I spend a lot of time going through users’ comments or tweets so that we can make sure we leave no one’s suggestions behind. 
+My day usually starts with a cup of coffee on my desk! 😁  After the caffeine kicks in, I will read through all the feedback in Quire Forum, go through every users’ emails and from other channels such as [Facebook](https://www.facebook.com/quire.io/), [Youtube](https://www.youtube.com/channel/UCNblmAyAjOfq2y2OzQbkhlQ), [Quire blog](https://quire.io/blog/), [Twitter](https://twitter.com/quire_io), and [Instagram](https://www.instagram.com/quire_io/). Social media is a great way to reach out and  build relationships with our users so my team and I spend a lot of time going through users’ comments or tweets so that we can make sure we leave no one’s suggestions behind. 
 
 Every feedback and suggestion from Quire users will be listed as a task in our internal Quire project. Then I will categorize all of the tasks based on the severity of the issues and the priority level. Sometimes I use different sublists to better organize the tasks. For example, I will create a sublist that contains all of the tasks that are relevant for different teams and use the sublist as my personal view to keep track of what I care for.
 
@@ -57,7 +57,7 @@ When our Product team adds a new feature to Quire, there will be a lot of update
  
 When the translators finish translating the message, they will complete the task and I will receive the notification. There’s no need to bombard our translators with reminder messages or aggressive notes. Case is closed when a task is completed! 
 
-![Project management]({{ site.baseurl }}/images/{{page.imgDir}}/Smart_folder.png)
+![Project management]({{ site.baseurl }}/images/{{page.imgDir}}/Smart_folder.PNG)
  
 Since our localization team is not a small scale team, it’s quite challenging to keep up with all of the existing projects. I use [Smart Folder](https://quire.io/guide/smart-folders/) to create a bird’s-eye view to see all of the tasks from every translator. I am a heavy user of customized filters to create my own view to track the task lists. 
  
@@ -71,7 +71,7 @@ Everyday I receive many suggestions and feedback from Quire users, all of them a
  
 Every big dream needs a starting point. I would want to help each and every Quire user to achieve their missions and their goals. Start your dream with Quire. Don't hesitate to share your stories with us! We’re here to walk your dreams home!
 
-<p class="notice">Read more about <a href="https://quire.io/blog/p/Quire-behind-the-scenes-productivity-tips.html"></a>how Quire is developed from a serial entrepreneur's viewpoint.</p> 
+<p class="notice">Read more about <a href="https://quire.io/blog/p/Quire-behind-the-scenes-productivity-tips.html">how Quire is developed from a serial entrepreneur's viewpoint.</a></p> 
 
 ## 5. What is your mantra when it comes to productivity?
  
