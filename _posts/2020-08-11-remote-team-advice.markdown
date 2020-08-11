@@ -35,9 +35,9 @@ Being able to communicate with users directly and listen to their success storie
 
 As a Community Manager, I also lead the localization process for all of the 9 languages with 8 translators for Quire. My day-to-day work involves a lot of team communication and task management so Quire has been a great assistant from day one!
 
-## 2. Describe what a day is like in Quire community team?
+## 2. Tell us what a day is like in Quire community team?
  
-My day usually starts with a cup of coffee on my desk! 😁  After the caffeine kicks in, I will read through all the feedback in Quire Forum, go through every users’ emails and from other channels such as [Facebook](https://www.facebook.com/quire.io/), [Youtube](https://www.youtube.com/channel/UCNblmAyAjOfq2y2OzQbkhlQ), [Quire blog](https://quire.io/blog/), [Twitter](https://twitter.com/quire_io), and [Instagram](https://www.instagram.com/quire_io/). Social media is a great way to reach out and  build relationships with our users so my team and I spend a lot of time going through users’ comments or tweets so that we can make sure we leave no one’s suggestions behind. 
+My day usually starts with a cup of coffee on my desk! 😁  After the caffeine kicks in, I will read through all the feedback in [Quire Forum](https://quire.io/w/Quire_Feedbacks/), go through every users’ emails and from other channels such as [Facebook](https://www.facebook.com/quire.io/), [Youtube](https://www.youtube.com/channel/UCNblmAyAjOfq2y2OzQbkhlQ), [Quire blog](https://quire.io/blog/), [Twitter](https://twitter.com/quire_io), and [Instagram](https://www.instagram.com/quire_io/). Social media is a great way to reach out and  build relationships with our users so my team and I spend a lot of time going through users’ comments or tweets so that we can make sure we leave no one’s suggestions behind. 
 
 Every feedback and suggestion from Quire users will be listed as a task in our internal Quire project. Then I will categorize all of the tasks based on the severity of the issues and the priority level. Sometimes I use different sublists to better organize the tasks. For example, I will create a sublist that contains all of the tasks that are relevant for different teams and use the sublist as my personal view to keep track of what I care for.
 
