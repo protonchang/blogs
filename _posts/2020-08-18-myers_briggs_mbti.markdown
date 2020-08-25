@@ -8,10 +8,10 @@ index-intro: "Want to increase teamwork productivity based on MBTI personality t
 category-intro: "Want to increase teamwork productivity based on MBTI personality types? Quire has put this useful article together on the best way to achieve this."
 
 image: "2020-08-18-myers_briggs_mbti/Myers_briggs_personality_type.png"
-tags: productivity productivity-app productivity-tool myers_briggs mbti mbti_personality_type team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork team-success team_management_software
+tags: productivity productivity-app productivity-tool myers_briggs mbti mbti_personality_type team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork team-success team-management-software
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
-authorDesc: "Content Creator."
+authorDesc: "Quire Marketing Team"
 authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["How to Boost Teamwork Performance with Transparent Communication", "How a Task Management Software Helps Businesses Achieve Higher Productivity in a Post-pandemic World", "The Art of Being Productive While Staying In",]

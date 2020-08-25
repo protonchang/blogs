@@ -11,7 +11,7 @@ image: "2020-07-14-task-management-software-helps-productivity/productivity-for-
 tags: productivity productivity-app productivity-tool post-pandemic-world team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork team-success
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
-authorDesc: "Content Creator."
+authorDesc: "Quire Marketing Team"
 authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["How to Take a Break When Working Remotely to Increase Productivity?", "The Art of Being Productive While Staying In", "8 Best Tips for Remote Teams to Boost Productivity at Virtual Office"]

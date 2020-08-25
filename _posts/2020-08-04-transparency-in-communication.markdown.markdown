@@ -11,7 +11,7 @@ image: "2020-08-04-transparency-in-communication/Team_transparency.png"
 tags: productivity productivity-app productivity-tool team-communication transparent-communication transparency-in-workplace team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork team-success
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
-authorDesc: "Content Creator."
+authorDesc: "Quire Marketing Team"
 authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["How a Task Management Software Helps Businesses Achieve Higher Productivity in a Post-pandemic World", "How to Take a Break When Working Remotely to Increase Productivity?", "The Art of Being Productive While Staying In",]

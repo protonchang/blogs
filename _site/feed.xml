@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Top 8 Productivity Myths that You Should Avoid to Become a Great Leader</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>In this article, Quire looks at the top 8 productivity myths you must avoid to become a great leader in today’s business environment.</description>
+				<pubDate>Tue, 25 Aug 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/productivity_myths_leadership.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/productivity_myths_leadership.html</guid>
+			</item>
+		
+			<item>
 				<title>How to Increase Team Productivity Based on Myers-Briggs Personality Types</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 18 May 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/productivity-mistakes.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/productivity-mistakes.html</guid>
-			</item>
-		
-			<item>
-				<title>The Art of Being Productive While Staying In</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>As social distancing and self quarantining continue, here are some effective tips to keep you sane during lockdown and still being productive. Being a remote team, we have put together some of the best life hacks for you to enjoy the solitude during this unprecedented time.</description>
-				<pubDate>Tue, 05 May 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/productivity-tips-during-lockdown.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/productivity-tips-during-lockdown.html</guid>
 			</item>
 		
 	</channel>

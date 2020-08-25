@@ -11,7 +11,7 @@ image: "2020-05-18-productivity-mistakes/productivity_mistakes.png"
 tags: productivity productivity-app productivity-tool remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips social-distancing to-do-list task-list
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
-authorDesc: "Content Creator."
+authorDesc: "Quire Marketing Team"
 authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["Coronavirus Outbreak: How to Work From Home and Still Stay Productive", "The Art of Being Productive While Staying In", "8 Best Tips for Remote Teams to Boost Productivity at Virtual Office"]
