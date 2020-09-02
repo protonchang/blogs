@@ -14,7 +14,7 @@ authorImg: "/images/author/crystal.png"
 authorDesc: "Content writer, food lover, and aniholic."
 authorLink: "https://medium.com/@crystalshchen"
 
-relatedPosts: ["Snap your ideas! Introducing Quire for iOS", "Introducing: Quire for Android"]
+relatedPosts: ["'Hey Siri, Add a Task in Quire!'","Snap your ideas! Introducing Quire for iOS", "Introducing: Quire for Android"]
 
 imgDir: "2018-07-13-Quire-iOS-2.0-New-Features-and-Even-Greater-Performance"
 ---
@@ -105,7 +105,7 @@ For example, notice the assignee, date, tag, priority, etc., icons? They are in 
 {% endmarkdown %}
 </div>
 
-Let’s kick start your ideas by dumping them via [Siri](https://quire.io/blog/p/Quire-Siri-Add-tasks-with-your-voice-for-iOS-11.html) or [Camera](https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html)! You are more than welcome to leave your suggestions or feedback in comments below.
+Let’s kick start your ideas by dumping them via [Siri](https://quire.io/blog/p/quire-siri.html) or [Camera](https://quire.io/blog/p/A-photo-is-worth-1000-words-Your-idea-worths-more.html)! You are more than welcome to leave your suggestions or feedback in comments below.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
