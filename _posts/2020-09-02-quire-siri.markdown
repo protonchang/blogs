@@ -21,7 +21,7 @@ imgDir: "2020-09-02-quire-siri"
 
 ![Siri for Quire]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_siri_iOS.png)
 
-Three years ago, when Apple announced the iOS 11, we welcomed Siri on board! Now the spicy pumpkin and sweater season is rolling around, also known as the time for Apple to announce its iOS 14, our Quire with Siri integration has also updated to be smarter as well.
+Three years ago, when Apple announced the iOS 11, we welcomed Siri on board! Now the pumpkin spice latte and sweater season is rolling around, also known as the time for Apple to announce its iOS 14, our Quire with Siri integration has also updated to be smarter as well.
 
 All you have to do is to talk to Siri and we will take care of the rest! Don’t be shy! Every great story always starts with a simple “Hi!” You don't even have to swipe right or left! Just a simple *"Hi Siri"* will work! 👋👋👋
 
