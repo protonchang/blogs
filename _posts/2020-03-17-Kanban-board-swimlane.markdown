@@ -2,7 +2,7 @@
 layout: post
 title:  "The Ultimate Guide to Kanban Swimlanes for Better Project Management"
 date:   2020-03-17 11:58:07
-categories: "Productivity-tips"
+categories: "Workstyle"
 
 index-intro: "Kanban board is proven to play a critical role in project management. One of the most important practices of Kanban Board is the Swimlane. This ultimate guide will tell you what Kanban Swimlane is and how to become a Kanban expert."
 category-intro: "The ultimate guide that tells you what Kanban Swimlanes is and how to become a Kanban expert."

@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>You&#39;re Not Lazy! You Just Don&#39;t Know How to Procrastinate Properly</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>While being lazy is unproductive and harmful to your work week, intentional procrastination can help you get more done consistently. Find out how!</description>
+				<pubDate>Tue, 08 Sep 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/how-to-procrastinate.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/how-to-procrastinate.html</guid>
+			</item>
+		
+			<item>
 				<title>&#39;Hey Siri, Add a Task in Quire!&#39;</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 24 Jun 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/apple-sign-in.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/apple-sign-in.html</guid>
-			</item>
-		
-			<item>
-				<title>A Guide to Deep Work: How to Achieve the Ultimate Productivity</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>If you are looking to achieve the ultimate productivity with Deep Work, we have put together this helpful guide that answers all your questions.</description>
-				<pubDate>Fri, 12 Jun 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/how-to-deep-work.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/how-to-deep-work.html</guid>
 			</item>
 		
 	</channel>

@@ -95,7 +95,7 @@ It is critical for a GTD practitioner to reflect on the progress and make the ch
 
 Luckily, Quire has made the reflect process easier than ever with the exceptional [overview](https://quire.io/guide/project-overview/) reports. This view includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc.
 
-You need to review your next action list (different projects), waiting for list (Peekaboo list), upcoming calendar ([Calendar integration](https://quire.io/guide/calendar/). If there are some tasks that are no longer relevant, [delete](https://quire.io/guide/delete-task/) them for a cleaner task list.
+You need to review your next action list (different projects), waiting for list (Peekaboo list), upcoming calendar ([Calendar integration](https://quire.io/guide/calendar/)). If there are some tasks that are no longer relevant, [delete](https://quire.io/guide/delete-task/) them for a cleaner task list.
 
 ### Step 5 - Engage: Kanban Board, My Task 
 
