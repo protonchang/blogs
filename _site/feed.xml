@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Brunch with Quire: Top 7 Quire Mobile Hacks to Make Your Life Easier</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We hope your life has been easier with the help from Quire Mobile! If not (ooooopsss!), probably you have overlooked and missed some of these mobile hacks!</description>
+				<pubDate>Fri, 11 Sep 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/mobile-app-productivity-hacks.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-productivity-hacks.html</guid>
+			</item>
+		
+			<item>
 				<title>You&#39;re Not Lazy! You Just Don&#39;t Know How to Procrastinate Properly</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 07 Jul 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/zapier-integration.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/zapier-integration.html</guid>
-			</item>
-		
-			<item>
-				<title>How to Use Apple Sign-in with Quire</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Sign in with Apple makes it easy for users to access Quire using Touch ID, Face ID and device passcode. Turn on and set up Apple Sign-in to start working on your projects with Quire!</description>
-				<pubDate>Wed, 24 Jun 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/apple-sign-in.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/apple-sign-in.html</guid>
 			</item>
 		
 	</channel>
