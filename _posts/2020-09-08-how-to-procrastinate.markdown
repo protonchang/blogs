@@ -165,6 +165,10 @@ With functions like [Peekaboo](https://quire.io/guide/peekaboo/) and the [Kanban
 
 And at the end of the day, this is the most productive option. It’s far better than playing a couple of Candy Crush levels, with the added bonus of: you won’t feel guilty or worried about getting caught implementing the GTD method.
 
+<div class="video-container">
+  <object class="video-object" data="https://www.youtube.com/embed/-VxK6M7C3d8?autoplay=1"></object>
+</div>
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
