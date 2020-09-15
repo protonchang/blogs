@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brunch with Quire: Top 7 Quire Mobile Hacks to Make Your Life Easier"
-date:   2020-09-11 11:58:07
+date:   2020-09-15 11:58:07
 categories: "Productivity-tips"
 
 index-intro: "We hope your life has been easier with the help from Quire Mobile! If not (ooooopsss!), probably you have overlooked and missed some of these mobile hacks!"
@@ -88,11 +88,21 @@ Your projects deserve two types of search, just sayin’! We know you might not 
 
 However, if you’re already accessed to a particular project and now you use the [search task](https://quire.io/guide/search-tasks/) function, you’re searching for the results within this project or this view only. 
 
+<p class="notice">Check out <a href="https://www.youtube.com/channel/UCNblmAyAjOfq2y2OzQbkhlQ">Quire Official Youtube Channel.</a></p> 
+
+You can start with the most basic tutorial video on how to get started with Quire Mobile app.  
+
+<div class="video-container">
+<object class="video-object" data="https://www.youtube.com/embed/-VxK6M7C3d8?autoplay=1"></object>
+</div>
+</br>
+We have two playlists that should hugely benefit you and your productivity: [Quire Mobile Basics](https://www.youtube.com/watch?v=-VxK6M7C3d8&list=PL3CzHjyQmh4QRg3HrLNs7qCgOM1kgFF1g) and [Quire Bitesize Guide](https://www.youtube.com/watch?v=OHWN40Qyht0&list=PL3CzHjyQmh4T5GWB-zb3DAVpoFtAtYstd) 😍
+
+
 That’s pretty much what we have to say for this “Brunch with Quire” session! We hope you will find at least one of these hacks useful to help you with your productivity and your work life! 
 
 To stay up-to-date with the latest news and updates from Quire, follow us on Twitter at [@quire_io](https://twitter.com/quire_io)! We’re pretty active on Twitter, just sayin’ 😍
 
-<iframe src="https://www.youtube.com/embed/-VxK6M7C3d8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="height: calc(100vw*720/1280);max-height: 720px;max-width: 1280px;width: 100%;"></iframe>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
