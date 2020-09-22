@@ -45,9 +45,9 @@ If you think combining emails and to-do lists can be a bad idea, chances are you
 
 <p class="notice">More details in Quire Guide on <a href="https://quire.io/guide/quire-gmail-add-on/">how to create Quire tasks from Gmail.</a></p> 
 
-We hope you never have to be stuck in the loop of hell with your mailbox anymore! If you want to be more creative with how to create a task in Quire from your mailbox, you can use [Quire and Zapier integration](https://quire.io/blog/p/zapier-integration.html)
+We hope you never have to be stuck in the loop of hell with your mailbox anymore! If you want to be more creative with how to create a task in Quire from your mailbox, you can use [Quire and Zapier integration](https://quire.io/blog/p/zapier-integration.html) 🚀
 
-Now with **Quire for Gmail Add-on**, you will never miss an action item in your emails again.  Share your thoughts with us in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io).
+Now with **Quire for Gmail Add-on**, you will never miss an action item in your emails again. Share your thoughts with us in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io) 🏆.
 
 
 [jekyll]:      http://jekyllrb.com
