@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire for Gmail: Turn Your Emails Into Tasks</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Break the loop of hell with the help from Gmail Add-on integration. Instantly create a task in Quire directly from your Google mailbox.</description>
+				<pubDate>Tue, 22 Sep 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/gmail-add-on.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/gmail-add-on.html</guid>
+			</item>
+		
+			<item>
 				<title>Brunch with Quire: Top 7 Quire Mobile Hacks to Make Your Life Easier</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 14 Jul 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/task-management-software-helps-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/task-management-software-helps-productivity.html</guid>
-			</item>
-		
-			<item>
-				<title>Zapier Meets Quire: Automate the Way You Work</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Zapier was born to instantly connect thousands of apps so they can work together and ultimately help users simplify their workflows. Integrate Zapier to your Quire projects to optimize the way you work.</description>
-				<pubDate>Tue, 07 Jul 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/zapier-integration.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/zapier-integration.html</guid>
 			</item>
 		
 	</channel>
