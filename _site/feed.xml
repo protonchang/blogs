@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>10 Tips for How to Successfully Settle Into a New Job Post-Covid Job Loss</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>Here are 10 tips on how to settle into new work successfully after you’ve lost a job because of the pandemic.</description>
+				<pubDate>Fri, 25 Sep 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/new-jobs-tips.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/new-jobs-tips.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire for Gmail: Turn Your Emails Into Tasks</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 04 Aug 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/transparency-in-communication.markdown.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/transparency-in-communication.markdown.html</guid>
-			</item>
-		
-			<item>
-				<title>How a Task Management Software Helps Businesses Achieve Higher Productivity in a Post-pandemic World</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>How a task management software (Quire) helps online businesses achieve higher productivity in a post-pandemic world.</description>
-				<pubDate>Tue, 14 Jul 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/task-management-software-helps-productivity.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/task-management-software-helps-productivity.html</guid>
 			</item>
 		
 	</channel>
