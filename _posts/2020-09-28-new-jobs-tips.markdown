@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "10 Tips for How to Successfully Settle Into a New Job Post-Covid Job Loss"
-date:   2020-09-25 11:58:07
+date:   2020-09-28 11:58:07
 categories: "Productivity-tips"
 
 index-intro: "Here are 10 tips on how to settle into new work successfully after you’ve lost a job because of the pandemic."
 category-intro: "Here are 10 tips on how to settle into new work successfully after you’ve lost a job because of the pandemic."
 
-image: "2020-09-25-new-jobs-tips/new_jobs_tips.png"
-tags: productivity productivity-app productivity-tool team-management-software work-management-software GTD-method getting-things-done procrastination how-to-procrastinate team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Job-loss economic-recession new-job-tips covid-job-loss 
+image: "2020-09-28-new-jobs-tips/new_jobs_tips.png"
+tags: productivity productivity-app productivity-tool team-management-software work-management-software GTD-method getting-things-done procrastination how-to-procrastinate team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Job-loss economic-recession new-job-tips covid-job-loss job-hunting
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Quire Marketing Team"
@@ -16,7 +16,7 @@ authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["What is Team Management Software and Why Your Team Needs One Right Now", "How to Increase Team Productivity Based on Myers-Briggs Personality Types", "How to Boost Teamwork Performance with Transparent Communication"]
 
-imgDir: "2020-09-25-new-jobs-tips"
+imgDir: "2020-09-28-new-jobs-tips"
 ---
 
 ![COVID Job loss]({{ site.baseurl }}/images/{{page.imgDir}}/new_jobs_tips.png)
