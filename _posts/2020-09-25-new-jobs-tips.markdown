@@ -69,7 +69,7 @@ Right now, induction meetings are more important than ever before. Companies nee
 
 The best thing you can do is to find who is going to be doing the induction and have a chat with them before-hand (if possible). Ask for suggestions, advice and what’s the most important thing to prioritize in your first weeks on the job.
 
-<p class="notice">Read more on <a href="https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html">how to tun effective meetings with a digital to-do list.</a></p> 
+<p class="notice">Read more on <a href="https://quire.io/blog/p/3-proven-tips-on-how-to-run-effective-meetings-with-a-digital-to-do-list.html">how to run effective meetings with a digital to-do list.</a></p> 
 
 ### 4. Prioritize the important information
 
