@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Achieve Stress-Free Productivity with Quire and Email Integrations</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Achieve highest productivity level with Quire! Turn your emails into tasks or get instant notifications in your mailbox with the click of a button and you will be set to focus on actually getting things done!</description>
+				<pubDate>Wed, 30 Sep 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/email-integrations.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/email-integrations.html</guid>
+			</item>
+		
+			<item>
 				<title>10 Tips for How to Successfully Settle Into a New Job Post-Covid Job Loss</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 11 Aug 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/remote-team-advice.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/remote-team-advice.html</guid>
-			</item>
-		
-			<item>
-				<title>How to Boost Teamwork Performance with Transparent Communication</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>Transparency is an important part of team communication, and how a task management software like Quire can help.</description>
-				<pubDate>Tue, 04 Aug 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/transparency-in-communication.markdown.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/transparency-in-communication.markdown.html</guid>
 			</item>
 		
 	</channel>
