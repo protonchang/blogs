@@ -9,10 +9,10 @@ category-intro: "Agile project management is about being agile and adapting to w
 
 image: "2020-10-06-agile-project-management/agile_project_management.png"
 tags: agile-project-management scrum agile-tool productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list 
-author: "Vicky Pham"
-authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
-authorLink: "https://medium.com/@itsvicky"
+author: "Josh Guilar"
+authorImg: "/images/author/Quire_logo.png"
+authorDesc: "Quire Marketing Team"
+authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["Zapier Meets Quire: Automate the Way You Work", "How to Use Apple Sign-in with Quire", "Quire for Gmail: Turn Your Emails Into Tasks"]
 
@@ -189,6 +189,7 @@ To successfully implement agile project management in your business, finding the
 
 If you would like to share your successful stories or agile project management tips, comment below or tweet us at [@quire_io](https://twitter.com/quire_io) 🏆
 
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Find your motivation, don’t wait for it to come to you 💪🏻<a href="https://twitter.com/hashtag/quoteoftheday?src=hash&amp;ref_src=twsrc%5Etfw">#quoteoftheday</a><a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a> <a href="https://twitter.com/hashtag/remotework?src=hash&amp;ref_src=twsrc%5Etfw">#remotework</a> <a href="https://twitter.com/hashtag/motivation?src=hash&amp;ref_src=twsrc%5Etfw">#motivation</a> <a href="https://twitter.com/hashtag/projectmanagement?src=hash&amp;ref_src=twsrc%5Etfw">#projectmanagement</a> <a href="https://twitter.com/hashtag/Quireinspiration?src=hash&amp;ref_src=twsrc%5Etfw">#Quireinspiration</a> <a href="https://t.co/t7l961GoCJ">pic.twitter.com/t7l961GoCJ</a></p>&mdash; Quire (@quire_io) <a href="https://twitter.com/quire_io/status/1313761196210749441?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
