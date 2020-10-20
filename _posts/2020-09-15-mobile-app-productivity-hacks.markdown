@@ -11,7 +11,7 @@ image: "2020-09-15-mobile-app-productivity-hacks/Quire_mobile_hack.png"
 tags: productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork 
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Top 12 Quire Hacks that Make Your Productivity Great Again", "Introducing Quire Mobile 5.0 and Everything You Need to Know", "How to Boost Teamwork Performance with Transparent Communication"]

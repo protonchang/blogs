@@ -11,7 +11,7 @@ image: "2020-09-22-gmail-add-on/Gmail_Add_On.gif"
 tags: productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork 
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Zapier Meets Quire: Automate the Way You Work", "How to Use Apple Sign-in with Quire", "Wunderlist Alternative: Effortlessly Switch to Quire"]

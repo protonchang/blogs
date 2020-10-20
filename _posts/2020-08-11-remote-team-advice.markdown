@@ -11,7 +11,7 @@ image: "2020-08-11-remote-team-advice/remote_team_advice.png"
 tags: productivity productivity-app productivity-tool team-communication community-manager community-management team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork team-success
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Quire - Behind the Scenes: The Untold Stories", "How to Take a Break When Working Remotely to Increase Productivity?", "The Art of Being Productive While Staying In",]

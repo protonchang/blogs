@@ -11,7 +11,7 @@ image: "2020-10-20-google-assistant/Quire_google_assistant.png"
 tags: productivity productivity-app productivity-mobile-app team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Siri voice-assistant Quire-mobile Google-Assistant Google 
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["'Hey Siri, Add a Task in Quire!'", "Introducing Quire Mobile 5.0 and Everything You Need to Know", "Quire Mobile 3.0: Kanban Board comes to Mobile App"]
@@ -21,7 +21,7 @@ imgDir: "2020-10-20-google-assistant"
 
 ![Google Assistant]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_google_assistant.png)
 
-Obviously no one wants to manually type in the task anymore, the 21st century is all about automation, AI and voice recognition. After Siri integration, now Android users can talk to Quire using Google Assistant. Let’s have a conversation starting with “Okay Google”! 
+Obviously no one wants to manually type in the task anymore, the 21st century is all about automation, AI and voice recognition. After [Siri integration](https://quire.io/blog/p/quire-siri.html), now Android users can talk to Quire using Google Assistant. Let’s have a conversation starting with “Okay Google”! 
 
 You can basically ask Google Assistant to help you get anything done, hand-free. No matter if you’re driving on the highway, running errands or watching movies, you can keep track of your task list or capture the task that comes to your mind without opening the Quire mobile app. 
 

@@ -11,7 +11,7 @@ image: "2020-09-02-quire-siri/Quire_siri_iOS.png"
 tags: productivity productivity-app productivity-mobile-app team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Siri voice-assistant Quire-mobile
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Introducing Quire Mobile 5.0 and Everything You Need to Know", "Quire Mobile 3.0: Kanban Board comes to Mobile App", "Quire: Building a Sophisticated Mobile App with Google’s Flutter"]
