@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>&#39;Okay Google, talk to Quire!&#39;</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Connect Quire with Google Assistant - the voice-controlled virtual assistant powered by Google. Manage your task list without having to open Quire app.</description>
+				<pubDate>Tue, 20 Oct 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/google-assistant.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/google-assistant.html</guid>
+			</item>
+		
+			<item>
 				<title>What is Agile Project Management and How Remote Teams Implement Agile With a Team Management Software</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 25 Aug 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/productivity_myths_leadership.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/productivity_myths_leadership.html</guid>
-			</item>
-		
-			<item>
-				<title>How to Increase Team Productivity Based on Myers-Briggs Personality Types</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>Want to increase teamwork productivity based on MBTI personality types? Quire has put this useful article together on the best way to achieve this.</description>
-				<pubDate>Tue, 18 Aug 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/myers_briggs_mbti.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/myers_briggs_mbti.html</guid>
 			</item>
 		
 	</channel>

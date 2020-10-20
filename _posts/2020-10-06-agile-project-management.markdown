@@ -2,7 +2,7 @@
 layout: post
 title:  What is Agile Project Management and How Remote Teams Implement Agile With a Team Management Software
 date:   2020-10-06 11:58:07
-categories: "Productivity Tips"
+categories: "Productivity-tips"
 
 index-intro: "Agile project management is about being agile and adapting to what’s in front of you. For remote teams this is most effectively achieved by using team management software."
 category-intro: "Agile project management is about being agile and adapting to what’s in front of you. For remote teams this is most effectively achieved by using team management software."

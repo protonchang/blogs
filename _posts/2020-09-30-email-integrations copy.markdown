@@ -2,7 +2,7 @@
 layout: post
 title:  "Achieve Stress-Free Productivity with Quire and Email Integrations"
 date:   2020-09-30 11:58:07
-categories: "Productivity Tips"
+categories: "Productivity-tips"
 
 index-intro: "Achieve highest productivity level with Quire! Turn your emails into tasks or get instant notifications in your mailbox with the click of a button and you will be set to focus on actually getting things done!"
 category-intro: "Achieve highest productivity level with Quire! Turn your emails into tasks or get instant notifications in your mailbox with the click of a button and you will be set to focus on actually getting things done!"
