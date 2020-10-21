@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Deprecating Support For Internet Explorer Browser Starting From 2021</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Today, we are sorry to say that Quire will no longer support Internet Explorer (IE) by December 31, 2020. This means, starting from 2021, if you’re using IE, you cannot load or view Quire’s workspace anymore.</description>
+				<pubDate>Wed, 21 Oct 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/internet-explorer-deprecating.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/internet-explorer-deprecating.html</guid>
+			</item>
+		
+			<item>
 				<title>&#39;Okay Google, talk to Quire!&#39;</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 01 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/team-management-software.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/team-management-software.html</guid>
-			</item>
-		
-			<item>
-				<title>Top 8 Productivity Myths that You Should Avoid to Become a Great Leader</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>In this article, Quire looks at the top 8 productivity myths you must avoid to become a great leader in today’s business environment.</description>
-				<pubDate>Tue, 25 Aug 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/productivity_myths_leadership.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/productivity_myths_leadership.html</guid>
 			</item>
 		
 	</channel>
