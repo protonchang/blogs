@@ -23,7 +23,7 @@ imgDir: "2020-10-21-internet-explorer-deprecating"
 
 Today, we are sorry to say that Quire will no longer support Internet Explorer (IE) by December 31, 2020. This means, starting from 2021, if you’re using IE, you cannot load or view Quire’s workspace anymore. Quire team will neither optimize the experience for our IE users nor fix the glitches caused by IE. 
 
-We understand that you love IE, we mean, who did not? (It’s not a sarcastic comment!) 🤫 But [Microsoft has made up their mind](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) and while we know saying goodbye is never easy, we still chose to stop supporting IE in order to deliver the smoothest and most secured user experience to all of our users. We are committed to help you make this transition as quickly and efficiently as possible. 
+We understand that you love IE, we mean, who did not? (It’s not a sarcastic comment!) 🤫 But [Microsoft has made up their mind](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) and while we know saying goodbye is never easy, we still chose to stop supporting IE in order to deliver the smoothest and most secure user experience to all of our users. We are committed to help you make this transition as quickly and efficiently as possible. 
 
 ## Compatible Browsers to Choose From
 
