@@ -39,7 +39,7 @@ Without [Zapier](https://zapier.com/apps/quire/integrations) - an automation too
 
 #### Tips: Zapier currently only supports Business Gmail and Outlook email accounts. If you are using personal accounts, you will need to use Gmail Add-on instead. 
 
-<script type="text/javascript" src="https://zapier.com/apps/embed/widget.js?guided_zaps=207182,207271,207345"></script>
+<script type="text/javascript" src="https://zapier.com/zapbook/embed/widget.js?guided_zaps=207182,207271,207345"></script>
 
 <p class="notice">For more pre-made integrations with Zapier, read more on this <a href="https://quire.io/blog/p/zapier-integration.html">blog post about Zapier Integration.</a></p> 
 

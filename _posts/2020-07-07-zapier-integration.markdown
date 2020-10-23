@@ -11,7 +11,7 @@ image: "2020-07-07-zapier-integration/zapier_integration.png"
 tags: productivity productivity-app productivity-tool Zapier automate-workflow Zapier-integration increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
-authorDesc: "Trying not to get lost in the city lights."
+authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
 relatedPosts: ["Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity", "A Closer Look at Quire Redesigned My Tasks II", "Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack"]
@@ -49,7 +49,7 @@ If you are working with your team members and they’re not exactly tech savvy, 
 
 Now you’re all set and ready to use your first Zap! Click on any of the Use this Zap buttons below! 
 
-<script type="text/javascript" src="https://zapier.com/apps/embed/widget.js?guided_zaps=207182,207271,207303,207308,207313,207322,207335,207337,207340,207345"></script>
+<script type="text/javascript" src="https://zapier.com/zapbook/embed/widget.js?guided_zaps=207271,207303,207308,207313,207322,207335,207337,207340,207345"></script>
 
 
 [jekyll]:      http://jekyllrb.com
