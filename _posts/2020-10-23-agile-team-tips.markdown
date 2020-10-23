@@ -43,7 +43,7 @@ It is a well-known fact that as teams bond together and the dynamic of the group
 
 <p class="notice">Read more on <a href="https://quire.io/blog/p/myers_briggs_mbti.html">how to increase team productivity based on Myers-Briggs Personality Types.</a></p>
 
-## 2. Create robust engineering practices
+### 2. Create robust engineering practices
 
 This is one of those concepts that sounds way fancier than it actually is. But, it is important to keep in mind the concept of the agile team started out in the I.T. world, so there is definitely going to be some lingering tech-jargon.
 
@@ -53,7 +53,7 @@ Making sure that each task, each goal, each KPI, has a clear series of steps. An
 
 The best way to create robust engineering practices is to have [tasks lists with a set structure](https://quire.io/blog/p/to-do-list-tips-remote-teams.html) that can be implemented any time a certain task has to be done. This way there are fewer mistakes and more efficient output.
 
-## 3. Maintain continuous mentoring
+### 3. Maintain continuous mentoring
 
 Communication is vital. Ensuring team members have access to an environment supportive of their professional growth is incredibly important. Without this, it can be hard for your team to stay motivated, or to stay on top of their game.
 
@@ -69,7 +69,7 @@ Another useful thing which can be done is create a network of knowledge sharing 
 
 <p class="notice">Learn more on <a href="https://quire.io/blog/p/team-management-software.html">what a team management software is and how it can help your team success.</a></p>
 
-## 4. Establish a multi-disciplinary team
+### 4. Establish a multi-disciplinary team
 
 The [highest performing agile teams](https://quire.io/blog/p/remote-team-advice.html) have people with a wide variety of skills, because it allows for work to be effectively accomplished.
 
@@ -79,7 +79,7 @@ By having a multi-disciplinary or cross-functional team, they can provide result
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🏆 Quire is featured in <a href="https://twitter.com/Entrepreneur?ref_src=twsrc%5Etfw">@Entrepreneur</a> and <a href="https://twitter.com/DZoneInc?ref_src=twsrc%5Etfw">@DZoneInc</a> for one of the best Project Management Tools 😎<br><br>🚀 Read more: <a href="https://t.co/5tgjcORKFE">https://t.co/5tgjcORKFE</a><a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a> <a href="https://twitter.com/hashtag/TuesdayMotivation?src=hash&amp;ref_src=twsrc%5Etfw">#TuesdayMotivation</a> <a href="https://twitter.com/hashtag/Quireinspiration?src=hash&amp;ref_src=twsrc%5Etfw">#Quireinspiration</a> <a href="https://t.co/eT01ivsCES">pic.twitter.com/eT01ivsCES</a></p>&mdash; Quire (@quire_io) <a href="https://twitter.com/quire_io/status/1318512788508012546?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-## 5. Ensure team knows the end goal/big picture
+### 5. Ensure team knows the end goal/big picture
 
 Do not leave your team in the dark as to why they are working on a particular set of tasks. Knowing how each task or assignment aligns with the end goal and the big picture helps teams work better.
 
@@ -95,7 +95,7 @@ Sharing goals, and ensuring everyone is on the same page, is key to keeping an a
 
 As well as helping everyone feel responsible not only for their work, but also for the project as a whole.
 
-## 6. Enable team members to make their own decisions
+### 6. Enable team members to make their own decisions
 
 Your team members are people. Not robots. So, if you want them to work effectively, you need to enable them to make their own decisions where necessary.
 
@@ -107,13 +107,13 @@ You can do this by presenting them with the bigger picture and then give them th
 {% endmarkdown %}
 </div>
 
-## 7. Small teams are more efficient
+### 7. Small teams are more efficient
 
 For many projects small agile teams are more efficient. This is because they are often nimbler, and are able to collaborate and communicate easier.
 
 A small team is about 5 to 7 people. If you have more than that, see if it’s possible to break them up into smaller groups to get the most effective work done.
 
-## 8. Ensure team members have KPIs and can identify useful metrics
+### 8. Ensure team members have KPIs and can identify useful metrics
 
 Quick caveat: KPIs need to be meaningful—and specific—to the agile team. There’s really no point in having generic KPIs based on vague metrics.
 
@@ -129,7 +129,7 @@ Useful metrics are ones that allow the agile team to improve their work, but als
 {% endmarkdown %}
 </div>
 
-## 9. Create time and space for innovation
+### 9. Create time and space for innovation
 
 In an ideal world, it would be nice for teams to be able to factor in 20% to 30% of their time for innovation and fun. This has been shown to help people stay fresh, contribute to your organization’s innovation, and keep morale high.
 
@@ -137,7 +137,7 @@ Different companies have different ways of approaching this. And letting team me
 
 It also helps [motivate them to do better work](https://quire.io/blog/p/how-to-properly-take-a-break.html) consistently.
 
-## 10. Keep the team busy
+### 10. Keep the team busy
 
 Idle teams tend to lose their motivation and their momentum. The best way to keep them motivated and to ensure work is being consistently completed is to ensure a steady stream of work is sent their way.
 
