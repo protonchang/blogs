@@ -8,7 +8,7 @@ index-intro: "A project management platform is great for managing projects. But 
 category-intro: "A project management platform is great for managing projects. But if you want to better manage your organization, your projects and your team, then a work management platform is the ideal solution."
 
 image: "2020-11-03-work-management-software/work_management_software.png"
-tags: agile-project-management scrum agile-tool productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list work-management-software
+tags: agile-project-management work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list 
 author: "Josh Guilar"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Quire Marketing Team"
