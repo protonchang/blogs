@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>What is Work Management Software and Why Your Team Needs One</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>A project management platform is great for managing projects. But if you want to better manage your organization, your projects and your team, then a work management platform is the ideal solution.</description>
+				<pubDate>Tue, 03 Nov 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/work-management-software.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/work-management-software.html</guid>
+			</item>
+		
+			<item>
 				<title>10 Tips for Transforming Into a High Performing Agile Team</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 08 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/how-to-procrastinate.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/how-to-procrastinate.html</guid>
-			</item>
-		
-			<item>
-				<title>&#39;Hey Siri, Add a Task in Quire!&#39;</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Your smart assistant Siri just got smarter with iOS 13 for you in Quire. Simply call up Siri and start a conversation now!</description>
-				<pubDate>Wed, 02 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/quire-siri.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/quire-siri.html</guid>
 			</item>
 		
 	</channel>

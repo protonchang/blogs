@@ -8,7 +8,7 @@ index-intro: "Today, we are sorry to say that Quire will no longer support Inter
 category-intro: "Today, we are sorry to say that Quire will no longer support Internet Explorer (IE) by December 31, 2020. This means, starting from 2021, if you’re using IE, you cannot load or view Quire’s workspace anymore."
 
 image: "2020-10-21-internet-explorer-deprecating/Internet_explorer.png"
-tags: productivity productivity-app productivity-mobile-app team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Internet-explorer IE Browser Google-Chrome Microsoft-Edge Safari Mozilla-Firefox
+tags: productivity productivity-app productivity-mobile-app team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely remote-teams task-management task-management-software project-management-software productivity-tips to-do-list task-list teamwork Internet-explorer IE-Browser Google-Chrome Microsoft-Edge Safari Mozilla-Firefox
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
 authorDesc: "Growth Marketer by day, Bibliophile by night."
@@ -23,7 +23,7 @@ imgDir: "2020-10-21-internet-explorer-deprecating"
 
 Today, we are sorry to say that Quire will no longer support Internet Explorer (IE) by December 31, 2020. This means, starting from 2021, if you’re using IE, you cannot load or view Quire’s workspace anymore. Quire team will neither optimize the experience for our IE users nor fix the glitches caused by IE. 
 
-We understand that you love IE, we mean, who did not? (It’s not a sarcastic comment!) 🤫 But [Microsoft has made up their mind](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) and while we know saying goodbye is never easy, we still chose to stop supporting IE in order to deliver the smoothest and most secure user experience to all of our users. We are committed to help you make this transition as quickly and efficiently as possible. 
+We understand that you love IE, we mean, who doesn't? (It’s not a sarcastic comment!) 🤫 But [Microsoft has made up their mind](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) and while we know saying goodbye is never easy, we still chose to stop supporting IE in order to deliver the smoothest and most secure user experience to all of our users. We are committed to help you make this transition as quickly and efficiently as possible. 
 
 ## Compatible Browsers to Choose From
 
@@ -38,7 +38,7 @@ If you are not sure how to update your browser, please click on these following 
 * [Update Safari](https://support.apple.com/en-us/HT204416)
 * [Update Mozilla Firefox](https://support.mozilla.org/en-US/kb/update-firefox-latest-version)
 
-<p class="notice">If you need to clear browser history & cache, visit <a href="https://quire.io/guide/clear-cache/">Quire guide</a> for more information.</p>
+<p class="note">If you need to clear browser history & cache, visit <a href="https://quire.io/guide/clear-cache/">Quire guide</a> for more information.</p>
 
 ## We Are Here to Help!
 
