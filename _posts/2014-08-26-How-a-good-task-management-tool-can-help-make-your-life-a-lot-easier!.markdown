@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How a good task management tool can help make your life a lot easier!"
+title:  "How a Good Task Management Tool can Help Make Your Life a lot Easier!"
 date:    2014-08-26 11:58:07
 categories: "Workstyle"
 

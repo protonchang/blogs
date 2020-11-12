@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>10 Key Benefits of Using a Work Management Software for Remote Teams</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>Using work management software for remote teams is the easiest way to ensure all of your projects are carried out on time and to the client’s specifications.</description>
+				<pubDate>Thu, 12 Nov 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/work-management-tips.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/work-management-tips.html</guid>
+			</item>
+		
+			<item>
 				<title>What is Work Management Software and Why Your Team Needs One</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 15 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/mobile-app-productivity-hacks.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-productivity-hacks.html</guid>
-			</item>
-		
-			<item>
-				<title>You&#39;re Not Lazy! You Just Don&#39;t Know How to Procrastinate Properly</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>While being lazy is unproductive and harmful to your work week, intentional procrastination can help you get more done consistently. Find out how!</description>
-				<pubDate>Tue, 08 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/how-to-procrastinate.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/how-to-procrastinate.html</guid>
 			</item>
 		
 	</channel>
