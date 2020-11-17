@@ -21,9 +21,9 @@ imgDir: "2020-11-17-giveaway"
 
 ![Giveaway 2020]({{ site.baseurl }}/images/{{page.imgDir}}/Thanksgiving_Giveaway.png)
 
-We hope the last two chapters of 2020 have been great to you! In the festive spirit of sharing, we're doing some special giveaways as a thank-you note for being such an inspiration for us in the last 6 amazing years! 🎊
+We hope the last two chapters of 2020 have been great to you! In the festive spirit of sharing, we’re doing a special giveaway for all of you as a thank-you note for being such an inspiration for us in the last 6 amazing years!  🎊
 
-Enter to win one of ten awesome prize packs that empower you to achieve greater things in the future! In the next 7 days (*starting from November 18, 2020 at 00:00 PST to November 25, 2020 at 23:59 PST*), we're celebrating this year holiday season with you and here's all you have to do to receive our prize packages:
+Enter to win one of ten awesome prize packs that empowers you to achieve greater things in the future! 🎁 In the next 7 days (*starting from November 18, 2020 at 00:00 PST to November 25, 2020 at 23:59 PST*), we're celebrating this year holiday season with you and here's all you have to do to receive our prize packages:
 
 1. Follow either one of **Quire official social media accounts** [Quire Twitter](https://twitter.com/quire_io) or [Quire Facebook](https://www.facebook.com/quire.io/) or [Quire Instagram](https://www.instagram.com/quire_io/).
 
@@ -37,23 +37,23 @@ Enter to win one of ten awesome prize packs that empower you to achieve greater 
 {% endmarkdown %}
 </div>
 
-You will automatically be entered to a chance to win one of these wonderful prize packs:
+You will automatically be entered for a chance to win one of these wonderful prize packs:
 
 ## 🏆 First Place (1 winner):  
 
 - One-year Quire Premium Subscription (coupon to use after launching pricing program)
+- One Amazon US$100-worth gift card
 - One Quire polo shirt
 - One Quire cap
 - One Quire tumbler
-- Other Quire limited goodies
-- One Amazon US$100-worth gift card 
+- Other Quire limited goodies 
 
 ## 🏆 Second Place (2 winners):  
 
 - One-year Quire Premium Subscription (coupon to use after launching pricing program)
+- One Amazon US$50-worth gift card 
 - One Quire polo shirt
 - One Quire cap
-- One Amazon US$50-worth gift card 
 
 ## 🏆  Runner Up (7 winners):
 
@@ -63,7 +63,7 @@ You will automatically be entered to a chance to win one of these wonderful priz
 
 Ten lucky winners will be chosen at random and winners will be announced on our social media accounts within five business days. Read the [full terms and conditions of the giveaway](https://d12y7sg0iam4lc.cloudfront.net/s/data/blog/Quire+Giveaway+Terms+%26+Conditions.pdf).
 
-We can't wait to celebrate the last two chapters of this rocky year with you! And may the odds be ever in your favor! Cheers! ❤️
+We can't wait to celebrate the last two chapters of this rocky year with you! 🎊 And may the odds be ever in your favor! Cheers! ❤️
 
 
 [jekyll]:      http://jekyllrb.com
