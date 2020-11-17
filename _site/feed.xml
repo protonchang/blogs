@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sharing is Caring - You are All Invited to Join #QuireGivesBack Giveaway</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Enter to win Amazon US$100 gift card, Premium Quire subscription, limited Quire goodies and other awesome prize packs.</description>
+				<pubDate>Tue, 17 Nov 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/giveaway.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/giveaway.html</guid>
+			</item>
+		
+			<item>
 				<title>10 Key Benefits of Using a Work Management Software for Remote Teams</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 22 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/gmail-add-on.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/gmail-add-on.html</guid>
-			</item>
-		
-			<item>
-				<title>Brunch with Quire: Top 7 Quire Mobile Hacks to Make Your Life Easier</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>We hope your life has been easier with the help from Quire Mobile! If not (ooooopsss!), probably you have overlooked and missed some of these mobile hacks!</description>
-				<pubDate>Tue, 15 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/mobile-app-productivity-hacks.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-productivity-hacks.html</guid>
 			</item>
 		
 	</channel>
