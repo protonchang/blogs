@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>15 Productivity Tips from Bill Gates, Elon Musk, Warren Buffet and Others</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>Want to know how some of the most successful entrepreneurs maintain their success? Here are 15 productivity tips from some of the most successful entrepreneurs of all time.</description>
+				<pubDate>Fri, 27 Nov 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</guid>
+			</item>
+		
+			<item>
 				<title>Sharing is Caring - You are All Invited to Join #QuireGivesBack Giveaway</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 28 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/new-jobs-tips.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/new-jobs-tips.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire for Gmail: Turn Your Emails Into Tasks</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Break the loop of hell with the help from Gmail Add-on integration. Instantly create a task in Quire directly from your Google mailbox.</description>
-				<pubDate>Tue, 22 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/gmail-add-on.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/gmail-add-on.html</guid>
 			</item>
 		
 	</channel>
