@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>7 Productivity Rituals to Work Better Under Time Pressure</title>
+				
+					<dc:creator>Josh Guilar</dc:creator>
+				        
+				<description>wIn this blog post we look at 7 productivity rituals that will help you work better and more efficiently with time pressure.</description>
+				<pubDate>Wed, 02 Dec 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/productivity-ritual.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/productivity-ritual.html</guid>
+			</item>
+		
+			<item>
 				<title>15 Productivity Tips from Bill Gates, Elon Musk, Warren Buffet and Others</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 30 Sep 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/email-integrations%20copy.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/email-integrations%20copy.html</guid>
-			</item>
-		
-			<item>
-				<title>10 Tips for How to Successfully Settle Into a New Job Post-Covid Job Loss</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>Here are 10 tips on how to settle into new work successfully after you’ve lost a job because of the pandemic.</description>
-				<pubDate>Mon, 28 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/new-jobs-tips.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/new-jobs-tips.html</guid>
 			</item>
 		
 	</channel>
