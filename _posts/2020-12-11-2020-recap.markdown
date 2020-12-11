@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Quire Rewind 2020: What Was Done? What’s Next? What’s to Expect?"
+date:   2020-12-11 11:58:07
+categories: "Productivity-tips"
+
+index-intro: "In this blog post, we’re going to look back and reflect on the journey of 2020 at Quire. What we have done, what we have achieved and what’s more on the horizon for 2021."
+category-intro: "In this blog post, we’re going to look back and reflect on the journey of 2020 at Quire. What we have done, what we have achieved and what’s more on the horizon for 2021."
+
+image: "2020-12-11-2020-recap/2021_project_management_software.png"
+tags: productivity-advice 2020-recap agile-project-management work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips 2020-project-management-software 2021-project-management-software
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Growth Marketer by day, Bibliophile by night."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["7 Productivity Rituals to Work Better Under Time Pressure", "What is Agile Project Management and How Remote Teams Implement Agile With a Team Management Software", "Achieve Stress-Free Productivity with Quire and Email Integrations"]
+
+imgDir: "2020-12-11-2020-recap"
+---
+
+![2021 Project Management Software]({{ site.baseurl }}/images/{{page.imgDir}}/2021_project_management_software.png)
+
+2020 is an astounding year of disruption and transformation. We were asked to make some critical changes to our lives. Who would expect one day, out of the blue, remote work became a requirement for corporate lives. 
+
+Nations locked down, enterprises went out of business, and people are grieving everywhere. While the disaster hasn’t come to an end yet, we still hope you will spend the last couple days of 2020 in peace, maybe eat some cookies and a hot meal while enjoying the invaluable time with friends and family ❤️ 
+
+In the meantime, we’re going to look back and reflect on the journey of 2020 at Quire. What we have done, what we have achieved and what’s more on the horizon for 2021 🚀
+
+We hope at least in the darkest hours, somehow Quire has been able to inspire you to become a little more peaceful and productive.
+
+## A Brand-new Concept for a To-do List 📝
+
+One day when our team was working on a Marketing campaign, one of us realized our task list has grown into a mile-long list over the time. 
+
+It became too difficult to find the tasks that we needed to finish and using search functionality wasn’t productive enough. We then came up with the [Sublist](https://quire.io/guide/sublist-introduction/) concept. 
+
+With a collaborative to-do list, you can create your own personalized sub-list view by dragging-and-dropping the tasks that matter to you, so that you won’t get distracted and overwhelmed by the scale of the project. 
+
+You can work on the newly created sublist however you like, and all of the changes will be mirrored back to the main project list. 
+
+To view the tasks in a big picture context, you can always switch between the focused sublist and the “master” list. The sublist feature lets you focus on tasks that matter and create your own personal “workspace” within one collaborative project.
+
+<p class="notice">Read more about <a href="https://quire.io/blog/p/Quire-sublist.html">why Sublists can help you achieve projects' goals.</a>.</p>
+
+<div style="max-width: 380px; max-height: 333px; margin: 0 auto;">
+{% markdown %}
+![Productivity tips]({{ site.baseurl }}/images/{{page.imgDir}}/celebration.gif)
+{% endmarkdown %}
+</div>
+
+## An Elevated and Powerful Experience with Quire Mobile 5.0 📱
+
+Faster, more reliable, more powerful, more polished, are all we can talk about the new Quire Mobile 5.0 version that was introduced earlier this year. For the first time after releasing the first version of the mobile app, we have revamped everything about the interface and perfected the little details, as well as added more powerful features. 
+
+We want to make sure our app is accessible to you no matter what you are working on at the moment. [Google Assistant](https://quire.io/blog/p/google-assistant.html) and [Siri](https://quire.io/blog/p/quire-siri.html) have been activated to make Quire app even smarter. Now you can work with your task list with voice-controlled technology! 
+
+<p class="notice">Read more about <a href="https://quire.io/blog/p/introducing-new-mobile-app.html">everything you need to know about Quire Mobile 5.0</a>.</p>
+
+## Connect People From All Over the World 🌍
+
+As the severe situation going on and [remote working](https://quire.io/blog/p/remote-team-advice.html) culture has become the new normal, automation plays an important role in [team collaboration](https://quire.io/blog/p/team-management-software.html) and [communication](https://quire.io/blog/p/transparency-in-communication.markdown.html). We have introduced two powerful integrations that help you get things done faster: [Zapier](https://quire.io/blog/p/zapier-integration.html) and [Gmail Add-on](https://quire.io/blog/p/gmail-add-on.html). 
+
+<p class="tip">Learn more about <a href="https://quire.io/blog/p/email-integrations.html">how Emails can work best with Quire</a>.</p>
+
+Your job is to focus on the achievements and team success. We will take care of the rest. 
+
+Up to this moment, Quire has welcomed more than **200,000** users from **20** countries. It’s more than just the numbers. We can’t be more proud to know that Quire has been able to contribute to everyone’s success. 
+
+From launching a new product line, finishing a thesis, writing a book,  to helping the communities, we are so happy to see our users using Quire to lead the best life.
+
+In 2020, Quire has become available in other 3 languages: **Italian 🇮🇹**, **Turkish 🇹🇷** and **Russian 🇷🇺**. With 9 languages in total, we hope to reach more teams and people in the future. Let us help you lay the first brick of your success story!
+
+<div class="guest-only">
+{% markdown %}
+[![Work management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+{% endmarkdown %}
+</div>
+
+## 2021 is a New Chapter, and We’re Ready for New Challenges 💪 
+
+<div style="max-width: 380px; max-height: 333px; margin: 0 auto;">
+{% markdown %}
+![2021]({{ site.baseurl }}/images/{{page.imgDir}}/hope.gif)
+{% endmarkdown %}
+</div>
+
+Nothing about 2020 is easy. We’re so grateful for everything that we’ve accomplished in 2020 together. Currently, after listening carefully to users’ feedback and suggestions, our team is finalizing the last pieces on the **Timeline** feature 👏👏👏
+
+At the same time, we’re refining the Kanban Board feature to bring you the finest experiences. 
+
+In the near future, we hope to introduce to you a brand-new concept of team collaboration built on time-related factors. 
+
+In 2021, we are as hopeful as you are. Thank you for spending 2020 with us. See you back here with more glorious achievements and incredible milestones in your professional life 👋
+
+We wish you a productive and prosperous New Year,
+
+From all of us at Quire ❤️
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

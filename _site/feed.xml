@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Rewind 2020: What Was Done? What’s Next? What’s to Expect?</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>In this blog post, we’re going to look back and reflect on the journey of 2020 at Quire. What we have done, what we have achieved and what’s more on the horizon for 2021.</description>
+				<pubDate>Fri, 11 Dec 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/2020-recap.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/2020-recap.html</guid>
+			</item>
+		
+			<item>
 				<title>7 Productivity Rituals to Work Better Under Time Pressure</title>
 				
 					<dc:creator>Josh Guilar</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 06 Oct 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/agile-project-management.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/agile-project-management.html</guid>
-			</item>
-		
-			<item>
-				<title>Achieve Stress-Free Productivity with Quire and Email Integrations</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Achieve highest productivity level with Quire! Turn your emails into tasks or get instant notifications in your mailbox with the click of a button and you will be set to focus on actually getting things done!</description>
-				<pubDate>Wed, 30 Sep 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/email-integrations%20copy.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/email-integrations%20copy.html</guid>
 			</item>
 		
 	</channel>
