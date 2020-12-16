@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>You&#39;re Bad at Time Management, But We Can Help You Fix It!</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>This blog is going to explore the meaning of time management skills, in detail, with examples to help you understand the concept. Additionally, it will tell you how to use an underrated weapon- work management software, to boost your productivity without much effort.</description>
+				<pubDate>Wed, 16 Dec 2020 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/time-mangement-skills.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/time-mangement-skills.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Rewind 2020: What Was Done? What’s Next? What’s to Expect?</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 20 Oct 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/google-assistant.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/google-assistant.html</guid>
-			</item>
-		
-			<item>
-				<title>What is Agile Project Management and How Remote Teams Implement Agile With a Team Management Software</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>Agile project management is about being agile and adapting to what’s in front of you. For remote teams this is most effectively achieved by using team management software.</description>
-				<pubDate>Tue, 06 Oct 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/agile-project-management.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/agile-project-management.html</guid>
 			</item>
 		
 	</channel>
