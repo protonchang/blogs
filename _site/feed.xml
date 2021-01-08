@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Top 5 Business Tactics to Take into 2021</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>If you are a small business owner looking to give a boost to your business and recover from the sudden blow caused by 2020, then this guide is perfect for you. Here are five tactics that small business owners can put to use to kickstart their business in 2021.</description>
+				<pubDate>Fri, 08 Jan 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/business-resolutions.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/business-resolutions.html</guid>
+			</item>
+		
+			<item>
 				<title>You&#39;re Bad at Time Management, But We Can Help You Fix It!</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 21 Oct 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/internet-explorer-deprecating.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/internet-explorer-deprecating.html</guid>
-			</item>
-		
-			<item>
-				<title>&#39;Okay Google, talk to Quire!&#39;</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Connect Quire with Google Assistant - the voice-controlled virtual assistant powered by Google. Manage your task list without having to open Quire app.</description>
-				<pubDate>Tue, 20 Oct 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/google-assistant.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/google-assistant.html</guid>
 			</item>
 		
 	</channel>
