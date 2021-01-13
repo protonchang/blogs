@@ -1,0 +1,120 @@
+---
+layout: post
+title:  "Introducing Dynamic Timeline: Visualize Team Schedule and Achieve Success"
+date:   2021-01-14 11:58:07
+categories: "Features"
+
+index-intro: "We're so excited to introduce Quire Timeline. This feature was a long time coming, but we can't wait to show you how Quire Timeline goes beyond the traditional Gantt chart and fits as the lastest piece of Quire."
+category-intro: "We're so excited to introduce Quire Timeline. This feature was a long time coming, but we can't wait to show you how Quire Timeline goes beyond the traditional Gantt chart and fits as the lastest piece of Quire."
+
+image: "2021-01-14-timeline/Quire_gantt.png"
+tags: Timeline Gantt-chart Quire-timeline Quire-Gantt-chart Gantt-chart-free Project-management-software-with-Gantt best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Growth Marketer by day, Bibliophile by night."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives", "Quire - Behind the Scenes: The Untold Stories", "Zapier Meets Quire: Automate the Way You Work"]
+
+imgDir: "2021-01-14-timeline"
+---
+
+![Quire Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_gantt.png)
+
+If you’ve been with Quire from day one, we can imagine how excited you are to see the title of this blog post. Finally, the long-awaited Gantt Chart, also known as Timeline, has made its first debut. 
+
+We’ve spent time discussing and developing a Timeline feature that actually helps you manage your projects in the most efficient and easiest way possible, instead of freaking you out with all the complexities of a traditional Gantt Chart.
+
+A lot of trials and errors have been made and today, we’re proud to introduce the **Dynamic Timeline** feature to you. 
+
+<p class="tip">Currently Timeline feature is also available for My Tasks and Smart Folder.</p>
+
+## What is Timeline and Why Do We Need One?
+
+**Timeline** (Gantt Chart) was born to answer three critical questions to project management:
+
+1. Who is responsible for the tasks?
+
+2. How long will these tasks last?
+
+3. Which tasks should be prioritized first?
+
+The traditional Gantt chart is a horizontal bar chart that illustrates a project schedule. Each bar in a Gantt chart represents a task in the project timeline and the length of the bar visualizes the time duration for completing the task. 
+
+Since all of the tasks are laid out in a calendar-like view, managers can get the bird’s eye picture of the current project status. A classic Gantt chart will show the task list timeline, start and end dates for the project, task dependencies, along with the responsible assignees. 
+
+However, since a Gantt chart can include many information in order to present as detailed messages as possible, users tend to feel overwhelmed and end up being clueless and even more confused.  
+
+That’s the main reason why it took our team so long to finally figure out a Timeline that is intuitive enough to get you started and powerful enough to keep up with your challenging projects. 
+
+## Workload Management made easy with Quire Timeline
+
+### 1. Schedule project agenda and plan ahead to stay prepared
+
+![Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/Timeline.png)
+
+On the upper right corner, before switching your project view to Timeline, make sure you have added start and due dates for your tasks. If you haven’t decided the schedule for your tasks yet, you can simply drag and arrange the timespan for completing the tasks.
+
+<p class="tip">Any project and its sublists can easily switch among Tree view, Board view and Timeline view.</p>
+
+With the Timeline view, each task will be mapping out its time duration. The Timeline is best to forecast the project that you’re working on to see if there’s any timing conflict or if your team is on track to meet the deadlines. You can easily drag to reschedule the time duration of the tasks for as long as they should take.
+
+### 2. Stay in context with Nested Task List and Timeline
+
+If you google “project management software with Timeline/Gantt Chart feature”, the results will drive you crazy. We don’t want to create another software with the same feature, just a different layout. 
+
+When you switch your list to Timeline view, we let you keep the nested task list in the left side and present the project timeline in the right hand side. Unlike other project management software, once you switch to Gantt view, you have to give up your list view. We understand a project context is essential for team members to execute and manage the tasks. 
+
+![Timeline]({{ site.baseurl }}/images/{{page.imgDir}}/colorSwitch.gif)
+
+To better visualize the project, you can set colors to your tasks either by priority, tag or date. Many studies have shown that colors can make significant differences to how much you are willing to get started on the tasks. 
+
+The dot in the right hand side of the task name indicates the task color and you can hover over the dot to see the due date of the task. And if you click on the dot, it will bring you right to the task that you’re viewing in Timeline!
+
+### 3. Monitor project resources and availability
+
+Let’s say you’re working on a project with 10 more members and some of them are clearly falling behind the schedule. However, with a clear project timeline, managers or supervisors can immediately spot the obstacles that block the team success. 
+
+![Gantt]({{ site.baseurl }}/images/{{page.imgDir}}/groupBy.png)
+
+In the Timeline view, you can sort the tasks by Assignees and all of the tasks will be grouped by the assignees accordingly. With the tasks presented in the lane for each assignee, you can immediately know if the tasks are evenly distributed between team members, or need extra attention in order to meet the deadlines.
+
+### 4. Customize Task List with Grid View
+
+![Grid View]({{ site.baseurl }}/images/{{page.imgDir}}/grid.png)
+
+Since the timeline view can only show very limited details of the task list, you can tap on the timeline button and toggle on Grid View. 
+
+You can choose which task details you would like to  show on your list, the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. After choosing which option you want to show, you can resize the column if needed. 
+
+## How Quire Team Plans With Timeline 🚀
+
+### 1. Project Manager and Dev Team use Timeline for Product Launches
+
+![Project Manager]({{ site.baseurl }}/images/{{page.imgDir}}/timeline_j.png)
+
+Before rolling out a new feature, it requires a long time of brainstorming and scheduling and making arrangements to available resources. Quire Project Manager Jim has been working side-by-side with the Head of Development Team to stay updated on the development process. Jim will use Timeline then group all the task by tags, so that he can have a bird's eye view of the project.
+
+If there are sudden changes in the product and the Dev Team requires more time to work on the details, Project Manager has to rearrange the product readiness to ensure that the product roadmap will not get affected. Jim uses Timeline to spot roadblocks and forecast the duration of a feature development process. 
+
+### 2. Head of Human Resources uses Timeline for Event Planning
+
+![Event Planning]({{ site.baseurl }}/images/{{page.imgDir}}/timeline_p.png)
+
+Penny is Quire’s Head of HR department. Her job is very stressful with thousands of deadlines and details to keep track of. She needs to make sure every due date is met - it’s not as easy as ticking off a task in your checklist. 
+
+Penny uses Timeline (Month view, sort by date, Advanced mode) to visualize the events that will be happening in the next couple of weeks. With all of the tasks presenting in a timeline view, Penny can make sure she can proactively manage the communications and spot any timing issues before they happen.
+
+## Get Ready for a Game-changing Comprehensive Project Management Tool 🏆
+
+Timeline is incredibly versatile - no matter if you are a project manager, marketing coordinator, CEO or a consultant. You can use Timeline to manage a long-term complex project that has thousands of tasks or a short-term project that involves a lot of collaboration. 
+
+If you’re working as a team, you cannot afford to manage your task list without a Timeline. Introduce your team members to Quire Timeline today and let them proactively plan their work and track the progress to ensure team’s success.
+
+<p class="alert"> P.S.: It’s just the beginning of our Timeline journey and there will be a lot of potential aspects of this feature that we haven’t explored yet. Leave your comments here below or tweet us at @quire_io to let us know what you think of our Timeline and how we should make it even better!</p>
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
