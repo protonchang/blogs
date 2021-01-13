@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives"
+date:   2021-01-14 11:50:07
+categories: "Features"
+
+index-intro: "Everything is better. Everything is more organized. Everything is more productive. All with Kanban Board 2."
+category-intro: "Everything is better. Everything is more organized. Everything is more productive. All with Kanban Board 2."
+
+image: "2021-01-14-board/Quire_board_2.gif"
+tags: Kanban-board Board Project-management-software-with-board best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Growth Marketer by day, Bibliophile by night."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["Quire for Gmail: Turn Your Emails Into Tasks", "Quire - Behind the Scenes: The Untold Stories", "Zapier Meets Quire: Automate the Way You Work"]
+
+imgDir: "2021-01-14-board"
+---
+
+![Quire Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_board_2.gif)
+
+Since 2018 when we first introduced our [Quire Mark III](https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html) and **Kanban Board** officially joined force with **Quire Nested Task List** to become a powerful duo to tackle big projects and challenges. From small enterprise projects to large-scale initiatives, Quire Board made it even easier to share teams’ vision and achievements. 
+
+We have listened to users’ feedback and suggestions as well as continuously discussed internally to make the Quire Kanban Board even better. Today, we are happy to announce that Kanban Board 2.0 is here, ready to walk your dreams home from multiple perspectives 🚀🚀🚀
+
+## Toggle between Board and List View
+
+Quire Kanban Board 2.0 still lets you get the bird’s eye view of your projects and manage team progress from start to finish with the traditional cards and columns. However, the new Kanban Board gives you more flexibility to work with any of your task list and sublists.
+
+We understand not all of you are list maniac like us, so we let you have a customizeable *default board view* for every project. Now you can view and manage your task list from different angles, different prospects without selecting some tasks into a specific board. 
+
+We let you have the flexibility to switch among nested list view and Kanban board view and Timeline view (even more views to come in the future). With every project, you can have at least 3 different views to choose from. 
+
+On the right hand side of your list view, click on the Board icon and your tasks will be presented in the board layout.
+
+![Create Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/board.png)
+
+## Agile Approach with Kanban Board
+
+You still want to get focused with several selected tasks in one board like the old times?  Sure! We’ve got you covered! However, instead of creating a board, you actually create a [sublist](https://quire.io/blog/p/Quire-sublist.html) from your Task List and choose the default view as “Board”. Then select the tasks you would like to add to the board. 
+
+![Agile Method]({{ site.baseurl }}/images/{{page.imgDir}}/create_board.png)
+
+The default columns are created based on the project’ statuses. You can drag and drop tasks between columns to set the new status, even rearrange the task order however you like to get the view that you need. 
+
+![Quire Board]({{ site.baseurl }}/images/{{page.imgDir}}/view_board.png)
+
+You and your teammates can keep switching back and forth between board and list views. One can work with a board view and the other one can work with a list view within the same project, best of both worlds! 
+
+## Visualize Work-in-progress in your customizable columns   
+
+Quire Kanban Board 2.0 lets you flip up your task list and organize your boards by customizable column sections. 
+
+![Project Management with Kanban]({{ site.baseurl }}/images/{{page.imgDir}}/board_column.png)
+
+* Visually project’s progress? Shuffle the board by status
+* Keep up with the most critical tasks? Shuffle the board by priority
+* Concerning with team allocations? Shuffle the board by assignee
+* Categorizing different groups: Shuffle the board by tag
+* Visualize project schedule? Shuffle the board by date 
+
+The new Kanban Board is flexible enough for you to customize whichever the views in however order you would like. Your workflow is now in your hand, with full control! 
+
+When working with Kanban Board, we love to rearrange the tasks by dragging and dropping the tasks between columns to create different [swimlanes](https://quire.io/blog/p/Kanban-board-swimlane.html) for better visualization. 
+
+## How is Quire Team Currently Using Boards 2.0?
+
+In case you’re wondering how we’re managing our projects with Kanban Board 2.0, here are some examples to inspire you to get creative with your boards!
+
+### Tracking different stages of different campaigns: from a Marketing perspective
+
+![Marketing Board]({{ site.baseurl }}/images/{{page.imgDir}}/board_v.png)
+
+As a Growth Marketer, it’s critical to get the birds’ eye views of everything going on with the marketing campaigns and the product’s development phases. Vicky - Quire’s Growth Marketer - uses Kanban Boards 2.0 to group her tasks into different boards like **“Quire Thanksgiving Giveaway 2020 Campaign”** or **“Timeline 2021 Marketing Kit”**. Within one board, she keeps categorizing tasks by different columns, and each column represents a different project stage, such as **“Phase 1”**, **“Phase 2”**, **“Phase 3”** . 
+
+This way, by looking at the boards, Vicky can know exactly what needs to be done for one particular campaign in the phase one time period. Meanwhile, when necessary, she can always switch back to the “master” list view to see the tasks in full context.
+
+### Collaborating between two departments: from Community Manager and Senior Engineers perspective.
+
+![Community Board]({{ site.baseurl }}/images/{{page.imgDir}}/board_p.png)
+
+As a **Community Manager**, Peggy needs to collect users’ suggestions and glitches feedback then report to the **Developer Team** so that they can get their hands on the bugs. Peggy usually creates a board that includes all of the bugs and another board for all of the suggestions from users. 
+
+Within the bug report board, she will assign the tasks to the developers who are in-charge then column by assignees. When the developers have fixed the bug, they will complete the tasks then Peggy will get notified that the bugs have been fixed.
+
+### Manage efforts based on date and priority: from an UI/UX designer perspective.
+
+![Design Board]({{ site.baseurl }}/images/{{page.imgDir}}/board_j.png)
+
+As a person who is familiar with tight deadlines, Jess needs a board that lays out all of the tasks and their detailed due dates and priorities for her. The most urgent tasks will be put in the **“Urgent”** column, which will immediately catch Jess’ attention and full devotion to those tasks. 
+
+Jess takes advantage of the dynamic filtering and sorting functionalities: she creates her own board and uses the combo **“Column by priority”** plus **“Group by date”** (you can call this a *swimlane*), Jess can plan ahead to see which tasks are falling behind then rearrange her time schedule.
+
+## Success is Built on How Well-planned You are 🎉
+
+Kanban Board might not be a new term to productivity gurus. But sometimes you still need to get creative to best utilize your board’s endless possibilities. We’ve examined the best way to visualize our workflow with Kanban Board 2.0 and we hope you find our unique approach helpful to get things done and achieve your dreams! 
+
+How do you like the new Kanban Board 2.0? Let us know in the comment section below or tweet us at [@quire.io](https://twitter.com/quire_io)! We can’t wait to see how you lay out your board view and what you are going to achieve in the future! 
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
