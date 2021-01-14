@@ -31,7 +31,7 @@ Quire Kanban Board 2.0 still lets you get the bird’s eye view of your projects
 
 We understand not all of you are list maniac like us, so we let you have a customizeable *default board view* for every project. Now you can view and manage your task list from different angles, different prospects without selecting some tasks into a specific board. 
 
-We let you have the flexibility to switch among nested list view and Kanban board view and Timeline view (even more views to come in the future). With every project, you can have at least 3 different views to choose from. 
+We let you have the flexibility to switch among nested list view and Kanban board view and [Timeline view](https://quire.io/blog/p/timeline.html) (even more views to come in the future). With every project, you can have at least 3 different views to choose from. 
 
 On the right hand side of your list view, click on the Board icon and your tasks will be presented in the board layout.
 
