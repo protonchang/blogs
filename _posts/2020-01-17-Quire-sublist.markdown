@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Trying not to get lost in the city lights."
 authorLink: "https://medium.com/@itsvicky"
 
-relatedPosts: ["Quire My Tasks II: Redesign the way you kickstart a day", "A Closer Look at Quire Redesigned My Tasks II", "Quire & Beyond: Build great things with Quire API"]
+relatedPosts: ["Quire My Tasks II: Redesign the way you kickstart a day", "Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success", "Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives"]
 
 imgDir: "2020-01-17-Quire-sublist"
 ---

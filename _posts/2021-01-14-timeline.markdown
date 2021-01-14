@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
-relatedPosts: ["Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives", "Quire - Behind the Scenes: The Untold Stories", "Zapier Meets Quire: Automate the Way You Work"]
+relatedPosts: ["Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives", "Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity", "Zapier Meets Quire: Automate the Way You Work"]
 
 imgDir: "2021-01-14-timeline"
 ---

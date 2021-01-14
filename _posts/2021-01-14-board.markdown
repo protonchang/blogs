@@ -14,7 +14,7 @@ authorImg: "/images/author/Vicky.png"
 authorDesc: "Growth Marketer by day, Bibliophile by night."
 authorLink: "https://medium.com/@itsvicky"
 
-relatedPosts: ["Quire for Gmail: Turn Your Emails Into Tasks", "Quire - Behind the Scenes: The Untold Stories", "Zapier Meets Quire: Automate the Way You Work"]
+relatedPosts: ["Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity", "Quire for Gmail: Turn Your Emails Into Tasks", "Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success"]
 
 imgDir: "2021-01-14-board"
 ---
