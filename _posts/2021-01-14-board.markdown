@@ -7,7 +7,7 @@ categories: "Features"
 index-intro: "Everything is better. Everything is more organized. Everything is more productive. All with Kanban Board 2."
 category-intro: "Everything is better. Everything is more organized. Everything is more productive. All with Kanban Board 2."
 
-image: "2021-01-14-board/Quire_board_2.gif"
+image: "2021-01-14-board/kanban2_cover.gif"
 tags: Kanban-board Board Project-management-software-with-board best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -19,7 +19,7 @@ relatedPosts: ["Quire Sublist: Bridge the Gap between Team To Do Lists and Perso
 imgDir: "2021-01-14-board"
 ---
 
-![Quire Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_board_2.gif)
+![Quire Kanban Board]({{ site.baseurl }}/images/{{page.imgDir}}/kanban2_cover.gif)
 
 Since 2018 when we first introduced our [Quire Mark III](https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html) and **Kanban Board** officially joined force with **Quire Nested Task List** to become a powerful duo to tackle big projects and challenges. From small enterprise projects to large-scale initiatives, Quire Board made it even easier to share teams’ vision and achievements. 
 

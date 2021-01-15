@@ -7,7 +7,7 @@ categories: "Features"
 index-intro: "We're so excited to introduce Quire Timeline. This feature was a long time coming, but we can't wait to show you how Quire Timeline goes beyond the traditional Gantt chart and fits as the lastest piece of Quire."
 category-intro: "We're so excited to introduce Quire Timeline. This feature was a long time coming, but we can't wait to show you how Quire Timeline goes beyond the traditional Gantt chart and fits as the lastest piece of Quire."
 
-image: "2021-01-14-timeline/Quire_gantt.png"
+image: "2021-01-14-timeline/introducing_timeline.gif"
 tags: Timeline Gantt-chart Quire-timeline Quire-Gantt-chart Gantt-chart-free Project-management-software-with-Gantt best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips
 author: "Vicky Pham"
 authorImg: "/images/author/Vicky.png"
@@ -19,7 +19,7 @@ relatedPosts: ["Quire Kanban Board 2.0 - Visualize Team Progress from Multiple P
 imgDir: "2021-01-14-timeline"
 ---
 
-![Quire Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_gantt.png)
+![Quire Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/introducing_timeline.gif)
 
 If you’ve been with Quire from day one, we can imagine how excited you are to see the title of this blog post. Finally, the long-awaited Gantt Chart, also known as Timeline, has made its first debut. 
 
