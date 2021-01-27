@@ -12,7 +12,7 @@ github_username:  jekyll
 permalink: '/p/:title.html'
 paginate: 15
 paginate_path: "/pages/page:num/"
-popular_posts: ["To Do List and Kanban: What Project Management Did Wrong", "Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack", "Why We Abandoned the To-Do List"]
+popular_posts: ["Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success", "Quire Peekaboo and GTD Methodology: A Miracle for Your Productivity Hack", "15 Productivity Tips from Bill Gates, Elon Musk, Warren Buffet and Others"]
 
 search: true
 search_full_content: true
