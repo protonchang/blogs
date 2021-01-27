@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Smoothly Switch from Todoist to Quire</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Effortlessly Switch from Todoist to Quire in only 3 pain-free steps! Pick up right where you left off and continue writing your dreams with Quire!</description>
+				<pubDate>Wed, 27 Jan 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/todoist-alternatives.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/todoist-alternatives.html</guid>
+			</item>
+		
+			<item>
 				<title>Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 12 Nov 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/work-management-tips.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/work-management-tips.html</guid>
-			</item>
-		
-			<item>
-				<title>What is Work Management Software and Why Your Team Needs One</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>A project management platform is great for managing projects. But if you want to better manage your organization, your projects and your team, then a work management platform is the ideal solution.</description>
-				<pubDate>Tue, 03 Nov 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/work-management-software.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/work-management-software.html</guid>
 			</item>
 		
 	</channel>
