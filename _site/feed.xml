@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Introducing Quire iPad App </title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Ready for an upgraded Quire experience on your not-an-actual-computer computer? It just works even better!</description>
+				<pubDate>Thu, 18 Feb 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/ipad-app.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/ipad-app.html</guid>
+			</item>
+		
+			<item>
 				<title>7 Billionaires and Their Habits That Help Them Achieve Their New Year Goals</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 27 Nov 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</guid>
-			</item>
-		
-			<item>
-				<title>Sharing is Caring - You are All Invited to Join #QuireGivesBack Giveaway</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Enter to win Amazon US$100 gift card, Premium Quire subscription, limited Quire goodies and other awesome prize packs.</description>
-				<pubDate>Tue, 17 Nov 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/giveaway.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/giveaway.html</guid>
 			</item>
 		
 	</channel>
