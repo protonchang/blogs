@@ -143,7 +143,7 @@ All of which can be difficult when some—or all—of your team is [working remo
 
 <div class="guest-only">
 {% markdown %}
-[![Task management software]({{ site.baseurl }}/images/{{page.imgDir}}/team_management_software.png)](https://bit.ly/3csOCXf)
+[![Task management software]({{ site.baseurl }}/images/{{page.imgDir}}/team_management_software.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 {% endmarkdown %}
 </div>
 

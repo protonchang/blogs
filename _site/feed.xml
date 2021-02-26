@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Complete Guide of 2-Minute Rule by James Clear</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>If you find it hard to start a new habit or break one, the book Atomic Habits by James Clear would be of great help. Here are the detailed guideline on how to get started with the 2-minute rule and apply to your life.</description>
+				<pubDate>Fri, 26 Feb 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/2-minute-rule.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/2-minute-rule.html</guid>
+			</item>
+		
+			<item>
 				<title>Introducing Quire iPad App </title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 02 Dec 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/productivity-ritual.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/productivity-ritual.html</guid>
-			</item>
-		
-			<item>
-				<title>15 Productivity Tips from Bill Gates, Elon Musk, Warren Buffet and Others</title>
-				
-					<dc:creator>Josh Guilar</dc:creator>
-				        
-				<description>Want to know how some of the most successful entrepreneurs maintain their success? Here are 15 productivity tips from some of the most successful entrepreneurs of all time.</description>
-				<pubDate>Fri, 27 Nov 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/productivity-advice-from-enterpreneurs.html</guid>
 			</item>
 		
 	</channel>

@@ -103,7 +103,7 @@ You can also share a view of the project with a client so they too can see the b
 
 <div class="guest-only">
 {% markdown %}
-[![Task management software]({{ site.baseurl }}/images/{{page.imgDir}}/team_managment_tool.png)](https://bit.ly/3csOCXf)
+[![Task management software]({{ site.baseurl }}/images/{{page.imgDir}}/team_managment_tool.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 {% endmarkdown %}
 </div>
 

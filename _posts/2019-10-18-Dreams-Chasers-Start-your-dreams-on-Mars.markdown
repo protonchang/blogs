@@ -56,7 +56,7 @@ Quire also allows Team Tumbleweed to keep documents corresponding to a task cent
 
 Choosing a good project management software that has enough features for the team to get things done yet still maintain a simple and clean minimalist is not an easy mission. Quire team is very happy to join the exciting journey of Team Tumbleweed.  And, we aspire to hear more great stories about Quire’s role in pursuing your next goals!
 
-[![Free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+[![Free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 
 [jekyll]:      http://jekyllrb.com

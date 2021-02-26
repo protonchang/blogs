@@ -47,7 +47,7 @@ If you’re a Quirean for a long time, you already knew about the Overview page.
 
 In the detail panel, under the **Description** section, you will see a line that says [#] incomplete and [#] completed subtasks. Click to expand and you can view a pie chart that summarizes the progress of the parent task and its subtasks. You can also view the clickable first-level subtasks as well. Cool, isn’t it?
 
-[![Quire free signup]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+[![Quire free signup]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 ## 3. Right-click to access Context Menu 
 

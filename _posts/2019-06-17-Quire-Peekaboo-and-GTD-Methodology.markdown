@@ -26,7 +26,7 @@ It's a Monday morning, you’re sitting at your desk trying to recover from your
 
 Researchers have pointed out that incomplete tasks can trigger stress - especially at workplace. Trying to combat with an overwhelming list with thousands of unfinished to-dos can drain energy, make you lose motivation and get tired easily. Sometimes, listing out everything you need to do does more harm than good. Rather than trying to be an overachieving superhero, how about just be an ordinary person with an effective working method? 
 
-[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 Years ago, when David Allen first introduced Getting Things Done (GTD) methodology in his book, it immediately became a phenomenon all over the world. Basically, GTD is a productivity method that helps you organize, optimize productivity, reduce stress and save your precious time. The key to GTD is an open loop that includes everything. 
 
@@ -78,7 +78,7 @@ Follow your passion, love your job and you will never have to work another day i
 
 If you still have any question or concern, reach out to us at feedback@quire.io 
 
-[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+[![GTD Method Tools]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 
 [jekyll]:      http://jekyllrb.com

@@ -29,7 +29,7 @@ Imagine your team is working from different locations with different time zones,
 
 [Virtual collaboration](https://quire.io) will soon become the work trend for this new decade, even when the outbreak is over. Managers have acknowledged the power of remote work and started to operate the companies across time zones. Since remote collaboration and communication don’t come with a handbook, this article will share with you how to use a simple digital to do list to keep your team connected. 
 
-[![Quire free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+[![Quire free signup]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 ## 1. Keep the to-do list neat and let go of the micromanagement 
 

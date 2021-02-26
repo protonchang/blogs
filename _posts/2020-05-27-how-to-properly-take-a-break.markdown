@@ -60,7 +60,7 @@ To keep your brain working at its peak performance, taking a break regularly can
 </div>
 If you keep lighting a cigarette once every 20 minutes, chances are you have been too stressed for a long time. Instead of sticking to your bad habits, taking a longer lunch break to enjoy your healthy meal can make a huge impact on your productivity. Starting from a nutritious meal, you can incorporate more healthy habits into your work life. You can even squeeze in a 25-minute nap, which can reset your working brain for better decision making and prevent memory loss. 
 
-[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 ## How to set up constructive breaks when working remotely?
 

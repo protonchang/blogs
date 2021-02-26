@@ -137,7 +137,7 @@ By being transparent with clients, they are often happier for being informed.
 
 <div class="guest-only">
 {% markdown %}
-[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 {% endmarkdown %}
 </div>
 

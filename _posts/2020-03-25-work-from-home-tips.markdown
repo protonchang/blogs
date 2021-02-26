@@ -58,7 +58,7 @@ With remote work, both managers and employees are forced to engage in virtual co
 
 Social isolation can also be a potential threat to your productivity when you are working from home. Even introverts will suffer from loneliness when working alone at home. The best advice is not to wait for others to reach out, when you practice social distancing, you can actually be more active to communicate with your teams and your managers. Don’t isolate yourself in the fortress of solitude, remember everyone is experiencing the same frustration that you’re having now. 
 
-[![Work at home tools]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/3csOCXf)
+[![Work at home tools]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 
 ## 3. Stay away from the distractions 
 

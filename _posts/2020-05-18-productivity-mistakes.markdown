@@ -147,7 +147,7 @@ If you’re looking for a project management tool that is simple to use and navi
 
 <div class="guest-only">
 {% markdown %}
-[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/3csOCXf)
+[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
 {% endmarkdown %}
 </div>
 
