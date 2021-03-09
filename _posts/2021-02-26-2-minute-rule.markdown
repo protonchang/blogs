@@ -28,7 +28,7 @@ While we are aware of all this, are we really taking the right step to refine ou
 
 The book puts forwards a very simple, yet executable rule, the 2-minute rule that would help you stop the [procrastinating habit](https://quire.io/blog/p/how-to-procrastinate.html) and be on track. While you may not find some new, unheard concepts, the book breaks down the existing concepts into simple techniques, which can then be adopted into our daily life.
 
-<p class="notice">Read more on <a href="http://localhost:4000/blog/p/billionaires-productivity-tips.html">7 billionaires and their habits that help them achieve their new year goals.</a></p>
+<p class="notice">Read more on <a href="https://quire.io/blog/p/billionaires-productivity-tips.html">7 billionaires and their habits that help them achieve their new year goals.</a></p>
 
 ## 4 of the Powerful Concepts Detailed in the Book
 
