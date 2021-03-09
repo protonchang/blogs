@@ -136,7 +136,7 @@ You can do teamwork in real time, no matter where you are. Sharing and delegatin
 
 <div class="guest-only">
 {% markdown %}
-[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Task management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 

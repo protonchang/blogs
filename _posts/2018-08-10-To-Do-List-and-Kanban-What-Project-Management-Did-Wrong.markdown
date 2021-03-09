@@ -116,7 +116,7 @@ You can add different boards for different teams, such as RD and Marketing, for 
 
 You can even further dive into tasks in your own swimlane in the board!
 
-[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/38mUj9f)
 
 ## One World, Two Views Multiplied
 

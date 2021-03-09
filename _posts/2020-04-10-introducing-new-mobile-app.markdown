@@ -61,7 +61,7 @@ For dynamic teams working on multiple complex projects, we are more than happy t
 
 “The new design goes beyond the basics, removes non-functional steps and frees up the limitation of our brains’ thinking process. You can quickly access and switch between tasks, projects and organizations. Every detail, every tap, every icon on the screen is carefully designed to yield the most meaningful experience to our users. If there’s a functionality that you want to use in the app, it’s already there waiting for you.”, said Jerry Chen, Senior Software Engineer at Quire. “It’s always our top priority to create the most intuitive workflow for our users to achieve their goals, and we can’t wait for everyone to try out the new version of Quire Mobile App.”
 
-[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://bit.ly/38mUj9f)
 
 ## Quire Sublist comes to mobile app
 

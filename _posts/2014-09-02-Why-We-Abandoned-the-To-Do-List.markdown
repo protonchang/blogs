@@ -36,7 +36,7 @@ For instance, if we have both “*Read n pages of Book X*” and “*Get a Pilot
 
 Without exhaustively considering all possible ways to falsify the usefulness of to-do lists, let’s note that ***a to-do list no longer suffice when the number of tasks is large enough to render them equally important or when the list becomes heterogeneous***.
 
-[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 
 ## Do the tasks we put down in our conventional task management systems collide with these limitations?
 
@@ -88,7 +88,7 @@ or
 
 In either case, we’d completely miss the dependency that “Review A3" has on “Do B2", since it belongs to a list of subtasks hidden in view. Neither view conveys the context which would rather indicate that one sub-task of one task hierarchy depends on that of another. ***Essentially, what users see is still to-do lists in their primordial form, but now in multiples, without presenting tasks’ context and relations***.
 
-[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![To do list app]({{ site.baseurl }}/images/{{page.imgDir}}/signup_quire.png)](https://bit.ly/38mUj9f)
 
 ## Our solution is to preserve tasks’ natural hierarchy in a tree structure
 

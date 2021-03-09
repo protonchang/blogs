@@ -35,7 +35,7 @@ But the obvious caveat should be that the something you’re doing, is something
 
 <div class="guest-only">
 {% markdown %}
-[![Team management tool]({{ site.baseurl }}/images/{{page.imgDir}}/task_management_software.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Team management tool]({{ site.baseurl }}/images/{{page.imgDir}}/task_management_software.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 
@@ -122,7 +122,7 @@ Creating a to-do list with task management software ensures all tasks are comple
 
 <div class="guest-only">
 {% markdown %}
-[![Team management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Team management tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 

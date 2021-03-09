@@ -29,7 +29,7 @@ With Wunderlist going away in May, you have to find a better task management sof
 
 > -- Lucas Marquetti
 
-[![Wunderlist shut down]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Wunderlist shut down]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 
 ## Easy and Fast Process to Migrate Your Projects from Wunderlist
 

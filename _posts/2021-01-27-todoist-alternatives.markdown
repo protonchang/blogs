@@ -33,7 +33,7 @@ You love the simplicity of Todoist interface and its powerful feature, but youâ€
 
 <div class="guest-only">
 {% markdown %}
-[![Todoist]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Todoist]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 

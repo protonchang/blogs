@@ -47,7 +47,7 @@ When you are working on your tasks with a Kanban board, chances are you will mov
 
 Kanban board and Swimlanes are very popular in [agile project management](https://quire.io) because they force teams to prioritize and concentrate on the right tasks at the right time. Imagine choosing some crucial tasks from your ever-growing task list and drag to a Kanban board, now those tasks are beautifully laid out in the form of sticky notes with the status attached to. You can measure and make an estimated guess on the tasks progress at a glance.
 
-[![Quire free accounts]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Quire free accounts]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://bit.ly/38mUj9f)
 
 ## How can your productivity be benefited by the Swimlanes?
 

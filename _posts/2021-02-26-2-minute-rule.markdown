@@ -60,7 +60,7 @@ Instead of getting compelled by the results, start a habit to [enjoy the process
 
 <div class="guest-only">
 {% markdown %}
-[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 

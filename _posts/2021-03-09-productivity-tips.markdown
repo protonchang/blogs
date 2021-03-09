@@ -43,7 +43,7 @@ Instead of setting up [loose to-do lists](https://quire.io/blog/p/Why-We-Abandon
 
 Based on this data, devise a detailed schedule that provides ample room for some relaxation and me-time. This way, you would feel motivated, and you can notice the progress in your day-to-day activities.
 
-Instead of writing down the activities, go for [Quire](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup), an online [project/work management software](https://quire.io/blog/p/work-management-software.html). With Quire, you can set-up realistic schedules/plans/goals and track your progress accordingly. This way, you will be tempted to achieve more than the previous day, and slowly you will be able to ward off your demotivated days.
+Instead of writing down the activities, go for [Quire](https://bit.ly/38mUj9f), an online [project/work management software](https://quire.io/blog/p/work-management-software.html). With Quire, you can set-up realistic schedules/plans/goals and track your progress accordingly. This way, you will be tempted to achieve more than the previous day, and slowly you will be able to ward off your demotivated days.
 
 <div style="max-width: 380px; max-height: 333px; margin: 0 auto;">
 {% markdown %}
@@ -70,7 +70,7 @@ It is during the realization time you understand how you can be a better version
 
 <div class="guest-only">
 {% markdown %}
-[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 
@@ -78,7 +78,7 @@ It is during the realization time you understand how you can be a better version
 
 If you live with someone, tell them to constantly alarm you when you are off-guard for more than a particular time. The constant reminders will help you focus on what’s important and remind your brain that you are indulging in something non-productive.
 
-If you live alone, don’t worry; [Quire](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup) can do that task for you. Set regular reminders and word it attractively to instill a sense of motivation to get back to your work.
+If you live alone, don’t worry; [Quire](https://bit.ly/38mUj9f) can do that task for you. Set regular reminders and word it attractively to instill a sense of motivation to get back to your work.
 
 But there is a hidden danger when you resort to this step. If the reminder instills a sense of guilt, it can take a toll on your mental health. Always arrange the reminders in such a way that it reminds you why you started or planned the whole schedule and what your dream goal is.
 

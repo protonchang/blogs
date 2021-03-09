@@ -193,7 +193,7 @@ A Kanban board allows you to drag and drop tasks and duties to the corresponding
 
 <div class="guest-only">
 {% markdown %}
-[![Work management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Work management software]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 

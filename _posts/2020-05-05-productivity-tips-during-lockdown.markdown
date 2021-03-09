@@ -87,7 +87,7 @@ Island hopping on Animal Crossing sounds fun, but how about taking a small break
 
 People may feel stressed from doing nothing and making no value (it’s a real cause of depression, Google it!). Now you have time to do something, don’t waste it on HBO or Netflix. Even though you may not be doing anything productive to cure the coronavirus in particular, completing your to-do list can still give you the satisfaction feeling.
 
-[![Social Distancing Tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Social Distancing Tool]({{ site.baseurl }}/images/{{page.imgDir}}/quire_free_signup.png)](https://bit.ly/38mUj9f)
 
 ## 5. Just breathe and take a break from life
 

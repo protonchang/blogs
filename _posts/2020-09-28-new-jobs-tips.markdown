@@ -153,7 +153,7 @@ Setting your own agenda will also help you stay accountable and productive.
 
 <div class="guest-only">
 {% markdown %}
-[![Team management software]({{ site.baseurl }}/images/{{page.imgDir}}/task_management_software.png)](https://quire.io/?utm_source=quireblog&utm_medium=banner&utm_campaign=blog_signup)
+[![Team management software]({{ site.baseurl }}/images/{{page.imgDir}}/task_management_software.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 
