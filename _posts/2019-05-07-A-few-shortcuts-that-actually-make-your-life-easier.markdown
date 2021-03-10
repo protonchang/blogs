@@ -57,13 +57,14 @@ You can easily reposition a (group of) task using keyboard keys or even duplicat
 * Cut selected task(s) - Press `⌘` + `X` for Mac (`Ctrl` + `X` for Windows)
 * Copy selected task(s) - Press `⌘` + `C` for Mac (`Ctrl` + `C` for Windows)
 * Paste selected task(s) - Press `⌘` + `P` for Mac (`Ctrl` + `P` for Windows)
+* Select all the relevant subtasks under one parent task - Press `⌘` + `E` for Mac (`Ctrl` + `E` for Windows)
 
 
 ## Work side-by-side with a board 
 
 To work with Kanban board, you can quickly add your task to board and start from there. 
 
-* Quickly add a task from list to board - Press `^`
+* Quickly add a task from list to sublist - Press `^`
 * Move task(s) up or down in a column - Press `⌥` + `↑`  or  `⌥` + `↓` (`Ctrl` + `↑` or `Ctrl` + `↓` for Windows)
 * Move task(s) cross columns in board view - Press `⌥` + `←` or `⌥` + `→` for Mac (`Ctrl` + `←` or `Ctrl` + `→` for Windows)
 
