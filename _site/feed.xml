@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Spring Updates: Your Productivity Starts from Here</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>We have done tons of updates in Quire recently. Here are several tips and productivity tricks that we put together just for you and your team!</description>
+				<pubDate>Mon, 15 Mar 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/quire-updates-spring.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/quire-updates-spring.html</guid>
+			</item>
+		
+			<item>
 				<title>You&#39;ve Been Unproductive! Now What?</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 16 Dec 2020 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/time-mangement-skills.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/time-mangement-skills.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Rewind 2020: What Was Done? What’s Next? What’s to Expect?</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>In this blog post, we’re going to look back and reflect on the journey of 2020 at Quire. What we have done, what we have achieved and what’s more on the horizon for 2021.</description>
-				<pubDate>Fri, 11 Dec 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/2020-recap.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/2020-recap.html</guid>
 			</item>
 		
 	</channel>
