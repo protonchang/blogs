@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Myth of Work-Life Balance and How a Productivity Software Can Help</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>In this article, we look at whether work-life balance is a myth (we don’t think it is), and how the right productivity tools can help you achieve work-life equilibrium.</description>
+				<pubDate>Tue, 23 Mar 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/work-life-balance.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/work-life-balance.html</guid>
+			</item>
+		
+			<item>
 				<title>Spring Updates: Your Productivity Starts from Here</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 08 Jan 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/business-resolutions.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/business-resolutions.html</guid>
-			</item>
-		
-			<item>
-				<title>You&#39;re Bad at Time Management, But We Can Help You Fix It!</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>This blog is going to explore the meaning of time management skills, in detail, with examples to help you understand the concept. Additionally, it will tell you how to use an underrated weapon- work management software, to boost your productivity without much effort.</description>
-				<pubDate>Wed, 16 Dec 2020 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/time-mangement-skills.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/time-mangement-skills.html</guid>
 			</item>
 		
 	</channel>
