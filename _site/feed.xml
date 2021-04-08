@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Why You Should Abandon the Traditional Gantt Chart and Adopt a Modern Timeline</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>The traditional Gantt Chart has had its day. Now, it’s time to adopt the modern Timeline. This will help improve efficiencies, productivity, transparency, and teamwork.</description>
+				<pubDate>Wed, 07 Apr 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/why-timeline.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/why-timeline.html</guid>
+			</item>
+		
+			<item>
 				<title>3 Practical Tips for Overcoming Productivity FOMO post-COVID-19</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 14 Jan 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/timeline.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/timeline.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Everything is better. Everything is more organized. Everything is more productive. All with Kanban Board 2.</description>
-				<pubDate>Thu, 14 Jan 2021 19:50:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/board.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/board.html</guid>
 			</item>
 		
 	</channel>
