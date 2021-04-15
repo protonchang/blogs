@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>10 Effective Ways to Keep Your Millennial and Gen Z Employees Productive</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>With these 10 effective ideas, you can keep your millennial and Gen Z employees productive year after year whether they’re in-office or working remotely.</description>
+				<pubDate>Thu, 15 Apr 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/millennial-gen-Z-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/millennial-gen-Z-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>Why You Should Abandon the Traditional Gantt Chart and Adopt a Modern Timeline</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 27 Jan 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/todoist-alternatives.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/todoist-alternatives.html</guid>
-			</item>
-		
-			<item>
-				<title>Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>We&#39;re so excited to introduce Quire Timeline. This feature was a long time coming, but we can&#39;t wait to show you how Quire Timeline goes beyond the traditional Gantt chart and fits as the lastest piece of Quire.</description>
-				<pubDate>Thu, 14 Jan 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/timeline.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/timeline.html</guid>
 			</item>
 		
 	</channel>
