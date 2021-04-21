@@ -7,7 +7,7 @@ categories: "Productivity-tips"
 index-intro: "Apple, Google, AWS and other companies have helped enhance productivity during the work-at-home era, in a way that’s made it a sustainable long-term solution."
 category-intro: "Apple, Google, AWS and other companies have helped enhance productivity during the work-at-home era, in a way that’s made it a sustainable long-term solution."
 
-image: "2021-04-21-Google-Apple-twitter-productivity/Google_Apple_Enhance_Productivity.png"
+image: "2021-04-21-google-apple-twitter-productivity/Google_Apple_Productivity.png"
 tags: Google Apple AWS Tech-giants productivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips working-culture
 author: "Quire Marketing Team"
 authorImg: "/images/author/Quire_logo.png"
@@ -16,10 +16,10 @@ authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["10 Effective Ways to Keep Your Millennial and Gen Z Employees Productive", "You've Been Unproductive! Now What?", "The Complete Guide of 2-Minute Rule by James Clear"]
 
-imgDir: "2021-04-21-Google-Apple-twitter-productivity"
+imgDir: "2021-04-21-google-apple-twitter-productivity"
 ---
 
-![Corporation productivity]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Apple_Enhance_Productivity.png)
+![Corporation productivity]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Apple_Productivity.png)
 
 2020 showed companies it is possible to have their workforce work remotely. And many tech giants provided plenty of options to help [enhance—and sustain—productivity](https://quire.io/blog/p/myers_briggs_mbti.html).
 
