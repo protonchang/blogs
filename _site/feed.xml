@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How Google, Apple, AWS &amp; Others Enhance Productivity During Work-At-Home Era</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Apple, Google, AWS and other companies have helped enhance productivity during the work-at-home era, in a way that’s made it a sustainable long-term solution.</description>
+				<pubDate>Wed, 21 Apr 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/google-apple-twitter-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/google-apple-twitter-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>10 Effective Ways to Keep Your Millennial and Gen Z Employees Productive</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 02 Feb 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/billionaires-productivity-tips.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/billionaires-productivity-tips.html</guid>
-			</item>
-		
-			<item>
-				<title>How to Smoothly Switch from Todoist to Quire</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Effortlessly Switch from Todoist to Quire in only 3 pain-free steps! Pick up right where you left off and continue writing your dreams with Quire!</description>
-				<pubDate>Wed, 27 Jan 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/todoist-alternatives.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/todoist-alternatives.html</guid>
 			</item>
 		
 	</channel>
