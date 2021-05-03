@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Quire Mobile 7.0: Flex Your Productivity With an Exclusive Timeline Experience"
+date:   2021-05-03 11:58:07
+categories: "Mobile"
+
+index-intro: "Quire Mobile 7.0 - better than ever! We are proud to introduce Quire Timeline on Quire mobile app - mark a milestone for Quire as we are one of the very first project management apps that let users have full Gantt Chart experience."
+category-intro: "Quire Mobile 7.0 - better than ever! We are proud to introduce Quire Timeline on Quire mobile app - mark a milestone for Quire as we are one of the very first project management apps that let users have full Gantt Chart experience."
+
+image: "2021-05-03-mobile-app-7/mobile_timeline.gif"
+tags: Timeline Gantt-chart Quire-timeline Quire-Gantt-chart Gantt-chart-free Project-management-software-with-Gantt best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Growth Marketer by day, Bibliophile by night."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["Quire Kanban Board 2.0 - Visualize Team Progress from Multiple Perspectives", "Quire Sublist: Bridge the Gap between Team To Do Lists and Personal Productivity", "Zapier Meets Quire: Automate the Way You Work"]
+
+imgDir: "2021-05-03-mobile-app-7"
+---
+
+![Mobile Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/mobile_timeline.gif)
+
+Quireans, your requests have been heard and fulfilled. The crème de la crème updates on Quire mobile app are finally here. Whether you’re on your daily commute while planning out the next big event, or keeping track of the year-end projects at work while queueing up at Starbucks, Quire mobile app is here to make your life easier. 
+
+It’s simple, download the app, open up your list, switch to [Kanban Board](https://quire.io/blog/p/Quire-Mobile-30-Kanban-Board-Comes-To-Mobile-App.html) view to keep an eye on the project’s workflow, tap to access [Timeline view](https://quire.io/blog/p/timeline.html) to schedule the next milestone. *Wait, what did we just say?* Yes, **Timeline** has made its debut on the latest Quire mobile app update. 
+
+<div style="max-width: 144px; max-height: 48px; margin: 0 auto; margin-bottom: 45px">
+<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" target="_blank">{% markdown %}
+![Quire iOS]({{ site.baseurl }}/images/{{page.imgDir}}/App_Store_Badge.png)
+{% endmarkdown %}</a>
+</div>
+<div style="max-width: 161px; max-height: 48px; margin: 0 auto; margin-bottom: 24px">
+<a href="https://play.google.com/store/apps/details?id=io.quire.app" target="_blank">{% markdown %}
+![Quire Android]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Play_Badge.png)
+{% endmarkdown %}</a>
+</div> 
+
+We are proud to launch this milestone for Quire mobile app since we are one of first very few project management software that have this feature in mobile apps. And here are a couple more things our Mobile team would like to share with you!  
+
+## 1. A Timeline that is Designed for Mobile Users
+
+It’s our intention to let you decide whether Quire can be simple or complex. The decision is on your hand. You can use Quire mobile app as an outliner app, a flexible to-do list app, or a powerful project management software to collaborate and achieve a team's goal. Timeline is added as the latest piece for your project management puzzle.
+
+Let’s be real here: **Timeline (Gantt Chart)** isn’t for everyone. Quire web users have been loving the Timeline feature and we couldn’t be happier about it. However, it raised a concern whether Quire mobile community would need such powerful functionality on such small screens. And we’ve found the answer. 
+
+Tap on the dropdown menu icon on the main List tab then choose Timeline to access the Timeline view of your project.
+
+![Quire Mobile Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/gantt_chart.png)
+
+Tap on the **Timeline** button to choose how to color code your Timeline view. The dot in the right hand side of the task name indicates the task color and you can tap on the dot to quickly get to the right task! 
+
+![Gantt Chart on Mobile]({{ site.baseurl }}/images/{{page.imgDir}}/task_color.png)
+
+You can expand the task list by tapping on the arrow icon to better view your timeline along with the context. Or even better, rotate your phone sideways to enable landscape mode, *voila*, a larger screen with more detailed information is here at your fingertips.
+
+![Timeline on mobile]({{ site.baseurl }}/images/{{page.imgDir}}/show_task_list.gif)
+
+The most important function with a Timeline or a Gantt Chart is the ability to present as much information as possible within the readable screen. Notice a small button on the lower right side? Tap to zoom in and zoom out your Timeline view on mobile devices. 
+
+Notice the small dot in the right hand side of the task name? It indicates the task color and if you click on the dot, it will bring you right to the task that you’re viewing in Timeline!
+ 
+If you’ve been using the Quire Timeline feature with browsers, the mobile version isn’t that different. Just some optimizations here and there to make sure you have all the things you need to achieve greater goals with Quire! 
+
+#### Note: Currently, the Timeline view on mobile app is read-only. To drag and drop the task’s schedule, please use a browser instead.
+
+## 2. Smart Filter 
+
+![Mobile filter]({{ site.baseurl }}/images/{{page.imgDir}}/roll_date.png)
+
+As we already announced on our [Twitter](https://twitter.io/quire_io) last week, now you can easily use the **Dynamic Smart Filter** to filter your task list by *“Today”, “Tomorrow”* or *“Next Monday”*!
+
+Take advantage of Quire Smart Filter to create a clear overview of what you need to focus on and get done for the day. Start your day with a well-filtered list so that you don’t get too overwhelmed with your responsibilities!
+
+## 3. Full Screen Mode in Landscape Orientation
+
+![Mobile with Gantt Chart]({{ site.baseurl }}/images/{{page.imgDir}}/landscape_zoom.gif)
+
+We understand the frustration when working with a small screen, so we let you have an option to view your Quire project in full screen mode. The *“zoom”* icon lets you zoom in and out your screen to view more tasks.
+
+When you scroll up or down, the navigation bar and the upper filter bar will be minimized and shrunken down in order to give you a less disruptive experience when working on your projects.
+
+## 4. Major Performance Tuning for Quire Mobile 7.0
+
+The latest version of Quire Mobile 7.0 brings some major improvements to app stabilities and a handful of performance optimizations to you. 
+
+It all lies in the little features, the small details, little tweaks here and there to fine tune your overall experience with Quire. We hope you all enjoy the latest updates and let us know what you think in the comments section below or tweet us at [@quire.io](https://twitter.com/quire_io)! 
+
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

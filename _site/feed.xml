@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Mobile 7.0: Flex Your Productivity With an Exclusive Timeline Experience</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Quire Mobile 7.0 - better than ever! We are proud to introduce Quire Timeline on Quire mobile app - mark a milestone for Quire as we are one of the very first project management apps that let users have full Gantt Chart experience.</description>
+				<pubDate>Mon, 03 May 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/mobile-app-7.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-7.html</guid>
+			</item>
+		
+			<item>
 				<title>How Google, Apple, AWS &amp; Others Enhance Productivity During Work-At-Home Era</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 18 Feb 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/ipad-app.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/ipad-app.html</guid>
-			</item>
-		
-			<item>
-				<title>7 Billionaires and Their Habits That Help Them Achieve Their New Year Goals</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Want to be successful and achieve all those resolutions you have on your bucket lists? Here’s a list of the seven most famous billionaires and their habits that help them tick-off all their new year resolutions.</description>
-				<pubDate>Tue, 02 Feb 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/billionaires-productivity-tips.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/billionaires-productivity-tips.html</guid>
 			</item>
 		
 	</channel>
