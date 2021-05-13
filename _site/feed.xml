@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>What are Employers Looking for in Candidates for Fully Remote Jobs?</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Employers are looking for 5 traits in candidates for remote jobs: time management, motivation, techy savvy, efficient communicator, as well as independence and trustworthiness.</description>
+				<pubDate>Thu, 13 May 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/candidates-remote-jobs.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/candidates-remote-jobs.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Mobile 7.0: Flex Your Productivity With an Exclusive Timeline Experience</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Fri, 26 Feb 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/2-minute-rule.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/2-minute-rule.html</guid>
-			</item>
-		
-			<item>
-				<title>Introducing Quire iPad App </title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Ready for an upgraded Quire experience on your not-an-actual-computer computer? It just works even better!</description>
-				<pubDate>Thu, 18 Feb 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/ipad-app.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/ipad-app.html</guid>
 			</item>
 		
 	</channel>
