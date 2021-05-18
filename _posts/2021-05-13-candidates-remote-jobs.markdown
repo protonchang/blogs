@@ -8,7 +8,7 @@ index-intro: "Employers are looking for 5 traits in candidates for remote jobs: 
 category-intro: "Employers are looking for 5 traits in candidates for remote jobs: time management, motivation, techy savvy, efficient communicator, as well as independence and trustworthiness."
 
 image: "2021-05-13-candidates-remote-jobs/remote_jobs.png"
-tags: roductivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips working-culture
+tags: productivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips working-culture
 author: "Quire Marketing Team"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Make Your Teams Succeed."
