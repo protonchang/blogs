@@ -25,17 +25,6 @@ imgDir: "2021-05-25-flutter-mobile-app"
 
 Back in 2018, we created our [first-time ever Flutter app](https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html) and it was such a blast! Three years later, our Quire app has grown into a more comprehensive app, which went beyond traditional expectations for a mobile project management software app. The current version of Quire mobile app supports all of the views from desktop, Tree View, Board View, and now [Timeline view](https://quire.io/blog/p/mobile-app-7.html).
 
-<div style="max-width: 144px; max-height: 48px; margin: 0 auto; margin-bottom: 45px">
-<a href="https://geo.itunes.apple.com/us/app/quire-task-manager-for-teams/id1095193897?mt=8" target="_blank">{% markdown %}
-![Quire iOS]({{ site.baseurl }}/images/{{page.imgDir}}/App_Store_Badge.png)
-{% endmarkdown %}</a>
-</div>
-<div style="max-width: 161px; max-height: 48px; margin: 0 auto; margin-bottom: 24px">
-<a href="https://play.google.com/store/apps/details?id=io.quire.app" target="_blank">{% markdown %}
-![Quire Android]({{ site.baseurl }}/images/{{page.imgDir}}/Google_Play_Badge.png)
-{% endmarkdown %}</a>
-</div> 
-
 When we decided to support the **Timeline view** on the mobile app, we knew it was no easy task. There were no similar ready-to-use components out there. However, what surprised us the most was that we could not even find any discussions on the internet related to building such a structured view. So, we took a leap of faith and decided to build it on our own.
 
 Here are a couple of things that you should know about what we expected to present in the Timeline for Quire Mobile app:
@@ -46,8 +35,6 @@ Here are a couple of things that you should know about what we expected to prese
 4. Pleasant, simple-to-use interface and a smooth user experience. 
 
 After a few weeks into the initial development, this is how the final component structure looks like:
-
-![mobile app model]({{ site.baseurl }}/images/{{page.imgDir}}/Flutter.png)
 
 1. A core base for timeline pane (the week, weekend section, etc.)
 2. Task list (Tree-view hierarchical task list)
