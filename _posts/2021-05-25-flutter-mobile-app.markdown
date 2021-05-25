@@ -18,9 +18,6 @@ relatedPosts: ["Quire: Building a Sophisticated Mobile App with Google’s Flutt
 
 imgDir: "2021-05-25-flutter-mobile-app"
 ---
-
-![Flutter]({{ site.baseurl }}/images/{{page.imgDir}}/Flutter.png)
-
 ## The First Sneak Peek of Quire Mobile Timeline Structure
 
 Back in 2018, we created our [first-time ever Flutter app](https://quire.io/blog/p/Quire-Building-a-Sophisticated-Mobile-App-with-Google-Flutter.html) and it was such a blast! Three years later, our Quire app has grown into a more comprehensive app, which went beyond traditional expectations for a mobile project management software app. The current version of Quire mobile app supports all of the views from desktop, Tree View, Board View, and now [Timeline view](https://quire.io/blog/p/mobile-app-7.html).
@@ -35,6 +32,8 @@ Here are a couple of things that you should know about what we expected to prese
 4. Pleasant, simple-to-use interface and a smooth user experience. 
 
 After a few weeks into the initial development, this is how the final component structure looks like:
+
+![Flutter]({{ site.baseurl }}/images/{{page.imgDir}}/Flutter.png)
 
 1. A core base for timeline pane (the week, weekend section, etc.)
 2. Task list (Tree-view hierarchical task list)
