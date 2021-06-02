@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Even Zoom CEO has Zoom Fatigue: How to Stop Being Burnout in the Remote Working Era</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Finding that working from home has left you feeling burnt out? Here are 10 thinks you can do to prevent burnout and be more productive and happy.</description>
+				<pubDate>Wed, 02 Jun 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/remote-work-burnout.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/remote-work-burnout.html</guid>
+			</item>
+		
+			<item>
 				<title>How It’s Made: A Flutter-Based Mobile Timeline</title>
 				
 					<dc:creator>Jerry Chen</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 23 Mar 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/work-life-balance.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/work-life-balance.html</guid>
-			</item>
-		
-			<item>
-				<title>Spring Updates: Your Productivity Starts from Here</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>We have done tons of updates in Quire recently. Here are several tips and productivity tricks that we put together just for you and your team!</description>
-				<pubDate>Mon, 15 Mar 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/quire-updates-spring.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/quire-updates-spring.html</guid>
 			</item>
 		
 	</channel>
