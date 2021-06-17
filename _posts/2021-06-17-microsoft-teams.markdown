@@ -37,7 +37,7 @@ Integration with Microsoft Teams and Quire will help you stay informed with rele
 
 1. Click on Quire logo and click **Add** to install Quire. 
 
-![Microsoft Teams Quire]({{ site.baseurl }}/images/{{page.imgDir}}/msteams_app_add.png)
+    ![Microsoft Teams Quire]({{ site.baseurl }}/images/{{page.imgDir}}/msteams_app_add.png)
 
 ## Connect Quire Workspace with MS Teams
 
@@ -53,7 +53,7 @@ You will get to have a 1:1 chat with Quire bot. The Quire bot will help you comp
 
 1. Once you successfully link MS Teams to your Quire organization, you need to link a specific project that you would want MS Teams to access.
 
-![Ms Teams]({{ site.baseurl }}/images/{{page.imgDir}}/msteams_quire_link_project.png)
+    ![Ms Teams]({{ site.baseurl }}/images/{{page.imgDir}}/msteams_quire_link_project.png)
 
 ## Create a task in Quire 
 
