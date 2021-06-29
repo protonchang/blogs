@@ -7,7 +7,7 @@ categories: "Productivity-tips"
 index-intro: "In this article we examine 7 ways to ensure your employees are really working when they’re working from home."
 category-intro: "In this article we examine 7 ways to ensure your employees are really working when they’re working from home."
 
-image: "2021-06-02-remote-work-burnout/Zoom_fatique.png"
+image: "2021-06-29-remote-work/remote_work.png"
 tags: management productivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips working-culture
 author: "Quire Marketing Team"
 authorImg: "/images/author/Quire_logo.png"
