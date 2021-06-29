@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>7 Ways to Ensure Employees are Really Working When Working From Home</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>In this article we examine 7 ways to ensure your employees are really working when they’re working from home.</description>
+				<pubDate>Tue, 29 Jun 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/remote-work.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/remote-work.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire for Microsoft Teams: Collaborate Smarter with Your Teammates</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 07 Apr 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/why-timeline.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/why-timeline.html</guid>
-			</item>
-		
-			<item>
-				<title>3 Practical Tips for Overcoming Productivity FOMO post-COVID-19</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Overcoming productivity FOMO is not an easy thing. In this blog post, we look at 3 practical tips for overcoming productivity FOMO in a post-COVID-19 world.</description>
-				<pubDate>Tue, 30 Mar 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/overcome-FOMO-productivity.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/overcome-FOMO-productivity.html</guid>
 			</item>
 		
 	</channel>
