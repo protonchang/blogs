@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Zeigarnik Effect and How it Affects Productivity</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>The Zeigarnik Effect left unchecked will negatively affect productivity and contribute to burnout. In this blog post we look at 5 ways it can be used to book productivity.</description>
+				<pubDate>Tue, 13 Jul 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/the-zeigarnik-effect.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/the-zeigarnik-effect.html</guid>
+			</item>
+		
+			<item>
 				<title>7 Ways to Ensure Employees are Really Working When Working From Home</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 15 Apr 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/millennial-gen-Z-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/millennial-gen-Z-productivity.html</guid>
-			</item>
-		
-			<item>
-				<title>Why You Should Abandon the Traditional Gantt Chart and Adopt a Modern Timeline</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>The traditional Gantt Chart has had its day. Now, it’s time to adopt the modern Timeline. This will help improve efficiencies, productivity, transparency, and teamwork.</description>
-				<pubDate>Wed, 07 Apr 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/why-timeline.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/why-timeline.html</guid>
 			</item>
 		
 	</channel>
