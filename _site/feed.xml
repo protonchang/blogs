@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Languishing at Work? Here&#39;s How You can Bring Back the Magic to Your Job</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Languishing at work? Here&#39;s how you can bring back the magic to your job with these 7 tips for managing languishing.</description>
+				<pubDate>Tue, 27 Jul 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/languishing.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/languishing.html</guid>
+			</item>
+		
+			<item>
 				<title>The Zeigarnik Effect and How it Affects Productivity</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 21 Apr 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/google-apple-twitter-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/google-apple-twitter-productivity.html</guid>
-			</item>
-		
-			<item>
-				<title>10 Effective Ways to Keep Your Millennial and Gen Z Employees Productive</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>With these 10 effective ideas, you can keep your millennial and Gen Z employees productive year after year whether they’re in-office or working remotely.</description>
-				<pubDate>Thu, 15 Apr 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/millennial-gen-Z-productivity.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/millennial-gen-Z-productivity.html</guid>
 			</item>
 		
 	</channel>
