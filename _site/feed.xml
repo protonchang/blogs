@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>No More Unhealthy Overworking Culture; Be Productive Instead</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>The culture of overwork is unhealthy as it leads to burnout. The World Health Organization have characterized it as a syndrome, but there is a cure…</description>
+				<pubDate>Tue, 03 Aug 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/overtime-working-culture.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/overtime-working-culture.html</guid>
+			</item>
+		
+			<item>
 				<title>Languishing at Work? Here&#39;s How You can Bring Back the Magic to Your Job</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 03 May 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/mobile-app-7.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-7.html</guid>
-			</item>
-		
-			<item>
-				<title>How Google, Apple, AWS &amp; Others Enhance Productivity During Work-At-Home Era</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Apple, Google, AWS and other companies have helped enhance productivity during the work-at-home era, in a way that’s made it a sustainable long-term solution.</description>
-				<pubDate>Wed, 21 Apr 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/google-apple-twitter-productivity.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/google-apple-twitter-productivity.html</guid>
 			</item>
 		
 	</channel>
