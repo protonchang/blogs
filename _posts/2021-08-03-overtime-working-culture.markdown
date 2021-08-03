@@ -53,7 +53,7 @@ The idea that the more you work, the more success you have, and the more success
 
 ## Burnout is the inevitable conclusion of overwork
 
-In 2019, the [World Health Organization](who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) classified [burnout](https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html) as an occupational phenomenon, and called it a syndrome. They say burnout is “a syndrome conceptualized as resulting from chronic workplace stress that has been successfully managed.”
+In 2019, the [World Health Organization](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) classified [burnout](https://quire.io/blog/p/7-productivity-tips-to-avoid-burnout-at-work.html) as an occupational phenomenon, and called it a syndrome. They say burnout is “a syndrome conceptualized as resulting from chronic workplace stress that has been successfully managed.”
 
 WHO go on to say that it is characterized by 3 dimensions:
 
