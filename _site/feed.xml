@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Work-Life Balance is so Yesterday, Now We Need Work-Life Integration</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Work-life balance requires trade-offs whereas work-life integration is about finding a harmony between all aspects of daily life. Find out how you can start implementing this today.</description>
+				<pubDate>Tue, 10 Aug 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/work-life-integration.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/work-life-integration.html</guid>
+			</item>
+		
+			<item>
 				<title>No More Unhealthy Overworking Culture; Be Productive Instead</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 13 May 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/candidates-remote-jobs.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/candidates-remote-jobs.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire Mobile 7.0: Flex Your Productivity With an Exclusive Timeline Experience</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Quire Mobile 7.0 - better than ever! We are proud to introduce Quire Timeline on Quire mobile app - mark a milestone for Quire as we are one of the very first project management apps that let users have full Gantt Chart experience.</description>
-				<pubDate>Mon, 03 May 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/mobile-app-7.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/mobile-app-7.html</guid>
 			</item>
 		
 	</channel>
