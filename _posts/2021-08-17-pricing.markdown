@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Introducing Quire Subscription Program: Empowering Teams to Dream Bigger"
+date:   2021-08-17 11:58:07
+categories: "Milestones"
+
+index-intro: "Ready to bring your productivity to the next level with Quire? Your favorite software to manage your projects and track the team performance has been upgraded to give you more resources to dream bigger and achieve greater things."
+category-intro: "Ready to bring your productivity to the next level with Quire? Your favorite software to manage your projects and track the team performance has been upgraded to give you more resources to dream bigger and achieve greater things."
+
+image: "2021-08-17-pricing/Quire_pricing.png"
+tags: Quire-pricing, Quire-free, Education-pricing, Education-discounts, Quire-for-Students, Quire-subscription-plans, Quire-Professional, Quire-Premium, Quire-Enterprise, Quire-for-Nonprofits, best-to-do-list-app, project-management-software, task-management-software, to-do-list-app, free–project-management-software, task-management, team-management-software, productivity, productivity-app, collaboration, remote-work
+author: "Vicky Pham"
+authorImg: "/images/author/Vicky.png"
+authorDesc: "Marketer by day, Bibliophile by night."
+authorLink: "https://medium.com/@itsvicky"
+
+relatedPosts: ["Introducing Quire Mobile 5.0 and Everything You Need to Know", "'Hey Siri, Add a Task in Quire!'", "Introducing Dynamic Timeline: Illustrate Team Schedule and Achieve Success"]
+
+imgDir: "2021-08-17-pricing"
+---
+
+![Quire Pricing]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_pricing.png)
+
+Years ago, [Quire](https://quire.io) was introduced to the world as a solution to complicated project management using tasks-branching and board visualization. Being one of the very first project management software that adopts an unlimited hierarchical task list, Quire has continuously been developed and become a well-rounded invaluable tool that helps hundreds of thousands of teams across continents to virtually sit together and collaborate.
+
+From a [nonprofit organization with the mission of saving the world](https://quire.io/blog/p/Dreams-Chasers-Making-a-Safer-and-Cleaner-Space-Environment.html), to a global-scale corporate with billions of dollars in revenue, to a group of students who crafted a road to [explore Mars from the Earth](https://quire.io/blog/p/Dreams-Chasers-Start-your-dreams-on-Mars.html), Quire has become the backbone of their projects and we couldn’t be prouder to be a part of hundreds of thousands of successful stories. 
+
+We don’t want to limit Quire as a project management software only. We won't stop there. We want to explore more on how we can contribute to businesses’ success and leave a legacy to the world. We don’t want Quire to just be a *“fast, reliable, flexible and versatile”* tool. There is so much more than that about Quire.
+
+## Introducing Quire for ambitious teams with more challenging missions
+
+Up to date, there are over **15 millions** tasks that are created in Quire. We expect to see this impressive number to grow so much faster in the upcoming months as remote working culture has become the new normalcy. Team members from all over the world will not travel across the oceans just to collaborate for a project anymore. Quire is here to help and we’ve got you covered.
+
+So starting from today, Quire is available to any teams and organizations, regardless of team sizes and corporate’s structures. Your team and you are ready to achieve greater goals with Quire’s premium features.  All you have to do is to [upgrade the subscription plan for your organizations](https://quire.io/pricing).  
+
+* **Unlimited team members:** No more limitations on your team members in Quire. You can collaborate with as many team members as needed. Different tiers of team sizes are available for you to choose from.
+
+* **Much larger quota storage:** Teams can now upload their files or attachments securely to Quire’s workspace without any obstacles. Now all of the documents can be centralized in Quire!
+
+* **Premium support and training:** Your team can request for a premium training session with Quire and our teams will set up the schedule to help your team members onboard in Quire much more quickly and efficiently.
+
+## How about Quire’s existing users? How would this affect you?
+
+Quireans who have been with Quire since day one, we did not forget about you! As our promise a long time ago, whatever you had been using before today would continue to be free, nothing is going to change the way you work in Quire. The new subscription program is a new opportunity for you to expand your teams to a larger scale, that’s all. 
+
+For small teams and solo flyers who have to save the world with a restrained budget, you can always use Quire for free. The **Free plan** will not ask you to put in credit cards or to give us anything in return (well, a shoutout on [Twitter](https://twitter.com/quire_io) would be reallllll nice!), just go save the day with 0 cost! 
+
+## “How about us? - Students and Nonprofits!”
+
+The two very special pricing programs that are customized for [Nonprofit Organization](https://quire.io/pricing/nonprofits) and [Student Groups](https://quire.io/pricing/students) are available for any eligible teams. Just fill out the form and our team will reach out to you for further instructions! 
+
+We want you to know that Quire’s core value has always been to enable teams to accomplish their shared missions and collaborate better. Nothing is more important than helping our users achieve their goals. 
+
+We are so excited to see what’s next on the horizon for both Quire and your teams! If you have any other questions regarding the subscription program, please visit our FAQ section and [pricing page](https://quire.io/pricing). 
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

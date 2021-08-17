@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Introducing Quire Subscription Program: Empowering Teams to Dream Bigger</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Ready to bring your productivity to the next level with Quire? Your favorite software to manage your projects and track the team performance has been upgraded to give you more resources to dream bigger and achieve greater things.</description>
+				<pubDate>Tue, 17 Aug 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/pricing.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/pricing.html</guid>
+			</item>
+		
+			<item>
 				<title>Work-Life Balance is so Yesterday, Now We Need Work-Life Integration</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 18 May 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/strategic-planning.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/strategic-planning.html</guid>
-			</item>
-		
-			<item>
-				<title>What are Employers Looking for in Candidates for Fully Remote Jobs?</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Employers are looking for 5 traits in candidates for remote jobs: time management, motivation, techy savvy, efficient communicator, as well as independence and trustworthiness.</description>
-				<pubDate>Thu, 13 May 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/candidates-remote-jobs.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/candidates-remote-jobs.html</guid>
 			</item>
 		
 	</channel>
