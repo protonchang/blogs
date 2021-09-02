@@ -144,6 +144,12 @@ Some staff will adjust fairly quickly to this situation and others will require 
 
 If are looking for solutions to help you maximize productivity, the right project management software can make all the difference.
 
+<div class="guest-only">
+{% markdown %}
+[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://bit.ly/38mUj9f)
+{% endmarkdown %}
+</div>
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

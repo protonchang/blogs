@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Use Project Management Software to Measure Employee Productivity</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Project management software can measure employee productivity without micromanaging by being able to easily see which tasks are completed by who and when.</description>
+				<pubDate>Thu, 02 Sep 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/measure-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/measure-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>10 Ultimate Tips to Maximize Productivity for Your New Hybrid Work Life</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Wed, 02 Jun 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/remote-work-burnout.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/remote-work-burnout.html</guid>
-			</item>
-		
-			<item>
-				<title>How It’s Made: A Flutter-Based Mobile Timeline</title>
-				
-					<dc:creator>Jerry Chen</dc:creator>
-				        
-				<description>An in-depth article from Quire Mobile Dev Team on how to Flutter our latest Timeline feature.</description>
-				<pubDate>Tue, 25 May 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/flutter-mobile-app.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/flutter-mobile-app.html</guid>
 			</item>
 		
 	</channel>
