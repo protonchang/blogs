@@ -72,7 +72,7 @@ Of course, to do this you need the right software that can help you be as flexib
 {% endmarkdown %}
 </div>
 
-## 5 reasons your company shouldd use Quire’s modern Timeline to increase productivity
+## 5 reasons your company should use Quire’s modern Timeline to increase productivity
 
 Quire’s modern timeline will not only increase productivity it also doesn’t make things too complicated for its users. 
 

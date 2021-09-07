@@ -37,7 +37,7 @@ Candidates looking for remote jobs who have these traits are most likely to get 
 
 ## 5 traits employers are looking for in candidates for remote work
 
-[Remote working culture])(https://quire.io/blog/p/productivity-tips-during-lockdown.html) has entered a new phase.
+[Remote working culture](https://quire.io/blog/p/productivity-tips-during-lockdown.html) has entered a new phase.
 
 That phase being there is a large remote work force worldwide. And even when the COVID-19 pandemic is over, many companies and organizations are saying they will probably never go 100% back to how it was.
 
