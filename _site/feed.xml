@@ -7,14 +7,25 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A Complete Guide to Project Management for Students</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Project management software can help kickstart your new semester with a range of features to make collaboration, planning, and scheduling a whole lot easier.</description>
+				<pubDate>Wed, 15 Sep 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/measure-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/measure-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>How to Use Project Management Software to Measure Employee Productivity</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>Project management software can measure employee productivity without micromanaging by being able to easily see which tasks are completed by who and when.</description>
 				<pubDate>Thu, 02 Sep 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/measure-productivity.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/measure-productivity.html</guid>
+				<link>https://quire.io/blog/p/students-project-management.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/students-project-management.html</guid>
 			</item>
 		
 			<item>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 17 Jun 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/microsoft-teams.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/microsoft-teams.html</guid>
-			</item>
-		
-			<item>
-				<title>Even Zoom CEO has Zoom Fatigue: How to Stop Being Burnout in the Remote Working Era</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Finding that working from home has left you feeling burnt out? Here are 10 thinks you can do to prevent burnout and be more productive and happy.</description>
-				<pubDate>Wed, 02 Jun 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/remote-work-burnout.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/remote-work-burnout.html</guid>
 			</item>
 		
 	</channel>
