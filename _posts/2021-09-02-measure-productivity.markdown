@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "A Complete Guide to Project Management for Students"
-date:   2021-09-15 11:58:07
+title:  "How to Use Project Management Software to Measure Employee Productivity"
+date:   2021-09-02 11:58:07
 categories: "Productivity-tips"
 
-index-intro: "Project management software can help kickstart your new semester with a range of features to make collaboration, planning, and scheduling a whole lot easier."
-category-intro: "Project management software can help kickstart your new semester with a range of features to make collaboration, planning, and scheduling a whole lot easier."
+index-intro: "Project management software can measure employee productivity without micromanaging by being able to easily see which tasks are completed by who and when."
+category-intro: "Project management software can measure employee productivity without micromanaging by being able to easily see which tasks are completed by who and when."
 
-image: "2021-09-15-students-project-management/student_project_management.png"
-tags: back-to-school student-productivity student-project-management measure-productivity productivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips 
+image: "2021-09-02-measure-productivity/measure_productivity.png"
+tags: measure-productivity productivity-advice work-life-balance work-management-software work-management-app work-management-platform best-work-management-software work-management productivity productivity-app productivity-tool team-management-software work-management-software team-communication team-productivity task-scheduling-software increase-productivity remote-team to-do-list-app working-remotely task-management task-management-software project-management-software productivity-tips to-do-list task-list productivity-tips working-culture mental-awareness
 author: "Quire Marketing Team"
 authorImg: "/images/author/Quire_logo.png"
 authorDesc: "Make Your Teams Succeed."
@@ -16,120 +16,95 @@ authorLink: "https://medium.com/quire-you"
 
 relatedPosts: ["Work-Life Balance is so Yesterday, Now We Need Work-Life Integration", "10 Ultimate Tips to Maximize Productivity for Your New Hybrid Work Life", "Languishing at Work? Here's How You can Bring Back the Magic to Your Job"]
 
-imgDir: "2021-09-15-students-project-management"
+imgDir: "2021-09-02-measure-productivity"
 ---
 
-![Students productivity]({{ site.baseurl }}/images/{{page.imgDir}}/student_project_management.png)
+![Productivity measurement]({{ site.baseurl }}/images/{{page.imgDir}}/measure_productivity.png)
 
-The beginning of a new semester means new textbooks, new courses, new schedules, new timelines, and new lecturers. And all this has to be juggled with work and life. What if there was that all this could be juggled easily?
+Measuring employee productivity especially with remote workers can be difficult. Especially as ensuring employees are being productive and meeting deadlines can sometimes come across as micromanaging.
 
-A way you can organize your subjects, course work, lecture dates, essay and exam dates as well as stay in touch with students and tutors in your courses?
+Which no one likes. Even the people micromanaging may not like it. They just might feel it is necessary.
 
-Project management software can achieve all this. Making your semester easier to manage.
+However, there is a way to make sure employees are being productive without constantly breathing down their necks.
 
-The right project management software can take care of:
+That way is [project management software](https://quire.io/compare/best-to-do-list-apps). 
 
-* your organization needs
-* planning
-* communication and collaboration
-* access and sharing of files
+Project management software offers a range of options to boost productivity, efficiencies, and communication to help meet deadlines every time. And these very features which help productivity also make it easier to track them for each team member.
 
-It also makes doing work—including group projects—from home easier and convenient. Allowing you to easily work both at home and in class without worrying about missing documents or misplaced communication.
+<p class="notice">Read more on <a href="https://quire.io/blog/p/candidates-remote-jobs.html">what are employers looking for in candidates for fully remote jobs?</a></p>
 
-## How project management software can help student productivity
+## 5 Tips and tricks to measure productivity without micromanaging
 
-For educational project management to work it relies on constant [communication](https://quire.io/blog/p/transparency-in-communication.markdown.html) between students, professors, teachers, departments, and sometimes between different campuses.
+Project management software allows you to see where each team member is up to. You can see which tasks they are working on, and which tasks are complete. You can look at individual team member’s work as well as the project as a whole. 
 
-Students and educational facilities require smart collaboration software that offers scheduling, task management, knowledgebase, time tracking, easy-to-use (and understand) project calendar, to name just a few necessary features.
+This allows you to keep track of a project without persistently checking up on your team. If you do need to talk, you can use the chat feature in the project management software or leave a comment in real time on a task.
 
-Being able to clearly see each project and how it’s broken down into tasks and subtasks can make it easier for students to approach the work successfully.
+Here are 5 ways you can use project management software to measure productivity without feeling as if you have to micromanage your team:
 
-After all, there’s nothing more annoying then getting half through a piece of assessment only to realize you missed a key component. This usually results in having to go back and not only do the part you missed, but it often results in having to redo other parts to fit the missing piece in.
+### 1. Establish goals
 
-With [project management software](https://quire.io/blog/p/strategic-planning.html) you can see step-by-step what needs to be done. So, you can tick off each section to ensure nothing is missed.
+By establishing both short- and long-term goals for each team member, everyone—whether remote or in the office—knows what they need to do. And when they need to do it by.
 
-This can be especially helpful when working on group projects. Each person can have tasks and subtasks assigned to them, allowing for there to be transparency around who is responsible for what. And when each part needs to be completed by.
+Establishing these goals have two advantages. The first is it makes it easy to hold you team accountable. Secondly, team members can’t pretend to be busy. They are either meeting their goals or they aren’t.
 
-This helps with productivity as it makes planning easier because you will be able to see exactly what needs to be done, and by when.
+### 2. Set clear deadlines
 
-## 5 different project management features to get a kickstart with your new semester
+Now the goals are set and your team are aware of what needs to be done. It is time to give them deadlines: a time limit. With project management software, a deadline can be set for projects and individual tasks to help team members meet their deadlines.
 
-Here are five different features project management software provides to help kickstart your new semester.
+With clear deadlines set at a project and task level, your team has clear expectations of what they need to do each day to achieve their goals.
 
-### 1. Organization and planning
+<p class="notice">Read more on <a href="https://quire.io/blog/p/myers_briggs_mbti.html">how to increase team productivity based on Myers-Briggs Personality Types</a></p>
 
-To give yourself the best chance for success you want to be organized. Rather than writing notes on your phone, or in a calendar, you can sync project management software to your calendar and set up notifications.
+### 3. Create sense of individual accountability
 
-This way you only have to enter the data once, rather than in a planner, and calendar. Or trying to keep all the emails somewhere easy to find.
+Individual accountability is better thought of as giving your team ownership over the work and—where possible—the project.
 
-Project management software allows you to enter projects, tasks, and subtasks and add due dates and how long you think each task is going to take. You can then sync this data with your calendar meaning it is far less likely that you’ll not be reminded of important tasks and exam dates.
+Using project management software team members can communicate thoughts and ideas to each other. This can help team feel more connected and more involved in what’s going on.
 
-You are also able to [map out a timeline schedule](https://quire.io/blog/p/timeline.html), which displays as a graphic giving you and others attached to the project a bird eye’s view of what’s going on.
+The other thing to do is take employee feedback seriously. If your team are invested enough to see what’s going on and provide feedback and suggestions, it shows they are committed. Which should be encouraged.
 
-### 2. Communication
+If your team are actually invested and you pay attention to their feedback it can give them a sense of ownership over their work and their work environment. And this can help them feel excited and more engaged with what’s going on.
 
-Email can be clunky, messages can get lost, many people don’t answer their phones. With project management software, communication can be seamless. With inbuilt messaging, and real time commenting on tasks and projects, students and teachers can stay in touch with ease.
+### 4. Make sure your team is aware of the short, medium, and long-term goals
 
-Inside the software you are able to discuss, chat and share information in the comment section of a task. This feature allows you to upload files as well as share files from your Google drive.
+Communicating short, medium, and long-term goals with your team helps them stay focused, connected, and engaged.
 
-### 3. Collaboration
+As the current pandemic is redefining the business landscape, and businesses are facing uncertain times, it’s important to keep short and medium-term goals in mind to stay focused and motivated.
 
-Whether it is individual work between a teacher and student, or a group project between students, a collaboration tool is an invaluable resource.
+Project management software can integrate with your calendar, as well as the use of a [timeline feature](https://quire.io/blog/p/timeline.html) and the [Kanban board](https://quire.io/blog/p/board.html). These features enable team members to see different time ranges and different variations of the project timeline.
 
-To have a space where you can map out the group project, break it down into tasks and subtasks and assign due dates makes the whole process simpler and more efficient.
+Making sure your team is aware of the different goals also builds trust and enables the team to be flexible if and when any changes occur.
 
-For example: if there are four of your working on a project, you can set it up and assign it to all four of you, and then assign individual tasks with due dates to each person.
+### 5. Have systems to improve and manage productivity
 
-You upload and attach files to the project and the tasks so nothing gets lost. The other people working on the project can comment and download what they need to work on, and then the process goes on as necessary.
+Most quality project management solutions are able to [integrate](https://quire.io/apps) with a range of software such as [Slack](https://quire.io/apps/slack), [Zapier](https://quire.io/apps/zapier), and [GitHub](https://quire.io/apps/github). They also have add-ons and provide the option to sync to calendars.
 
-This is especially helpful if you are studying remotely, as it makes the entire collaborative process stress-free.
+By digitizing your files and using cloud-based systems, you can more easily measure [productivity](https://quire.io/blog/p/millennial-gen-Z-productivity.html). And, you can do it without feeling like you are micromanaging your team, by using project management software to see where your team are up to, how much they’ve completed, and how much is left to do.
 
-### 4. Easier sharing and file access
-
-As mentioned in the previous point, you can upload and access files all in the one place. You can see the comments others have left, preventing any miscommunication or things getting lost.
-
-With integration to Google Drive, Gmail, Chrome and compatibility with both iOS and Android you can share and access files on the go from most smart phones.
-
-For added transparency, you can also access the change logs to see who uploaded what and when. This helps keep everyone accountable and ensures transparency in work.
-
-### 5. Remote studying
-
-This is less a feature and more of a benefit. For students who are studying remotely, or are in areas where their university has to close occasionally, project management software makes student life easier and more streamlined.
-
-Because everything is cloud-based and integrated with iOS and Android, all you work can be kept in one place. You don’t have to worry about USBs, sending yourself emails, or keeping tabs on where you have saved files and documents.
-
-With the real-time commenting and messaging, the ability to seamlessly collaborate and the excellent planning and scheduling, project management software is ideal for students on-campus and studying remotely.
-
-## Quire’s new students pricing plan
-
-[Quire](https://bit.ly/38mUj9f), a project management software, is currently offering a [student pricing plan](https://quire.io/pricing/students?utm_source=blog_post&utm_medium=blog&utm_campaign=blog_tracking). We are offering a free professional subscription plan for student groups.
-
-This offer is ideal for student groups who do a lot of collaborative work who are looking to improve, streamline, and take their project work to the next level.
-
-It is also great for student groups working remotely who are looking for an easier, more efficient, and more reliable way of communicating, planning and scheduling around different time zones, work schedules and home lives.
-
-If a group of students are looking to work closely together during a semester to help each other, or because there’s a lot of group assessments, the student pricing plan is ideal.
-
-Once you use Quire, you will appreciate what is to be properly organized, to be truly in touch with people you’re working with.
+With improved systems in place to manage productivity, you can get a bird’s eye view of everything going on without pestering or micromanaging your staff.
 
 <div class="guest-only">
 {% markdown %}
-[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/project_management_software.png)](https://bit.ly/38mUj9f)
+[![Project management software]({{ site.baseurl }}/images/{{page.imgDir}}/Quire_signup.png)](https://bit.ly/38mUj9f)
 {% endmarkdown %}
 </div>
 
-## Kickstart your new semester with project management software
+## Project management software can be used to measure employee productivity
 
-Project management software will help make your next semester of university a much less stressful, and much more organized time. You won’t need to worry about missing documents, or misplacing feedback about work.
+With so many teams having members [working in-office or remotely](https://quire.io/blog/p/hybrid-work-life-productivity.html), it can be easy to want to constantly follow up with team members. The problem is that this takes up too much of your time, and it makes team members feel like you can’t trust them to do their job.
 
-You will not miss or forget a deadline (especially if you sync it to your calendar and set up notifications on your phone using the Quire App), and group assessments will no longer be a dreaded part of a course.
-With improved, transparent collaboration, everyone on the project will be compelled to complete the work assigned to them. After all, if a task is assigned to someone and they don’t do it, the blame game is short lived.
+By using project management software, you can keep track of where your employees are up to. Which allows you to more easily, and unobtrusively, measure their productivity.
 
-These reasons and many more are what make using Quire’s project management software ideal for student groups, teachers and professors for a semester of work.
+After all, if your team are aware of their short-, medium-, and long-term goals and can see on a timeline how their tasks fit into the project as a whole, it is easier for them to stay motivated.
 
-Sign up to the free professional subscription plan for students today, and discover how much easier university can be.
+It is also harder for employees to convince you they are busy because they look busy. With clearly defined goals and tasks, success is measured by how much work is done. Not by how many hours your team are at their desk.
 
-<p class="notice">Read more on <a href="https://quire.io/blog/p/candidates-remote-jobs.html">what are employers looking for in candidates for fully remote jobs?</a></p>
+The accountability this creates is yet another thing which helps to motivate employees to be productive. And makes measuring productivity as simple as going into a project and which tasks are completed, and by whom.
+
+To effectively and effortlessly measure your employees’ productivity, project management software is the ideal solution.
+
+If you would like to know more about how project management software can help increase productivity and make it easier to measure that productivity, check out [Quire](https://quire.io/signup) today.
+
 
 
 [jekyll]:      http://jekyllrb.com
