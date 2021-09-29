@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Power of Setting Short-term Goals</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>The power of setting short-term goals is in the way they positively affect productivity. In this blog post we look at 5 ways short-term goals boost productivity.</description>
+				<pubDate>Wed, 29 Sep 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/short-term-goal.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/short-term-goal.html</guid>
+			</item>
+		
+			<item>
 				<title>A Complete Guide to Project Management for Students</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 29 Jun 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/remote-work.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/remote-work.html</guid>
-			</item>
-		
-			<item>
-				<title>Quire for Microsoft Teams: Collaborate Smarter with Your Teammates</title>
-				
-					<dc:creator>Vicky Pham</dc:creator>
-				        
-				<description>Microsoft Teams is a conversation-based collaboration platform that provides chat and cross functional teams with the ability to work together and share information via a common space. This integration with Quire lets users communicate with teammates while directly working on the Quire project.</description>
-				<pubDate>Thu, 17 Jun 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/microsoft-teams.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/microsoft-teams.html</guid>
 			</item>
 		
 	</channel>
