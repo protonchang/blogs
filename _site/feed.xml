@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How Proper Focus Can Boost Your Productivity by 10 Times</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Properly focusing at work can be a struggle at times, in this blog post we look at 7 ways you can improve your productivity by focusing on what matters.</description>
+				<pubDate>Wed, 06 Oct 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/focus-productivity.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/focus-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>The Power of Setting Short-term Goals</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 13 Jul 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/the-zeigarnik-effect.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/the-zeigarnik-effect.html</guid>
-			</item>
-		
-			<item>
-				<title>7 Ways to Ensure Employees are Really Working When Working From Home</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>In this article we examine 7 ways to ensure your employees are really working when they’re working from home.</description>
-				<pubDate>Tue, 29 Jun 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/remote-work.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/remote-work.html</guid>
 			</item>
 		
 	</channel>
