@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The ROI of Remote Work Productivity</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>Measuring the ROI of remote work productivity means having the right software, hardware, and team members to ensure remote work can be done effectively and efficiently.</description>
+				<pubDate>Tue, 26 Oct 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/remote-work-ROI.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/remote-work-ROI.html</guid>
+			</item>
+		
+			<item>
 				<title>How Proper Focus Can Boost Your Productivity by 10 Times</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 27 Jul 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/languishing.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/languishing.html</guid>
-			</item>
-		
-			<item>
-				<title>The Zeigarnik Effect and How it Affects Productivity</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>The Zeigarnik Effect left unchecked will negatively affect productivity and contribute to burnout. In this blog post we look at 5 ways it can be used to book productivity.</description>
-				<pubDate>Tue, 13 Jul 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/the-zeigarnik-effect.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/the-zeigarnik-effect.html</guid>
 			</item>
 		
 	</channel>
