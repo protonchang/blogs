@@ -121,7 +121,7 @@ It will do this because it you will give you a better understanding of how long 
 
 By tracking and measuring what can be tracked and measured, project management software can help you fine tune processes to ensure you and your team improve quarter after quarter.
 
-If you would like to know more, or if you have any questions or concerns, please reach out to feedback@quire.io.
+If you would like to know more, or if you have any questions or concerns, please reach out to feedback@quire.io
 
 
 [jekyll]:      http://jekyllrb.com

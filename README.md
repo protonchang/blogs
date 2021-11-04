@@ -28,7 +28,9 @@ install gem redcarpet 3.3.2
 
 ## Run blog server
 ### Start blog server
+* `docker-sync start`
 * `./startWebsite `
 * Then access `http:localhost:4000`
 ### Stop blog server
 `./stopWebsite `
+`docker-sync stop`
