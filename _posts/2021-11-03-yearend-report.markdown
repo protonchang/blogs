@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Make the Last Quarter Less Terrible with a Project Management"
+title:  "How to Make the Last Quarter Less Terrible with a Project Management Software"
 date:   2021-11-03 11:58:07
 categories: "Productivity-tips"
 
@@ -121,7 +121,7 @@ It will do this because it you will give you a better understanding of how long 
 
 By tracking and measuring what can be tracked and measured, project management software can help you fine tune processes to ensure you and your team improve quarter after quarter.
 
-If you would like to know more, or if you have any questions or concerns, please reach out to feedback@quire.io
+If you would like to know more, or if you have any questions or concerns, please reach out to feedback@quire.io.
 
 
 [jekyll]:      http://jekyllrb.com
