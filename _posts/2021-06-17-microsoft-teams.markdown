@@ -23,7 +23,7 @@ imgDir: "2021-06-17-microsoft-teams"
 
 [Microsoft Teams](https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software) is a conversation-based collaboration platform that provides chat and cross functional teams with the ability to work together and share information via a common space. 
 
-This integration with Quire lets users communicate with teammates while directly working on the Quire project.
+[Quire and Ms Teams integration](https://quire.io/microsoft-teams-integration) lets users communicate with teammates while directly working on the Quire project.
 
 You can interact with Quire bot from your team channel. Quire bot can help you add a task, assign and add comment for a task via a series of actionable messages.
 
@@ -89,7 +89,7 @@ At any time you want to look for help from Quire bot, just type help in the mess
 
 ![Ms Teams Bot]({{ site.baseurl }}/images/{{page.imgDir}}/msteams_quire_help.png)
 
-Now you have all you need to effortlessly collaborate with your team members in Ms Teams and still stay up to date with your projects in Quire! Let us know  what you think of this integration in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io) 🏆.
+Now you have all you need to effortlessly collaborate with your team members in [Ms Teams](https://quire.io/microsoft-teams-integration) and still stay up to date with your projects in Quire! Let us know  what you think of this integration in the comment section below or tweet us at [@quire_io](https://twitter.com/quire_io) 🏆.
 
 
 [jekyll]:      http://jekyllrb.com
