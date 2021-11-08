@@ -7,6 +7,17 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Quire Thanksgiving Giveaway: Free Quire Accounts and More 🦃</title>
+				
+					<dc:creator>Vicky Pham</dc:creator>
+				        
+				<description>Enter to win Amazon US$100 gift card, Enterprise Quire subscription, and other awesome prize packs.</description>
+				<pubDate>Mon, 08 Nov 2021 19:58:07 +0800</pubDate>
+				<link>https://quire.io/blog/p/thanksgiving-giveaway.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/thanksgiving-giveaway.html</guid>
+			</item>
+		
+			<item>
 				<title>How to Make the Last Quarter Less Terrible with a Project Management Software</title>
 				
 					<dc:creator>Quire Marketing Team</dc:creator>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 10 Aug 2021 19:58:07 +0800</pubDate>
 				<link>https://quire.io/blog/p/work-life-integration.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/work-life-integration.html</guid>
-			</item>
-		
-			<item>
-				<title>No More Unhealthy Overworking Culture; Be Productive Instead</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>The culture of overwork is unhealthy as it leads to burnout. The World Health Organization have characterized it as a syndrome, but there is a cure…</description>
-				<pubDate>Tue, 03 Aug 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/overtime-working-culture.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/overtime-working-culture.html</guid>
 			</item>
 		
 	</channel>
