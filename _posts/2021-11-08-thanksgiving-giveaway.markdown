@@ -31,7 +31,7 @@ Enter to win one of ten awesome prize packs that empower you to achieve greater 
 2. Retweet or Repost Facebook or Twitter GIVEAWAY post or repost Instagram GIVEAWAY post.
 3. Tag two (2) friends of yours and let them know about Quire!
 4. Tag Quire and use hashtag **#QuireSaysThanks**.
-5. Join [Quire Discord server](https://discord.com/invite/6Xs2JmNpTe) and say hi
+5. Join [Quire Discord server](https://discord.com/invite/6Xs2JmNpTe) and say hi 👏
 
 <a href="https://discord.com/invite/6Xs2JmNpTe"><img style="width: 160px; display: block; margin-left: auto; margin-right: auto;" src="https://pbs.twimg.com/media/FDpS7YIaUAIk1VR?format=png"></a>
 
