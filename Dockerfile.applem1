@@ -1,0 +1,32 @@
+FROM ubuntu:18.04
+
+RUN apt-get update && \
+    apt-get install -y git wget curl autoconf bison build-essential libssl1.0-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm5 libgdbm-dev
+
+ENV PATH /root/.rbenv/shims:/root/.rbenv/bin:$PATH
+ENV RBENV_ROOT /root/.rbenv
+ENV RUBY_VERSION 2.5.1
+ENV CONFIGURE_OPTS --disable-install-doc
+
+RUN git clone --depth 1 git://github.com/sstephenson/rbenv.git ${RBENV_ROOT} && \
+    git clone --depth 1 https://github.com/sstephenson/ruby-build.git ${RBENV_ROOT}/plugins/ruby-build && \
+    git clone --depth 1 git://github.com/jf/rbenv-gemset.git ${RBENV_ROOT}/plugins/rbenv-gemset && \
+    ${RBENV_ROOT}/plugins/ruby-build/install.sh
+
+RUN echo 'eval "$(rbenv init -)"' >> /etc/profile.d/rbenv.sh && echo "export PATH=/opt/nodejs/bin:$PATH" >> /etc/profile
+
+RUN rbenv install $RUBY_VERSION && \
+    rbenv global $RUBY_VERSION
+
+RUN gem install jekyll -v 2.5.3
+RUN cd /tmp && \
+    wget "https://www.python.org/ftp/python/2.7.11/Python-2.7.11.tar.xz" && \
+    tar -Jxf Python-2.7.11.tar.xz && \
+    cd Python-2.7.11 && ./configure && make -j$(nproc) && make install && \
+    cd /tmp && rm -rf Python-2.7.11*
+
+RUN cd /tmp && \
+    wget "https://nodejs.org/download/release/v4.2.1/node-v4.2.1-linux-arm64.tar.xz" && \
+    tar -Jxf node-v4.2.1-linux-arm64.tar.xz && \
+    mkdir -p /opt/nodejs && cp -R node-v4.2.1-linux-arm64/* /opt/nodejs && \
+    cd /tmp && rm -rf node-*
