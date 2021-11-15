@@ -38,3 +38,7 @@ exclude:
 - quire.conf
 - startWebsite
 - stopWebsite
+- docker-sync.yml
+- docker-compose.yml
+- Dockerfile.amd64
+- Dockerfile.applem1
