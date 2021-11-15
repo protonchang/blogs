@@ -4,7 +4,8 @@ ENV RBENV_ROOT /root/.rbenv
 ENV RUBY_VERSION 2.5.1
 ENV CONFIGURE_OPTS --disable-install-doc
 
-RUN sed -i 's/ports.ubuntu.com/free.nchc.org.tw/g' /etc/apt/sources.list && \
+RUN sed -i 's/archive.ubuntu.com/free.nchc.org.tw/g' /etc/apt/sources.list && \
+    sed -i 's/security.ubuntu.com/free.nchc.org.tw/g' /etc/apt/sources.list && \
     apt-get update && \
     apt-get install -y git wget curl autoconf bison build-essential libssl1.0-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm5 libgdbm-dev && \
     cd /tmp && \
