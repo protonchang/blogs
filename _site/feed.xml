@@ -7,12 +7,23 @@
 		<atom:link href="https://quire.io/blogfeed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Pros and Cons of Hybrid working culture: Which Working Culture Your Team Needs?</title>
+				
+					<dc:creator>Quire Marketing Team</dc:creator>
+				        
+				<description>In this blog post we look at 3 pros and 3 cons of hybrid working culture and how to know if it’s right for your business.</description>
+				<pubDate>Mon, 15 Nov 2021 11:58:07 +0000</pubDate>
+				<link>https://quire.io/blog/p/hybrid-working.html</link>
+				<guid isPermaLink="true">https://quire.io/blog/p/hybrid-working.html</guid>
+			</item>
+		
+			<item>
 				<title>Quire Thanksgiving Giveaway: Free Quire Accounts and More 🦃</title>
 				
 					<dc:creator>Vicky Pham</dc:creator>
 				        
 				<description>Enter to win Amazon US$100 gift card, Enterprise Quire subscription, and other awesome prize packs.</description>
-				<pubDate>Mon, 08 Nov 2021 19:58:07 +0800</pubDate>
+				<pubDate>Mon, 08 Nov 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/thanksgiving-giveaway.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/thanksgiving-giveaway.html</guid>
 			</item>
@@ -23,7 +34,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>In this blog post we look at how you can improve your quarterly results by using project management software to track, measure, and report on the KPIs that matter.</description>
-				<pubDate>Wed, 03 Nov 2021 19:58:07 +0800</pubDate>
+				<pubDate>Wed, 03 Nov 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/yearend-report.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/yearend-report.html</guid>
 			</item>
@@ -34,7 +45,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>Measuring the ROI of remote work productivity means having the right software, hardware, and team members to ensure remote work can be done effectively and efficiently.</description>
-				<pubDate>Tue, 26 Oct 2021 19:58:07 +0800</pubDate>
+				<pubDate>Tue, 26 Oct 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/remote-work-ROI.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/remote-work-ROI.html</guid>
 			</item>
@@ -45,7 +56,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>Properly focusing at work can be a struggle at times, in this blog post we look at 7 ways you can improve your productivity by focusing on what matters.</description>
-				<pubDate>Wed, 06 Oct 2021 19:58:07 +0800</pubDate>
+				<pubDate>Wed, 06 Oct 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/focus-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/focus-productivity.html</guid>
 			</item>
@@ -56,7 +67,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>The power of setting short-term goals is in the way they positively affect productivity. In this blog post we look at 5 ways short-term goals boost productivity.</description>
-				<pubDate>Wed, 29 Sep 2021 19:58:07 +0800</pubDate>
+				<pubDate>Wed, 29 Sep 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/short-term-goal.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/short-term-goal.html</guid>
 			</item>
@@ -67,7 +78,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>Project management software can help kickstart your new semester with a range of features to make collaboration, planning, and scheduling a whole lot easier.</description>
-				<pubDate>Wed, 15 Sep 2021 19:58:07 +0800</pubDate>
+				<pubDate>Wed, 15 Sep 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/students-project-management.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/students-project-management.html</guid>
 			</item>
@@ -78,7 +89,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>Project management software can measure employee productivity without micromanaging by being able to easily see which tasks are completed by who and when.</description>
-				<pubDate>Thu, 02 Sep 2021 19:58:07 +0800</pubDate>
+				<pubDate>Thu, 02 Sep 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/measure-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/measure-productivity.html</guid>
 			</item>
@@ -89,7 +100,7 @@
 					<dc:creator>Quire Marketing Team</dc:creator>
 				        
 				<description>If you’re looking to maximize productivity in your new hybrid work life, we’ve got 10 tips that can help you both at home and the office.</description>
-				<pubDate>Tue, 24 Aug 2021 19:58:07 +0800</pubDate>
+				<pubDate>Tue, 24 Aug 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/hybrid-work-life-productivity.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/hybrid-work-life-productivity.html</guid>
 			</item>
@@ -100,20 +111,9 @@
 					<dc:creator>Vicky Pham</dc:creator>
 				        
 				<description>Ready to bring your productivity to the next level with Quire? Your favorite software to manage your projects and track the team performance has been upgraded to give you more resources to dream bigger and achieve greater things.</description>
-				<pubDate>Tue, 17 Aug 2021 19:58:07 +0800</pubDate>
+				<pubDate>Tue, 17 Aug 2021 11:58:07 +0000</pubDate>
 				<link>https://quire.io/blog/p/pricing.html</link>
 				<guid isPermaLink="true">https://quire.io/blog/p/pricing.html</guid>
-			</item>
-		
-			<item>
-				<title>Work-Life Balance is so Yesterday, Now We Need Work-Life Integration</title>
-				
-					<dc:creator>Quire Marketing Team</dc:creator>
-				        
-				<description>Work-life balance requires trade-offs whereas work-life integration is about finding a harmony between all aspects of daily life. Find out how you can start implementing this today.</description>
-				<pubDate>Tue, 10 Aug 2021 19:58:07 +0800</pubDate>
-				<link>https://quire.io/blog/p/work-life-integration.html</link>
-				<guid isPermaLink="true">https://quire.io/blog/p/work-life-integration.html</guid>
 			</item>
 		
 	</channel>

@@ -39,9 +39,9 @@ By utilizing project management software, you'll better understand resource allo
 
 When it comes to tracking projects there are 3 key things you need to be thinking about:
 
-* 1. Is the project going to deliver a valuable end result?
-* 2. Is it going to finish on time?
-* 3. It is going to finish within its budget?
+1. Is the project going to deliver a valuable end result?
+2. Is it going to finish on time?
+3. It is going to finish within its budget?
 
 In order to answer these questions, you need to know what you’re looking for during a project. By knowing what to look for, you can better determine if you are or are not on track.
 
