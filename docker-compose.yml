@@ -11,7 +11,7 @@ services:
     restart: always
   jekyll:
     container_name: quire-blog
-    image: protonchang/qb-x64
+    image: protonchang/qb-docker
     volumes:
       - "blog-sync:/srv/jekyll"
     command: bash -c "cd /srv/jekyll && jekyll serve"
